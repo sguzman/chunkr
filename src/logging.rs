@@ -89,15 +89,18 @@ pub enum LogOp {
 }
 
 pub fn color_prefix(file_key: &str, chunk_key: Option<&str>, op: Option<LogOp>) -> String {
-    let file_color = color_for_key(file_key);
-    let chunk_color = chunk_key.map(color_for_key).unwrap_or(240);
-    let op_color = op.map(op_color).unwrap_or(244);
-    format!(
-        "{} {} {} ",
-        color_block(file_color),
-        color_block(chunk_color),
-        color_block(op_color)
-    )
+    let mut out = String::new();
+    out.push_str(&color_block(color_for_key(file_key)));
+    out.push(' ');
+    if let Some(chunk_key) = chunk_key {
+        out.push_str(&color_block(color_for_key(chunk_key)));
+        out.push(' ');
+    }
+    if let Some(op) = op {
+        out.push_str(&color_block(op_color(op)));
+        out.push(' ');
+    }
+    out
 }
 
 fn op_color(op: LogOp) -> u8 {
