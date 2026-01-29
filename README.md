@@ -120,6 +120,7 @@ include_language = true
 batch_size = 128
 retry_max = 5
 retry_backoff_ms = 500
+max_parallel_files = 2
 
 [insert.qdrant]
 url = "http://127.0.0.1:6333"

@@ -96,6 +96,7 @@ pub struct InsertConfig {
     pub batch_size: usize,
     pub retry_max: usize,
     pub retry_backoff_ms: u64,
+    pub max_parallel_files: usize,
     pub qdrant: InsertQdrantConfig,
     pub quickwit: InsertQuickwitConfig,
     pub embeddings: InsertEmbeddingsConfig,

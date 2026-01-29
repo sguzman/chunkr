@@ -538,6 +538,7 @@ include_language = true
 batch_size = 64
 retry_max = 3
 retry_backoff_ms = 500
+max_parallel_files = 2
 
 [insert.qdrant]
 url = "{qdrant_url}"

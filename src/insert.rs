@@ -29,8 +29,7 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
         ensure_qdrant_collection(&client, &config.insert.qdrant).await?;
     }
 
-    let mut total_chunks = 0usize;
-    let mut total_files = 0usize;
+    let mut files = Vec::new();
     for entry in WalkDir::new(&config.paths.chunk_root)
         .into_iter()
         .filter_map(|e| e.ok())
@@ -40,20 +39,54 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
         if path.extension().and_then(|s| s.to_str()) != Some("jsonl") {
             continue;
         }
-        total_files += 1;
-        info!(path = %path.display(), "insert file start");
-        let count = ingest_file(
-            path,
-            &client,
-            &config.insert.embeddings,
-            &config.insert.qdrant,
-            &config.insert.quickwit,
-            config.insert.batch_size,
-        )
-        .await?;
-        info!(path = %path.display(), count, "insert file complete");
+        files.push(path.to_path_buf());
+    }
+
+    let total_files = files.len();
+    if total_files == 0 {
+        warn!("no chunk files found for insert");
+        return Ok(());
+    }
+    info!(
+        total_files,
+        max_parallel_files = config.insert.max_parallel_files,
+        "insert starting"
+    );
+
+    let file_semaphore = Arc::new(Semaphore::new(
+        config.insert.max_parallel_files.max(1),
+    ));
+    let mut tasks = Vec::new();
+    for path in files {
+        let permit = file_semaphore.clone().acquire_owned().await?;
+        let client = client.clone();
+        let embeddings = config.insert.embeddings.clone();
+        let qdrant = config.insert.qdrant.clone();
+        let quickwit = config.insert.quickwit.clone();
+        let batch_size = config.insert.batch_size;
+        tasks.push(tokio::spawn(async move {
+            let _permit = permit;
+            info!(path = %path.display(), "insert file start");
+            let count = ingest_file(
+                &path,
+                &client,
+                &embeddings,
+                &qdrant,
+                &quickwit,
+                batch_size,
+            )
+            .await?;
+            Ok::<(usize, String), anyhow::Error>((count, path.display().to_string()))
+        }));
+    }
+
+    let mut total_chunks = 0usize;
+    for task in tasks {
+        let (count, path) = task.await??;
+        info!(path, count, "insert file complete");
         total_chunks += count;
     }
+
     info!(total_files, total_chunks, "insert complete");
     Ok(())
 }
