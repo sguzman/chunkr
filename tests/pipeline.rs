@@ -2,16 +2,12 @@ use anyhow::{anyhow, Context, Result};
 use reqwest::Client;
 use serde_json::json;
 use std::fs;
-use std::path::Path;
+use std::path::{Path, PathBuf};
 use std::process::Command;
 use std::time::Duration;
 use uuid::Uuid;
 
-const SAMPLE_FILES: &[&str] = &[
-    "examples/CFR-2025-title2-vol1.part001.txt",
-    "examples/CFR-2025-title2-vol1.part002.txt",
-];
-const SAMPLE_BYTES: usize = 20_000;
+const SAMPLE_BYTES: usize = usize::MAX;
 
 #[tokio::test]
 #[ignore]
@@ -28,13 +24,16 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     fs::create_dir_all(&chunk_root)?;
     fs::create_dir_all(&state_dir)?;
 
-    for file in SAMPLE_FILES {
-        let src = Path::new(file);
+    let sample_files = list_example_files("examples")?;
+    if sample_files.is_empty() {
+        return Err(anyhow!("no example .txt files found"));
+    }
+    for src in sample_files {
         let dst = extract_root.join(
             src.file_name()
                 .ok_or_else(|| anyhow!("missing filename"))?,
         );
-        copy_truncated(src, &dst, SAMPLE_BYTES)?;
+        copy_truncated(&src, &dst, SAMPLE_BYTES)?;
     }
 
     let test_collection = "chunkr_test";
@@ -316,6 +315,21 @@ fn copy_truncated(src: &Path, dst: &Path, max_bytes: usize) -> Result<()> {
     };
     fs::write(dst, slice).with_context(|| format!("write {}", dst.display()))?;
     Ok(())
+}
+
+fn list_example_files(root: &str) -> Result<Vec<PathBuf>> {
+    let mut files = Vec::new();
+    for entry in walkdir::WalkDir::new(root)
+        .into_iter()
+        .filter_map(|e| e.ok())
+        .filter(|e| e.file_type().is_file())
+    {
+        let path = entry.path();
+        if path.extension().and_then(|s| s.to_str()) == Some("txt") {
+            files.push(path.to_path_buf());
+        }
+    }
+    Ok(files)
 }
 
 struct SampleQuery {
