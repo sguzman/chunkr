@@ -1,0 +1,3417 @@
+The converting coowner may remove his or her name from the registration and transfer the bond to either the account of the non-converting coowner or to the account of a third party. The consent of the non-converting coowner is required. The transaction will not be conducted through the registered owner's TreasuryDirect account. The bond will be transferred in the single owner form of registration. Once the transfer is completed, the bond will be treated as a bond originally issued as a book-entry bond in TreasuryDirect, and will be subject to subpart C of this part. The owner may then perform any transaction available for book-entry bonds purchased in the TreasuryDirect system.
+[70 FR 14943, Mar. 23, 2005, as amended at 74 FR 19420, Apr. 29, 2009]
+§ 363.170
+What transactions can I conduct in a savings bond that I converted on which I am not registered as the owner, either coowner, or owner with beneficiary?
+The only transaction that you may conduct on a savings bond that you converted on which you are not registered as the owner, either coowner, or owner with beneficiary is to deliver the converted bond to the TreasuryDirect ® account of the registered owner.
+§ 363.171
+How do I redeem a converted savings bond?
+(a)
+Before final maturity
+—(1)
+Savings bond of any series registered in the single owner, owner with beneficiary, or entity form of registration.
+You may redeem your converted savings bond of any series registered either in the single owner, owner with beneficiary, or entity form of registration any time prior to final maturity after the minimum holding period through your TreasuryDirect ® account.
+(2)
+Savings bond of any series registered in the coowner form of registration.
+The converting coowner may redeem the converted savings bond of any series registered in the coowner form of registration at any time prior to final maturity after the minimum holding period through his or her TreasuryDirect account. The non-converting coowner may redeem the converted savings bond at any time prior to final maturity after the minimum holding period provided that he or she has been granted transaction rights in the converted bond by the converting coowner.
+(b)
+Upon final maturity
+—(1)
+Savings bond of any series registered in the single owner, owner with beneficiary, coowner, or entity forms of registration.
+If you have not previously redeemed or transferred your converted savings bond of any series registered in the single owner, owner with beneficiary, coowner, or entity forms of registration, it will be automatically redeemed for you at final maturity.
+(2) The redemption proceeds will be automatically used to purchase a zero-percent certificate of indebtedness registered in your name and held in your TreasuryDirect account.
+[70 FR 14943, Mar. 23, 2005, as amended at 74 FR 19420, Apr. 29, 2009]
+§§ 363.172-363.175
+[Reserved]
+§ 363.176
+May a converted savings bond be pledged or used as collateral?
+A converted savings bond may not be pledged or used as collateral for the performance of an obligation.
+§§ 363.177-363.178
+[Reserved]
+§ 363.179
+Does Fiscal Service make any reservations as to the conversion of an eligible savings bond?
+We may reject any application for conversion or refuse to convert a savings bond in any case or class of cases, if we deem the action to be in the public interest. Our action in any such respect is final.
+§§ 363.180-363.199
+[Reserved]
+
+# Subpart F—Marketable Treasury Securities
+
+# Source:
+70 FR 57444, Sept. 30, 2005, unless otherwise noted.
+§ 363.200
+What Treasury securities does this subpart govern?
+This subpart provides the rules for holding marketable Treasury bills, notes, and bonds in book-entry form in TreasuryDirect ®.
+§ 363.201
+What other regulations govern book-entry marketable book-entry Treasury bills, notes, and bonds?
+(a) 31 CFR part 356 governs the sale and issue of marketable book-entry Treasury securities on or after March 1, 1993, whether held in TreasuryDirect ®, Legacy Treasury Direct, or the commercial book-entry system.
+(b) 31 CFR part 357 governs holding marketable book-entry Treasury bills, notes, and bonds in the Legacy Treasury Direct system and in the commercial book-entry system.
+§ 363.202
+What marketable Treasury securities may I purchase and hold through my TreasuryDirect ® account?
+(a)
+Purchase.
+(1)
+Advance purchase.
+You may purchase any marketable Treasury security that is available for purchase through the TreasuryDirect ® website. One day each week, marketable securities that are scheduled for auction within 8 weeks will be made available on the TreasuryDirect website for scheduling an advance purchase, and are the only marketable securities that you can schedule for advance purchase.
+(2)
+Purchases scheduled prior to May 15, 2010, with an effective issue date on or after May 15, 2010.
+(i) Any marketable security purchase scheduled prior to May 15, 2010, and with an effective issue date of May 15, 2010, through July 9, 2010, will be treated as a new purchase, even if the transaction would have been treated as a reinvestment under the rules in effect prior to May 15, 2010.
+(ii) Any marketable security purchase scheduled prior to May 15, 2010, with an effective issue date after July 9, 2010, will be canceled.
+(b)
+Hold.
+You may transfer into the system and maintain in your TreasuryDirect account any eligible marketable book-entry Treasury bill, note, or bond.
+[70 FR 57444, Sept. 30, 2005, as amended at 75 FR 26090, May 11, 2010]
+§ 363.203
+After I purchase my marketable Treasury security in TreasuryDirect ®, is there a period of time during which I may not transfer the security?
+Once you purchase a marketable Treasury security in TreasuryDirect, you may not transfer that security for a period of 45 calendar days after the issue date of the security, or the term of the security, whichever is less.
+§ 363.204
+What registrations are available for my marketable Treasury securities held in TreasuryDirect ®?
+You may register your marketable Treasury securities in any form of registration permitted by § 363.20 of this part.
+§ 363.205
+How do I reinvest the proceeds of a maturing security held in TreasuryDirect ®?
+(a)
+Method for reinvesting a maturing security.
+The only method of reinvesting a maturing marketable security in TreasuryDirect ® is through the automatic reinvestment option available in your TreasuryDirect account. Purchasing a security by directing that the proceeds of a maturing security be used to purchase a zero-percent certificate of indebtedness, and then scheduling the purchase of a new security
+using the redemption proceeds of the zero-percent certificate of indebtedness, is not a reinvestment.
+(b)
+When a reinvestment can be scheduled, edited, or canceled.
+You can schedule your reinvestment either at the time of purchase or after the security is issued into your TreasuryDirect account. You cannot schedule, edit, or cancel a reinvestment when the maturing security goes into a closed book period, or when a noncompetitive bid for the replacement security is no longer accepted, whichever comes first.
+(c)
+What securities can be reinvested.
+Any marketable security can be reinvested.
+(d)
+Limits on scheduling reinvestments.
+Reinvestments will be limited at any one time to 25 times for a 4-week bill, 7 times for a 13-week bill, 3 times for a 26-week bill, and once for all other marketable security types.
+(e)
+Canceling reinvestments.
+If there is no security available for reinvestment with an issue date that coincides with the maturity date or call date, if invoked, of the maturing security, and with the same type and term, the scheduled reinvestment will be canceled and the proceeds of the maturing security will be returned to the customer.
+(f)
+Procedure if there are insufficient funds from the maturing security to pay the full purchase price of the replacement security.
+If there are insufficient funds from the maturing security to pay the full purchase price of the replacement security, we will either debit your primary account at a financial institution or pay the additional funds using the redemption proceeds of your zero-percent certificate of indebtedness.
+(1)
+Debit from primary account at financial institution.
+If the maturing security is purchased on or after May 15, 2010, we will pay the additional funds by a debit from your primary account at a financial institution if the maturing security was purchased within TreasuryDirect by a debit from a financial institution account or if the maturing security was received through a transfer. If we are unable to obtain sufficient funds from your primary account at a financial institution, the reinvestment will be canceled and we will refund the proceeds of the maturing security.
+(2)
+Withdrawal of funds from zero-percent certificate of indebtedness.
+If the maturing security is purchased on or after May 15, 2010, we will pay the additional funds using the redemption proceeds of your zero-percent certificate of indebtedness if the purchase of the maturing security was made using the zero-percent certificate of indebtedness. If the amount available from a redemption of the zero-percent certificate of indebtedness is insufficient to pay the additional amount, the reinvestment will be canceled and we will refund the proceeds of the maturing security.
+(3)
+Special rules if the maturing security was purchased prior to May 15, 2010.
+If the maturing security was purchased within TreasuryDirect or received through a transfer prior to May 15, 2010, we will debit your primary account at a financial institution for the additional funds. If we are unable to obtain sufficient funds from your primary account at a financial institution, the reinvestment will be canceled and we will refund the proceeds of the maturing security.
+[75 FR 26090, May 11, 2010]
+§ 363.206
+How can I transfer my marketable Treasury security into my TreasuryDirect ® account from another book-entry system?
+(a)
+Legacy Treasury Direct to TreasuryDirect.
+31 CFR part 357, subpart C, governs the transfer of a marketable book-entry Treasury security from your Legacy Treasury Direct account into TreasuryDirect.
+(b)
+Commercial book-entry system to TreasuryDirect.
+You may transfer your marketable Treasury security from the commercial book-entry system by contacting the financial institution or broker that handles your commercial book-entry account.
+(c)(1)
+Individuals.
+When a security is transferred into the TreasuryDirect account of an individual, it will be transferred in the name of the individual account owner in the single owner form of registration, regardless of the form of registration prior to the transfer. After the transfer is completed, you can change the registration to any
+form of registration permitted by these regulations.
+(2)
+Entities.
+When a security is transferred into the TreasuryDirect account of an entity, the security will be transferred in the name of the entity, regardless of the form of registration prior to the transfer.
+(d)
+Amounts transferred.
+You can only transfer in increments of $1000.
+[70 FR 57444, Sept. 30, 2005, as amended at 74 FR 19421, Apr. 29, 2009]
+§ 363.207
+Can I transfer my marketable Treasury security from my TreasuryDirect ® account to another TreasuryDirect account?
+After the initial 45-calendar day holding period for your marketable Treasury security (see § 363.203) you can transfer your security to another TreasuryDirect account in increments of $1000.
+§ 363.208
+Can I transfer my marketable Treasury security from my TreasuryDirect ® account to an account in another book-entry system?
+After the initial 45-calendar day holding period for your marketable Treasury security (see § 363.203) you can transfer your security to an account in the commercial book-entry system in increments of $1000.
+[70 FR 57444, Sept. 30, 2005, as amended at 76 FR 18064, Apr. 1, 2011]
+§ 363.209
+[Reserved]
+§ 363.210
+Is there any period of time during which I will be unable to process certain transactions regarding my security?
+A closed book period will be in effect for four business days prior to the date a marketable security interest and/or redemption payment is made. During the closed book period, you cannot change the registration of the security, change the payment destination of the proceeds, change the view or transaction rights, make transfers, or schedule, edit, or cancel a reinvestment. We will hold transactions requiring submission of a form for processing until the closed book period ends.
+[75 FR 26091, May 11, 2010, as amended at 75 FR 78901, Dec. 17, 2010]
+§§ 363.211-363.249
+[Reserved]
+Subpart G [Reserved]
+
+# Subpart H—Miscellaneous
+§ 363.250
+May Fiscal Service waive these regulations?
+We may waive or modify any provision of the regulations in this part. We may do so in any particular case or class of cases for the convenience of the United States or in order to relieve any person or persons of unnecessary hardship:
+(a) If the waiver would not be inconsistent with law or equity;
+(b) If the waiver does not impair any material existing rights; and
+(c) If we are satisfied that the waiver would not subject the United States to any substantial expense or liability.
+[67 FR 64286, Oct. 17, 2002. Redesignated at 70 FR 14943, Mar. 23, 2005. Redesignated at 70 FR 57444, Sept. 30, 2005]
+§ 363.251
+Can I be required to provide additional evidence to support a transaction?
+We may require additional evidence and/or a bond of indemnity, with or without surety, in any case where we determine it necessary to protect the interests of the United States.
+[67 FR 64286, Oct. 17, 2002. Redesignated at 70 FR 14943, Mar. 23, 2005. Redesignated at 70 FR 57444, Sept. 30, 2005]
+§ 363.252
+May Fiscal Service amend or supplement these regulations?
+We may amend, revise, or supplement these regulations at any time.
+[67 FR 64286, Oct. 17, 2002. Redesignated at 70 FR 14943, Mar. 23, 2005. Redesignated at 70 FR 57444, Sept. 30, 2005]
+Pt. 370
+
+# PART 370—ELECTRONIC TRANSACTIONS AND FUNDS TRANSFERS RELATING TO UNITED STATES SECURITIES
+
+# Subpart A—General Information
+Sec.
+370.0
+What does this part cover?
+370.1
+What special terms do I need to know to understand this part?
+
+# Subpart B—Credit ACH Entries
+370.5
+How can I appoint a financial institution to receive payments on my behalf?
+370.6
+What requirements apply to a financial institution that handles a credit entry?
+370.7
+How can my financial institution change my designated deposit account?
+370.8
+Are there any requirements related to a prenotification entry?
+370.9
+How can my payment instructions be changed?
+370.10
+What can cause my payments to be suspended?
+370.11
+What must my financial institution do when it receives a payment?
+370.12
+What happens if an error is made in a credit entry, or if a duplicate credit entry is made?
+370.13
+Can time limits for taking an action on a credit entry be extended?
+370.14
+Can substitute payment procedures be used?
+370.15
+What limitations exist on liability?
+
+# Subpart C—Debit Entries
+370.20
+What requirements apply if I want to authorize a debit entry to my deposit account?
+370.21
+Are there any requirements related to a prenotification entry?
+370.22
+What requirements apply to a financial institution that debits a deposit account?
+370.23
+What other requirements apply to a financial institution?
+370.24
+What right does the Bureau of the Fiscal Service have to terminate or suspend debit entries?
+370.25
+What rights do I have to terminate or suspend debit entries?
+370.26
+What limitations exist on liability?
+
+# Subpart D—Electronic Submission of Transaction Requests Through the Bureau of the Fiscal Service
+370.35
+Does the Bureau of the Fiscal Service accept all electronically signed transaction requests?
+370.36
+When does a transaction request become effective?
+370.37
+Where is the point of transaction for an electronically submitted transaction request?
+370.38
+What is the legal effect of an electronic signature?
+370.39
+To what extent is a digital signature admissible in any civil litigation or dispute?
+370.40
+Can I be held accountable if my negligence contributes to a forged signature?
+370.41
+What limitations exist on liability?
+
+# Subpart E—Additional Provisions
+370.45
+What is the status of a security if the remittance cannot be collected?
+370.46
+Are there any situations in which the Bureau of the Fiscal Service may waive these regulations?
+370.47
+To what extent may the Bureau of the Fiscal Service change these regulations?
+
+# Authority:
+12 U.S.C. 391; 31 U.S.C. chapter 31.
+
+# Source:
+64 FR 40487, July 26, 1999, unless otherwise noted.
+
+# Subpart A—General Information
+§ 370.0
+What does this part cover?
+(a)
+Scope.
+This part applies to the transfer of funds by the Automated Clearing House method as used by us in connection with United States securities. This part also provides regulations for the electronic submission of transaction requests through us, except as varied by agreement or as otherwise provided. This part does not apply to transactions for the sale of United States Savings Bonds accomplished through savings bond issuing agents generally, except and to the extent we direct otherwise.
+(b)
+Operating Rules of the National Automated Clearing House Association and Regulations of the Financial Management Service.
+The Operating Rules of the National Automated Clearing House Association generally apply to these transactions. However, the Operating Rules do not apply to the extent that the Operating Rules are preempted entirely and excluded specifically by application of Financial Management Service regulations in part 210 of this chapter. In the event of any inconsistencies between this part 370 and either the Operating Rules or part 210, this part 370 applies.
+(c)
+Regulations of the Board of Governors of the Federal Reserve.
+To the extent that Regulation E (12 CFR part 205) and Regulation Z (12 CFR part 226) of the Board of Governors of the Federal Reserve System apply to transactions authorized by this part, those Federal laws are unaffected by this part 370.
+(d)
+Variance by agreement.
+The terms of this part may be varied by agreement.
+§ 370.1
+What special terms do I need to know to understand this part?
+Automated Clearing House (ACH) entry
+means a transaction in accordance with the Operating Rules of the National Automated Clearing House Association, as modified by these regulations and other law. The regulations in this part control in the event of any inconsistencies with the applicable Operating Rules.
+Credit entry
+means an ACH entry for the payment of money to a deposit account.
+Debit entry
+means an ACH entry for the collection of money from a deposit account.
+Deposit account
+means a demand deposit (checking), savings, or asset account (other than an occasional or incidental credit balance in a credit plan) held directly or indirectly by a financial institution.
+Digital signature
+means a type of electronic signature. A signer creates a digital signature by using public-key encryption to transform a message digest of an electronic message. If a recipient of the digital signature has an electronic message, message digest function, and the signer's public key, the recipient can verify:
+(1) Whether the transformation was accomplished with the private key that corresponds to the signer's public key; and
+(2) Whether the electronic message has been altered since the transformation was made.
+Electronic message
+means information that is stored in an electronic medium and is retrievable in perceivable form.
+Electronic signature
+means a signature of an electronic message that:
+(1) Identifies and authenticates a particular person as the source of the electronic message; and
+(2) Indicates such person's approval of the information contained in the electronic message.
+Financial institution
+means:
+(1) Any insured bank as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813) or any bank that is eligible to make application to become an insured bank under section 5 of such Act (12 U.S.C. 1815);
+(2) Any mutual savings bank as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813) or any bank that is eligible to make application to become an insured bank under section 5 of such Act (12 U.S.C. 1815);
+(3) Any savings bank as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813) or any bank that is eligible to make application to become an insured bank under section 5 of such Act (12 U.S.C. 1815);
+(4) Any insured credit union as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752) or any credit union that is eligible to make application to become an insured credit union pursuant to section 201 of such Act (12 U.S.C. 1781);
+(5) Any savings association as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813) that is an insured depository institution as defined in that act or is eligible to apply to become an insured depository institution under that act; and
+(6) Any Federal branch or agency of a foreign bank as defined in section 1(b) of the International Banking Act, as amended (12 U.S.C. 3101).
+Investor account
+is our record of your
+TreasuryDirect
+holdings, including a list of your total security holdings, the exact form of registration of your account, your mailing address, your
+TreasuryDirect
+account number, your social security account number or employer identification number, and your deposit account instructions.
+Message digest function
+means an algorithm that transforms an electronic message into a seemingly unintelligible, generally smaller, result called the message digest. A message digest function has these qualities:
+(1) The same electronic message yields the same message digest every time the algorithm is executed;
+(2) It is computationally infeasible that an electronic message can be derived from the message digest result produced by the algorithm; and
+(3) it is computationally infeasible that two electronic messages can be found that produce the same message digest using the algorithm.
+Payment
+means, for the purpose of this part, funds paid by us to you.
+Person
+means any natural person or organization.
+Public-key encryption
+means a cryptographic process which generates and employs a key pair, consisting of a public key and a different but mathematically related private key. One use of the public key is to verify a digital signature created by the private key.
+Security
+means an obligation offered by the Secretary of the Treasury.
+Settlement date
+means the date an exchange of funds with respect to an ACH entry is reflected on the books of the Federal Reserve Bank(s).
+Signature
+means any symbol or method executed or adopted by a person with present intention to be bound.
+We (or “us”)
+refers to the Secretary of the Treasury and the Secretary's delegates at the Treasury Department and Bureau of the Fiscal Service. The term also extends to any fiscal or financial agent acting on behalf of the United States when designated to act by the Secretary or the Secretary's delegates. The term does not extend to United States Savings Bond issuing and paying agents.
+You
+means a deposit account owner, in subparts B and C, unless stated otherwise. The word “you” means a person who electronically submits transaction requests through us, in subpart D.
+
+# Subpart B—Credit ACH Entries
+§ 370.5
+How can I appoint a financial institution to receive payments on my behalf?
+You must name a financial institution to receive payments through credit entries using the ACH method. You also must identify the deposit account to which payments are to be made. To do this, you must use a form approved by us.
+§ 370.6
+What requirements apply to a financial institution that handles a credit entry?
+A financial institution that accepts and handles a credit entry initiated by us agrees to the provisions of this subpart, and warrants that it will comply with all requirements imposed upon Receiving Depository Financial Institutions under the Operating Rules of the National Automated Clearing House Association, as modified by these regulations and other law.
+§ 370.7
+How can my financial institution change my designated deposit account?
+If your financial institution requests us to make a change in your deposit account number or type of your account, we will change the information without requiring any confirmation from you. The request from the financial institution must be made following the Operating Rules of the National Automated Clearing House Association. The financial institution's request will be deemed an agreement by the institution to indemnify us and you for any loss resulting from the requested change.
+§ 370.8
+Are there any requirements related to a prenotification entry?
+(a)
+Use of prenotification in our discretion.
+In our discretion, we may initiate a prenotification entry to a financial institution before we send a credit entry. We may also send a prenotification message whenever there is a change in the payment instructions. If we send a prenotification message, we will follow the time frames as established by the Operating Rules of the National Automated Clearing House Association. A prenotification is a zero-dollar ACH entry that can help us determine whether there might be problems with sending a subsequent credit entry.
+(b)
+Requirements placed upon financial institution that receives a prenotification.
+A financial institution must respond to a prenotification within the time frame for such responses as established by the Operating Rules of the National Automated Clearing House Association. If the receiving financial institution does not respond to the prenotification message within the specified time period, we may interpret the nonresponsiveness as the financial institution's agreement to this subpart. Furthermore, a financial institution warrants by its nonresponsiveness that the deposit account number and the type of account contained in the prenotification entry message was accurate as of the moment the financial institution received it.
+§ 370.9
+How can my payment instructions be changed?
+Your payment instructions will continue to apply until either you or your financial institution requests us to make a change.
+§ 370.10
+What can cause my payments to be suspended?
+(a)
+Change in deposit account.
+We will suspend payments if we receive notice that your deposit account has been closed, that someone named on your deposit account is dead or has been declared legally incompetent, that there is a change in the title of your deposit account that alters your interests; or, if a corporation is the owner, that it has been dissolved.
+(b)
+Change in status of owner.
+We will suspend payments when we receive notice that an owner of a bond, security, or investor account is dead or has been declared legally incompetent, or in any case where we receive notice of a change in the name or status of an organization or representative named on a bond, security, or investor account.
+(c)
+Continuation of suspension.
+Payments will continue to be suspended until we receive satisfactory evidence as to who is authorized or entitled to receive payments.
+§ 370.11
+What must my financial institution do when it receives a payment?
+An institution which receives a payment on behalf of its customer must:
+(a) Upon receipt, make the payment available to you on the payment date. If a scheduled payment date is not a business day for the Federal Reserve Bank of the district in which the institution is located, payment will be made on the next-succeeding business day. If the institution is unable to make a credit entry to the designated account, it must return the payment in accordance with the Operating Rules of the National Automated Clearing House Association.
+(b) Promptly notify us when your account has been closed, or when it is on notice of the death or legal incapacity of you or any other individual named on your account, or when it is on notice of the dissolution of a corporation in whose name the deposit account is held. The institution must return all payments received along with an explanation for the return.
+§ 370.12
+What happens if an error is made in a credit entry, or if a duplicate credit entry is made?
+If we make an erroneous credit entry under this part, we will make a corrected credit entry to your account. We will then take action to recover the erroneous credit entry, or any duplicate credit entry, as follows:
+(a)
+Return of amount of erroneous or duplicate credit entry by financial institution.
+We will send a notice to the financial institution to which the erroneous or duplicate credit entry was sent. When it receives this notice, the financial institution must immediately return to the appropriate Federal Reserve Bank an amount equal to the credit entry. If the institution is unable to do this, the institution must immediately notify us, and provide any information that it has about the matter. We reserve the right to request the return of a partial amount of an erroneous or duplicate credit entry.
+(b)
+Collection of amount of unreturned erroneous or duplicate credit entry.
+Where the erroneous or duplicate credit entry has not been returned, we will undertake any other actions that are appropriate. To the extent permitted by law, the collection action may include deducting the amount owed from future credit entries made to the deposit account to which the erroneous or duplicate credit entry was made.
+(c)
+Authorization of Debit to collect unreturned dulicate or erroneous credit entry.
+If a financial institution has not responded within 60 calendar days of the notice, its acceptance of the credit entry will be considered an authorization for a debit in the amount of the entry. The debit will be made from the account maintained or utilized by the financial institution at the Federal Reserve Bank to which the entry was made. An institution designated by a financial institution to receive payment on its behalf, in permitting the usage, is deemed to have authorized a debit. The debit will be made from its account maintained at the Federal Reserve Bank to which the entry was made. The institution to which the
+credit entry has been directed is deemed to have agreed to provide information and assistance to recover any erroneous or duplicate entry. You are also deemed to have agreed to provide information and assistance, and to take any action provided by law to recover an erroneous or duplicate credit entry.
+§ 370.13
+Can time limits for taking an action on a credit entry be extended?
+If we or your financial institution are delayed beyond applicable time limits in taking any action with respect to a credit entry because of circumstances beyond our control, then the time for taking that action will be extended as necessary until the cause of the delay ends.
+§ 370.14
+Can substitute payment procedures be used?
+We may use substitute payment procedures, instead of ACH, if we consider it to be necessary. Any such action is final.
+§ 370.15
+What limitations exist on liability?
+(a) We may rely on the information provided by you or anyone else authorized to provide information concerning your financial institution or deposit account to which payments are to be made. We do not need to verify this information. We are not liable for any action we may take in reliance on the information furnished.
+(b) Our liability does not extend beyond the amount of the payment due.
+(c) When you name a financial institution to receive payments on your behalf, you are appointing that institution as your agent for the receipt of payments. When a credit entry is made to your financial institution for deposit to your account following your instructions, we no longer have any further responsibility for that payment. Where your financial institution has arranged with the Federal Reserve Bank to have payments made through another financial institution, the crediting of your payment to that institution relieves us of any further responsibility for that payment.
+
+# Subpart C—Debit Entries
+§ 370.20
+What requirements apply if I want to authorize a debit entry to my deposit account?
+(a)
+General.
+You may pay for a security and related fees by authorizing us to initiate one or more debit entries to your deposit account. For a purchase of a book-entry security to be held in an investor account maintained by us, you must be named on the investor account. The authorization must be accomplished only through forms or means approved by us.
+(b)
+Single-entry and recurring debit entries.
+You only may authorize single-entry debits for purchases of book-entry securities held in
+TreasuryDirect.
+You only may authorize recurring debit entries for purchases of definitive savings bonds.
+(c)
+Credit entries to be made to same deposit account.
+To the extent that payments by us with respect to a security are to be made through credit entries, you must receive debit and credit entries in the same deposit account.
+(d)
+Signature.
+The authorization must have your signature and that of any other person whose signature is required to withdraw funds from the deposit account. We need not verify your identity or the authenticity of your signature.
+§ 370.21
+Are there any requirements related to a prenotification entry?
+(a)
+Use of prenotification in our discretion.
+In our discretion, we may initiate a prenotification entry to a financial institution prior to sending a debit entry. A prenotification is a zero-dollar ACH entry that can help us determine whether there might be problems with sending a subsequent debit entry.
+(b)
+Requirements placed upon financial institution that receives a prenotification.
+If sent, a financial institution must respond to a prenotification within the time frame for such responses as established by the National Automated Clearing House Association. If the receiving financial institution does not respond to the prenotification message within the specified time period, we may interpret the nonresponsiveness as the financial institution's agreement
+to this subpart. Furthermore, a financial institution warrants by its nonresponsiveness that the deposit account number and the type of account contained in the prenotification entry message was accurate as of the moment the financial institution received it.
+§ 370.22
+What requirements apply to a financial institution that debits a deposit account?
+A financial institution that debits a deposit account upon receiving a debit initiated by us agrees to the provisions of this subpart. A financial institution that does so also warrants that it has the authority to receive debit entries.
+§ 370.23
+What other requirements apply to a financial institution?
+The financial institution warrants that it will comply with all requirements imposed upon Receiving Depository Financial Institutions under the Operating Rules of the National Automated Clearing House Association, as modified by these regulations and other law.
+§ 370.24
+What right does the Bureau of the Fiscal Service have to terminate or suspend debit entries?
+We may terminate or suspend the availability of one or more debit entries in any case or class of cases, and may do so without notice at any time. A decision to terminate or suspend the availability of debit entries is in our sole discretion and is final.
+§ 370.25
+What rights do I have to terminate or suspend debit entries?
+(a)
+General.
+If you are an investor account owner or deposit account owner, you generally may terminate or suspend one or more debit entries by notifying us orally or in writing at least three business days before the scheduled date of a transfer. In response to an oral notice, we may require you to give written notice, to be received by us within fourteen days of an oral notice. An oral notice ceases to be binding after fourteen days if you fail to provide the required written confirmation. A suspension will remain in effect for the duration you specify, but for no more than six months. The termination and suspension methods need not be recited in the authorization. These termination or suspension rights are in addition to those that you may have through your financial institution under Regulation E of the Board of Governors of the Federal Reserve System (12 CFR part 205).
+(b)
+Exception.
+If you submit a debit entry authorization in conjunction with a Treasury auction tender for the purchase of a book-entry security, you cannot terminate or suspend a debit entry after the auction closes.
+§ 370.26
+What limitations exist on liability?
+If we sustain a loss because a financial institution fails to handle an entry in accordance with this part, the financial institution is liable to us for the loss, but not beyond the amount of the debit entry. In no instance does our liability extend beyond the amount of the debit entry.
+
+# Subpart D—Electronic Submission of Transaction Requests Through the Bureau of the Fiscal Service
+§ 370.35
+Does the Bureau of the Fiscal Service accept all electronically signed transaction requests?
+An electronic signature will not be accepted if it has not been accomplished through a method that has been approved for specific purposes by us.
+§ 370.36
+When does a transaction request become effective?
+Except for auction bids of U.S. securities or unless otherwise agreed, a transaction request becomes effective at the moment we send a confirmation message. In no instance does a transaction request become effective before we actually receive the request.
+§ 370.37
+Where is the point of transaction for an electronically submitted transaction request?
+For jurisdiction and venue purposes, the point of transaction for a transaction request handled pursuant to this subpart is Parkersburg, West Virginia, regardless of from where the transaction request is transmitted or where
+the transaction request is actually processed.
+§ 370.38
+What is the legal effect of an electronic signature?
+An electronic signature and any electronic message to which it is affixed or attached may not be denied legal effect, including legal effect as a signature, a writing, or an original, solely because the signature or record is in electronic form.
+§ 370.39
+To what extent is a digital signature admissible in any civil litigation or dispute?
+In asserting a digital signature against you in any civil litigation or dispute, extrinsic evidence of authenticity as a condition precedent of admissibility (such as testimony about the scientific validity of digital signatures) is not necessary to establish:
+(a) That a digital signature corresponds to a specific public key pair, and;
+(b) That an electronic message to which the digital signature is affixed has not been altered from its original form.
+§ 370.40
+Can I be held accountable if my negligence contributes to a forged signature?
+(a)
+General.
+If your failure to exercise ordinary care substantially contributes to the submission of a forged signature, then you cannot claim that the signature is a forgery. However, we cannot invoke this section against you if we cannot first establish that we were reasonable in relying upon the signature. If we can do so, you bear the burden of production and the burden of persuasion in establishing your exercise of ordinary care. If you cannot do so, then you cannot claim that the signature is a forgery.
+(b)
+Exception.
+This section has no application in any dispute involving a debit authorization or credit card transaction.
+§ 370.41
+What limitations exist on liability?
+In no instance does our liability extend beyond the amount of the transaction.
+
+# Subpart E—Additional Provisions
+§ 370.45
+What is the status of a security if the remittance cannot be collected?
+If we cannot promptly collect all of the remittance for a security, we may in our discretion cancel the security unless it has been legally transferred for value to a third person who had no knowledge of the improper debit entry at the time of the transfer.
+§ 370.46
+Are there any situations in which the Bureau of the Fiscal Service may waive these regulations?
+We reserve the right, in our discretion, to waive any provision of these regulations in any case or class of cases. We may do so if such action is not inconsistent with law and will not subject the United States to substantial expense or liability.
+§ 370.47
+To what extent may the Bureau of the Fiscal Service change these regulations?
+Any aspect of this part may be changed at any time and without notice. You assume the risk that a change may terminate a provision that was to your advantage. Nothing in this part creates vested rights in your favor.
+Pt. 375
+
+# PART 375—MARKETABLE TREASURY SECURITIES REDEMPTION OPERATIONS
+
+# Subpart A—General Information
+Sec.
+375.0
+What authority does the Treasury have to redeem its securities?
+375.1
+Where are the rules for the redemption operation located?
+375.2
+What special definitions apply to this rule?
+375.3
+What is the role of the Federal Reserve Bank of New York in this process?
+
+# Subpart B—Offering, Certifications, and Delivery
+375.10
+What is the purpose of the redemption operation announcement?
+375.11
+Who may participate in a redemption operation?
+375.12
+How do I submit an offer?
+375.13
+What requirements apply to offers?
+375.14
+Do I have to make any certifications?
+375.15
+Who is responsible for delivering securities?
+
+# Subpart C—Determination of Redemption Operation Results; Settlement
+375.20
+When will the Treasury decide on which offers to accept?
+375.21
+When and how will the Treasury announce the redemption operation results?
+375.22
+Will I receive confirmations and, if I am submitting offers for others, do I have to provide confirmations?
+375.23
+How does the securities delivery process work?
+
+# Subpart D—Miscellaneous Provisions
+375.30
+Does the Treasury have any discretion in this process?
+375.31
+What could happen if someone does not fully comply with the redemption operation rules or fails to deliver securities?
+
+# Authority:
+5 U.S.C. 301; 31 U.S.C. 3111; 12 U.S.C. 391.
+
+# Source:
+65 FR 3116, Jan. 19, 2000, unless otherwise noted.
+
+# Subpart A—General Information
+§ 375.0
+What authority does the Treasury have to redeem its securities?
+Section 3111 of Title 31 of the United States Code authorizes the Secretary of the Treasury to use money received from the sale of an obligation and other money in the general fund of the Treasury to buy, redeem, or refund, at or before maturity, outstanding bonds, notes, certificates of indebtedness, Treasury bills, or savings certificates of the United States Government. For the purposes of this part, we will refer to these outstanding obligations as “securities”.
+§ 375.1
+Where are the rules for the redemption operation located?
+The provisions in this part and the redemption operation announcement govern the redemption of marketable Treasury securities under 31 U.S.C. 3111. (See § 375.10.)
+§ 375.2
+What special definitions apply to this rule?
+The definitions in 31 CFR part 356 govern this part except as follows:
+Accrued interest
+means an amount payable by the Treasury as part of the settlement amount for the interest income earned between the last interest payment date up to and including the settlement date.
+Bank
+means the Federal Reserve Bank of New York.
+Customer
+means a person or entity on whose behalf a submitter has been directed to submit an offer of a specified amount of securities in a specific redemption operation.
+Minimum offer amount
+means the smallest par amount of a security that may be offered to the Treasury. We will state the minimum offer amount in the redemption operation announcement.
+Multiple
+means the smallest additional par amount of a security that may be offered to the Treasury. We will state the multiple in the redemption operation announcement.
+Offer
+means an offer to deliver for redemption a stated par amount of a specific security to the Treasury at a stated price.
+Price
+means the dollar amount to be paid for a security expressed as a percent of its current par amount.
+Privately held amount
+means the total amount outstanding of a security less holdings of the Federal Reserve System and Federal Government accounts.
+Redemption amount
+means the maximum par amount of securities that we are planning to redeem through a redemption operation. We will state the redemption amount in the redemption operation announcement.
+Redemption operation
+means a competitive process by which the Treasury accepts offers of marketable Treasury securities that by their terms are not immediately payable.
+Security
+means an outstanding unmatured obligation of the United States Government that the Secretary is authorized to buy, redeem or refund under section 3111 of Title 31 of the United States Code.
+Settlement
+means full and complete delivery of and payment for securities redeemed.
+Settlement amount
+means the par amount of each security that we redeem, multiplied by the price we accept in a redemption operation, plus any accrued interest.
+Settlement date
+means the date specified in the redemption operation announcement on which you must deliver a security to the Treasury for payment.
+Submitter
+means an entity submitting offers directly to the Treasury for its own account, for the account of others, or both. (See § 375.11(a)).
+Tender
+means a computer transmission or document submitted in a redemption operation that contains one or more offers.
+We
+(“us”) means the Secretary of the Treasury and his or her delegates, including the Treasury Department, the Bureau of the Fiscal Service, and their representatives. The term also includes the Federal Reserve Bank of New York, acting as fiscal agent of the United States.
+You
+means a prospective submitter in a redemption operation.
+§ 375.3
+What is the role of the Federal Reserve Bank of New York in this process?
+As fiscal agent of the United States, the Federal Reserve Bank of New York performs various activities necessary to conduct a redemption operation under this part. These activities may include but are not limited to:
+(a) Accepting and reviewing tenders;
+(b) Calculating redemption operation results;
+(c) Issuing notices of redemptions;
+(d) Accepting deliveries of Treasury securities at settlement; and
+(e) Processing the Treasury payment for securities delivered at settlement.
+
+# Subpart B—Offering, Certifications, and Delivery
+§ 375.10
+What is the purpose of the redemption operation announcement?
+We provide public notice that we are redeeming Treasury securities by issuing a redemption operation announcement. This announcement lists the details of each proposed redemption operation, including the maximum redemption amount, the range of maturities of eligible securities, descriptions of the securities that fall within that maturity range, and the redemption operation and settlement dates. The redemption operation announcement and this part specify the terms and conditions of a redemption operation. If anything in the redemption operation announcement differs from anything in this part, the redemption operation announcement will apply. Accordingly, you should read the applicable redemption operation announcement along with this part.
+§ 375.11
+Who may participate in a redemption operation?
+(a)
+Submitters.
+To be a submitter, you must be an institution that the Federal Reserve Bank of New York has approved to conduct open market transactions with the Bank.
+(b)
+Others.
+A person or entity other than a submitter may participate only if it arranges to have an offer or offers submitted on its behalf by a submitter.
+§ 375.12
+How do I submit an offer?
+As a submitter, you must submit an offer in a tender to the Treasury via the Federal Reserve Bank of New York. You must submit any tenders in an approved format and the Bank must receive them prior to the closing time stated in the redemption operation announcement. If we do not receive your tenders timely, we will reject them. Your tenders are binding on you after the closing time specified in the redemption operation announcement. You are responsible for ensuring that we receive your tenders on time. We will not be responsible in any way for any unauthorized tender submissions or for any delays, errors, or omissions in submitting tenders.
+§ 375.13
+What requirements apply to offers?
+(a)
+General.
+You may only submit competitive offers (specifying a price). All offers must state the security description, par amount, and price of each security offered. All offers must equal or exceed the minimum offer amount, and be in the multiple, stated in the redemption operation announcement.
+(b)
+Price format.
+You must express offered prices in terms of price per $100 of par with three decimals, e.g., 102.172. The first two decimals represent fractional 32nds of a dollar. The third decimal represents eighths of a 32nd of a
+dollar, and must be a 0, 2, 4, or 6. For example, an offer of 102.172 means one hundred two and seventeen 32nds and two eighths of a 32nd, or in decimals, 102.5390625.
+(c)
+Maximum number of offers.
+There is no limit on the number of offers you may make for each eligible security. There is also no limit on the number of eligible securities you may offer.
+§ 375.14
+Do I have to make any certifications?
+By submitting a tender offering a security or securities for sale, you certify that you are in compliance with this part and the redemption operation announcement.
+§ 375.15
+Who is responsible for delivering securities?
+As a submitter, you are responsible for delivering any securities we accept in the redemption operation, including any securities for which you submitted offers on behalf of others. (See § 375.23.) All securities you deliver must be free and clear of all liens, charges, claims, and any other restrictions.
+
+# Subpart C—Determination of Redemption Operation Results; Settlement
+§ 375.20
+When will the Treasury decide on which offers to accept?
+We will determine which offers or portions of offers to accept after the closing time for receipt of tenders. All such determinations will be final.
+§ 375.21
+When and how will the Treasury announce the redemption operation results?
+We will make an official announcement of the redemption operation results through a press release. For each security we redeem, the press release will include such information as the amounts offered and accepted, the highest price accepted, and the remaining privately held amount outstanding.
+§ 375.22
+Will I receive confirmations and, if I am submitting offers for others, do I have to provide confirmations?
+(a)
+Confirmations to submitters.
+We will provide a confirmation of acceptance or rejection in the form of a results message to submitters of offers by the close of the business day of the redemption operation.
+(b)
+Confirmation of customer offers.
+If you submit a successful offer for a customer, you are responsible for notifying that customer of the impending redemption.
+§ 375.23
+How does the securities delivery process work?
+If any of the offers you submitted are accepted, you must transfer the correct book-entry Treasury securities in the correct par amount against the correct settlement amount on the settlement date. You must deliver the securities to the account specified in the redemption operation announcement.
+
+# Subpart D—Miscellaneous Provisions
+§ 375.30
+Does the Treasury have any discretion in this process?
+(a) We have the discretion to:
+(1) Accept or reject any offers or tenders submitted in a redemption operation;
+(2) Redeem less than the amount of securities specified in the redemption operation announcement;
+(3) Add to, change, or waive any provision of this part; or
+(4) Change the terms and conditions of a redemption operation.
+(b) Our decisions under this part are final. We will provide a public notice if we change any redemption operation provision, term or condition.
+§ 375.31
+What could happen if someone does not fully comply with the redemption operation rules or fails to deliver securities?
+(a)
+General.
+If a person or entity fails to comply with any of the redemption operation rules in this part, we will consider the circumstances and take what we deem to be appropriate action. This could include barring the person or entity from participating in future redemption operations under this part and future auctions under 31 CFR part 356. We also may refer the matter to an appropriate regulatory agency.
+(b)
+Liquidated damages.
+If you fail to deliver securities on time, we may require you to pay liquidated damages of up to 1% of your projected settlement amount.
+Pt. 380
+
+# PART 380—COLLATERAL ACCEPTABILITY AND VALUATION
+
+# Subpart A—General Information
+Sec.
+380.0
+What do these regulations govern?
+380.1
+What special definitions apply to this part?
+
+# Subpart B—Acceptable Collateral and Its Valuation
+380.2
+What collateral may I pledge if I am a depositary or a financial agent of the Government under 31 CFR part 202, and what value will you assign to it?
+380.3
+What collateral may I pledge if I am a Treasury Tax and Loan depositary under 31 CFR part 203, and what value will you assign to it?
+380.4
+What collateral may I pledge instead of a surety bond under 31 CFR part 225, and what value will you assign to it?
+
+# Authority:
+12 U.S.C. 90, 265-266, 332, 391, 1452(d), 1464(k), 1767, 1789a, 2013, 2122, 3101-3102; 26 U.S.C. 6302; 31 U.S.C. 321, 323, 3301-3304, 3336, 9301, 9303.
+
+# Source:
+73 FR 75590, Dec. 12, 2008, unless otherwise noted.
+
+# Subpart A—General Information
+§ 380.0
+What do these regulations govern?
+The regulations in this part govern the types of acceptable collateral that you may pledge to secure deposits of public monies and other financial interests of the Federal Government, as well as the valuation of that collateral. Specifically, the regulations in this part apply to the programs governed by the Department of the Treasury's regulations at 31 CFR part 202 (Depositaries and Financial Agents of the Government), 31 CFR part 203 (Payment of Federal Taxes and the Treasury Tax and Loan Program), and 31 CFR part 225 (Acceptance of Bonds Secured by Government Obligations in Lieu of Bonds with Sureties). The regulations in this part apply only to the acceptability and valuation of collateral that may be pledged under these programs. 31 CFR parts 202, 203, and 225 continue to govern the respective programs themselves.
+§ 380.1
+What special definitions apply to this part?
+Special definitions that may apply to this part are contained in 31 CFR parts 202, 203 and 225.
+
+# Subpart B—Acceptable Collateral and Its Valuation
+§ 380.2
+What collateral may I pledge if I am a depositary or a financial agent of the Government under 31 CFR part 202, and what value will you assign to it?
+Unless we specify otherwise, we will list the types and valuation of acceptable collateral in Treasury procedural instructions. We will also post updated information and guidance on Treasury's Bureau of the Fiscal Service website at
+fiscal.treasury.gov
+.
+[89 FR 3353, Jan. 18, 2024]
+§ 380.3
+What collateral may I pledge if I am a Treasury Tax and Loan depositary under 31 CFR part 203, and what value will you assign to it?
+Unless we specify otherwise, we will list the types and valuation of acceptable collateral in Treasury procedural instructions. We will also post updated information and guidance on Treasury's Bureau of the Fiscal Service Web site at
+http://www.treasurydirect.gov.
+§ 380.4
+What collateral may I pledge instead of a surety bond under 31 CFR part 225, and what value will you assign to it?
+Unless we specify otherwise, we will list the types and valuation of acceptable collateral in Treasury procedural instructions. We will also post updated information and guidance on Treasury's Bureau of the Fiscal Service website at
+fiscal.treasury.gov
+.
+[89 FR 3353, Jan. 18, 2024]
+Pt. 391
+
+# PART 391—WAIVER OF INTEREST, ADMINISTRATIVE COSTS, AND PENALTIES
+Sec.
+391.0
+Scope of regulations.
+391.1
+General.
+391.2
+Equitable considerations.
+391.3
+Resolution of disputes.
+391.4
+Documentary evidence.
+391.5
+Waiver approval.
+
+# Authority:
+31 U.S.C. 3701; 31 U.S.C. 3711; 31 U.S.C. 3717.
+
+# Source:
+50 FR 6344, Feb. 15, 1985, unless otherwise noted.
+§ 391.0
+Scope of regulations.
+These regulations apply to the waiver of late charges on claims due the Bureau of the Fiscal Service as authorized by 31 U.S.C. 3717(h). They are consistent with the Federal Claims Collection Standards on interest, administrative costs, and penalties prescribed jointly by the General Accounting Office and the Department of Justice and set forth in 4 CFR 102.13. The term “claim” as used in this part refers to an amount of money or property that has been determined to be owed to the Bureau of the Fiscal Service from any person, organization, or entity, except another Federal agency. The term “late charges” as used in this part includes interest, administrative costs, and penalties. When applying the following regulations, a distinction shall be drawn between an adjustment and a waiver. An adjustment is an account correction under any circumstances where the Bureau records a claim or accrues late charges to which it is not legally entitled. An adjustment may be made without the promulgation of regulations. A waiver applies whenever the Bureau accrues late charges it is entitled to assess and later relinquishes that right. Two examples of an adjustment are: (a) Where the underlying claim is without merit, and (b) where the debtor is not notified of the claim as required by 31 U.S.C. 3717. The latter includes being misinformed as to the amount of the charges or the time of their commencement.
+§ 391.1
+General.
+(a)
+Waiver of late charges.
+Late charges may be waived:
+(1) When the underlying claim is compromised in accordance with 4 CFR part 103;
+(2) Where the underlying claim is not compromised but it is appropriate to waive late charges under the criteria of 4 CFR part 103 relating to enforcement policy;
+(3) When collection of the underlying claim is terminated in accordance with 4 CFR part 104;
+(4) When a claim is suspended in accordance with 4 CFR part 104.
+(5) Where the cost of collecting the unpaid late charges would approach or exceed the amount of unpaid late charges to be collected and the amount of late charges does not qualify for referral to a collection agency or the Department of Justice;
+(6) Where the late charges pertain to claims involving savings bonds and notes arising under 31 U.S.C. 3105 and 3106 which are replaced pursuant to 31 U.S.C. 3126;
+(7) For reasons of equity or good conscience as provided in § 391.2.
+(b)
+Partial waiver.
+Late charges may be waived in full or in part.
+§ 391.2
+Equitable considerations.
+For reasons of equity and good conscience, late charges may be waived under the circumstances identified in this section.
+(a) Where, without fault or bad faith, the debtor could not submit payment within 30 days of the interest accrual date, the mandatory waiver provision in 4 CFR 102.13(g) may be extended. Such waiver will be considered on a case-by-case basis. Examples include, but are not limited to:
+(1) Postal service delays in forwarding the notice of indebtedness to a new address; and
+(2) Late receipt of the notice of indebtedness where the debtor was away from home on an extended vacation or hospitalized.
+(b) Where an installment plan is contemplated and the amount of the late charges in relation to the amount of reasonably affordable installment payments is so large that the debt may never be paid, late charges may be waived.
+§ 391.3
+Resolution of disputes.
+(a) To avoid the accrual of additional late charges during the resolution of a dispute, a debtor has the option of paying the amount of the claim and filing a request for a refund together with a request for review of the claim.
+(b) Where the claim is a result of the Bureau's administrative error, late charges accruing during the review period may be waived unless the Bureau's actions would have placed a reasonable person on notice that the Bureau erred and that the person should inquire further.
+(c) Where the claim is a result of the debtor's error or negligence and the administrative review is unreasonably protracted, late charges accruing during the protracted portion of the review period may be waived.
+(d) The period for administrative review begins on the date the request for review is received and ends 10 days after the final determination is mailed to the debtor. This paragraph shall not apply if the request for review is made in bad faith or for purposes of delay.
+§ 391.4
+Documentary evidence.
+(a) When late charges are waived, the debtor's administrative file shall be properly documented with a memorandum. The memorandum shall contain a brief narrative statement describing the circumstances leading to the waiver and the reason(s) for granting the waiver.
+(b) A credit report or a financial statement sworn to by the debtor may be required before waiver of late charges is approved for a compromise, suspension, or termination, except where the cost of obtaining such a report or statement exceeds the late charges due.
+§ 391.5
+Waiver approval.
+Waivers of late charges shall be approved by the Commissioner of the Bureau of the Fiscal Service or designee, except that compromises and terminations of the underlying claim shall be upon the recommendation of the Chief Counsel in accordance with 31 CFR 5.3.
+PARTS 392-399 [RESERVED]
+SUBCHAPTER B—RESERVED
+31 CFR Ch. IV (7-1-25 Edition)
+Secret Service, Treasury
+
+# CHAPTER IV—SECRET SERVICE, DEPARTMENT OF THE TREASURY
+Part
+Page
+400
+[Reserved]
+401
+Seizure and forfeiture of vessels, vehicles and aircraft used to transport counterfeit coins, obligations, securities, and paraphernalia
+565
+402
+Reproduction of canceled United States Internal Revenue Stamps
+566
+403
+Authorization of all banks, U.S. Post Offices, and disbursing officers of the United States and their agents to deliver to the Treasury Department counterfeit obligations and other securities and coins of the United States or of any foreign government
+566
+405
+Illustration of savings bonds
+566
+406
+Seizure and forfeiture of gold for violations of Gold Reserve Act of 1934 and gold regulations
+567
+407
+Regulations governing conduct in the Treasury Building and the Treasury Annex
+567
+408
+[Reserved]
+409
+Standard and procedures utilized in issuing a security clearance in connection with an application for a press pass to the White House
+569
+411
+Color illustrations of United States currency
+570
+413
+Closure of streets near the White House
+571
+414-499
+[Reserved]
+PART 400 [RESERVED]
+Pt. 401
+
+# PART 401—SEIZURE AND FORFEITURE OF VESSELS, VEHICLES AND AIRCRAFT USED TO TRANSPORT COUNTERFEIT COINS, OBLIGATIONS, SECURITIES, AND PARAPHERNALIA
+Sec.
+401.1
+Secret Service agents authorized to make seizures.
+401.2
+Custody.
+401.3
+Authority of District Directors of Customs to hold in custody.
+401.4
+Duties of Bureau of Customs.
+401.5
+Disposition.
+
+# Authority:
+Sec. 8, 53 Stat. 1293; 49 U.S.C. 788.
+
+# Source:
+33 FR 4257, Mar. 7, 1968, unless otherwise noted.
+§ 401.1
+Secret Service agents authorized to make seizures.
+All officers of the U.S. Secret Service engaged in the enforcement of counterfeiting laws are hereby authorized and designated to seize such vessels, vehicles, and aircraft as may be subject to seizure because of violations of the said act of August 9, 1939, pertaining to contraband articles referred to in section 1(b) (3) of said act.
+§ 401.2
+Custody.
+Each vessel, vehicle, or aircraft seized pursuant to the said act of August 9, 1939, and the regulations in this part shall forthwith be placed by the seizing officer in the custody of the District Director of Customs for the customs district in which such seizure is made. Such placing in custody shall be effected by immediate notification of the appropriate District Director of Customs of the seizure, together with a statement of the facts including a description of the vessel, vehicle, or aircraft, and the holding by the seizing officer of such vessel, vehicle, or aircraft subject to the instructions of the said district director of customs.
+§ 401.3
+Authority of District Directors of Customs to hold in custody.
+District Directors of Customs are hereby authorized and designated to hold in custody awaiting appropriate disposition vessels, vehicles, and aircraft seized pursuant to the said act of August 9, 1939, and the regulations in this part.
+§ 401.4
+Duties of Bureau of Customs.
+With respect to every vessel, vehicle, and aircraft seized and placed in the custody of a district director of customs pursuant to the said act of August 9, 1939, and the regulations in this part, the appropriate officials of the Bureau of Customs are hereby authorized and designated as the officers who shall perform such administrative duties in connection with—
+(a) The summary and judicial forfeiture and condemnation of such vessel, vehicle, or aircraft;
+(b) The disposition of such vessel, vehicle, or aircraft or the proceeds from the sale thereof;
+(c) The remission or mitigation of the forfeiture of such vessel, vehicle, or aircraft; and
+(d) The compromise of claims and the award of compensation to informers in respect to such vessel, vehicle, or aircraft;
+as may be necessary and proper by virtue of the provisions of said act of August 9, 1939, and by virtue of the provisions of the customs laws which the said act makes applicable in connection with seizures and forfeitures incurred or alleged to have been incurred under the said act and the regulations in this part. In the performance of said administrative duties the said appropriate officials of the Bureau of Customs shall be governed by the procedures established by the customs regulations, insofar as such procedures are applicable and not inconsistent with the provisions of the said act of August 9, 1939, and the regulations in this part. Powers of the character of those exercised by the Secretary of the Treasury and Commissioner of Customs is connection with the remission or mitigation of forfeitures under the customs laws and in connection with the compromise of claims and the award of compensation to informers under the customs laws shall be exercised by the Secretary of the Treasury in connection with the remission or mitigation of forfeitures under the said act of August 9, 1939, and in connection with the
+compromise of claims and the award of compensation to informers under the said act.
+§ 401.5
+Disposition.
+With respect to each vessel, vehicle, and aircraft seized pursuant to the said act of August 9, 1939, and the regulations in this part, the Director of the Secret Service shall promptly notify the Administrator of the General Services Administration and the Commissioner of Customs whether the Secret Service desires to have such vessel, vehicle, or aircraft for its official use. When forfeiture of any vessel, vehicle, or aircraft has been perfected otherwise than by court decree, the district director holding in custody such vessel, vehicle, or aircraft shall:
+(a) Either return the same to the Secret Service if the Director of the Secret Service has requested it for the official use of the Secret Service
+(b) Or, if the Secret Service does not desire such vessel, vehicle, or aircraft for its official use, hold such vessel, vehicle, or aircraft subject to the instructions of the Administrator of the General Services Administration.
+(Secs. 301-308, 49 Stat. 879-880; 40 U.S.C. 304f-304m)
+Pt. 402
+
+# PART 402—REPRODUCTION OF CANCELED UNITED STATES INTERNAL REVENUE STAMPS
+
+# Authority:
+Secs. 474, 492, 62 Stat. 706, 710; 18 U.S.C. 474, 492.
+§ 402.1
+Reproductions authorized.
+Authority is hereby given to make, hold, and dispose of black and white reproductions of canceled U.S. internal revenue stamps:
+Provided,
+That such reproductions are made, held and disposed of as part of and in connection with the making, holding, and disposition, for lawful purposes, of the reproductions of the documents to which such stamps are attached.
+[33 FR 4257, Mar. 7, 1968]
+Pt. 403
+
+# PART 403—AUTHORIZATION OF ALL BANKS, U.S. POST OFFICES, AND DISBURSING OFFICERS OF THE UNITED STATES AND THEIR AGENTS TO DELIVER TO THE TREASURY DEPARTMENT COUNTERFEIT OBLIGATIONS AND OTHER SECURITIES AND COINS OF THE UNITED STATES OR OF ANY FOREIGN GOVERNMENT
+
+# Authority:
+Sec. 492, 62 Stat. 710; 18 U.S.C. 492.
+§ 403.1
+Delivery of counterfeit obligations and other securities and coins authorized.
+Authority is hereby given to all banks and banking institutions of any nature whatsoever organized under general or special Federal or State statutes, to all U.S. Post Offices, and to all disbursing officers of the United States and their agents, to take possession of and deliver to the Treasury Department through the Secret Service all counterfeit obligations and other securities and coins of the United States or of any foreign government which shall be presented at their places of business.
+[33 FR 4257, Mar. 7, 1968]
+Pt. 405
+
+# PART 405—ILLUSTRATION OF SAVINGS BONDS
+
+# Authority:
+Sec. 474, 62 Stat. 706; 18 U.S.C. 474.
+§ 405.1
+Illustrations authorized.
+(a) Authority is hereby given to make, hold, dispose of, and use illustrations of U.S. savings bonds for publicity purposes in connection with the campaign for the sale of such bonds.
+(b) The making of any reproduction of a U.S. savings bond in any manner or any form is not permitted other than as provided in this part or pursuant to title 18, United States Code, section 504 (18 U.S.C. 504).
+[36 FR 21338, Nov. 6, 1971]
+Pt. 406
+
+# PART 406—SEIZURE AND FORFEITURE OF GOLD FOR VIOLATIONS OF GOLD RESERVE ACT OF 1934 AND GOLD REGULATIONS
+Sec.
+406.1
+Secret Service officers authorized to make seizures of gold.
+406.2
+Custody of seized gold valued not in excess of $2,500.
+406.3
+Forfeiture of gold valued not in excess of $2,500.
+406.4
+Duties of customs officers.
+406.5
+Forfeiture of gold valued in excess of $2,500.
+
+# Authority:
+R.S. 161, as amended, sec. 4, 48 Stat. 340; 5 U.S.C. 301, 31 U.S.C. 443.
+
+# Source:
+33 FR 4258, Mar. 7, 1968, unless otherwise noted.
+§ 406.1
+Secret Service officers authorized to make seizures of gold.
+All agents of the U.S. Secret Service, in addition to officers of the customs, are hereby authorized and designated to seize any gold which may be subject to forfeiture for violations of the Gold Reserve Act of 1934 (31 U.S.C. 440-445) and the Gold Regulations.
+§ 406.2
+Custody of seized gold valued not in excess of $2,500.
+Any gold, the value of which does not exceed $2,500, seized by officers of the Secret Service pursuant to the Gold Reserve Act of 1934 and the Gold Regulations, if not needed as evidence or for further investigation by the Secret Service, shall be placed forthwith by the seizing officer in the custody of the district director of customs for the customs district in which such seizure is made. Such gold shall be accompanied by a report from the Secret Service showing the basis of the seizure and a citation to each of the statutes and sections of the Gold Regulations violated.
+§ 406.3
+Forfeiture of gold valued not in excess of $2,500.
+The district director of customs receiving custody of gold seized by the Secret Service, shall, if no petition is filed for the remission of mitigation of the forfeiture incurred, institute summary forfeiture proceedings in the judicial district in which such seizure is made under the appropriate provisions of the law and Customs Regulations applicable to the forfeiture of merchandise imported contrary to law.
+§ 406.4
+Duties of customs officers.
+The appropriate officials of the Bureau of Customs are hereby authorized and designated as the officers who shall perform such administrative duties in connection with the summary forfeiture of gold seized by the Secret Service, the sale or other disposition of such gold, and the remission or mitigation of the forfeiture of such gold, as may be necessary or proper by virtue of the provisions of the Gold Reserve Act of 1934 and the Gold Regulations, and by virtue of the provisions of the customs laws which the said Gold Reserve Act makes applicable in connection with the seizures and forfeitures incurred or alleged to have been incurred under the said act and regulations. In the performance of said administrative duties the appropriate officials of the Bureau of Customs shall be governed by the procedures established by the Customs Regulations insofar as such procedures are applicable and not inconsistent with the provisions of the Gold Reserve Act of 1934 and the Gold Regulations.
+§ 406.5
+Forfeiture of gold valued in excess of $2,500.
+When the value of the gold seized by the Secret Service exceeds $2,500, the seizing officer shall furnish a report, approved by the principal local officer, to the U.S. attorney, and shall include in such report a statement of all the facts and circumstances of the case, together with the names of the witnesses and a citation to each of the statutes and sections of the Gold Regulations believed to have been violated and on which reliance may be had for forfeiture.
+Pt. 407
+
+# PART 407—REGULATIONS GOVERNING CONDUCT IN THE TREASURY BUILDING AND THE TREASURY ANNEX
+Sec.
+407.1
+Authority.
+407.2
+Applicability.
+407.3
+Recording presence.
+407.4
+Preservation of property.
+407.5
+Conformity with signs and directions.
+407.6
+Nuisances.
+407.7
+Gambling.
+407.8
+Intoxicating beverages and narcotics.
+407.9
+Soliciting, vending, debt collection, and distribution of handbills.
+407.10
+Photographs for news, advertising, or commercial purposes.
+407.11
+Dogs and other animals.
+407.12
+Vehicular and pedestrian traffic.
+407.13
+Weapons and explosives.
+407.14
+Penalties and other law.
+
+# Authority:
+5 U.S.C. 301; FPMR Temp. Reg. D-40, 38 FR 20650; Treasury Dept. Order 177-25 (Revision 2), 38 FR 21947.
+
+# Source:
+33 FR 7149, May 15, 1968, unless otherwise noted.
+§ 407.1
+Authority.
+The regulations in this part governing conduct in and on the Treasury Building and grounds and the Treasury Annex Building and grounds are promulgated pursuant to the authority vested in the Secretary of the Treasury, including (5 U.S.C. 301), and that vested in him by delegation from the Administrator of General Services, 38 FR 20650 (1973), and in accordance with the authority vested in the Director of the U.S. Secret Service by Treasury Department Order No. 177-25 (Revision 2), 38 FR 21947 (1973).
+[38 FR 31975, Nov. 20, 1973]
+§ 407.2
+Applicability.
+The regulations in this part apply to the building and grounds of the Main Treasury Building and the Treasury Annex Building located in Washington, DC, at 15th Street and Pennsylvania Avenue NW., and Madison Place and Pennsylvania Avenue NW., respectively, and to all persons entering in or on such property. The Main Treasury Building and grounds and the Treasury Annex Building and grounds shall hereafter be referred to in the regulations in this part as “property”.
+§ 407.3
+Recording presence.
+Except as otherwise ordered, the property shall be closed to the public after normal working hours and at such other times as may be necessary for the orderly conduct of the business of the Treasury Department. The property shall also be closed to the public when, in the opinion of the Assistant Secretary for Administration, or his delegate, an emergency situation exists. Admission to the property during periods when the property is closed to the public will be limited to authorized individuals who may be required to sign the register and/or display identification documents when requested by Treasury guards or other authorized individuals.
+§ 407.4
+Preservation of property.
+No person shall, without proper authority, willfully destroy, damage, deface, or remove property or any part thereof, or any furnishings therein.
+§ 407.5
+Conformity with signs and directions.
+Persons in and on the property shall comply with the instructions of Treasury guards, with official signs of a prohibitory or directory nature, and with the directions of other authorized officials.
+§ 407.6
+Nuisances.
+The use of loud, abusive, or profane language, unwarranted loitering, unauthorized assembly, the creation of any hazard to persons or things, improper disposal of rubbish, spitting, prurient prying, the commission of any obscene or indecent act, or any other disorderly conduct on the property is prohibited. The throwing of any articles of any kind in, upon, or from the property and climbing upon any part thereof is prohibited.
+§ 407.7
+Gambling.
+Participating in games for money or other property, the operation of gambling devices, the conduct of a lottery or pool, the selling or purchasing of numbers tickets, or any other gambling, in or on the property is prohibited.
+§ 407.8
+Intoxicating beverages and narcotics.
+Entering or being on the property, or operating a motor vehicle thereon, by a person under the influence of intoxicating beverages or narcotic drugs is prohibited.
+§ 407.9
+Soliciting, vending, debt collection, and distribution of handbills.
+The unauthorized soliciting of alms and contributions, the commercial soliciting and vending of all kinds, the display or distribution of commercial advertising, or the collecting of private debts, in or on the property is prohibited. This prohibition does not apply to Department of Treasury concessions or notices posted by authorized employees on the bulletin boards. Distribution of material such as pamphlets, handbills, and flyers is prohibited without prior approval from the Assistant Secretary for Administration, or his delegate.
+§ 407.10
+Photographs for news, advertising, or commercial purposes.
+Except where security regulations apply, or a Federal court order or rule prohibits it, photographs for news purposes may be taken in areas on the property to which the public customarily has access without prior permission. Photographs for advertising and commercial purposes may be taken in such areas only with the prior written permission of the Assistant Secretary for Administration, or his delegate.
+§ 407.11
+Dogs and other animals.
+Dogs and other animals, except seeing-eye dogs, shall not be brought upon the property for other than official purposes.
+§ 407.12
+Vehicular and pedestrian traffic.
+(a) Drivers of all vehicles in or on the property shall drive in a careful and safe manner at all times and shall comply with the signals and directions of Treasury guards and all posted traffic signs.
+(b) The blocking of entrances, driveways, walks, loading platforms, or fire hydrants in or on the property is prohibited.
+(c) Parking in or on the property is not allowed without a permit or specific authority. Parking without authority, parking in unauthorized locations, or in locations reserved for other persons, or contrary to the directions of Treasury guards or posted signs is prohibited.
+(d) This section may be supplemented from time to time with the approval of the Assistant Secretary for Administration, or his delegate, by the issuance and posting of specific traffic directives as may be required and when so issued and posted such directives shall have the same force and effect as if made a part hereof.
+§ 407.13
+Weapons and explosives.
+No person while on the property shall carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed, except for official purposes.
+§ 407.14
+Penalties and other law.
+Whoever shall be found guilty of violating the regulations in this part while on the property is subject to a fine of not more than $50 or imprisonment of not more than 30 days, or both (see 40 U.S.C. 318c). Nothing contained in these regulations shall be construed to abrogate any other Federal laws or regulations of the District of Columbia applicable to the property referred to in § 407.2 and governed by the regulations.
+PART 408 [RESERVED]
+Pt. 409
+
+# PART 409—STANDARD AND PROCEDURES UTILIZED IN ISSUING A SECURITY CLEARANCE IN CONNECTION WITH AN APPLICATION FOR A PRESS PASS TO THE WHITE HOUSE
+Sec.
+409.1
+Standard.
+409.2
+Procedures.
+
+# Authority:
+18 U.S.C. 3056 and 3 U.S.C. 202.
+§ 409.1
+Standard.
+In granting or denying a request for a security clearance made in response to an application for a White House press pass, officials of the Secret Service will be guided solely by the principle of whether the applicant presents a potential source of physical danger to the President and/or the family of the President so serious as to justify his or her exclusion from White House press privileges.
+[43 FR 26718, June 22, 1978]
+§ 409.2
+Procedures.
+(a) If the Special Agent in Charge of the Secret Service, Technical Security Division, in applying the standard set forth in § 409.1, anticipates that a denial of the security clearance should be issued, the applicant will be notified in writing, by that official, of the basis for the proposed denial in as much detail as the security of any confidential source of information will permit. This notification will be sent by registered mail.
+(b) The notification of the proposed denial sent to the applicant will also contain a statement advising the applicant of his right to respond to the proposed denial and to rebut any factual basis supporting the proposed denial by contacting the Assistant Director—Protective Operations, United States Secret Service, 1800 “G” Street, NW., Washington, DC 20223.
+(c) The applicant shall be allowed thirty days from the date of the mailing of the proposed denial notification to respond in writing. The response shall consist of any explanation or rebuttal deemed appropriate by the applicant and will be signed by the applicant under oath or affirmation.
+(d) If the applicant is unable to prepare a response within thirty days, an extension for one additional thirty day period will be granted upon receipt of the applicant's written request for such an extension.
+(e) At the time of the filing of the applicant's written response to the notification of the proposed denial the applicant may request, and will be granted, the opportunity to make a personal appearance before the Assistant Director—Protective Operations of the Secret Service for the purpose of personally supporting his eligibility for a security clearance and to rebut or explain the factual basis for the proposed denial. This official shall exercise final review authority in the matter. The applicant may be represented by counsel during this appearance.
+(f)(1) On the basis of the applicant's written and personal response and the factual basis for the proposed denial, the Assistant Director—Protective Operations of the Secret Service will determine whether or not further inquiry or investigation concerning the issues raised, is necessary.
+(2) If a decision is made that no such inquiry is necessary a final decision will be issued in conformity with paragraph (g) of this section.
+(3) If a decision is made that such further inquiry is necessary the Assistant Director—Protective Operations of the Secret Service, will conduct such further inquiry as that official deems appropriate. At the official's discretion, the inquiry may consist of:
+(i) The securing of documentary evidence;
+(ii) Personal interviews;
+(iii) An informal hearing;
+(iv) Any combination of paragraphs (f)(3)(i) through (iii) of this section.
+(g) On the basis of the applicant's written and personal response, the factual basis for the proposed denial and the additional inquiry provided for, if such inquiry is conducted, a final decision will be expeditiously made by the Assistant Director—Protective Operations of the United States Secret Service in accordance with the standard set forth in § 409.1. If a final adverse decision is reached, the applicant will be notified of this final decision in writing. This notification will set forth, as precisely as possible and to the extent that security considerations permit, the factual basis for the denial in relation to the standard set forth in § 409.1. This notification will be sent by registered mail and will be signed by the Assistant Director—Protective Operations of the Secret Service.
+[43 FR 26718, June 22, 1978]
+Pt. 411
+
+# PART 411—COLOR ILLUSTRATIONS OF UNITED STATES CURRENCY
+
+# Authority:
+18 U.S.C. 504; Treasury Directive Number 15-56, 58 FR 48539 (September 16, 1993)
+
+# Source:
+61 FR 27281, May 31, 1996, unless otherwise noted.
+§ 411.1
+Color illustrations authorized.
+(a) Notwithstanding any provision of chapter 25 of Title 18 of the U.S. Code, authority is hereby given for the printing, publishing or importation, or the making or importation of the necessary plates or items for such printing
+or publishing, of color illustrations of U.S. currency provided that:
+(1) The illustration be of a size less than three-fourths or more than one and one-half, in linear dimension, of each part of any matter so illustrated;
+(2) The illustration be one-sided; and
+(3) All negatives, plates, positives, digitized storage medium, graphic files, magnetic medium, optical storage devices, and any other thing used in the making of the illustration that contain an image of the illustration or any part thereof shall be destroyed and/or deleted or erased after their final use in accordance with this section.
+(b) [Reserved]
+Pt. 413
+
+# PART 413—CLOSURE OF STREETS NEAR THE WHITE HOUSE
+Sec.
+413.1
+Closure of streets.
+413.2
+Coordination with other authorities.
+
+# Authority:
+31 U.S.C. 321, 18 U.S.C. 3056, 3 U.S.C. 202, Treasury Order 170-09.
+
+# Source:
+60 FR 27885, May 26, 1995, unless otherwise noted.
+§ 413.1
+Closure of streets.
+(a)
+District of Columbia.
+The following streets in the District of Columbia are closed to public vehicular traffic:
+(1) The segment of Pennsylvania Avenue, Northwest, situated between Madison Place, Northwest, and Seventeenth Street, Northwest;
+(2) The 1600 block of State Place, Northwest, situated between Seventeenth Street, Northwest, and the White House Complex; and
+(3) The segment of South Executive Avenue that connects to the 1600 block of State Place, Northwest.
+(b)
+Authorized access.
+The streets described in paragraph (a) shall remain open to public pedestrian use, official use of the United States, and authorized vehicular access for ingress and egress to the White House Complex and adjacent Federal Buildings.
+§ 413.2
+Coordination with other authorities.
+Nothing in § 413.1 shall be in derogation of any authority conferred upon the Secretary of the Interior, the Secretary of the Treasury or the Director, United States Secret Service.
+PARTS 414-499 [RESERVED]
+
+# FINDING AIDS
+A list of CFR titles, subtitles, chapters, subchapters and parts and an alphabetical list of agencies publishing in the CFR are included in the CFR Index and Finding Aids volume to the Code of Federal Regulations which is published separately and revised annually.
+Table of CFR Titles and Chapters
+Alphabetical List of Agencies Appearing in the CFR
+List of CFR Sections Affected
+Chap.
+
+# Table of CFR Titles and Chapters
+(Revised as of July 1, 2025)
+
+# Title 1—General Provisions
+I
+Administrative Committee of the Federal Register (Parts 1—49)
+II
+Office of the Federal Register (Parts 50—299)
+III
+Administrative Conference of the United States (Parts 300—399)
+IV
+Miscellaneous Agencies (Parts 400—599)
+VI
+National Capital Planning Commission (Parts 600—699)
+
+# Title 2—Federal Financial Assistance
+Subtitle A—Office of Management and Budget Guidance for Federal Financial Assistance
+I
+Office of Management and Budget Governmentwide Guidance for Grants and Agreements (Parts 2—199)
+II
+Office of Management and Budget Guidance (Parts 200—299)
+Subtitle B—Federal Agency Regulations for Grants and Agreements
+III
+Department of Health and Human Services (Parts 300—399)
+IV
+Department of Agriculture (Parts 400—499)
+VI
+Department of State (Parts 600—699)
+VII
+Agency for International Development (Parts 700—799)
+VIII
+Department of Veterans Affairs (Parts 800—899)
+IX
+Department of Energy (Parts 900—999)
+X
+Department of the Treasury (Parts 1000—1099)
+XI
+Department of Defense (Parts 1100—1199)
+XII
+Department of Transportation (Parts 1200—1299)
+XIII
+Department of Commerce (Parts 1300—1399)
+XIV
+Department of the Interior (Parts 1400—1499)
+XV
+Environmental Protection Agency (Parts 1500—1599)
+XVI
+U.S. International Development Finance Corporation (Parts 1600—1699)
+XVIII
+National Aeronautics and Space Administration (Parts 1800—1899)
+XIX
+U.S. Agency for Global Media (Parts 1900—1999)
+XX
+United States Nuclear Regulatory Commission (Parts 2000—2099)
+XXII
+Corporation for National and Community Service (Parts 2200—2299)
+XXIII
+Social Security Administration (Parts 2300—2399)
+XXIV
+Department of Housing and Urban Development (Parts 2400—2499)
+XXV
+National Science Foundation (Parts 2500—2599)
+XXVI
+National Archives and Records Administration (Parts 2600—2699)
+XXVII
+Small Business Administration (Parts 2700—2799)
+XXVIII
+Department of Justice (Parts 2800—2899)
+XXIX
+Department of Labor (Parts 2900—2999)
+XXX
+Department of Homeland Security (Parts 3000—3099)
+XXXI
+Institute of Museum and Library Services (Parts 3100—3199)
+XXXII
+National Endowment for the Arts (Parts 3200—3299)
+XXXIII
+National Endowment for the Humanities (Parts 3300—3399)
+XXXIV
+Department of Education (Parts 3400—3499)
+XXXV
+Export-Import Bank of the United States (Parts 3500—3599)
+XXXVI
+Office of National Drug Control Policy, Executive Office of the President (Parts 3600—3699)
+XXXVII
+Peace Corps (Parts 3700—3799)
+LVIII
+Election Assistance Commission (Parts 5800—5899)
+LIX
+Gulf Coast Ecosystem Restoration Council (Parts 5900—5999)
+LX
+Federal Communications Commission (Parts 6000—6099)
+
+# Title 3—The President
+I
+Executive Office of the President (Parts 100—199)
+
+# Title 4—Accounts
+I
+Government Accountability Office (Parts 1—199)
+
+# Title 5—Administrative Personnel
+I
+Office of Personnel Management (Parts 1—1199)
+II
+Merit Systems Protection Board (Parts 1200—1299)
+III
+Office of Management and Budget (Parts 1300—1399)
+IV
+Office of Personnel Management and Office of the Director of National Intelligence (Parts 1400—1499)
+V
+The International Organizations Employees Loyalty Board (Parts 1500—1599)
+VI
+Federal Retirement Thrift Investment Board (Parts 1600—1699)
+VIII
+Office of Special Counsel (Parts 1800—1899)
+IX
+Appalachian Regional Commission (Parts 1900—1999)
+XI
+Armed Forces Retirement Home (Parts 2100—2199)
+XIV
+Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel (Parts 2400—2499)
+XVI
+Office of Government Ethics (Parts 2600—2699)
+XXI
+Department of the Treasury (Parts 3100—3199)
+XXII
+Federal Deposit Insurance Corporation (Parts 3200—3299)
+XXIII
+Department of Energy (Parts 3300—3399)
+XXIV
+Federal Energy Regulatory Commission (Parts 3400—3499)
+XXV
+Department of the Interior (Parts 3500—3599)
+XXVI
+Department of Defense (Parts 3600—3699)
+XXVIII
+Department of Justice (Parts 3800—3899)
+XXIX
+Federal Communications Commission (Parts 3900—3999)
+XXX
+Farm Credit System Insurance Corporation (Parts 4000—4099)
+XXXI
+Farm Credit Administration (Parts 4100—4199)
+XXXIII
+U.S. International Development Finance Corporation (Parts 4300—4399)
+XXXIV
+Securities and Exchange Commission (Parts 4400—4499)
+XXXV
+Office of Personnel Management (Parts 4500—4599)
+XXXVI
+Department of Homeland Security (Parts 4600—4699)
+XXXVII
+Federal Election Commission (Parts 4700—4799)
+XL
+Interstate Commerce Commission (Parts 5000—5099)
+XLI
+Commodity Futures Trading Commission (Parts 5100—5199)
+XLII
+Department of Labor (Parts 5200—5299)
+XLIII
+National Science Foundation (Parts 5300—5399)
+XLV
+Department of Health and Human Services (Parts 5500—5599)
+XLVI
+Postal Rate Commission (Parts 5600—5699)
+XLVII
+Federal Trade Commission (Parts 5700—5799)
+XLVIII
+Nuclear Regulatory Commission (Parts 5800—5899)
+XLIX
+Federal Labor Relations Authority (Parts 5900—5999)
+L
+Department of Transportation (Parts 6000—6099)
+LII
+Export-Import Bank of the United States (Parts 6200—6299)
+LIII
+Department of Education (Parts 6300—6399)
+LIV
+Environmental Protection Agency (Parts 6400—6499)
+LV
+National Endowment for the Arts (Parts 6500—6599)
+LVI
+National Endowment for the Humanities (Parts 6600—6699)
+LVII
+General Services Administration (Parts 6700—6799)
+LVIII
+Board of Governors of the Federal Reserve System (Parts 6800—6899)
+LIX
+National Aeronautics and Space Administration (Parts 6900—6999)
+LX
+United States Postal Service (Parts 7000—7099)
+LXI
+National Labor Relations Board (Parts 7100—7199)
+LXII
+Equal Employment Opportunity Commission (Parts 7200—7299)
+LXIII
+Inter-American Foundation (Parts 7300—7399)
+LXIV
+Merit Systems Protection Board (Parts 7400—7499)
+LXV
+Department of Housing and Urban Development (Parts 7500—7599)
+LXVI
+National Archives and Records Administration (Parts 7600—7699)
+LXVII
+Institute of Museum and Library Services (Parts 7700—7799)
+LXVIII
+Commission on Civil Rights (Parts 7800—7899)
+LXIX
+Tennessee Valley Authority (Parts 7900—7999)
+LXX
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 8000—8099)
+LXXI
+Consumer Product Safety Commission (Parts 8100—8199)
+LXXIII
+Department of Agriculture (Parts 8300—8399)
+LXXIV
+Federal Mine Safety and Health Review Commission (Parts 8400—8499)
+LXXVI
+Federal Retirement Thrift Investment Board (Parts 8600—8699)
+LXXVII
+Office of Management and Budget (Parts 8700—8799)
+LXXX
+Federal Housing Finance Agency (Parts 9000—9099)
+LXXXIII
+Special Inspector General for Afghanistan Reconstruction (Parts 9300—9399)
+LXXXIV
+Bureau of Consumer Financial Protection (Parts 9400—9499)
+LXXXVI
+National Credit Union Administration (Parts 9600—9699)
+XCVII
+Department of Homeland Security Human Resources Management System (Department of Homeland Security—Office of Personnel Management) (Parts 9700—9799)
+XCVIII
+Council of the Inspectors General on Integrity and Efficiency (Parts 9800—9899)
+XCIX
+Military Compensation and Retirement Modernization Commission (Parts 9900—9999)
+C
+National Council on Disability (Parts 10000—10049)
+CI
+National Mediation Board (Parts 10100—10199)
+CII
+U.S. Office of Special Counsel (Parts 10200—10299)
+CIII
+U.S. Office of Federal Mediation and Conciliation Service (Parts 10300—10399)
+CIV
+Office of the Intellectual Property Enforcement Coordinator (Part 10400—10499)
+
+# Title 6—Domestic Security
+I
+Department of Homeland Security, Office of the Secretary (Parts 1—199)
+X
+Privacy and Civil Liberties Oversight Board (Parts 1000—1099)
+
+# Title 7—Agriculture
+Subtitle A—Office of the Secretary of Agriculture (Parts 0—26)
+Subtitle B—Regulations of the Department of Agriculture
+I
+Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture (Parts 27—209)
+II
+Food and Nutrition Service, Department of Agriculture (Parts 210—299)
+III
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 300—399)
+IV
+Federal Crop Insurance Corporation, Department of Agriculture (Parts 400—499)
+V
+Agricultural Research Service, Department of Agriculture (Parts 500—599)
+VI
+Natural Resources Conservation Service, Department of Agriculture (Parts 600—699)
+VII
+Farm Service Agency, Department of Agriculture (Parts 700—799)
+VIII
+Agricultural Marketing Service (Federal Grain Inspection Service, Fair Trade Practices Program), Department of Agriculture (Parts 800—899)
+IX
+Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture (Parts 900—999)
+X
+Agricultural Marketing Service (Marketing Agreements and Orders; Milk), Department of Agriculture (Parts 1000—1199)
+XI
+Agricultural Marketing Service (Marketing Agreements and Orders; Miscellaneous Commodities), Department of Agriculture (Parts 1200—1299)
+XIV
+Commodity Credit Corporation, Department of Agriculture (Parts 1400—1499)
+XV
+Foreign Agricultural Service, Department of Agriculture (Parts 1500—1599)
+XVI
+[Reserved]
+XVII
+Rural Utilities Service, Department of Agriculture (Parts 1700—1799)
+XVIII
+Rural Housing Service, Rural Business-Cooperative Service, Rural Utilities Service, and Farm Service Agency, Department of Agriculture (Parts 1800—2099)
+XX
+[Reserved]
+XXI
+Office of Energy and Environmental Policy, Department of Agriculture (Part 2100)
+XXV
+Office of Advocacy and Outreach, Department of Agriculture (Parts 2500—2599)
+XXVI
+Office of Inspector General, Department of Agriculture (Parts 2600—2699)
+XXVII
+Office of Information Resources Management, Department of Agriculture (Parts 2700—2799)
+XXVIII
+Office of Operations, Department of Agriculture (Parts 2800—2899)
+XXIX
+Office of Energy Policy and New Uses, Department of Agriculture (Parts 2900—2999)
+XXX
+Office of the Chief Financial Officer, Department of Agriculture (Parts 3000—3099)
+XXXI
+Office of Environmental Quality, Department of Agriculture (Parts 3100—3199)
+XXXII
+Office of Procurement and Property Management, Department of Agriculture (Parts 3200—3299)
+XXXIII
+Office of Transportation, Department of Agriculture (Parts 3300—3399)
+XXXIV
+National Institute of Food and Agriculture (Parts 3400—3499)
+XXXV
+Rural Housing Service, Department of Agriculture (Parts 3500—3599)
+XXXVI
+National Agricultural Statistics Service, Department of Agriculture (Parts 3600—3699)
+XXXVII
+Economic Research Service, Department of Agriculture (Parts 3700—3799)
+XXXVIII
+World Agricultural Outlook Board, Department of Agriculture (Parts 3800—3899)
+XLI
+[Reserved]
+XLII
+Rural Business-Cooperative Service, Department of Agriculture (Parts 4200—4299)
+L
+Rural Business-Cooperative Service, Rural Housing Service, and Rural Utilities Service, Department of Agriculture (Parts 5000—5099)
+
+# Title 8—Aliens and Nationality
+I
+Department of Homeland Security (Parts 1—499)
+V
+Executive Office for Immigration Review, Department of Justice (Parts 1000—1399)
+
+# Title 9—Animals and Animal Products
+I
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 1—199)
+II
+Agricultural Marketing Service (Fair Trade Practices Program), Department of Agriculture (Parts 200—299)
+III
+Food Safety and Inspection Service, Department of Agriculture (Parts 300—599)
+
+# Title 10—Energy
+I
+Nuclear Regulatory Commission (Parts 0—199)
+II
+Department of Energy (Parts 200—699)
+III
+Department of Energy (Parts 700—999)
+X
+Department of Energy (General Provisions) (Parts 1000—1099)
+XIII
+Nuclear Waste Technical Review Board (Parts 1300—1399)
+XVII
+Defense Nuclear Facilities Safety Board (Parts 1700—1799)
+XVIII
+Northeast Interstate Low-Level Radioactive Waste Commission (Parts 1800—1899)
+
+# Title 11—Federal Elections
+I
+Federal Election Commission (Parts 1—9099)
+II
+Election Assistance Commission (Parts 9400—9499)
+
+# Title 12—Banks and Banking
+I
+Comptroller of the Currency, Department of the Treasury (Parts 1—199)
+II
+Federal Reserve System (Parts 200—299)
+III
+Federal Deposit Insurance Corporation (Parts 300—399)
+IV
+Export-Import Bank of the United States (Parts 400—499)
+V
+(Parts 500—599) [Reserved]
+VI
+Farm Credit Administration (Parts 600—699)
+VII
+National Credit Union Administration (Parts 700—799)
+VIII
+Federal Financing Bank (Parts 800—899)
+IX
+(Parts 900—999)[Reserved]
+X
+Consumer Financial Protection Bureau (Parts 1000—1099)
+XI
+Federal Financial Institutions Examination Council (Parts 1100—1199)
+XII
+Federal Housing Finance Agency (Parts 1200—1299)
+XIII
+Financial Stability Oversight Council (Parts 1300—1399)
+XIV
+Farm Credit System Insurance Corporation (Parts 1400—1499)
+XV
+Department of the Treasury (Parts 1500—1599)
+XVI
+Office of Financial Research, Department of the Treasury (Parts 1600—1699)
+XVII
+Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development (Parts 1700—1799)
+XVIII
+Community Development Financial Institutions Fund, Department of the Treasury (Parts 1800—1899)
+
+# Title 13—Business Credit and Assistance
+I
+Small Business Administration (Parts 1—199)
+III
+Economic Development Administration, Department of Commerce (Parts 300—399)
+IV
+Emergency Steel Guarantee Loan Board (Parts 400—499)
+V
+Emergency Oil and Gas Guaranteed Loan Board (Parts 500—599)
+
+# Title 14—Aeronautics and Space
+I
+Federal Aviation Administration, Department of Transportation (Parts 1—199)
+II
+Office of the Secretary, Department of Transportation (Aviation Proceedings) (Parts 200—399)
+III
+Commercial Space Transportation, Federal Aviation Administration, Department of Transportation (Parts 400—1199)
+V
+National Aeronautics and Space Administration (Parts 1200—1299)
+VI
+Air Transportation System Stabilization (Parts 1300—1399)
+
+# Title 15—Commerce and Foreign Trade
+Subtitle A—Office of the Secretary of Commerce (Parts 0—29)
+Subtitle B—Regulations Relating to Commerce and Foreign Trade
+I
+Bureau of the Census, Department of Commerce (Parts 30—199)
+II
+National Institute of Standards and Technology, Department of Commerce (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+Foreign-Trade Zones Board, Department of Commerce (Parts 400—499)
+VII
+Bureau of Industry and Security, Department of Commerce (Parts 700—799)
+VIII
+Bureau of Economic Analysis, Department of Commerce (Parts 800—899)
+IX
+National Oceanic and Atmospheric Administration, Department of Commerce (Parts 900—999)
+XI
+National Technical Information Service, Department of Commerce (Parts 1100—1199)
+XIII
+East-West Foreign Trade Board (Parts 1300—1399)
+XIV
+Minority Business Development Agency (Parts 1400—1499)
+XV
+Office of the Under-Secretary for Economic Affairs, Department of Commerce (Parts 1500—1599)
+Subtitle C—Regulations Relating to Foreign Trade Agreements
+XX
+Office of the United States Trade Representative (Parts 2000—2099)
+Subtitle D—Regulations Relating to Telecommunications and Information
+XXIII
+National Telecommunications and Information Administration, Department of Commerce (Parts 2300—2399) [Reserved]
+
+# Title 16—Commercial Practices
+I
+Federal Trade Commission (Parts 0—999)
+II
+Consumer Product Safety Commission (Parts 1000—1799)
+
+# Title 17—Commodity and Securities Exchanges
+I
+Commodity Futures Trading Commission (Parts 1—199)
+II
+Securities and Exchange Commission (Parts 200—399)
+IV
+Department of the Treasury (Parts 400—499)
+
+# Title 18—Conservation of Power and Water Resources
+I
+Federal Energy Regulatory Commission, Department of Energy (Parts 1—399)
+III
+Delaware River Basin Commission (Parts 400—499)
+VI
+Water Resources Council (Parts 700—799)
+VIII
+Susquehanna River Basin Commission (Parts 800—899)
+XIII
+Tennessee Valley Authority (Parts 1300—1399)
+
+# Title 19—Customs Duties
+I
+U.S. Customs and Border Protection, Department of Homeland Security; Department of the Treasury (Parts 0—199)
+II
+United States International Trade Commission (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+U.S. Immigration and Customs Enforcement, Department of Homeland Security (Parts 400—599) [Reserved]
+
+# Title 20—Employees' Benefits
+I
+Office of Workers' Compensation Programs, Department of Labor (Parts 1—199)
+II
+Railroad Retirement Board (Parts 200—399)
+III
+Social Security Administration (Parts 400—499)
+IV
+Employees' Compensation Appeals Board, Department of Labor (Parts 500—599)
+V
+Employment and Training Administration, Department of Labor (Parts 600—699)
+VI
+Office of Workers' Compensation Programs, Department of Labor (Parts 700—799)
+VII
+Benefits Review Board, Department of Labor (Parts 800—899)
+VIII
+Joint Board for the Enrollment of Actuaries (Parts 900—999)
+IX
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 1000—1099)
+
+# Title 21—Food and Drugs
+I
+Food and Drug Administration, Department of Health and Human Services (Parts 1—1299)
+II
+Drug Enforcement Administration, Department of Justice (Parts 1300—1399)
+III
+Office of National Drug Control Policy (Parts 1400—1499)
+
+# Title 22—Foreign Relations
+I
+Department of State (Parts 1—199)
+II
+Agency for International Development (Parts 200—299)
+III
+Peace Corps (Parts 300—399)
+IV
+International Joint Commission, United States and Canada (Parts 400—499)
+V
+United States Agency for Global Media (Parts 500—599)
+VII
+U.S. International Development Finance Corporation (Parts 700—799)
+IX
+Foreign Service Grievance Board (Parts 900—999)
+X
+Inter-American Foundation (Parts 1000—1099)
+XI
+International Boundary and Water Commission, United States and Mexico, United States Section (Parts 1100—1199)
+XII
+United States International Development Cooperation Agency (Parts 1200—1299)
+XIII
+Millennium Challenge Corporation (Parts 1300—1399)
+XIV
+Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel (Parts 1400—1499)
+XV
+African Development Foundation (Parts 1500—1599)
+XVI
+Japan-United States Friendship Commission (Parts 1600—1699)
+XVII
+United States Institute of Peace (Parts 1700—1799)
+
+# Title 23—Highways
+I
+Federal Highway Administration, Department of Transportation (Parts 1—999)
+II
+National Highway Traffic Safety Administration and Federal Highway Administration, Department of Transportation (Parts 1200—1299)
+III
+National Highway Traffic Safety Administration, Department of Transportation (Parts 1300—1399)
+
+# Title 24—Housing and Urban Development
+Subtitle A—Office of the Secretary, Department of Housing and Urban Development (Parts 0—99)
+Subtitle B—Regulations Relating to Housing and Urban Development
+I
+Office of Assistant Secretary for Equal Opportunity, Department of Housing and Urban Development (Parts 100—199)
+II
+Office of Assistant Secretary for Housing-Federal Housing Commissioner, Department of Housing and Urban Development (Parts 200—299)
+III
+Government National Mortgage Association, Department of Housing and Urban Development (Parts 300—399)
+IV
+Office of Housing and Office of Multifamily Housing Assistance Restructuring, Department of Housing and Urban Development (Parts 400—499)
+V
+Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development (Parts 500—599)
+VII
+Office of the Secretary, Department of Housing and Urban Development (Housing Assistance Programs and Public and Indian Housing Programs) (Parts 700—799)
+VIII
+Office of the Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Section 8 Housing Assistance Programs, Section 202 Direct Loan Program, Section 202 Supportive Housing for the Elderly Program and Section 811 Supportive Housing for Persons With Disabilities Program) (Parts 800—899)
+IX
+Office of Assistant Secretary for Public and Indian Housing, Department of Housing and Urban Development (Parts 900—1699)
+XII
+Office of Inspector General, Department of Housing and Urban Development (Parts 2000—2099)
+XX
+Office of Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Parts 3200—3899)
+XXV
+Neighborhood Reinvestment Corporation (Parts 4100—4199)
+
+# Title 25—Indians
+I
+Bureau of Indian Affairs, Department of the Interior (Parts 1—299)
+II
+Indian Arts and Crafts Board, Department of the Interior (Parts 300—399)
+III
+National Indian Gaming Commission, Department of the Interior (Parts 500—599)
+IV
+Office of Navajo and Hopi Indian Relocation (Parts 700—899)
+V
+Bureau of Indian Affairs, Department of the Interior, and Indian Health Service, Department of Health and Human Services (Part 900—999)
+VI
+Office of the Assistant Secretary, Indian Affairs, Department of the Interior (Parts 1000—1199)
+VII
+Office of the Special Trustee for American Indians, Department of the Interior (Parts 1200—1299)
+
+# Title 26—Internal Revenue
+I
+Internal Revenue Service, Department of the Treasury (Parts 1—End)
+
+# Title 27—Alcohol, Tobacco Products and Firearms
+I
+Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury (Parts 1—399)
+II
+Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice (Parts 400—799)
+
+# Title 28—Judicial Administration
+I
+Department of Justice (Parts 0—299)
+III
+Federal Prison Industries, Inc., Department of Justice (Parts 300—399)
+V
+Bureau of Prisons, Department of Justice (Parts 500—599)
+VI
+Offices of Independent Counsel, Department of Justice (Parts 600—699)
+VII
+Office of Independent Counsel (Parts 700—799)
+VIII
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 800—899)
+IX
+National Crime Prevention and Privacy Compact Council (Parts 900—999)
+XI
+Department of Justice and Department of State (Parts 1100—1199)
+
+# Title 29—Labor
+Subtitle A—Office of the Secretary of Labor (Parts 0—99)
+Subtitle B—Regulations Relating to Labor
+I
+National Labor Relations Board (Parts 100—199)
+II
+Office of Labor-Management Standards, Department of Labor (Parts 200—299)
+III
+National Railroad Adjustment Board (Parts 300—399)
+IV
+Office of Labor-Management Standards, Department of Labor (Parts 400—499)
+V
+Wage and Hour Division, Department of Labor (Parts 500—899)
+IX
+Construction Industry Collective Bargaining Commission (Parts 900—999)
+X
+National Mediation Board (Parts 1200—1299)
+XII
+Federal Mediation and Conciliation Service (Parts 1400—1499)
+XIV
+Equal Employment Opportunity Commission (Parts 1600—1699)
+XVII
+Occupational Safety and Health Administration, Department of Labor (Parts 1900—1999)
+XX
+Occupational Safety and Health Review Commission (Parts 2200—2499)
+XXV
+Employee Benefits Security Administration, Department of Labor (Parts 2500—2599)
+XXVII
+Federal Mine Safety and Health Review Commission (Parts 2700—2799)
+XL
+Pension Benefit Guaranty Corporation (Parts 4000—4999)
+
+# Title 30—Mineral Resources
+I
+Mine Safety and Health Administration, Department of Labor (Parts 1—199)
+II
+Bureau of Safety and Environmental Enforcement, Department of the Interior (Parts 200—299)
+IV
+Geological Survey, Department of the Interior (Parts 400—499)
+V
+Bureau of Ocean Energy Management, Department of the Interior (Parts 500—599)
+VII
+Office of Surface Mining Reclamation and Enforcement, Department of the Interior (Parts 700—999)
+XII
+Office of Natural Resources Revenue, Department of the Interior (Parts 1200—1299)
+
+# Title 31—Money and Finance: Treasury
+Subtitle A—Office of the Secretary of the Treasury (Parts 0—50)
+Subtitle B—Regulations Relating to Money and Finance
+I
+Monetary Offices, Department of the Treasury (Parts 51—199)
+II
+Fiscal Service, Department of the Treasury (Parts 200—399)
+IV
+Secret Service, Department of the Treasury (Parts 400—499)
+V
+Office of Foreign Assets Control, Department of the Treasury (Parts 500—599)
+VI
+Bureau of Engraving and Printing, Department of the Treasury (Parts 600—699)
+VII
+Federal Law Enforcement Training Center, Department of the Treasury (Parts 700—799)
+VIII
+Office of Investment Security, Department of the Treasury (Parts 800—899)
+IX
+Federal Claims Collection Standards (Department of the Treasury—Department of Justice) (Parts 900—999)
+X
+Financial Crimes Enforcement Network, Department of the Treasury (Parts 1000—1099)
+
+# Title 32—National Defense
+Subtitle A—Department of Defense
+I
+Office of the Secretary of Defense (Parts 1—399)
+V
+Department of the Army (Parts 400—699)
+VI
+Department of the Navy (Parts 700—799)
+VII
+Department of the Air Force (Parts 800—1099)
+Subtitle B—Other Regulations Relating to National Defense
+XII
+Department of Defense, Defense Logistics Agency (Parts 1200—1299)
+XVI
+Selective Service System (Parts 1600—1699)
+XVII
+Office of the Director of National Intelligence (Parts 1700—1799)
+XVIII
+National Counterintelligence Center (Parts 1800—1899)
+XIX
+Central Intelligence Agency (Parts 1900—1999)
+XX
+Information Security Oversight Office, National Archives and Records Administration (Parts 2000—2099)
+XXI
+National Security Council (Parts 2100—2199)
+XXIV
+Office of Science and Technology Policy (Parts 2400—2499)
+XXVII
+Office for Micronesian Status Negotiations (Parts 2700—2799)
+XXVIII
+Office of the Vice President of the United States (Parts 2800—2899)
+
+# Title 33—Navigation and Navigable Waters
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Corps of Engineers, Department of the Army, Department of Defense (Parts 200—399)
+IV
+Great Lakes St. Lawrence Seaway Development Corporation, Department of Transportation (Parts 400—499)
+
+# Title 34—Education
+Subtitle A—Office of the Secretary, Department of Education (Parts 1—99)
+Subtitle B—Regulations of the Offices of the Department of Education
+I
+Office for Civil Rights, Department of Education (Parts 100—199)
+II
+Office of Elementary and Secondary Education, Department of Education (Parts 200—299)
+III
+Office of Special Education and Rehabilitative Services, Department of Education (Parts 300—399)
+IV
+Office of Career, Technical, and Adult Education, Department of Education (Parts 400—499)
+V
+Office of Bilingual Education and Minority [Reserved]
+VI
+Office of Postsecondary Education, Department of Education (Parts 600—699)
+VII
+Office of Educational Research and Improvement, Department of Education (Parts 700—799) [Reserved]
+Subtitle C—Regulations Relating to Education
+XI
+[Reserved]
+XII
+National Council on Disability (Parts 1200—1299)
+Title 35 [Reserved]
+
+# Title 36—Parks, Forests, and Public Property
+I
+National Park Service, Department of the Interior (Parts 1—199)
+II
+Forest Service, Department of Agriculture (Parts 200—299)
+III
+Corps of Engineers, Department of the Army (Parts 300—399)
+IV
+American Battle Monuments Commission (Parts 400—499)
+V
+Smithsonian Institution (Parts 500—599)
+VI
+[Reserved]
+VII
+Library of Congress (Parts 700—799)
+VIII
+Advisory Council on Historic Preservation (Parts 800—899)
+IX
+Pennsylvania Avenue Development Corporation (Parts 900—999)
+X
+Presidio Trust (Parts 1000—1099)
+XI
+Architectural and Transportation Barriers Compliance Board (Parts 1100—1199)
+XII
+National Archives and Records Administration (Parts 1200—1299)
+XV
+Oklahoma City National Memorial Trust (Parts 1500—1599)
+XVI
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation (Parts 1600—1699)
+
+# Title 37—Patents, Trademarks, and Copyrights
+I
+United States Patent and Trademark Office, Department of Commerce (Parts 1—199)
+II
+U.S. Copyright Office, Library of Congress (Parts 200—299)
+III
+Copyright Royalty Board, Library of Congress (Parts 300—399)
+IV
+National Institute of Standards and Technology, Department of Commerce (Parts 400—599)
+
+# Title 38—Pensions, Bonuses, and Veterans' Relief
+I
+Department of Veterans Affairs (Parts 0—199)
+II
+Armed Forces Retirement Home (Parts 200—299)
+
+# Title 39—Postal Service
+I
+United States Postal Service (Parts 1—999)
+III
+Postal Regulatory Commission (Parts 3000—3099)
+
+# Title 40—Protection of Environment
+I
+Environmental Protection Agency (Parts 1—1099)
+IV
+Environmental Protection Agency and Department of Justice (Parts 1400—1499)
+V
+Council on Environmental Quality (Parts 1500—1599)
+VI
+Chemical Safety and Hazard Investigation Board (Parts 1600—1699)
+VII
+Environmental Protection Agency and Department of Defense; Uniform National Discharge Standards for Vessels of the Armed Forces (Parts 1700—1799)
+VIII
+Gulf Coast Ecosystem Restoration Council (Parts 1800—1899)
+IX
+Federal Permitting Improvement Steering Council (Part 1900)
+
+# Title 41—Public Contracts and Property Management
+Subtitle A—Federal Procurement Regulations System [Note]
+Subtitle B—Other Provisions Relating to Public Contracts
+50
+Public Contracts, Department of Labor (Parts 50-1—50-999)
+51
+Committee for Purchase From People Who Are Blind or Severely Disabled (Parts 51-1—51-99)
+60
+Office of Federal Contract Compliance Programs, Equal Employment Opportunity, Department of Labor (Parts 60-1—60-999)
+61
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 61-1—61-999)
+62—100
+[Reserved]
+Subtitle C—Federal Property Management Regulations System
+101
+Federal Property Management Regulations (Parts 101-1—101-99)
+102
+Federal Management Regulation (Parts 102-1—102-299)
+103—104
+[Reserved]
+105
+General Services Administration (Parts 105-1—105-999)
+109
+Department of Energy Property Management Regulations (Parts 109-1—109-99)
+114
+Department of the Interior (Parts 114-1—114-99)
+115
+Environmental Protection Agency (Parts 115-1—115-99)
+128
+Department of Justice (Parts 128-1—128-99)
+129—200
+[Reserved]
+Subtitle D—Federal Acquisition Supply Chain Security
+201
+Federal Acquisition Security Council (Parts 201-1—201-99)
+Subtitle E [Reserved]
+Subtitle F—Federal Travel Regulation System
+300
+General (Parts 300-1—300-99)
+301
+Temporary Duty (TDY) Travel Allowances (Parts 301-1—301-99)
+302
+Relocation Allowances (Parts 302-1—302-99)
+303
+Payment of Expenses Connected with the Death of Certain Employees (Part 303-1—303-99)
+304
+Payment of Travel Expenses from a Non-Federal Source (Parts 304-1—304-99)
+
+# Title 42—Public Health
+I
+Public Health Service, Department of Health and Human Services (Parts 1—199)
+II—III
+[Reserved]
+IV
+Centers for Medicare
+Medicaid Services, Department of Health and Human Services (Parts 400—699)
+V
+Office of Inspector General-Health Care, Department of Health and Human Services (Parts 1000—1099)
+
+# Title 43—Public Lands: Interior
+Subtitle A—Office of the Secretary of the Interior (Parts 1—199)
+Subtitle B—Regulations Relating to Public Lands
+I
+Bureau of Reclamation, Department of the Interior (Parts 400—999)
+II
+Bureau of Land Management, Department of the Interior (Parts 1000—9999)
+III
+Utah Reclamation Mitigation and Conservation Commission (Parts 10000—10099)
+
+# Title 44—Emergency Management and Assistance
+I
+Federal Emergency Management Agency, Department of Homeland Security (Parts 0—399)
+IV
+Department of Commerce and Department of Transportation (Parts 400—499)
+
+# Title 45—Public Welfare
+Subtitle A—Department of Health and Human Services (Parts 1—199)
+Subtitle B—Regulations Relating to Public Welfare
+II
+Office of Family Assistance (Assistance Programs), Administration for Children and Families, Department of Health and Human Services (Parts 200—299)
+III
+Office of Child Support Services, Administration of Families and Services, Department of Health and Human Services (Parts 300—399)
+IV
+Office of Refugee Resettlement, Administration for Children and Families, Department of Health and Human Services (Parts 400—499)
+V
+Foreign Claims Settlement Commission of the United States, Department of Justice (Parts 500—599)
+VI
+National Science Foundation (Parts 600—699)
+VII
+Commission on Civil Rights (Parts 700—799)
+VIII
+Office of Personnel Management (Parts 800—899)
+IX
+Denali Commission (Parts 900—999)
+X
+Office of Community Services, Administration for Children and Families, Department of Health and Human Services (Parts 1000—1099)
+XI
+National Foundation on the Arts and the Humanities (Parts 1100—1199)
+XII
+Corporation for National and Community Service (Parts 1200—1299)
+XIII
+Administration for Children and Families, Department of Health and Human Services (Parts 1300—1399)
+XVI
+Legal Services Corporation (Parts 1600—1699)
+XVII
+National Commission on Libraries and Information Science (Parts 1700—1799)
+XVIII
+Harry S. Truman Scholarship Foundation (Parts 1800—1899)
+XXI
+Commission of Fine Arts (Parts 2100—2199)
+XXIII
+Arctic Research Commission (Parts 2300—2399)
+XXIV
+James Madison Memorial Fellowship Foundation (Parts 2400—2499)
+XXV
+Corporation for National and Community Service (Parts 2500—2599)
+
+# Title 46—Shipping
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Maritime Administration, Department of Transportation (Parts 200—399)
+III
+Coast Guard (Great Lakes Pilotage), Department of Homeland Security (Parts 400—499)
+IV
+Federal Maritime Commission (Parts 500—599)
+
+# Title 47—Telecommunication
+I
+Federal Communications Commission (Parts 0—199)
+II
+Office of Science and Technology Policy and National Security Council (Parts 200—299)
+III
+National Telecommunications and Information Administration, Department of Commerce (Parts 300—399)
+IV
+National Telecommunications and Information Administration, Department of Commerce, and National Highway Traffic Safety Administration, Department of Transportation (Parts 400—499)
+V
+The First Responder Network Authority (Parts 500—599)
+
+# Title 48—Federal Acquisition Regulations System
+1
+Federal Acquisition Regulation (Parts 1—99)
+2
+Defense Acquisition Regulations System, Department of Defense (Parts 200—299)
+3
+Health and Human Services (Parts 300—399)
+4
+Department of Agriculture (Parts 400—499)
+5
+General Services Administration (Parts 500—599)
+6
+Department of State (Parts 600—699)
+7
+Agency for International Development (Parts 700—799)
+8
+Department of Veterans Affairs (Parts 800—899)
+9
+Department of Energy (Parts 900—999)
+10
+Department of the Treasury (Parts 1000—1099)
+12
+Department of Transportation (Parts 1200—1299)
+13
+Department of Commerce (Parts 1300—1399)
+14
+Department of the Interior (Parts 1400—1499)
+15
+Environmental Protection Agency (Parts 1500—1599)
+16
+Office of Personnel Management, Federal Employees Health Benefits Acquisition Regulation (Parts 1600—1699)
+17
+Office of Personnel Management (Parts 1700—1799)
+18
+National Aeronautics and Space Administration (Parts 1800—1899)
+19
+Broadcasting Board of Governors (Parts 1900—1999)
+20
+Nuclear Regulatory Commission (Parts 2000—2099)
+21
+Office of Personnel Management, Federal Employees Group Life Insurance Federal Acquisition Regulation (Parts 2100—2199)
+23
+Social Security Administration (Parts 2300—2399)
+24
+Department of Housing and Urban Development (Parts 2400—2499)
+25
+National Science Foundation (Parts 2500—2599)
+28
+Department of Justice (Parts 2800—2899)
+29
+Department of Labor (Parts 2900—2999)
+30
+Department of Homeland Security, Homeland Security Acquisition Regulation (HSAR) (Parts 3000—3099)
+34
+Department of Education Acquisition Regulation (Parts 3400—3499)
+51
+Department of the Army Acquisition Regulations (Parts 5100—5199) [Reserved]
+52
+Department of the Navy Acquisition Regulations (Parts 5200—5299)
+53
+Department of the Air Force Federal Acquisition Regulation Supplement (Parts 5300—5399) [Reserved]
+54
+Defense Logistics Agency, Department of Defense (Parts 5400—5499)
+57
+African Development Foundation (Parts 5700—5799)
+61
+Civilian Board of Contract Appeals, General Services Administration (Parts 6100—6199)
+99
+Cost Accounting Standards Board, Office of Federal Procurement Policy, Office of Management and Budget (Parts 9900—9999)
+
+# Title 49—Transportation
+Subtitle A—Office of the Secretary of Transportation (Parts 1—99)
+Subtitle B—Other Regulations Relating to Transportation
+I
+Pipeline and Hazardous Materials Safety Administration, Department of Transportation (Parts 100—199)
+II
+Federal Railroad Administration, Department of Transportation (Parts 200—299)
+III
+Federal Motor Carrier Safety Administration, Department of Transportation (Parts 300—399)
+IV
+Coast Guard, Department of Homeland Security (Parts 400—499)
+V
+National Highway Traffic Safety Administration, Department of Transportation (Parts 500—599)
+VI
+Federal Transit Administration, Department of Transportation (Parts 600—699)
+VII
+National Railroad Passenger Corporation (AMTRAK) (Parts 700—799)
+VIII
+National Transportation Safety Board (Parts 800—999)
+X
+Surface Transportation Board (Parts 1000—1399)
+XI
+Research and Innovative Technology Administration, Department of Transportation (Parts 1400—1499) [Reserved]
+XII
+Transportation Security Administration, Department of Homeland Security (Parts 1500—1699)
+
+# Title 50—Wildlife and Fisheries
+I
+United States Fish and Wildlife Service, Department of the Interior (Parts 1—199)
+II
+National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 200—299)
+III
+International Fishing and Related Activities (Parts 300—399)
+IV
+Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations (Parts 400—499)
+V
+Marine Mammal Commission (Parts 500—599)
+VI
+Fishery Conservation and Management, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 600—699)
+
+# Alphabetical List of Agencies Appearing in the CFR
+(Revised as of July 1, 2025)
+Agency
+CFR Title, Subtitle or Chapter
+Administrative Conference of the United States
+1, III
+Advisory Council on Historic Preservation
+36, VIII
+Advocacy and Outreach, Office of
+7, XXV
+Afghanistan Reconstruction, Special Inspector General for
+5, LXXXIII
+African Development Foundation
+22, XV
+Federal Acquisition Regulation
+48, 57
+Agency for International Development
+2, VII; 22, II
+Federal Acquisition Regulation
+48, 7
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Agriculture, Department of
+2, IV; 5, LXXIII
+Advocacy and Outreach, Office of
+7, XXV
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Chief Financial Officer, Office of
+7, XXX
+Commodity Credit Corporation
+7, XIV
+Economic Research Service
+7, XXXVII
+Energy and Environmental Policy, Office of
+7, XXI
+Energy Policy and New Uses, Office of
+2, IX; 7, XXIX
+Environmental Quality, Office of
+7, XXXI
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 4
+Federal Crop Insurance Corporation
+7, IV
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Forest Service
+36, II
+Information Resources Management, Office of
+7, XXVII
+Inspector General, Office of
+7, XXVI
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National Institute of Food and Agriculture
+7, XXXIV
+Natural Resources Conservation Service
+7, VI
+Operations, Office of
+7, XXVIII
+Procurement and Property Management, Office of
+7, XXXII
+Rural Business-Cooperative Service
+7, XVIII, XLII
+Rural Development Administration
+7, XLII
+Rural Housing Service
+7, XVIII, XXXV
+Rural Utilities Service
+7, XVII, XVIII, XLII
+Secretary of Agriculture, Office of
+7, Subtitle A
+Transportation, Office of
+7, XXXIII
+World Agricultural Outlook Board
+7, XXXVIII
+Air Force, Department of
+32, VII
+Federal Acquisition Regulation Supplement
+48, 53
+Air Transportation Stabilization Board
+14, VI
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+AMTRAK
+49, VII
+American Battle Monuments Commission
+36, IV
+American Indians, Office of the Special Trustee
+25, VII
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Appalachian Regional Commission
+5, IX
+Architectural and Transportation Barriers Compliance Board
+36, XI
+Arctic Research Commission
+45, XXIII
+Armed Forces Retirement Home
+5, XI; 38, II
+Army, Department of
+32, V
+Engineers, Corps of
+33, II; 36, III
+Federal Acquisition Regulation
+48, 51
+Benefits Review Board
+20, VII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Blind or Severely Disabled, Committee for Purchase from People Who Are
+41, 51
+Broadcasting Board of Governors
+Federal Acquisition Regulation
+48, 19
+Career, Technical, and Adult Education, Office of
+34, IV
+Census Bureau
+15, I
+Centers for Medicare
+Medicaid Services
+42, IV
+Central Intelligence Agency
+32, XIX
+Chemical Safety and Hazard Investigation Board
+40, VI
+Chief Financial Officer, Office of
+7, XXX
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Civil Rights, Commission on
+5, LXVIII; 45, VII
+Civil Rights, Office for
+34, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Commerce, Department of
+2, XIII; 44, IV; 50, VI
+Census Bureau
+15, I
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 13
+Foreign-Trade Zones Board
+15, IV
+Industry and Security, Bureau of
+15, VII
+International Trade Administration
+15, III; 19, III
+National Institute of Standards and Technology
+15, II; 37, IV
+National Marine Fisheries Service
+50, II, IV
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV
+National Weather Service
+15, IX
+Patent and Trademark Office, United States
+37, I
+Secretary of Commerce, Office of
+15, Subtitle A
+Commercial Space Transportation
+14, III
+Commodity Credit Corporation
+7, XIV
+Commodity Futures Trading Commission
+5, XLI; 17, I
+Community Planning and Development, Office of Assistant Secretary for
+24, V
+Community Services, Office of
+45, X
+Comptroller of the Currency
+12, I
+Construction Industry Collective Bargaining Commission
+29, IX
+Consumer Financial Protection Bureau
+5, LXXXIV; 12, X
+Consumer Product Safety Commission
+5, LXXI; 16, II
+Copyright Royalty Board
+37, III
+Corporation for National and Community Service
+2, XXII; 45, XII, XXV
+Cost Accounting Standards Board
+48, 99
+Council on Environmental Quality
+40, V
+Council of the Inspectors General on Integrity and Efficiency
+5, XCVIII
+Court Services and Offender Supervision Agency for the District of Columbia
+5, LXX; 28, VIII
+Customs and Border Protection
+19, I
+Defense, Department of
+2, XI; 5, XXVI; 32, Subtitle A; 40, VII
+Advanced Research Projects Agency
+32, I
+Air Force Department
+32, VII
+Army Department
+32, V; 33, II; 36, III; 48, 51
+Defense Acquisition Regulations System
+48, 2
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, I, XII; 48, 54
+Engineers, Corps of
+33, II; 36, III
+National Imagery and Mapping Agency
+32, I
+Navy, Department of
+32, VI; 48, 52
+Secretary of Defense, Office of
+2, XI; 32, I
+Defense Contract Audit Agency
+32, I
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, XII; 48, 54
+Defense Nuclear Facilities Safety Board
+10, XVII
+Delaware River Basin Commission
+18, III
+Denali Commission
+45, IX
+Disability, National Council on
+5, C; 34, XII
+District of Columbia, Court Services and Offender Supervision Agency for the
+5, LXX; 28, VIII
+Drug Enforcement Administration
+21, II
+East-West Foreign Trade Board
+15, XIII
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Economic Research Service
+7, XXXVII
+Education, Department of
+2, XXXIV; 5, LIII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Career, Technical, and Adult Education, Office of
+34, IV
+Civil Rights, Office for
+34, I
+Educational Research and Improvement, Office of
+34, VII
+Elementary and Secondary Education, Office of
+34, II
+Federal Acquisition Regulation
+48, 34
+Postsecondary Education, Office of
+34, VI
+Secretary of Education, Office of
+34, Subtitle A
+Special Education and Rehabilitative Services, Office of
+34, III
+Educational Research and Improvement, Office of
+34, VII
+Election Assistance Commission
+2, LVIII; 11, II
+Elementary and Secondary Education, Office of
+34, II
+Emergency Oil and Gas Guaranteed Loan Board
+13, V
+Emergency Steel Guarantee Loan Board
+13, IV
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employees Loyalty Board
+5, V
+Employment and Training Administration
+20, V
+Employment Policy, National Commission for
+1, IV
+Employment Standards Administration
+20, VI
+Endangered Species Committee
+50, IV
+Energy, Department of
+2, IX; 5, XXIII; 10, II, III, X
+Federal Acquisition Regulation
+48, 9
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Property Management Regulations
+41, 109
+Energy, Office of
+7, XXIX
+Energy and Environmental Policy, Office of
+7, XXI
+Engineers, Corps of
+33, II; 36, III
+Engraving and Printing, Bureau of
+31, VI
+Environmental Protection Agency
+2, XV; 5, LIV; 40, I, IV, VII
+Federal Acquisition Regulation
+48, 15
+Property Management Regulations
+41, 115
+Environmental Quality, Office of
+7, XXXI
+Equal Employment Opportunity Commission
+5, LXII; 29, XIV
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Executive Office of the President
+3, I
+Environmental Quality, Council on
+40, V
+Management and Budget, Office of
+2, Subtitle A; 5, III, LXXVII; 14, VI; 48, 99
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Security Council
+32, XXI; 47, II
+Presidential Documents
+3
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Trade Representative, Office of the United States
+15, XX
+Export-Import Bank of the United States
+2, XXXV; 5, LII; 12, IV
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Farm Credit Administration
+5, XXXI; 12, VI
+Farm Credit System Insurance Corporation
+5, XXX; 12, XIV
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 1
+Federal Acquisition Security Council
+41, 201
+Federal Aviation Administration
+14, I
+Commercial Space Transportation
+14, III
+Federal Claims Collection Standards
+31, IX
+Federal Communications Commission
+2, LX; 5, XXIX; 47, I
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Crop Insurance Corporation
+7, IV
+Federal Deposit Insurance Corporation
+5, XXII; 12, III
+Federal Election Commission
+5, XXXVII; 11, I
+Federal Emergency Management Agency
+44, I
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Federal Financial Institutions Examination Council
+12, XI
+Federal Financing Bank
+12, VIII
+Federal Highway Administration
+23, I, II
+Federal Home Loan Mortgage Corporation
+1, IV
+Federal Housing Enterprise Oversight Office
+12, XVII
+Federal Housing Finance Agency
+5, LXXX; 12, XII
+Federal Labor Relations Authority
+5, XIV, XLIX; 22, XIV
+Federal Law Enforcement Training Center
+31, VII
+Federal Management Regulation
+41, 102
+Federal Maritime Commission
+46, IV
+Federal Mediation and Conciliation Service
+5, CIII; 29, XII
+Federal Mine Safety and Health Review Commission
+5, LXXIV; 29, XXVII
+Federal Motor Carrier Safety Administration
+49, III
+Federal Permitting Improvement Steering Council
+40, IX
+Federal Prison Industries, Inc.
+28, III
+Federal Procurement Policy Office
+48, 99
+Federal Property Management Regulations
+41, 101
+Federal Railroad Administration
+49, II
+Federal Register, Administrative Committee of
+1, I
+Federal Register, Office of
+1, II
+Federal Reserve System
+12, II
+Board of Governors
+5, LVIII
+Federal Retirement Thrift Investment Board
+5, VI, LXXVI
+Federal Service Impasses Panel
+5, XIV
+Federal Trade Commission
+5, XLVII; 16, I
+Federal Transit Administration
+49, VI
+Federal Travel Regulation System
+41, Subtitle F
+Financial Crimes Enforcement Network
+31, X
+Financial Research Office
+12, XVI
+Financial Stability Oversight Council
+12, XIII
+Fine Arts, Commission of
+45, XXI
+Fiscal Service
+31, II
+Fish and Wildlife Service, United States
+50, I, IV
+Food and Drug Administration
+21, I
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Foreign Assets Control, Office of
+31, V
+Foreign Claims Settlement Commission of the United States
+45, V
+Foreign Service Grievance Board
+22, IX
+Foreign Service Impasse Disputes Panel
+22, XIV
+Foreign Service Labor Relations Board
+22, XIV
+Foreign-Trade Zones Board
+15, IV
+Forest Service
+36, II
+General Services Administration
+5, LVII; 41, 105
+Contract Appeals, Board of
+48, 61
+Federal Acquisition Regulation
+48, 5
+Federal Management Regulation
+41, 102
+Federal Property Management Regulations
+41, 101
+Federal Travel Regulation System
+41, Subtitle F
+General
+41, 300
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Relocation Allowances
+41, 302
+Temporary Duty (TDY) Travel Allowances
+41, 301
+Geological Survey
+30, IV
+Government Accountability Office
+4, I
+Government Ethics, Office of
+5, XVI
+Government National Mortgage Association
+24, III
+Grain Inspection, Packers and Stockyards Administration
+7, VIII; 9, II
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Gulf Coast Ecosystem Restoration Council
+2, LIX; 40, VIII
+Harry S. Truman Scholarship Foundation
+45, XVIII
+Health and Human Services, Department of
+2, III; 5, XLV; 45, Subtitle A
+Centers for Medicare
+Medicaid Services
+42, IV
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Community Services, Office of
+45, X
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Federal Acquisition Regulation
+48, 3
+Food and Drug Administration
+21, I
+Indian Health Service
+25, V
+Inspector General (Health Care), Office of
+42, V
+Public Health Service
+42, I
+Refugee Resettlement, Office of
+45, IV
+Homeland Security, Department of
+2, XXX; 5, XXXVI; 6, I; 8, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Customs and Border Protection
+19, I
+Federal Emergency Management Agency
+44, I
+Human Resources Management and Labor Relations Systems
+5, XCVII
+Immigration and Customs Enforcement Bureau
+19, IV
+Transportation Security Administration
+49, XII
+Housing and Urban Development, Department of
+2, XXIV; 5, LXV; 24, Subtitle B
+Community Planning and Development, Office of Assistant Secretary for
+24, V
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Federal Acquisition Regulation
+48, 24
+Federal Housing Enterprise Oversight, Office of
+12, XVII
+Government National Mortgage Association
+24, III
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Inspector General, Office of
+24, XII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Secretary, Office of
+24, Subtitle A, VII
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Immigration and Customs Enforcement Bureau
+19, IV
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Office of
+28, VII
+Independent Counsel, Offices of
+28, VI
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Indian Health Service
+25, V
+Industry and Security, Bureau of
+15, VII
+Information Resources Management, Office of
+7, XXVII
+Information Security Oversight Office, National Archives and Records Administration
+32, XX
+Inspector General
+Agriculture Department
+7, XXVI
+Health and Human Services Department
+42, V
+Housing and Urban Development Department
+24, XII
+Institute of Peace, United States
+22, XVII
+Intellectual Property Enforcement Coordinator, Office of
+5, CIV
+Inter-American Foundation
+5, LXIII; 22, X
+Interior, Department of
+2, XIV
+American Indians, Office of the Special Trustee
+25, VII
+Endangered Species Committee
+50, IV
+Federal Acquisition Regulation
+48, 14
+Federal Property Management Regulations System
+41, 114
+Fish and Wildlife Service, United States
+50, I, IV
+Geological Survey
+30, IV
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Land Management, Bureau of
+43, II
+National Indian Gaming Commission
+25, III
+National Park Service
+36, I
+Natural Resource Revenue, Office of
+30, XII
+Ocean Energy Management, Bureau of
+30, V
+Reclamation, Bureau of
+43, I
+Safety and Environmental Enforcement, Bureau of
+30, II
+Secretary of the Interior, Office of
+2, XIV; 43, Subtitle A
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Internal Revenue Service
+26, I
+International Boundary and Water Commission, United States and Mexico, United States Section
+22, XI
+International Development, United States Agency for
+22, II
+Federal Acquisition Regulation
+48, 7
+International Development Cooperation Agency, United States
+22, XII
+International Development Finance Corporation, U.S.
+2, XVI; 5, XXXIII; 22, VII
+International Joint Commission, United States and Canada
+22, IV
+International Organizations Employees Loyalty Board
+5, V
+International Trade Administration
+15, III; 19, III
+International Trade Commission, United States
+19, II
+Interstate Commerce Commission
+5, XL
+Investment Security, Office of
+31, VIII
+James Madison Memorial Fellowship Foundation
+45, XXIV
+Japan-United States Friendship Commission
+22, XVI
+Joint Board for the Enrollment of Actuaries
+20, VIII
+Justice, Department of
+2, XXVIII; 5, XXVIII; 28, I, XI; 40, IV
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+Drug Enforcement Administration
+21, II
+Federal Acquisition Regulation
+48, 28
+Federal Claims Collection Standards
+31, IX
+Federal Prison Industries, Inc.
+28, III
+Foreign Claims Settlement Commission of the United States
+45, V
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Offices of
+28, VI
+Prisons, Bureau of
+28, V
+Property Management Regulations
+41, 128
+Labor, Department of
+2, XXIX; 5, XLII
+Benefits Review Board
+20, VII
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employment and Training Administration
+20, V
+Federal Acquisition Regulation
+48, 29
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Procurement Regulations System
+41, 50
+Labor-Management Standards, Office of
+29, II, IV
+Mine Safety and Health Administration
+30, I
+Occupational Safety and Health Administration
+29, XVII
+Public Contracts
+41, 50
+Secretary of Labor, Office of
+29, Subtitle A
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Wage and Hour Division
+29, V
+Workers' Compensation Programs, Office of
+20, I, VI
+Labor-Management Standards, Office of
+29, II, IV
+Land Management, Bureau of
+43, II
+Legal Services Corporation
+45, XVI
+Libraries and Information Science, National Commission on
+45, XVII
+Library of Congress
+36, VII
+Copyright Royalty Board
+37, III
+U.S. Copyright Office
+37, II
+Management and Budget, Office of
+2, Subpart A; 5, III, LXXVII; 14, VI; 48, 99
+Marine Mammal Commission
+50, V
+Maritime Administration
+46, II
+Merit Systems Protection Board
+5, II, LXIV
+Micronesian Status Negotiations, Office for
+32, XXVII
+Military Compensation and Retirement Modernization Commission
+5, XCIX
+Millennium Challenge Corporation
+22, XIII
+Mine Safety and Health Administration
+30, I
+Minority Business Development Agency
+15, XIV
+Miscellaneous Agencies
+1, IV
+Monetary Offices
+31, I
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation
+36, XVI
+Museum and Library Services, Institute of
+2, XXXI
+National Aeronautics and Space Administration
+2, XVIII; 5, LIX; 14, V
+Federal Acquisition Regulation
+48, 18
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National and Community Service, Corporation for
+2, XXII; 45, XII, XXV
+National Archives and Records Administration
+2, XXVI; 5, LXVI; 36, XII
+Information Security Oversight Office
+32, XX
+National Capital Planning Commission
+1, IV, VI
+National Counterintelligence Center
+32, XVIII
+National Credit Union Administration
+5, LXXXVI; 12, VII
+National Crime Prevention and Privacy Compact Council
+28, IX
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Endowment for the Arts
+2, XXXII
+National Endowment for the Humanities
+2, XXXIII
+National Foundation on the Arts and the Humanities
+45, XI
+National Geospatial-Intelligence Agency
+32, I
+National Highway Traffic Safety Administration
+23, II, III; 47, VI; 49, V
+National Imagery and Mapping Agency
+32, I
+National Indian Gaming Commission
+25, III
+National Institute of Food and Agriculture
+7, XXXIV
+National Institute of Standards and Technology
+15, II; 37, IV
+National Intelligence, Office of Director of
+5, IV; 32, XVII
+National Labor Relations Board
+5, LXI; 29, I
+National Marine Fisheries Service
+50, II, IV
+National Mediation Board
+5, CI; 29, X
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Park Service
+36, I
+National Railroad Adjustment Board
+29, III
+National Railroad Passenger Corporation (AMTRAK)
+49, VII
+National Science Foundation
+2, XXV; 5, XLIII; 45, VI
+Federal Acquisition Regulation
+48, 25
+National Security Council
+32, XXI; 47, II
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV, V
+National Transportation Safety Board
+49, VIII
+Natural Resource Revenue, Office of
+30, XII
+Natural Resources Conservation Service
+7, VI
+Navajo and Hopi Indian Relocation, Office of
+25, IV
+Navy, Department of
+32, VI
+Federal Acquisition Regulation
+48, 52
+Neighborhood Reinvestment Corporation
+24, XXV
+Northeast Interstate Low-Level Radioactive Waste Commission
+10, XVIII
+Nuclear Regulatory Commission
+2, XX; 5, XLVIII; 10, I
+Federal Acquisition Regulation
+48, 20
+Occupational Safety and Health Administration
+29, XVII
+Occupational Safety and Health Review Commission
+29, XX
+Ocean Energy Management, Bureau of
+30, V
+Oklahoma City National Memorial Trust
+36, XV
+Operations Office
+7, XXVIII
+Patent and Trademark Office, United States
+37, I
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Peace Corps
+2, XXXVII; 22, III
+Pennsylvania Avenue Development Corporation
+36, IX
+Pension Benefit Guaranty Corporation
+29, XL
+Personnel Management, Office of
+5, I, IV, XXXV; 45, VIII
+Federal Acquisition Regulation
+48, 17
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Human Resources Management and Labor Relations Systems, Department of Homeland Security
+5, XCVII
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Postal Regulatory Commission
+5, XLVI; 39, III
+Postal Service, United States
+5, LX; 39, I
+Postsecondary Education, Office of
+34, VI
+President's Commission on White House Fellowships
+1, IV
+Presidential Documents
+3
+Presidio Trust
+36, X
+Prisons, Bureau of
+28, V
+Privacy and Civil Liberties Oversight Board
+6, X
+Procurement and Property Management, Office of
+7, XXXII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Public Contracts, Department of Labor
+41, 50
+Public Health Service
+42, I
+Railroad Retirement Board
+20, II
+Reclamation, Bureau of
+43, I
+Refugee Resettlement, Office of
+45, IV
+Relocation Allowances
+41, 302
+Research and Innovative Technology Administration
+49, XI
+Rural Business-Cooperative Service
+7, XVIII, XLII, L
+Rural Housing Service
+7, XVIII, XXXV, L
+Rural Utilities Service
+7, XVII, XVIII, XLII, L
+Safety and Environmental Enforcement, Bureau of
+30, II
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Secret Service
+31, IV
+Securities and Exchange Commission
+5, XXXIV; 17, II
+Selective Service System
+32, XVI
+Small Business Administration
+2, XXVII; 13, I
+Smithsonian Institution
+36, V
+Social Security Administration
+2, XXIII; 20, III; 48, 23
+Soldiers' and Airmen's Home, United States
+5, XI
+Special Counsel, Office of
+5, VIII
+Special Education and Rehabilitative Services, Office of
+34, III
+State, Department of
+2, VI; 22, I; 28, XI
+Federal Acquisition Regulation
+48, 6
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Surface Transportation Board
+49, X
+Susquehanna River Basin Commission
+18, VIII
+Tennessee Valley Authority
+5, LXIX; 18, XIII
+Trade Representative, United States, Office of
+15, XX
+Transportation, Department of
+2, XII; 5, L
+Commercial Space Transportation
+14, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 12
+Federal Aviation Administration
+14, I
+Federal Highway Administration
+23, I, II
+Federal Motor Carrier Safety Administration
+49, III
+Federal Railroad Administration
+49, II
+Federal Transit Administration
+49, VI
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Maritime Administration
+46, II
+National Highway Traffic Safety Administration
+23, II, III; 47, IV; 49, V
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Secretary of Transportation, Office of
+14, II; 49, Subtitle A
+Transportation Statistics Bureau
+49, XI
+Transportation, Office of
+7, XXXIII
+Transportation Security Administration
+49, XII
+Transportation Statistics Bureau
+49, XI
+Travel Allowances, Temporary Duty (TDY)
+41, 301
+Treasury, Department of the
+2, X; 5, XXI; 12, XV; 17, IV; 31, IX
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Community Development Financial Institutions Fund
+12, XVIII
+Comptroller of the Currency
+12, I
+Customs and Border Protection
+19, I
+Engraving and Printing, Bureau of
+31, VI
+Federal Acquisition Regulation
+48, 10
+Federal Claims Collection Standards
+31, IX
+Federal Law Enforcement Training Center
+31, VII
+Financial Crimes Enforcement Network
+31, X
+Fiscal Service
+31, II
+Foreign Assets Control, Office of
+31, V
+Internal Revenue Service
+26, I
+Investment Security, Office of
+31, VIII
+Monetary Offices
+31, I
+Secret Service
+31, IV
+Secretary of the Treasury, Office of
+31, Subtitle A
+Truman, Harry S. Scholarship Foundation
+45, XVIII
+United States Agency for Global Media
+2, XIX; 22, V
+United States and Canada, International Joint Commission
+22, IV
+United States and Mexico, International Boundary and Water Commission, United States Section
+22, XI
+U.S. Copyright Office
+37, II
+U.S. Office of Special Counsel
+5, CII
+Utah Reclamation Mitigation and Conservation Commission
+43, III
+Veterans Affairs, Department of
+2, VIII; 38, I
+Federal Acquisition Regulation
+48, 8
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Vice President of the United States, Office of
+32, XXVIII
+Wage and Hour Division
+29, V
+Water Resources Council
+18, VI
+Workers' Compensation Programs, Office of
+20, I, VI
+World Agricultural Outlook Board
+7, XXXVIII
+31 CFR (7-1-25 Edition)
+List of Sections Affected
+
+# List of CFR Sections Affected
+All changes in this volume of the Code of Federal Regulations (CFR) that were made by documents published in the
+Federal Register
+since January 1, 2020 are enumerated in the following list. Entries indicate the nature of the changes effected. Page numbers refer to
+Federal Register
+pages. The user should consult the entries for chapters, parts and subparts as well as sections for revisions.
+For changes to this volume of the CFR prior to this listing, consult the annual edition of the monthly List of CFR Sections Affected (LSA). The LSA is available at
+www.govinfo.gov.
+For changes to this volume of the CFR prior to 2001, see the “List of CFR Sections Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000” published in 11 separate volumes. The “List of CFR Sections Affected 1986-2000” is available at
+www.govinfo.gov.
+2020
+31 CFR
+85 FR
+Page
+Chapter II
+250.1403 Revised
+12735
+2021
+(No regulations published)
+2022
+31 CFR
+87 FR
+Page
+Chapter II
+210.2 (a) and (d) introductory text revised; (d)(2) through (7) redesignated as (d)(3) through (8); new (d)(2) added
+46
+210.3 (b) revised
+46
+210.6 (g) amended
+47
+285.1 (q) added
+50248
+285.3 (m) added
+50248
+285.5 (l) added
+50248
+285.6 (n) added
+50248
+285.8 (k) added
+50248
+285.12 (a), (d)(1)(v), and (i) amended; (b), (c), (d)(1)(iii), (4), and (j) revised; (d)(1)(vi) redesignated as (d)(1)(vii); new (d)(1)(vi), (5) introductory text, and (k) added; (d)(6) and (e) removed
+50249
+285.12 Correction: (a) amended
+51611
+356.2 Amended
+40439
+356.4 Introductory text and (b) revised; (c) removed
+40439
+356.5 Introductory text and (b)(1) introductory text Footnote 1 revised; (b)(2)(vi) and (c)(2)(vi) added
+40439
+356.11 (a)(1) amended; (c) revised; (d) removed
+40439
+356.12 (b)(1) and (c)(3) revised
+40439
+356.14 (a) revised
+40440
+356.17 (b) revised; (c) removed; (d) redesignated as new (c)
+40440
+356.20 (b) introductory text revised
+40440
+356.22 (a) revised
+40440
+356.23 (a) and (b) introductory text revised
+40440
+356.25 (a) and (b) revised; (d) removed
+40440
+356.30 (c)(2) heading revised; (c)(3) removed
+40440
+356 Appendix B amended
+40440
+2023
+31 CFR
+88 FR
+Page
+Chapter II
+240.2 Revised
+74888
+240.4 (d) revised
+74889
+240.6 (c)(3) revised
+74889
+240.12 (a)(1)(ii) and (iii) revised; (a)(1)(iv) added
+74889
+Chapter IV
+401.102 (a) revised
+89559
+2024
+31 CFR
+89 FR
+Page
+Chapter II
+208 Correction: (a)(4) and (7) revised; new (a)(8) amended
+18543
+208.4 (a)(3) through (7) redesignated as (a)(4) through (8); new (a)(3) and (c) added; (a)(1)(ii), new (4), new (7), new (8), and (b) revised; new (a)(4) amended
+12960
+208.7 Revised
+12960
+208.9 (b) revised
+12960
+223.1 Revised
+48831
+223.2 Revised
+48831
+223.3 Revised
+48832
+223.4 Removed
+48832
+223.5 Revised
+48832
+223.6 Removed
+48832
+223.7 Revised
+48832
+223.8 Revised
+48833
+223.9 Revised
+48833
+223.10 Revised
+48834
+223.11 Revised
+48834
+223.12 Revised
+48835
+223.13 Removed
+48837
+223.14 Removed
+48837
+223.15 Revised
+48837
+223.16 Amended
+48837
+223.17 (b)(1)(iii) and (iv) revised
+48837
+223.18 (a) introductory text and (1) revised
+48837
+223.19 Introductory text and (b)(2) revised
+48837
+223.20 (b)(1), (h)(8), and (9) revised
+48838
+223.21 Revised
+48838
+223.22 Revised
+48838
+323.1—323.5 (Subpart A) Designated as Subpart A
+102741
+323.1 Amended
+102741
+323.10—323.12 (Subpart B) Added
+102741
+344.0 (a) revised; (b)(3) removed
+15447
+344.1 Amended
+15447
+344.2 (d), (e)(2)(i) introductory text, and (f)(1) revised; (e)(3), (4), and (f)(2)(vii) added; (f)(2)(iv), (v) introductory text, and (g) amended
+15448
+344.3 (e) revised
+15449
+344.4 (b)(1) revised
+15449
+344.5 (a), (b), and (d) through (f) revised
+15449
+344.6 (a)(3) revised; (g) removed
+15449
+344.7 (b) revised
+15449
+344.8 (a), (b), and (e) revised
+15450
+344.9 (a) revised
+15450
+344.10—344.11 (Subpart D) Removed
+15450
+380.2 Revised
+3353
+380.4 Revised
+3353
+380.5 (Subpart C) Removed
+3353
+2025
+(No regulations published from January 1, 2025, through July 1, 2025)
+○
