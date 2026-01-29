@@ -75,10 +75,6 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     )
     .await?;
 
-    // Best-effort cleanup
-    let _ = delete_qdrant(&client, &base.qdrant_url, test_collection).await;
-    let _ = delete_quickwit(&client, &base.quickwit_url, test_index).await;
-
     Ok(())
 }
 
