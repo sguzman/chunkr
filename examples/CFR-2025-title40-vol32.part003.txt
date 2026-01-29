@@ -1,0 +1,5105 @@
+(2) The magnitude of the change in measured fuel economy for any vehicle or fleet of vehicles caused by a revision to the test procedures is quantifiable from theoretical calculations or best available test data;
+(3) The impact of a change on average fuel economy is not due to eliminating the ability of manufacturers to take advantage of flexibility within the existing test procedures to gain measured improvements in fuel economy which are not the result of actual improvements in the fuel economy of production vehicles;
+(4) The impact of a change on average fuel economy is not solely due to a greater ability of manufacturers to reflect in average fuel economy those design changes expected to have comparable effects on in-use fuel economy;
+(5) The test procedure change is required by EPA or is a change initiated by EPA in its laboratory and is not a change implemented solely by a manufacturer in its own laboratory.
+(g)(1) Dual fuel automobiles must provide equal or greater energy efficiency while operating on the alternative fuel as while operating on gasoline or diesel fuel to obtain the CAFE credit determined in paragraphs (c)(2)(iv) and (v) of this section or to obtain the carbon-related exhaust emissions credit determined in paragraphs (j)(2)(ii) and (iii) of this section. The following equation must hold true:
+E
+alt
+/E
+pet
+≥
+1
+Where:
+E
+alt
+= [FE
+alt
+/(NHV
+alt
+× D
+alt
+)] × 10
+6
+= energy efficiency while operating on alternative fuel rounded to the nearest 0.01 miles/million BTU.
+E
+pet
+= [FE
+pet
+/(NHV
+pet
+× D
+pet
+)] × 10
+6
+= energy efficiency while operating on gasoline or diesel (petroleum) fuel rounded to the nearest 0.01 miles/million BTU.
+FE
+alt
+is the fuel economy [miles/gallon for liquid fuels or miles/100 standard cubic feet for gaseous fuels] while operated on the alternative fuel as determined in § 600.113-12(a) and (b).
+FE
+pet
+is the fuel economy [miles/gallon] while operated on petroleum fuel (gasoline or diesel) as determined in § 600.113-12(a) and (b).
+NHV
+alt
+is the net (lower) heating value [BTU/lb] of the alternative fuel.
+NHV
+pet
+is the net (lower) heating value [BTU/lb] of the petroleum fuel.
+D
+alt
+is the density [lb/gallon for liquid fuels or lb/100 standard cubic feet for gaseous fuels] of the alternative fuel.
+D
+pet
+is the density [lb/gallon] of the petroleum fuel.
+(i) The equation must hold true for both the FTP city and HFET highway
+fuel economy values for each test of each test vehicle.
+(ii)(A) The net heating value for alcohol fuels shall be premeasured using a test method which has been approved in advance by the Administrator.
+(B) The density for alcohol fuels shall be premeasured using ASTM D 1298 (incorporated by reference at § 600.011).
+(iii) The net heating value and density of gasoline are to be determined by the manufacturer in accordance with § 600.113.
+(2) [Reserved]
+(3) Dual fuel passenger automobiles manufactured during model years 1993 through 2019 must meet the minimum driving range requirements established by the Secretary of Transportation (49 CFR part 538) to obtain the CAFE credit determined in paragraphs (c)(2)(iv) and (v) of this section.
+(h) The increase in average fuel economy determined in paragraph (c) of this section attributable to dual fueled automobiles is subject to a maximum value through model year 2019 that applies separately to each category of automobile specified in paragraph (a)(1) of this section. The increase in average fuel economy attributable to vehicles fueled by electricity or, for model years 2016 and later, by compressed natural gas, is not subject to a maximum value. The increase in average fuel economy attributable to alcohol dual fuel model types calculated under paragraph (c)(2)(v) of this section is also not subject to a maximum value. The following maximum values apply under this paragraph (h):
+Model year
+Maximum
+increase
+(mpg)
+1993-2014
+1.2
+2015
+1.0
+2016
+0.8
+2017
+0.6
+2018
+0.4
+2019
+0.2
+(1) The Administrator shall calculate the increase in average fuel economy to determine if the maximum increase provided in this paragraph (h) has been reached. The Administrator shall calculate the increase in average fuel economy for each category of automobiles specified in paragraph (a)(1) of this section by subtracting the average fuel economy values calculated in accordance with this section, assuming all alcohol dual fueled automobiles subject to the provisions of paragraph (c)(2)(iv) of this section are operated exclusively on gasoline (or diesel fuel), from the average fuel economy values determined in paragraph (c) of this section. The difference is limited to the maximum increase specified in this paragraph (h).
+(2) [Reserved]
+(i) For model years 2012 through 2015, and for each category of automobile identified in paragraph (a)(1) of this section, the maximum decrease in average carbon-related exhaust emissions determined in paragraph (j) of this section attributable to alcohol dual fuel automobiles and natural gas dual fuel automobiles shall be calculated using the following formula, and rounded to the nearest tenth of a gram per mile:
+ER15OC12.068
+Where:
+FltAvg = The fleet average CREE value in grams per mile, rounded to the nearest whole number, for passenger automobiles or light trucks determined for the applicable model year according to paragraph (j) of this section, except by assuming all alcohol dual fuel and natural gas dual fuel automobiles are operated exclusively on gasoline (or diesel) fuel. For the purposes of these calculations, the values for natural gas dual fuel automobiles using the optional Utility Factor approach in paragraph (j)(2)(vii) of this section shall not be the gasoline CREE values, but the CREE values determined in paragraph (j)(2)(vii) of this section.
+MPG
+MAX
+= The maximum increase in miles per gallon determined for the appropriate
+model year in paragraph (h) of this section.
+(1) The Administrator shall calculate the decrease in average carbon-related exhaust emissions to determine if the maximum decrease provided in this paragraph (i) has been reached. The Administrator shall calculate the average carbon-related exhaust emissions for each category of automobiles specified in paragraph (a) of this section by subtracting the average carbon-related exhaust emission values determined in paragraph (j) of this section from the average carbon-related exhaust emission values calculated in accordance with this section by assuming all alcohol dual fuel and natural gas dual fuel automobiles are operated exclusively on gasoline (or diesel) fuel. For the purposes of these calculations, the values for natural gas dual fuel automobiles using the optional Utility Factor approach in paragraph (j)(2)(vii) of this section shall not be the gasoline CREE values, but the CREE values determined in paragraph (j)(2)(vii) of this section. The difference is limited to the maximum decrease specified in paragraph (i) of this section.
+(2) [Reserved]
+(j) The average carbon-related exhaust emissions will be calculated individually for each category identified in paragraph (a)(1) of this section as follows:
+(1) Divide the total production volume of that category of automobiles into:
+(2) A sum of terms, each of which corresponds to a model type within that category of automobiles and is a product determined by multiplying the number of automobiles of that model type produced by the manufacturer in the model year by:
+(i) For gasoline-fueled and diesel-fueled model types, the carbon-related exhaust emissions value calculated for that model type in accordance with paragraph (b)(2) of this section; or
+(ii)(A) For alcohol-fueled model types, for model years 2012 through 2015, the carbon-related exhaust emissions value calculated for that model type in accordance with paragraph (b)(2) of this section multiplied by 0.15 and rounded to the nearest gram per mile, except that manufacturers complying with the fleet averaging option for N
+2
+O and CH
+4
+as allowed under § 86.1818 of this chapter must perform this calculation such that N
+2
+O and CH
+4
+values are not multiplied by 0.15; or
+(B) For alcohol-fueled model types, for model years 2016 and later, the carbon-related exhaust emissions value calculated for that model type in accordance with paragraph (b)(2) of this section; or
+(iii)(A) For natural gas-fueled model types, for model years 2012 through 2015, the carbon-related exhaust emissions value calculated for that model type in accordance with paragraph (b)(2) of this section multiplied by 0.15 and rounded to the nearest gram per mile, except that manufacturers complying with the fleet averaging option for N
+2
+O and CH
+4
+as allowed under § 86.1818 of this chapter must perform this calculation such that N
+2
+O and CH
+4
+values are not multiplied by 0.15; or
+(B) For natural gas-fueled model types, for model years 2016 and later, the carbon-related exhaust emissions value calculated for that model type in accordance with paragraph (b)(2) of this section; or
+(iv) For alcohol dual fuel model types, for model years 2012 through 2015, the arithmetic average of the following two terms, the result rounded to the nearest gram per mile:
+(A) The combined model type carbon-related exhaust emissions value for operation on gasoline or diesel fuel as determined in § 600.208-12(b)(5)(i); and
+(B) The combined model type carbon-related exhaust emissions value for operation on alcohol fuel as determined in § 600.208-12(b)(5)(ii) multiplied by 0.15 provided the requirements of paragraph (g) of this section are met, except that manufacturers complying with the fleet averaging option for N
+2
+O and CH
+4
+as allowed under § 86.1818 of this chapter must perform this calculation such that N
+2
+O and CH
+4
+values are not multiplied by 0.15; or
+(v) For natural gas dual fuel model types, for model years 2012 through 2015, the arithmetic average of the following two terms; the result rounded to the nearest gram per mile:
+(A) The combined model type carbon-related exhaust emissions value for operation on gasoline or diesel as determined in § 600.208-12(b)(5)(i); and
+(B) The combined model type carbon-related exhaust emissions value for operation on natural gas as determined in § 600.208-12(b)(5)(ii) multiplied by 0.15 provided the requirements of paragraph (g) of this section are met, except that manufacturers complying with the fleet averaging option for N
+2
+O and CH
+4
+as allowed under § 86.1818 of this chapter must perform this calculation such that N
+2
+O and CH
+4
+values are not multiplied by 0.15.
+(vi) For alcohol dual fuel model types, for model years 2016 and later, the combined model type carbon-related exhaust emissions value determined according to the following formula and rounded to the nearest gram per mile:
+CREE = (F × CREE
+alt
+) + ((1 − F) × CREE
+gas
+)
+Where:
+F = 0.00 unless otherwise approved by the Administrator according to the provisions of paragraph (k) of this section;
+CREE
+alt
+= The combined model type carbon-related exhaust emissions value for operation on alcohol fuel as determined in § 600.208-12(b)(5)(ii); and
+CREE
+gas
+= The combined model type carbon-related exhaust emissions value for operation on gasoline or diesel fuel as determined in § 600.208-12(b)(5)(i).
+(vii)(A) This paragraph (j)(2)(vii) applies to model year 2016 and later natural gas dual fuel model types. Model year 2021 and later natural gas dual fuel model types may use a utility factor of 0.5 or the utility factor prescribed in this paragraph (j)(2)(vii).
+ER15OC12.069
+Where:
+CREE
+CNG
+= The combined model type carbon-related exhaust emissions value for operation on natural gas as determined in § 600.208-12(b)(5)(ii); and
+CREE
+GAS
+= The combined model type carbon-related exhaust emissions value for operation on gasoline or diesel fuel as determined in § 600.208-12(b)(5)(i).
+UF = A Utility Factor (UF) value selected from the following table based on the driving range of the vehicle while operating on natural gas, except for natural gas dual fuel vehicles that do not meet the criteria in paragraph (j)(2)(vii)(B) the Utility Factor shall be 0.5. Determine the vehicle's driving range in miles by multiplying the combined fuel economy as determined in § 600.208-12(b)(5)(ii) by the vehicle's usable fuel storage capacity (as defined at § 600.002 and expressed in gasoline gallon equivalents), and rounding to the nearest 10 miles.
+Driving range
+(miles)
+UF
+10
+0.228
+20
+0.397
+30
+0.523
+40
+0.617
+50
+0.689
+60
+0.743
+70
+0.785
+80
+0.818
+90
+0.844
+100
+0.865
+110
+0.882
+120
+0.896
+130
+0.907
+140
+0.917
+150
+0.925
+160
+0.932
+170
+0.939
+180
+0.944
+190
+0.949
+200
+0.954
+210
+0.958
+220
+0.962
+230
+0.965
+240
+0.968
+250
+0.971
+260
+0.973
+270
+0.976
+280
+0.978
+290
+0.980
+300
+0.981
+(B) Model year 2016 through 2020 natural gas dual fuel model types must meet the following criteria to qualify for use of a Utility Factor greater than 0.5:
+(
+1
+) The driving range using natural gas must be at least two times the driving range using gasoline.
+(
+2
+) The natural gas dual fuel vehicle must be designed such that gasoline is used only when the natural gas tank is
+effectively empty, except for limited use of gasoline that may be required to initiate combustion.
+(k)
+Alternative in-use weighting factors for dual fuel model types.
+Using one of the methods in either paragraph (k)(1) or (2) of this section, manufacturers may request the use of alternative values for the weighting factor F in the equations in paragraphs (j)(2)(vi) and (vii) of this section. Unless otherwise approved by the Administrator, the manufacturer must use the value of F that is in effect in paragraphs (j)(2)(vi) and (vii) of this section.
+(1) Upon written request from a manufacturer, the Administrator will determine and publish by written guidance an appropriate value of F for each requested alternative fuel based on the Administrator's assessment of real-world use of the alternative fuel. Such published values would be available for any manufacturer to use. The Administrator will periodically update these values upon written request from a manufacturer.
+(2) The manufacturer may optionally submit to the Administrator its own demonstration regarding the real-world use of the alternative fuel in their vehicles and its own estimate of the appropriate value of F in the equations in paragraphs (j)(2)(vi) and (vii) of this section. Depending on the nature of the analytical approach, the manufacturer could provide estimates of F that are model type specific or that are generally applicable to the manufacturer's dual fuel fleet. The manufacturer's analysis could include use of data gathered from on-board sensors and computers, from dual fuel vehicles in fleets that are centrally fueled, or from other sources. The analysis must be based on sound statistical methodology and must account for analytical uncertainty. Any approval by the Administrator will pertain to the use of values of F for the model types specified by the manufacturer.
+[75 FR 25714, May 7, 2010, as amended at 76 FR 39567, July 6, 2011; 77 FR 63184, Oct. 15, 2012; 81 FR 74003, Dec. 27, 2016; 85 FR 25272, Apr. 30, 2020; 85 FR 53679, Aug. 31, 2020; 86 FR 74526, Dec. 30, 2021; 88 FR 4484, Jan. 24, 2023]
+§ 600.511-08
+Determination of domestic production.
+(a) Except with advance approval of the Administrator, an automobile shall be considered domestically produced in any model year if it is included within a domestically produced car line (car line includes station wagons for purposes of this paragraph), unless the assembly of such automobile is completed in Canada or Mexico and such automobile is not imported into the United States prior to the expiration of 30 days following the end of the model year. For purposes of this paragraph a car line will be considered domestically produced if the following ratio is less than 0.25:
+(1) The sum of the declared value, as defined in § 600.502, of all of the imported components installed or included on automobiles produced within such a car line within a given model year plus the cost of transportation and insuring such components to the United States port of entry, the Mexican port of entry (when paragraph (b)(3) of this section applies), or the Canadian port of entry but exclusive of any customs duty, divided by
+(2) The cost of production, as defined in § 600.502, of automobiles within such car line.
+(b) For the purposes of calculations under this subpart with respect to automobiles manufactured during any model year,
+(1) An average exchange rate for the country of origin of each imported component shall be used that is calculated by taking the mean of the exchange rates in effect at the end of each quarter set by the Federal Reserve Bank of New York for twelve calendar quarters prior to and including the calendar quarter ending one year prior to the date that the manufacturer submits the calculation of the preliminary average for such model year. Such rate, once calculated, shall be in effect for the duration of the model year. Upon petition of a manufacturer, the Administrator may permit the use of a different exchange rate where appropriate and necessary.
+(2) For automobiles for which paragraph (b)(3) of this section does not
+apply pursuant to the schedule in paragraph (b)(4), components shall be considered imported unless they are either:
+(i) Wholly the growth, product, or manufacture of the United States and/or Canada, or
+(ii) Substantially transformed in the United States or Canada into a new and different article of commerce.
+(3) For automobiles for which this paragraph applies pursuant to the schedule in paragraph (b)(4) of this section, components shall be considered imported unless they are either:
+(i) Wholly the growth, product, or manufacture of the United States and/or Canada and/or Mexico, or
+(ii) Substantially transformed in the United States and/or Canada and/or Mexico into a new and different article of commerce.
+(4) Paragraphs (b)(4) (i) through (v) of this section set forth the schedule according to which paragraph (b)(3) of this section applies for all automobiles manufactured by a manufacturer and sold in the United States, wherever assembled.
+(i) With respect to a manufacturer that initiated the assembly of automobiles in Mexico before model year 1992, the manufacturer may elect, at any time between January 1, 1997, and January 1, 2004, to have paragraph (b)(3) of this section apply to all automobiles it manufactures, beginning with the model year commencing after the date of such election.
+(ii) With respect to a manufacturer initiating the assembly of automobiles in Mexico after model year 1991, paragraph (b)(3) of this section shall apply to all automobiles it manufactures, beginning with the model year commencing after January 1, 1994, or the model year commencing after the date that the manufacturer initiates the assembly of automobiles in Mexico, whichever is later.
+(iii) With respect to a manufacturer not described by paragraph (b)(4) (i) or (ii) of this section assembling automobiles in the United States or Canada but not in Mexico, the manufacturer may elect, at any time between January 1, 1997, and January 1, 2004, to have paragraph (b)(3) of this section apply to all automobiles it manufactures, beginning with the model year commencing after the date of such election, except that if such manufacturer initiates the assembly of automobiles in Mexico before making such election, this paragraph shall not apply, and the manufacturer shall be subject to paragraph (b)(4)(ii) of this section.
+(iv) With respect to a manufacturer not assembling automobiles in the United States, Canada, or Mexico, paragraph (b)(3) of this section shall apply to all automobiles it manufactures, beginning with the model year commencing after January 1, 1994.
+(v) With respect to a manufacturer authorized to make an election under paragraph (b)(4) (i) or (iii) of this section which has not made that election within the specified period, paragraph (b)(3) of this section shall apply to all automobiles it manufactures, beginning with the model year commencing after January 1, 2004.
+(5) All elections under paragraph (b)(4) of this section shall be made in accordance with the procedures established by the Secretary of Transportation pursuant to 49 U.S.C. 32904(b)(3)(C).
+(c) If it is determined by the Administrator at some date later than the date of entry that the declared value of such imported components did not represent fair market value at the date of entry, through U.S. Bureau of Customs appraisals, the Administrator may review the determination made pursuant to paragraph (a) of this section as to whether the pertinent car lines which utilize such components were correctly included within the manufaturer's domestically-produced or foreign-produced fleets. If such a determination was in error due to misrepresentation of the valuation of imported components at the date of entry, the Administrator may recalculate the manufacturer's average for the affected model year, according to § 600.510, to reflect the correct valuation of such imported components in each affected car line.
+(d)-(e) [Reserved]
+[42 FR 45662, Sept. 12, 1977, as amended at 43 FR 39376, Sept. 5, 1978; 59 FR 679, Jan. 6, 1994; 59 FR 33914, July 1, 1994; 74 FR 61554, Nov. 25, 2009. Redesignated at 76 FR 39569, July 6, 2011]
+§ 600.512-12
+Model year report.
+(a) For each model year, the manufacturer shall submit to the Administrator a report, known as the model year report, containing all information necessary for the calculation of the manufacturer's average fuel economy and all information necessary for the calculation of the manufacturer's average carbon-related exhaust emissions.
+(1) The results of the manufacturer calculations and summary information of model type fuel economy values which are contained in the average fuel economy calculation shall also be submitted to the Secretary of the Department of Transportation, National Highway and Traffic Safety Administration.
+(2) The results of the manufacturer calculations and summary information of model type carbon-related exhaust emission values which are contained in the average calculation shall be submitted to the Administrator.
+(3) Separate reports shall be submitted for passenger automobiles and light trucks (as identified in § 600.510-12).
+(b) The model year report shall be in writing, signed by the authorized representative of the manufacturer and shall be submitted no later than May 1 following the end of the model year. A manufacturer may request an extension for submitting the model year report if that is needed to provide all additional required data as determined in § 600.507-12. The request must clearly indicate the circumstances necessitating the extension.
+(c) The model year report must include the following information:
+(1)(i) All fuel economy data used in the FTP/HFET-based model type calculations under § 600.208, and subsequently required by the Administrator in accordance with § 600.507;
+(ii) All carbon-related exhaust emission data used in the FTP/HFET-based model type calculations under § 600.208, and subsequently required by the Administrator in accordance with § 600.507;
+(2) (i) All fuel economy data for certification vehicles and for vehicles tested for running changes approved under § 86.1842 of this chapter;
+(ii) All carbon-related exhaust emission data for certification vehicles and for vehicles tested for running changes approved under § 86.1842 of this chapter;
+(3) Any additional fuel economy and carbon-related exhaust emission data submitted by the manufacturer under § 600.509;
+(4)(i) A fuel economy value for each model type of the manufacturer's product line calculated according to § 600.510-12(b)(2);
+(ii) A carbon-related exhaust emission value for each model type of the manufacturer's product line calculated according to § 600.510-12(b)(2);
+(5)(i) The manufacturer's average fuel economy value calculated according to § 600.510-12(c);
+(ii) The manufacturer's average carbon-related exhaust emission value calculated according to § 600.510-12(j);
+(6) A listing of both domestically and nondomestically produced car lines as determined in § 600.511 and the cost information upon which the determination was made; and
+(7) The authenticity and accuracy of production data must be attested to by the corporation, and shall bear the signature of an officer (a corporate executive of at least the rank of vice-president) designated by the corporation. Such attestation shall constitute a representation by the manufacturer that the manufacturer has established reasonable, prudent procedures to ascertain and provide production data that are accurate and authentic in all material respects and that these procedures have been followed by employees of the manufacturer involved in the reporting process. The signature of the designated officer shall constitute a representation by the required attestation.
+(8) [Reserved]
+(9) The “required fuel economy level” pursuant to 49 CFR parts 531 or 533, as applicable. Model year reports shall include information in sufficient detail to verify the accuracy of the calculated required fuel economy level, including but is not limited to, production information for each unique footprint within each model type contained in the model year report and the formula used to calculate the required fuel economy level. Model year reports shall include
+a statement that the method of measuring vehicle track width, measuring vehicle wheelbase and calculating vehicle footprint is accurate and complies with applicable Department of Transportation requirements.
+(10) The “required fuel economy level” pursuant to 49 CFR parts 531 or 533 as applicable, and the applicable fleet average CO
+2
+emission standards. Model year reports shall include information in sufficient detail to verify the accuracy of the calculated required fuel economy level and fleet average CO
+2
+emission standards, including but is not limited to, production information for each unique footprint within each model type contained in the model year report and the formula used to calculate the required fuel economy level and fleet average CO
+2
+emission standards. Model year reports shall include a statement that the method of measuring vehicle track width, measuring vehicle wheelbase and calculating vehicle footprint is accurate and complies with applicable Department of Transportation and EPA requirements.
+(11) A detailed (but easy to understand) list of vehicle models and the applicable in-use CREE emission standard. The list of models shall include the applicable carline/subconfiguration parameters (including carline, equivalent test weight, road-load horsepower, axle ratio, engine code, transmission class, transmission configuration and basic engine); the test parameters (ETW and a, b, c, dynamometer coefficients) and the associated CREE emission standard. The manufacturer shall provide the method of identifying EPA engine code for applicable in-use vehicles.
+[75 FR 25717, May 7, 2010, as amended at 76 FR 39569, July 6, 2011; 88 FR 4484, Jan. 24, 2023]
+§ 600.513-08
+Gas Guzzler Tax.
+(a) This section applies only to passenger automobiles sold after December 27, 1991, regardless of the model year of those vehicles. For alcohol dual fuel and natural gas dual fuel automobiles, the fuel economy while such automobiles are operated on gasoline will be used for Gas Guzzler Tax assessments.
+(1) The provisions of this section do not apply to passenger automobiles exempted for Gas Guzzler Tax assessments by applicable Federal law and regulations. However, the manufacturer of an exempted passenger automobile may, in its discretion, label such vehicles in accordance with the provisions of this section.
+(2) For 1991 and later model year passenger automobiles, the combined FTP/HFET-based model type fuel economy value determined in § 600.208 used for Gas Guzzler Tax assessments shall be calculated in accordance with the following equation, rounded to the nearest 0.1 mpg:
+FE
+adj
+= FE[((0.55 × a
+g
+× c) + (0.45 × c) + (0.5556 × a
+g
+) + 0.4487)/((0.55 × a
+g
+) + 0.45)] + IW
+g
+Where:
+FE
+adj
+= Fuel economy value to be used for determination of gas guzzler tax assessment rounded to the nearest 0.1 mpg.
+FE = Combined model type fuel economy calculated in accordance with § 600.208, rounded to the nearest 0.0001 mpg.
+a
+g
+= Model type highway fuel economy, calculated in accordance with § 600.208, rounded to the nearest 0.0001 mpg divided by the model type city fuel economy calculated in accordance with § 600.208, rounded to the nearest 0.0001 mpg. The quotient shall be rounded to 4 decimal places.
+c = gas guzzler adjustment factor = 1.300 × 10
+−3
+for the 1986 and later model years.
+IW
+g
+= (9.2917 × 10
+−3
+× SF
+3IWCG
+FE
+3IWCG
+) − (3.5123 × 10
+−3
+× SF
+4ETWG
+× FE
+4IWCG
+).
+
+# Note:
+Any calculated value of IW less than zero shall be set equal to zero.
+SF
+3IWCG
+= The 3000 lb. inertia weight class sales in the model type divided by the total model type sales; the quotient shall be rounded to 4 decimal places.
+SF
+4ETWG
+= The 4000 lb. equivalent test weight sales in the model type divided by the total model type sales, the quotient shall be rounded to 4 decimal places.
+FE
+3IWCG
+= The 3000 lb. inertial weight class base level combined fuel economy used to calculate the model type fuel economy rounded to the nearest 0.0001 mpg.
+FE
+4IWCG
+= The 4000 lb. inertial weight class base level combined fuel economy used to calculate the model type fuel economy rounded to the nearest 0.001 mpg.
+(b)(1) For passenger automobiles sold after December 31, 1990, with a combined FTP/HFET-based model type fuel economy value of less than 22.5 mpg (as determined in § 600.208), calculated in
+accordance with paragraph (a)(2) of this section and rounded to the nearest 0.1 mpg, each vehicle fuel economy label shall include a Gas Guzzler Tax statement pursuant to 49 U.S.C. 32908(b)(1)(E). The tax amount stated shall be as specified in paragraph (b)(2) of this section.
+(2) For passenger automobiles with a combined general label model type fuel economy value of:
+At least * * *
+but less than * * *
+the Gas Guzzler Tax statement shall show a tax of * * *
+(i) 22.5
+$0
+(ii) 21.5
+22.5
+$1,000
+(iii) 20.5
+21.5
+$1,300
+(iv) 19.5
+20.5
+$1,700
+(v) 18.5
+19.5
+$2,100
+(vi) 17.5
+18.5
+$2,600
+(vii) 16.5
+17.5
+$3,000
+(viii) 15.5
+16.5
+$3,700
+(ix) 14.5
+15.5
+$4,500
+(x) 13.5
+14.5
+$5,400
+(xi) 12.5
+13.5
+$6,400
+(xii) —
+12.5
+$7,700
+[76 FR 39569, July 6, 2011]
+§ 600.514-12
+Reports to the Environmental Protection Agency.
+This section establishes requirements for automobile manufacturers to submit reports to the Environmental Protection Agency regarding their efforts to reduce automotive greenhouse gas emissions.
+(a)
+General Requirements.
+(1) For each model year, each manufacturer shall submit a pre-model year report.
+(2) The pre-model year report required by this section for each model year must be submitted before the model year begins and before the certification of any test group, no later than December 31 of the calendar year two years before the model year. For example the pre-model year report for the 2012 model year must be submitted no later than December 31, 2010.
+(3) Each report required by this section must:
+(i) Identify the report as a pre-model year report;
+(ii) Identify the manufacturer submitting the report;
+(iii) State the full name, title, and address of the official responsible for preparing the report;
+(iv) Be submitted to: Director, Compliance and Innovative Strategies Division, U.S. Environmental Protection Agency, 2000 Traverwood, Ann Arbor, Michigan 48105;
+(v) Identify the current model year;
+(vi) Be written in the English language; and
+(vii) Be based upon all information and data available to the manufacturer approximately 30 days before the report is submitted to the Administrator.
+(b)
+Content of pre-model year reports.
+(1) Each pre-model year report must include the following information for each compliance category for the applicable future model year and to the extent possible, two model years into the future:
+(i) The manufacturer's estimate of its footprint-based fleet average CO
+2
+standards (including temporary lead time allowance alternative standards, if applicable);
+(ii) Projected total and model-level production volumes for each applicable standard category;
+(iii) Projected fleet average CO
+2
+compliance level for each applicable standard category; and the model-level CO
+2
+emission values which form the basis of the projection;
+(iv) Projected fleet average CO
+2
+credit/debit status for each applicable standard category;
+(v) A description of the various credit, transfer and trading options that will be used to comply with each applicable standard category, including the amount of credit the manufacturer intends to generate for air conditioning leakage, air conditioning efficiency, off-cycle technology, advanced technology vehicles, hybrid or low-emission full size pickup trucks, and various early credit programs;
+(vi) A description of the method which will be used to calculate the carbon-related exhaust emissions for any electric vehicles, fuel cell vehicles and plug-in hybrid vehicles;
+(vii) A summary by model year (beginning with the 2009 model year) of the number of electric vehicles, fuel cell vehicles, plug-in hybrid electric vehicles, dedicated compressed natural gas vehicles, and dual fuel natural gas vehicles using (or projected to use) the advanced technology vehicle credit and incentives program, including the projected use of production multipliers;
+(viii) The methodology which will be used to comply with N
+2
+O and CH
+4
+emission standards; and
+(ix) Notification of the manufacturer's intent to exclude emergency vehicles from the calculation of fleet average standards and the end-of-year fleet average, including a description of the excluded emergency vehicles and the quantity of such vehicles excluded.
+(x) Other information requested by the Administrator.
+(2) Manufacturers must submit, in the pre-model year report for each model year in which a credit deficit is generated (or projected to be generated), a compliance plan demonstrating how the manufacturer will comply with the fleet average CO
+2
+standard by the end of the third year after the deficit occurred.
+[75 FR 25718, May 7, 2010, as amended at 77 FR 63187, Oct. 15, 2012]
+Pt. 600, App. I
+
+# Appendix I to Part 600—Highway Fuel Economy Driving Schedule
+[ speed (mph) vs time (sec) ]
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+0
+Sample On
+50
+38.6
+100
+48.5
+150
+44.1
+200
+43.4
+250
+48.0
+300
+33.4
+350
+59.0
+1
+0.0
+51
+39.3
+101
+48.8
+151
+44.3
+201
+43.2
+251
+48.0
+301
+35.6
+351
+58.9
+2
+0.0
+52
+40.0
+102
+49.1
+152
+44.4
+202
+43.2
+252
+48.0
+302
+37.5
+352
+58.8
+3
+2.0
+53
+40.7
+103
+49.2
+153
+44.6
+203
+43.1
+253
+48.1
+303
+39.1
+353
+58.6
+4
+4.9
+54
+41.4
+104
+49.1
+154
+44.7
+204
+43.0
+254
+48.2
+304
+40.2
+354
+58.4
+5
+8.1
+55
+42.2
+105
+49.1
+155
+44.9
+205
+43.0
+255
+48.2
+305
+41.1
+355
+58.2
+6
+11.3
+56
+42.9
+106
+49.0
+156
+45.2
+206
+43.1
+256
+48.1
+306
+41.8
+356
+58.1
+7
+14.5
+57
+43.5
+107
+49.0
+157
+45.7
+207
+43.4
+257
+48.6
+307
+42.4
+357
+58.0
+8
+17.3
+58
+44.0
+108
+49.1
+158
+45.9
+208
+43.9
+258
+48.9
+308
+42.8
+358
+57.9
+9
+19.6
+59
+44.3
+109
+49.2
+159
+46.3
+209
+44.0
+259
+49.1
+309
+43.3
+359
+57.6
+10
+21.8
+60
+44.5
+110
+49.3
+160
+46.8
+210
+43.5
+260
+49.1
+310
+43.8
+360
+57.4
+11
+24.0
+61
+44.8
+111
+49.4
+161
+46.9
+211
+42.6
+261
+49.1
+311
+44.3
+361
+57.2
+12
+25.8
+62
+44.9
+112
+49.5
+162
+47.0
+212
+41.5
+262
+49.1
+312
+44.7
+362
+57.1
+13
+27.1
+63
+45.0
+113
+49.5
+163
+47.1
+213
+40.7
+263
+49.1
+313
+45.0
+363
+57.0
+14
+28.0
+64
+45.1
+114
+49.5
+164
+47.6
+214
+40.0
+264
+49.0
+314
+45.2
+364
+57.0
+15
+29.0
+65
+45.4
+115
+49.4
+165
+47.9
+215
+40.0
+265
+48.9
+315
+45.4
+365
+56.9
+16
+30.0
+66
+45.7
+116
+49.1
+166
+48.0
+216
+40.3
+266
+48.2
+316
+45.5
+366
+56.9
+17
+30.7
+67
+46.0
+117
+48.9
+167
+48.0
+217
+41.0
+267
+47.7
+317
+45.8
+367
+56.9
+18
+31.5
+68
+46.3
+118
+48.6
+168
+47.9
+218
+42.0
+268
+47.5
+318
+46.0
+368
+57.0
+19
+32.2
+69
+46.5
+119
+48.4
+169
+47.8
+219
+42.7
+269
+47.2
+319
+46.1
+369
+57.0
+20
+32.9
+70
+46.8
+120
+48.1
+170
+47.3
+220
+43.1
+270
+46.7
+320
+46.5
+370
+57.0
+21
+33.5
+71
+46.9
+121
+47.7
+171
+46.7
+221
+43.2
+271
+46.2
+321
+46.8
+371
+57.0
+22
+34.1
+72
+47.0
+122
+47.4
+172
+46.2
+222
+43.4
+272
+46.0
+322
+47.1
+372
+57.0
+23
+34.6
+73
+47.1
+123
+47.3
+173
+45.9
+223
+43.9
+273
+45.8
+323
+47.7
+373
+57.0
+24
+34.9
+74
+47.2
+124
+47.5
+174
+45.7
+224
+44.3
+274
+45.6
+324
+48.3
+374
+57.0
+25
+35.1
+75
+47.3
+125
+47.8
+175
+45.5
+225
+44.7
+275
+45.4
+325
+49.0
+375
+57.0
+26
+35.7
+76
+47.2
+126
+47.9
+176
+45.4
+226
+45.1
+276
+45.2
+326
+49.7
+376
+57.0
+27
+35.9
+77
+47.1
+127
+48.0
+177
+45.3
+227
+45.4
+277
+45.0
+327
+50.3
+377
+56.9
+28
+35.8
+78
+47.0
+128
+47.9
+178
+45.0
+228
+45.8
+278
+44.7
+328
+51.0
+378
+56.8
+29
+35.3
+79
+46.9
+129
+47.9
+179
+44.0
+229
+46.5
+279
+44.5
+329
+51.7
+379
+56.5
+30
+34.9
+80
+46.9
+130
+47.9
+180
+43.1
+230
+46.9
+280
+44.2
+330
+52.4
+380
+56.2
+31
+34.5
+81
+46.9
+131
+48.0
+181
+42.2
+231
+47.2
+281
+43.5
+331
+53.1
+381
+56.0
+32
+34.6
+82
+47.0
+132
+48.0
+182
+41.5
+232
+47.4
+282
+42.8
+332
+53.8
+382
+56.0
+33
+34.8
+83
+47.1
+133
+48.0
+183
+41.5
+233
+47.3
+283
+42.0
+333
+54.5
+383
+56.0
+34
+35.1
+84
+47.1
+134
+47.9
+184
+42.1
+234
+47.3
+284
+40.1
+334
+55.2
+384
+56.1
+35
+35.7
+85
+47.2
+135
+47.3
+185
+42.9
+235
+47.2
+285
+38.6
+335
+55.8
+385
+56.4
+36
+36.1
+86
+47.1
+136
+46.0
+186
+43.5
+236
+47.2
+286
+37.5
+336
+56.4
+386
+56.7
+37
+36.2
+87
+47.0
+137
+43.3
+187
+43.9
+237
+47.2
+287
+35.8
+337
+56.9
+387
+56.9
+38
+36.5
+88
+46.9
+138
+41.2
+188
+43.6
+238
+47.1
+288
+34.7
+338
+57.0
+388
+57.1
+39
+36.7
+89
+46.5
+139
+39.5
+189
+43.3
+239
+47.0
+289
+34.0
+339
+57.1
+389
+57.3
+40
+36.9
+90
+46.3
+140
+39.2
+190
+43.0
+240
+47.0
+290
+33.3
+340
+57.3
+390
+57.4
+41
+37.0
+91
+46.2
+141
+39.0
+191
+43.1
+241
+46.9
+291
+32.5
+341
+57.6
+391
+57.4
+42
+37.0
+92
+46.3
+142
+39.0
+192
+43.4
+242
+46.8
+292
+31.7
+342
+57.8
+392
+57.2
+43
+37.0
+93
+46.5
+143
+39.1
+193
+43.9
+243
+46.9
+293
+30.6
+343
+58.0
+393
+57.0
+44
+37.0
+94
+46.9
+144
+39.5
+194
+44.3
+244
+47.0
+294
+29.6
+344
+58.1
+394
+56.9
+45
+37.0
+95
+47.1
+145
+40.1
+195
+44.6
+245
+47.2
+295
+28.8
+345
+58.4
+395
+56.6
+46
+37.0
+96
+47.4
+146
+41.0
+196
+44.9
+246
+47.5
+296
+28.4
+346
+58.7
+396
+56.3
+47
+37.1
+97
+47.7
+147
+42.0
+197
+44.8
+247
+47.9
+297
+28.6
+347
+58.8
+397
+56.1
+48
+37.3
+98
+48.0
+148
+43.1
+198
+44.4
+248
+48.0
+298
+29.5
+348
+58.9
+398
+56.4
+49
+37.8
+99
+48.2
+149
+43.7
+199
+43.9
+249
+48.0
+299
+31.4
+349
+59.0
+399
+56.7
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+SEC
+MPH
+400
+57.1
+450
+58.2
+500
+54.7
+550
+55.8
+600
+48.3
+650
+50.2
+700
+54.2
+750
+26.8
+401
+57.5
+451
+58.1
+501
+54.6
+551
+55.6
+601
+48.0
+651
+50.7
+701
+54.5
+751
+24.5
+402
+57.8
+452
+58.0
+502
+54.4
+552
+55.4
+602
+47.9
+652
+51.1
+702
+54.8
+752
+21.5
+403
+58.0
+453
+58.0
+503
+54.3
+553
+55.2
+603
+47.8
+653
+51.7
+703
+55.0
+753
+19.5
+404
+58.0
+454
+58.0
+504
+54.3
+554
+55.1
+604
+47.7
+654
+52.2
+704
+55.5
+754
+17.4
+405
+58.0
+455
+58.0
+505
+54.2
+555
+55.0
+605
+47.9
+655
+52.5
+705
+55.9
+755
+15.1
+406
+58.0
+456
+58.0
+506
+54.1
+556
+54.9
+606
+48.3
+656
+52.1
+706
+56.1
+756
+12.4
+407
+58.0
+457
+58.0
+507
+54.1
+557
+54.6
+607
+49.0
+657
+51.6
+707
+56.3
+757
+9.7
+408
+58.0
+458
+57.9
+508
+54.1
+558
+54.4
+608
+49.1
+658
+51.1
+708
+56.4
+758
+7.0
+409
+57.9
+459
+57.9
+509
+54.0
+559
+54.2
+609
+49.0
+659
+51.0
+709
+56.5
+759
+5.0
+410
+57.8
+460
+58.0
+510
+54.0
+560
+54.1
+610
+48.9
+660
+51.0
+710
+56.7
+760
+3.3
+411
+57.7
+461
+58.1
+511
+54.0
+561
+53.8
+611
+48.0
+661
+51.1
+711
+56.9
+761
+2.0
+412
+57.7
+462
+58.1
+512
+54.0
+562
+53.4
+612
+47.1
+662
+51.4
+712
+57.0
+762
+0.7
+413
+57.8
+463
+58.2
+513
+54.0
+563
+53.3
+613
+46.2
+663
+51.7
+713
+57.3
+763
+0.0
+414
+57.9
+464
+58.3
+514
+54.0
+564
+53.1
+614
+46.1
+664
+52.0
+714
+57.7
+764
+0.0
+415
+58.0
+465
+58.3
+515
+54.0
+565
+52.9
+615
+46.1
+665
+52.2
+715
+58.2
+765
+Sample Off
+416
+58.1
+446
+58.3
+516
+54.0
+566
+52.6
+616
+46.2
+666
+52.5
+716
+58.8
+417
+58.4
+467
+58.2
+517
+54.1
+567
+52.4
+617
+46.9
+667
+52.8
+717
+59.1
+418
+58.9
+468
+58.1
+518
+54.2
+568
+52.2
+618
+47.8
+668
+52.7
+718
+59.2
+419
+59.1
+469
+58.0
+519
+54.5
+569
+52.1
+619
+49.0
+669
+52.6
+719
+59.1
+420
+59.4
+470
+57.8
+520
+54.8
+570
+52.0
+620
+49.7
+670
+52.3
+720
+58.8
+421
+59.8
+471
+57.5
+521
+54.9
+571
+52.0
+621
+50.6
+671
+52.3
+721
+58.5
+422
+59.9
+472
+57.1
+522
+55.0
+572
+52.0
+622
+51.5
+672
+52.4
+722
+58.1
+423
+59.9
+473
+57.0
+523
+55.1
+573
+52.0
+623
+52.2
+673
+52.5
+723
+57.7
+424
+59.8
+474
+56.6
+524
+55.2
+574
+52.1
+624
+52.7
+674
+52.7
+724
+57.3
+425
+59.6
+475
+56.1
+525
+55.2
+575
+52.0
+625
+53.0
+675
+52.7
+725
+57.1
+426
+59.4
+476
+56.0
+526
+55.3
+576
+52.0
+626
+53.6
+676
+52.4
+726
+56.8
+427
+59.2
+477
+55.8
+527
+55.4
+577
+51.9
+627
+54.0
+677
+52.1
+727
+56.5
+428
+59.1
+478
+55.5
+528
+55.5
+578
+51.6
+628
+54.1
+678
+51.7
+728
+56.2
+429
+59.0
+479
+55.2
+529
+55.6
+579
+51.4
+629
+54.4
+679
+51.1
+729
+55.5
+430
+58.9
+480
+55.1
+530
+55.7
+580
+51.1
+630
+54.7
+680
+50.5
+730
+54.6
+431
+58.7
+481
+55.0
+531
+55.8
+581
+50.7
+631
+55.1
+681
+50.1
+731
+54.1
+432
+58.6
+482
+54.9
+532
+55.9
+582
+50.3
+632
+55.4
+682
+49.8
+732
+53.7
+433
+58.5
+483
+54.9
+533
+56.0
+583
+49.8
+633
+55.4
+683
+49.7
+733
+53.2
+434
+58.4
+484
+54.9
+534
+56.0
+584
+49.3
+634
+55.0
+684
+49.6
+734
+52.9
+435
+58.4
+485
+54.9
+535
+56.0
+585
+48.7
+635
+54.5
+685
+49.5
+735
+52.5
+436
+58.3
+486
+54.9
+536
+56.0
+586
+48.2
+6.36
+53.6
+686
+49.5
+736
+52.0
+437
+58.2
+487
+54.9
+537
+56.0
+587
+48.1
+637
+52.5
+687
+49.7
+737
+51.3
+438
+58.1
+488
+55.0
+538
+56.0
+588
+48.0
+638
+50.2
+688
+50.0
+738
+50.5
+439
+58.0
+489
+55.0
+539
+56.0
+589
+48.0
+6.39
+48.2
+689
+50.2
+739
+49.5
+440
+57.9
+490
+55.0
+540
+56.0
+590
+48.1
+640
+46.5
+690
+50.6
+740
+48.5
+441
+57.9
+491
+55.0
+541
+56.0
+591
+48.4
+641
+46.2
+691
+51.1
+741
+47.6
+442
+57.9
+492
+55.0
+542
+56.0
+592
+48.9
+642
+46.0
+692
+51.6
+742
+46.8
+443
+57.9
+493
+55.0
+543
+56.0
+593
+49.0
+643
+46.0
+693
+51.9
+743
+45.6
+444
+57.9
+494
+55.1
+544
+56.0
+594
+49.1
+644
+46.3
+694
+52.0
+744
+44.2
+445
+58.0
+495
+55.1
+545
+56.0
+595
+49.1
+645
+46.8
+695
+52.1
+745
+42.5
+446
+58.1
+496
+55.0
+546
+56.0
+596
+49.0
+646
+47.5
+696
+52.4
+746
+39.2
+447
+58.1
+497
+54.9
+547
+55.9
+597
+49.0
+647
+48.2
+697
+52.9
+747
+35.9
+448
+58.2
+498
+54.9
+548
+55.9
+598
+48.9
+648
+48.8
+698
+53.3
+748
+32.6
+449
+58.2
+499
+54.8
+549
+55.9
+599
+48.6
+649
+49.5
+699
+53.7
+749
+29.3
+[42 FR 45667, Sept. 12, 1977]
+Pt. 600, App. II
+
+# Appendix II to Part 600—Sample Fuel Economy Calculations
+(a) This sample fuel economy calculation is applicable to 1978 through 1987 model year automobiles.
+(1) Assume that a gasoline-fueled vehicle was tested by the Federal Emission Test Procedure and the following results were calculated:
+HC = .139 grams/mile
+CO = 1.59 grams/mile
+CO
+2
+= 317 grams/mile
+According to the procedure in § 600.113-78, the city fuel economy or MPG
+c
+, for the vehicle may be calculated by substituting the HC, CO, and CO
+2
+grams/mile values into the following equation.
+EC15NO91.202
+MPG
+c
+= 27.7
+(2) Assume that the same vehicle was tested by the Federal Highway Fuel Economy Test Procedure and calculation similar to that shown in paragraph (a) by this appendix resulted in a highway fuel economy or MPG
+h
+of 36.9. According to the procedure in § 600.113, the combined fuel economy (called MPG
+c/h
+) for the vehicle may be calculated by substituting the city and highway fuel economy values into the following equation:
+EC15NO91.203
+(b) This sample fuel economy calculation is applicable to 1988 and later model year automobiles.
+(1) Assume that a gasoline-fueled vehicle was tested by the Federal Emission Test Procedure and the following results were calculated:
+HC = .139 grams/mile.
+CO = 1.59 grams/mile.
+CO
+2
+= 317 grams/mile.
+(2) Assume that the test fuel used for this test had the following properties:
+SG = 0.745.
+CWF = 0.868.
+NHV = 18,478 Btu/lb.
+(3) According to the procedure in § 600.113-08, the city fuel economy or MPG
+c
+, for the vehicle may be calculated by substituting the HC, CO, and CO
+2
+gram/mile values and the SG, CWF, and NHV values into the following equation:
+MPG
+c
+= (5174 × 10
+4
+× CWF × SG) / [((CWF × HC) + (0.429 × CO + (0.273 × CO
+2
+)) ((0.6 × SG × NHV) + 5471)]
+Example:
+MPG
+c
+= (5174 × 10
+4
+× 0.868 × 0.745) / [(0.868 × .139 + 0.429 × 1.59 + 0.273 × 317)(0.6 × 0.745 × 18478 + 5471)]
+MPG
+c
+= 27.9
+(4) Assume that the same vehicle was tested by the Federal Highway Fuel Economy Test Procedure and a calculation similar to that shown in (b)(3) of this section resulted in a highway fuel economy of MPG
+h
+of 36.9. According to the procedure in § 600.210-08(c) or § 600.210-12(c), the combined fuel economy (called MPG
+comb
+) for the vehicle may be calculated by substituting the city and highway fuel economy values into the following equation:
+ER06JY11.045
+[51 FR 37852, Oct. 24, 1986, as amended at 71 FR 77958, Dec. 27, 2006; 76 FR 39570, July 6, 2011]
+Pt. 600, App. III
+
+# Appendix III to Part 600—Sample Fuel Economy Label Calculation
+Suppose that a manufacturer called Mizer Motors has a product line composed of eight car lines. Of these eight, four are available with the 3.0 liter, 6 cylinder, sequential multi-point fuel injection, 4-valve per cylinder, and 3-way catalyst engine. These four car lines are:
+Ajax
+Boredom III
+Dodo
+Castor (Station Wagon)
+A. A car line is defined in subpart A (with additional guidance provided in EPA Advisory Circular 89) as a group of vehicles within a make or division which has a degree of commonality in construction. Car line does not consider any level of decor or opulence and is not generally distinguished by such characteristics as roofline, number of doors, seats, or windows. Station wagons and light duty trucks are, however, identified separately from the remainder of each car line. In other words, a Castor station wagon would be considered a different car line than the normal Castor car line made up of sedans, coupes, etc.
+B. The engine considered here is defined as a basic engine in subpart A of this part (with additional guidance provided in EPA Advisory Circular 83A). A basic engine is a unique combination of manufacturer, engine displacement, number of cylinders, fuel system, catalyst usage and other engine and emission control system characteristics specified by the Administrator. A model type is a unique combination of car line, basic engine, and transmission class. Thus Ajax is a car line but Ajax 3.0 liter, 6 cylinder manual four-speed transmission is a model type whereas Ajax 3.0 liter, 6 cylinder automatic three-speed transmission is a different model type.
+C. The following calculations provide an example of the procedures described in subpart C of this part for the calculation of vehicle configuration and model type fuel economy values. In order to simplify the presentation, only city fuel economy values are included (as determined by either the derived 5-cycle method or vehicle-specific 5-cycle based method). The procedure is identical for highway and combined fuel economy values.
+Step I. Input data as supplied by the manufacturer or as determined from testing conducted by the Administrator.
+
+# Manufacturer—Mizer Motors
+Basic Engine: (3.0 liter, 6 cylinder, sequential multi-point fuel injection, 4-valve per cylinder, 3-way catalyst).
+Test vehicle carline
+Engine code
+Trans
+Inertia weight
+Axle ratio
+Harmonically averaged. city MPG
+Specific label MPG
+1
+Vehicle config. sales
+Ajax
+1
+M-4
+3500
+2.73
+16.1001
+16
+15,000
+Ajax
+2
+A-3
+3500
+2.56
+15.9020
+16
+35,000
+Boredom III
+4
+M-4
+4000
+3.08
+14.2343
+14
+10,000
+Ajax
+3
+M-4
+4000
+3.36
+15.0000
+15
+15,000
+Boredom III
+8
+A-3
+4000
+2.56
+13.8138
+14
+25,000
+Boredom III
+5
+A-3
+4500
+3.08
+13.2203
+13
+20,000
+Castor
+5
+A-3
+5000
+3.08
+10.6006
+11
+40,000
+1
+The vehicle configuration fuel economy values, rounded to the nearest mile per gallon, are the fuel economy values that would be used on specific labels for that vehicle configuration.
+Step II. Group vehicle fuel economy and sales data according to base level combinations within this basic engine.
+Base level
+Transmission class
+Inertia weight
+Miles per gallon
+Projected vehicle configuration sales
+A
+Manual-4
+3,500
+16.1001
+15,000
+B
+Automatic-3
+3,500
+15.9020
+35,000
+C
+Manual-4
+4,000
+14.2343
+10,000
+C
+Manual-4
+4,000
+15.0000
+15,000
+D
+Automatic-3
+4,000
+13.8138
+25,000
+E
+Automatic-3
+4,500
+13.2203
+20,000
+F
+Automatic-3
+5,000
+10.6006
+40,000
+Step III. Determine base level fuel economy values.
+A. For all the base levels except the base level which includes 4,000 pound, manual four-speed transmission data, the base level fuel economy is as noted in Step II since only one vehicle configuration was tested within each of these base levels.
+3,500 lb/M4 transmission
+16.1001 mpg.
+3,500 lb/A3 transmission
+15.9020 mpg.
+4,000 lb/A3 transmission
+13.8138 mpg.
+4,500 lb/A3 transmission
+13.2203 mpg.
+5,000 lb/A3 transmission
+10.6006 mpg.
+B. Since data from more than one vehicle configuration are included in the 4,000-pound, manual four-speed transmission base level, this fuel economy is harmonically averaged in proportion to the percentage of total sales of all vehicle configurations tested within that base level represented by each vehicle configuration tested within that base level.
+ER27DE06.083
+Base level: M4 transmission, 4000 pounds:
+ER27DE06.084
+Therefore, the 4000 pound, M4 transmission fuel economy is 14.6840 miles per gallon.
+Note that the car line of the test vehicle using a given engine makes no difference—only the weight and transmission do.
+Step IV. For each model type offered by the manufacturer with that basic engine, determine the sales fraction represented by each inertia weight/transmission class combination and the corresponding fuel economy.
+Ajax
+M4
+0.4000 at 3,500 lb
+16.1001
+0.6000 at 4,000 lb
+14.6840
+A3
+0.3000 at 3,500 lb
+15.9020
+0.7000 at 4,000 lb
+13.8138
+Dodo
+M4
+0.4000 at 3,500 lb
+16.1001
+0.6000 at 4,000 lb
+14.6840
+A3
+0.3000 at 3,500 lb
+15.9020
+0.7000 at 4,000 lb
+13.8138
+Boredom III
+M4
+1.0000 at 4,000 lb
+14.6840
+A3
+0.2500 at 4,000 lb
+13.8138
+0.7500 at 4,500 lb
+13.2203
+Castor
+A3
+0.2000 at 4,500 lb
+13.2203
+0.8000 at 5,000 lb
+10.6006
+Step V. Determine fuel economy for each model type (that is, car line/basic engine/transmission class combination).
+Ajax, 3.0 liter, 6 cylinder, A3 transmission, model type MPG is calculated as follows:
+ER27DE06.085
+Similarly, Ajax and Dodo 3.0 liter, 6 cylinder, M4 model type MPG is calculated as follows:
+ER27DE06.086
+Dodo 3.0 liter, 6 cylinder, A3 model type MPG is calculated as follows:
+ER27DE06.087
+Boredom III 3.0 liter 6 cylinder M4 model type MPG = 14.6840 mpg, which rounds to 15 mi./gal
+1
+1
+The model type fuel economy values rounded to the nearest mile per gallon, are the fuel economy values listed in the EPA Fuel Economy Guide and used on the general labels (window stickers) for production vehicles for that model year.
+Boredom III 3.0 liter, 6 cylinder, A3 model type MPG is calculated as follows:
+ER27DE06.088
+Castor 3.0 liter, 6 cylinder, A3 model type MPG is calculated as follows:
+ER27DE06.089
+Note that even though no Dodo was actually tested, this approach permits its fuel economy figure to be estimated, based on the inertia weight distribution of projected Dodo sales within a specific engine and transmission grouping.
+[71 FR 77958, Dec. 27, 2006]
+Appendixes IV-V to Part 600 [Reserved]
+Pt. 600, App. VI
+
+# Appendix VI to Part 600—Sample Fuel Economy Labels and Style Guidelines for 2013 and Later Model Years
+This appendix illustrates label content and format for 2013 and later model years. Manufacturers must make a good faith effort to conform to these templates and follow these formatting specifications. EPA will make available electronic files for creating labels.
+
+# A. Gasoline-Fueled Vehicles, Including Hybrid Gasoline-Electric Vehicles With No Plug-In Capabilities
+ER06JY11.046
+
+# B. Gasoline-Fueled Vehicles, Including Hybrid Gasoline-Electric Vehicles with No Plug-In Capabilities, with Gas Guzzler Tax
+ER06JY11.047
+
+# C. Diesel-Fueled Vehicles, Including Hybrid Diesel-Electric Vehicles with No Plug-In Capabilities
+ER06JY11.048
+
+# D. Dual Fuel Vehicle Label (Ethanol/Gasoline)
+ER06JY11.049
+
+# E. Dual Fuel Vehicle Label (Ethanol/Gasoline) with Optional Display of Driving Range Values
+ER06JY11.050
+
+# F. Hydrogen Fuel Cell Vehicle Label
+ER06JY11.051
+
+# G. Natural Gas Vehicle Label
+ER06JY11.052
+
+# H. Plug-in Hybrid Electric Vehicle Label, Series PHEV
+ER06JY11.053
+
+# I. Plug-in Hybrid Electric Vehicle Label, Blended PHEV
+ER06JY11.054
+
+# J. Electric Vehicle Label
+ER06JY11.055
+
+# K. Style Guidelines
+(a) Fuel economy labels must be printed on white or very light paper. Any label markings for which colors are not specified must be in black and white as shown. Some portions of the label must be filled with a blue or blue-shaded color as specified in subpart D of this part. Use the color blue defined in CMYK values of 40c-10m-0y-0k, or it may be specified as Pantone 283.
+(b) Use a Univers font from Adobe or another source that properly reproduces the labels as shown in the samples. Use Light (L), Roman (R), Bold (B) or Black (Bl) font weights as noted. Font size is shown in points, followed by leading specifications in points to indicate line spacing (if applicable). Use white characters in black fields; use black characters in all other places. Unless noted otherwise, text is left-justified with a 1.6 millimeter margin. Some type may need tracking adjustments to fit in the designated space.
+(c) Use the following conventions for lines and borders:
+(1) Narrow lines defining the border or separating the main fields are 1.6 millimeter thick.
+(2) Each rectangular shape or area, including the overall label outline, has an upper left corner that is square (0 radius). All other corners have a 3.2 millimeter radius.
+(d) Fuel and vehicle icons, range and slider bars, and agency names and logos are available electronically.
+(e) The following figures illustrate the formatting specifications:
+ER06JY11.056
+ER06JY11.057
+[76 FR 39570, July 6, 2011]
+Appendix VII to Part 600 [Reserved]
+Pt. 610
+
+# PART 610—FUEL ECONOMY RETROFIT DEVICES
+
+# Test Procedures and Evaluation Criteria
+
+# Subpart A—General Provisions
+Sec.
+610.10
+Program purpose.
+610.11
+Definitions.
+610.12
+Program initiative.
+610.13
+Program structure.
+610.14
+Payment of program costs.
+610.15
+Eligibility for participation.
+610.16
+Applicant's responsibilities.
+610.17
+Application format.
+
+# Subpart B—Evaluation Criteria for the Preliminary Analysis
+610.20
+General.
+610.21
+Device functional category and vehicle system effects.
+610.22
+Device integrity.
+610.23
+Operator interaction effects.
+610.24
+Validity of test data.
+610.25
+Evaluation of test data.
+
+# Subpart C—Test Requirement Criteria
+610.30
+General.
+610.31
+Vehicle tests for fuel economy and exhaust emissions.
+610.32
+Test fleet selection.
+610.33
+Durability tests.
+610.34
+Special test conditions.
+610.35
+Driveability and performance tests.
+
+# Subpart D—General Vehicle Test Procedures
+610.40
+General.
+610.41
+Test configurations.
+610.42
+Fuel economy measurement.
+610.43
+Chassis dynamometer procedures.
+
+# Subpart E—Durability Test Procedures
+610.50
+Test configurations.
+610.51
+Mileage accumulation procedure.
+610.52
+Maintenance.
+
+# Subpart F—Special Test Procedures
+610.60
+Non-standard ambient conditions.
+610.61
+Engine dynamometer tests.
+610.62
+Driveability tests.
+610.63
+Performance tests.
+610.64
+Track test procedures.
+610.65
+Other test procedures.
+
+# Authority:
+Sec. 511, Motor Vehicle Information and Cost Savings Act, as amended (sec. 301, Pub. L. 94-163, 89 Stat. 915 (15 U.S.C. 2011)).
+
+# Source:
+44 FR 17946, Mar. 23, 1979, unless otherwise noted.
+
+# Test Procedures and Evaluation Criteria
+
+# Subpart A—General Provisions
+§ 610.10
+Program purpose.
+(a) The purpose of an evaluation program initiated under these rules is to determine, in accordance with standardized procedures, the performance of various retrofit devices applicable to automobiles for which fuel economy improvement claims are made, and to compile and disseminate the results of the evaluation. It should be stressed that the role of this program will be the generation, analysis and dissemination of technical data, and not the approval or certification of retrofit devices.
+(1) Through engineering or statistical analysis of data from vehicle tests, the evaluation program will determine the effects on fuel economy, exhaust emissions, durability and driveability of the applicable vehicles due to the installation or use of the devices. The evaluation program will also include additional procedures, whenever determined by the Administrator as necessary, to evaluate the durability of the devices themselves, their effects on vehicle durability or other effects only evident over the course of extended mileage accumulation.
+(b) Data generated in an evaluation program by the Administrator of the Environmental Protection Agency (EPA) are public information and will be published in the
+Federal Register
+and elsewhere for use by the Federal Trade Commission and the public. The results of any evaluation conducted by the Administrator may be used in any subsequent investigation or enforcement action in the event that a device is marketed in violation of Federal or state law.
+§ 610.11
+Definitions.
+(a) Except as specifically defined below, all terms used in this part which are defined in 40 CFR part 86 or 40 CFR part 600 shall have the meanings provided therein.
+(1) “Retrofit device” or “device” means:
+(i) Any component, equipment, or other device (except a flow measuring instrument or other driving aid, or lubricant or lubricant additive) which is designed to be installed in or on an automobile as an addition to, as a replacement for, or through alteration or modification of, any original component, or other devices; or
+(ii) Any fuel additive which is to be added to the fuel supply of an automobile by means other than fuel dispenser pumps; and
+(iii) Which any manufacturer, dealer, or distributor of such device represents will provide higher fuel economy than would have resulted with the automobile as originally equipped, as determined under rules of the Administrator.
+(2) “Automobile” means any four-wheeled vehicle propelled by fuel which is manufactured primarily for use on public streets, roads, and highways (except any vehicle operated exclusively on a rail or rails), and which is rated at 6,000 lbs. gross vehicle weight or less.
+(3) “Fuel economy” means the average number of miles traveled by an automobile per gallon of gasoline (or equivalent amount of other fuel) consumed, as determined by the Administrator in accordance with procedures established under subpart D or F.
+(4) “Manufacturer” means a person or company which is engaged in the business of producing or assembling, and which has primary control over the design specifications, of a retrofit device for which a fuel economy improvement claim is made.
+(5) “Retrofit” means the addition of a new item, modification or removal of an existing item of equipment beyond that of regular maintenance, on an automobile after its initial manufacture.
+(6) “Federal Test Procedure” or “City Fuel Economy Test” means the test procedures specified in 40 CFR part 86, except as those procedures are modified in these protocols.
+(7) “Highway Fuel Economy Test” means the test procedure described in § 600.111(b).
+(8) “Operator” means any person who installs, services or maintains a retrofit device in an automobile or who operates an automobile with a retrofit device installed.
+(9) “Device integrity” means the durability of a device and effect of its malfunction on vehicle safety or other parts of the vehicle system.
+(10) “Test data” means any information which is a quantitative measure of any aspect of the behavior of a retrofit device.
+(11) “Testing agent” means any person who develops test data on a retrofit device.
+(12) “Preconditioning” means the operation of an automobile through one (1) EPA Urban Dynamometer Driving Schedule, described in 40 CFR part 86.
+(13) “Configuration” means the mechanical arrangement, calibration and condition of a test automobile, with particular respect to carburetion, ignition timing, and emission control systems.
+(14) “Baseline configuration” means the unretrofitted test configuration, tuned in accordance with the automobile manufacturer's specifications.
+(15) “Adjusted configuration” means the test configuration after adjustment of engine calibrations to the retrofit specifications, but excluding retrofit hardware installation.
+(16) “Retrofitted configuration” means the test configuration after adjustment of engine calibrations to the retrofit specifications
+and
+after all retrofit hardware has been installed.
+(17) “Data fleet” means a fleet of automobiles tested at “zero device-miles” in “baseline configuration,” the “retrofitted configuration” and in some cases the “adjusted configuration,” in order to determine the changes in fuel economy and exhaust emissions due to the “retrofitted configuration,” and where applicable the changes due to the “adjusted configuration,” as compared to the fuel economy and exhaust emissions of the “baseline configuration.”
+(18) “Durability fleet” means a fleet of automobiles operated for mileage accumulation used to assess deterioration effects associated with the retrofit device.
+(19) “Zero device-miles” means the period of time between retrofit installation and the accumulation of 100 miles of automobile operation after installation.
+(20) “Independent laboratory” means a test facility operated independently of any motor vehicle, motor vehicle engine, or retrofit device manufacturer capable of performing retrofit device evaluation tests. Additionally, the laboratory shall have no financial interests in the outcome of these tests other than a fee charged for each test performed.
+(21) “Evaluation program” or “program” means the sequence of analyses and tests prescribed by the Administrator as described in § 610.13 in order to evaluate the performance of a retrofit device.
+(22) “Preliminary analysis” means the engineering analysis performed by EPA prior to testing prescribed by the Administrator based on data and information submitted by a manufacturer or available from other sources.
+[44 FR 17946, Mar. 23, 1979, as amended at 49 FR 18489, May 1, 1984]
+§ 610.12
+Program initiative.
+A retrofit device evaluation program will be initiated as follows:
+(a) At the request of the Federal Trade Commission (FTC) when it has reason to believe that fuel economy representation made for a retrofit device being marketed may be inadequate,
+(b) At the EPA Administrator's initiative, or
+(c) Upon the application of any manufacturer of a retrofit device (or prototype thereof) for which a fuel economy improvement claim is made.
+§ 610.13
+Program structure.
+(a) Each device evaluation program will consist of up to three phases:
+(1) A preliminary analysis of available information and test data on the device to be performed by the EPA Administrator;
+(2) Designing and conducting of a sequence of tests to determine device effectiveness if considered necessary by virtue of the Administrator's preliminary analysis; and
+(3) Publication in the
+Federal Register,
+and submission to the Department of Transportation and to the Federal Trade Commission, of a summary of the results of any tests conducted under subparts C through F, or if none were conducted, then a summary of the results of the preliminary analysis conducted under subpart B; together with the Administrator's conclusions as to the effect of the tested retrofit device on fuel economy and exhaust emissions, and as to any other information that the Administrator determines is relevant in evaluating such device.
+(b) Each of the above phases may, as appropriate, include the use of statistically valid sample sizes and statistical evaluation of measured results.
+§ 610.14
+Payment of program costs.
+(a) All costs incurred in an evaluation program initiated at the request of the FTC or at the Administrator's initiative, including the cost of purchasing any necessary quantity of the device under evaluation, will be borne by the United States.
+(b) For those evaluation programs initiated at the request of a manufacturer of a retrofit device, should the Administrator test the device, or cause the device to be tested, as part of the evaluation, then that manufacturer shall supply, at his own expense, one or more samples of the device to the Administrator and shall be liable for the costs of testing which are incurred by the Administrator. The manufacturer shall also be liable for the cost of any preliminary testing at an independent testing laboratory performed as part of the evaluation program. Apart from the costs of testing a device, EPA shall be responsible for costs of formulating its engineering evaluation of a device.
+[44 FR 17946, Mar. 23, 1979, as amended at 49 FR 18838, May 3, 1984]
+§ 610.15
+Eligibility for participation.
+Participation in an evaluation program initiated under § 610.12(c) will be available to any person or company who agrees to follow the procedures set forth in these protocols. Failure to conform to any aspect of these protocols, without the approval of the Adminstrator, may be interpreted as withdrawal from participation in the program.
+§ 610.16
+Applicant's responsibilities.
+Each applicant for evaluation under § 610.12(c) will be responsible for the following:
+(a) Submission of an application, in the format specified by the Administrator, prior to initiation of the evaluation. A separate application shall be made for each different device. The application shall be made to the Administrator (or his delegate) by the manufacturer and shall be updated and corrected by amendment if deemed necessary by EPA.
+(b) The application shall be in writing, signed by an authorized representative of the manufacturer, and shall include the following:
+(1) Identification and description of the device covered by the application, including drawings, schematics and information on the theory of operation.
+(2) Vehicles or engines to which the device is applicable and a description of the types of vehicles or engines to which it is not applicable, e.g., would not provide a benefit, a benefit less than claimed for the device in general, or would result in a safety hazard or damage to the engine. If the reason for inapplicability is safety or damage related, this must be explained as required by paragraph (b)(7) of this section.
+(3) Installation or usage instructions, including degree of knowledge required by persons making the installation and the tools and equipment required.
+(4) A statement of recommended maintenance, degree of knowledge required for that maintenance, and the tools and equipment required to perform the maintenance.
+(5) All data regarding exhaust emissions regulated by EPA under § 202 of the Clean Air Act and fuel economy test data on the device or product available to the applicant.
+(6) All information available to the applicant concerning whether the device in its operation, function, or malfunction may cause an automobile using that device to emit into the ambient air any substance other than pollutants regulated by EPA under section 202 of the Clean Air Act (
+i.e.
+, hydrocarbons, carbon monoxide, and oxides of nitrogen), or natural gaseous atmospheric constituents (such as carbon dioxide, or water vapor) in a quantity differing from that emitted in the operation of the automobile without the device.
+(7) All information available to the applicant concerning whether and under what conditions the device in its operation, function or malfunction may result in damage to an automobile or endanger its occupants or persons or property in close proximity to the automobile.
+(c) Shipment to the EPA's Motor Vehicle Emission Laboratory, or other test site designated by the Administrator, of the devices being evaluated in the quantity specified by the Administrator.
+(d) Complete copies of the application and of any amendments thereto shall be submitted in such multiple copies as the Administrator may require.
+§ 610.17
+Application format.
+(a) Device manufactures who apply for evaluation of a fuel economy retrofit device should use the standard application format, in order to allow the Administrator to compile relevant data on specific devices and to allow timely response to applications. Application formats are available from and submissions shall be made to:
+Director, Emission Control Technology Division, Environmental Protection Agency, 2565 Plymouth Road, Ann Arbor, Michigan 48105. Attn: Fuel Economy Retrofit Device Evaluation.
+(b) Four weeks should be allowed for analysis of the application and preparation of a response. As indicated in other sections of this part, this response will include the evaluation of the device according to the criteria discussed in subpart B of this part. The results of the Administrator's evaluation will be made public.
+
+# Subpart B—Evaluation Criteria for the Preliminary Analysis
+§ 610.20
+General.
+The Administrator will employ the following criteria for evaluating the accuracy of fuel economy representations made with respect to retrofit devices:
+(a) Device functional category;
+(b) Device integrity;
+(c) Operator interaction effects;
+(d) Validity of test data;
+(e) Evaluation of test data;
+as these concepts are explained in §§ 610.21 through 610.25 respectively.
+§ 610.21
+Device functional category and vehicle system effects.
+(a) The devices evaluated in this program are organized into categories for purposes of definition and establishment of evaluation criteria and test procedures, and to indicate which vehicle functional characteristics (other than fuel economy) may be adversely affected by installation or use of the device.
+(b) A device's category will be based on:
+(1) Engineering principles governing operation of the device;
+(2) Interaction between the device and specific vehicle/engine operating characteristics; and
+(3) Constraints with respect to vehicle applicability of the device.
+(c) The device categories and the vehicle functional characteristics which may be adversely affected are noted for each device category in Table I. The notation for each characteristic is as follows:
+Exhaust emissions
+1
+Driveability
+2
+Durability
+3
+Performance
+4
+Table 1
+Device categories
+Characteristics adversely affected
+Fuel-Air System
+Carburetors and fuel injection systems
+All.
+Air-fuel ratio modifiers (e.g., air bleeds)
+All.
+Atomization devices (acoustic and mechanical)
+All.
+Vapor Injectors
+All.
+Choke controls
+1, 2, and 4.
+Air filters
+1, 2, and 4.
+Fuel-air distribution systems (intake manifolds)
+1, 2, and 4.
+Fuel pressure regulators
+All.
+Ignition System
+Spark plugs
+All.
+Spark timing control systems
+All.
+Spark duration control systems
+1, 4.
+Spark energy sources
+1, 4.
+Emission Control Systems
+Exhaust gas recirculation (EGR) systems
+All.
+After-treatment devices
+1, 2, and 4.
+Drivetrain
+Tires
+1.
+Overdrive units
+All.
+Torque converter lockups
+1, 2, and 4.
+Exhaust System
+Headers
+1.
+Tuned exhaust systems
+1.
+Accessories
+Cooling fan or cooling fan couplings
+1.
+Cold start aids (e.g., engine heaters)
+1.
+Lubrication
+Oil filters
+3.
+Vehicle Body
+Aerodynamic drag reduction devices
+1.
+Miscellaneous
+Modification to valve timing
+All.
+Retrofit prechambers
+All.
+Fuel additives
+All.
+Other miscellaneous
+Potentially all.
+(d) In the absence of sufficient information from the device manufacturer on this topic or if the Administrator's preliminary analysis indicates that testing is necessary to determine the nature or extent of possible adverse effects of device installation and use on vehicle operation and performance, the Administrator will require such tests to be conducted prior to the publication of a complete evaluation of the device.
+[44 FR 17946, Mar. 23, 1979, as amended at 49 FR 18489, May 1, 1984]
+§ 610.22
+Device integrity.
+The integrity of a device will be evaluated with respect to:
+(a) The extent to which device manufacture is standardized by means of drawings, specifications, and other fabrication and quality assurance controls;
+(b) The degree of sensitivity of device effectiveness to deterioration under exposure to normal operating conditions.
+(c) The susceptibility of the device to deterioration of effectiveness under abnormal operating conditions;
+(d) The effect upon its surroundings of device malfunction which may be reasonably anticipated to occur in actual use; and
+(e) The extent to which test data support (b), (c) and (d).
+§ 610.23
+Operator interaction effects.
+The device will also be evaluated with respect to:
+(a) The degree of sensitivity of device effectiveness to variances in installation, operation and maintenance;
+(b) The adequacy of manufacturer-furnished instructions for minimizing variances in installation, operation and maintenance;
+(c) The extent to which device installation or use, or the effects of such installation or use, relate to Federal emission control regulations;
+(d) Effects on the performance, safety, or occupant comfort of the retrofitted vehicle, and on that of other vehicles; and
+(e) The relationship between total cost of ownership of the device (purchase price plus maintenance costs) and the cost savings realizable from its fuel economy effects.
+§ 610.24
+Validity of test data.
+The Administrator will make a determination as to the validity of manufacturer-furnished test data on the basis of:
+(a) The correlation between the test procedures used by the manufacturer or testing agent and the procedures prescribed in subpart D;
+(b) The choice of test vehicle(s) as representative of the manufacturer's claim for operation and/or principles of operation;
+(c) The degree of control exercised over ambient and operating conditions in the tests, including vehicle calibrations;
+(d) Accuracy and precision of the measurement techniques and instrumentation used in the tests;
+(e) Disclosure of all test data acquired on the device, whether representing positive, negative, or inconclusive results;
+(f) Qualifications and independence of the testing agent; and
+(g) The extent to which test data include evaluation of the durability of the device, or its effect on vehicle durability.
+§ 610.25
+Evaluation of test data.
+Valid manufacturer-furnished test data will be evaluated with respect to:
+(a) Vehicle applicability;
+(b) Dependence of device effects upon vehicle type;
+(c) Device effects on fuel economy, and on emissions, with statistical or other caveats as established by the data base;
+(d) Definition of claims which can be made based on the available data; and
+(e) Substantiation of specified claims made by the manufacturer.
+
+# Subpart C—Test Requirement Criteria
+§ 610.30
+General.
+(a) If the Administrator determines, by the criteria given in subpart B, that the claims made for a device are not supported by existing test data or other information, the Administrator will request the manufacturer to furnish additional information, and may design a test program to investigate those areas where claims appear to be erroneous or unsupported or where adverse effects due to use of the device are suspected.
+(b) In cases where the Administrator determines on the basis of the preliminary analysis that a device either can have no significant beneficial effect on fuel economy, or will have an adverse effect on emissions, he may elect not to design a test program or test the device and to publish only his preliminary analysis and conclusions.
+(c) If the evaluation was initiated upon application of a manufacturer (as described in § 610.12(c)) and the manufacturer elects not to have the device tested, the Administrator's preliminary analysis and conclusions will be published.
+(d) For each device that the Agency intends to test, the Administrator will give the manufacturer prior notice by mail of the Agency's intent to test the device and provide the manufacturer the opportunity to attend the test sessions and to comment on the specific test design and results.
+[44 FR 17946, Mar. 23, 1979, as amended at 49 FR 18489, May 1, 1984]
+§ 610.31
+Vehicle tests for fuel economy and exhaust emissions.
+(a) The tests described in subpart D, E, or F may be conducted if existing data or other information are insufficient to support claims for a device in any of these areas:
+(1) Degree of improvement in fuel economy
+(2) Effect on exhaust emissions
+(3) Vehicle applicability
+(b) The Administrator may determine that, in certain cases, tests using engine dynamometers are adequate for determining the effect of a device. Examples of such cases are given below.
+(1)
+Long-term effects.
+In some cases, it may be necessary for the engine to operate for several thousand miles before the effectiveness can be adequately measured. In such cases an engine dynamometer will permit a less expensive and better controlled durability and economy test than one in which a vehicle must be driven on a durability route and then tested on a chassis dynamometer or test track.
+(2)
+Durability requirements.
+Aspects of engine durability can be efficiently determined using specialized engine testing rather than through durability mileage accumulation in a vehicle. A number of standard engine tests are presently used which can be incorporated into this requirement.
+(c) When in the judgment of the Administrator a device cannot satisfactorily be evaluated using either dynamometer or track versions of the City Fuel Economy Test and the Highway
+Fuel Economy Test, the Administrator will select or design other procedures.
+§ 610.32
+Test fleet selection.
+(a) The composition and size of the test fleet will be determined by the Administrator. In a device evaluation program initiated at the request of the FTC, the composition and size of the test fleet will be determined by the Administrator in consultation with the FTC.
+(b) The goal of the test fleet selection will be the provision of a data base adequate to give the Administrator reasonable confidence in the conclusions to be reached.
+(c) Once the number of vehicles to be tested has been determined, the Administrator will specify the test fleet makeup by make, model, model year, engine displacement and carburetor, transmission type, and such other factors as he may deem relevant to the testing program.
+§ 610.33
+Durability tests.
+The Administrator may determine that a device under evaluation will require durability testing in addition to the basic evaluation testing for device effectiveness. This requirement may be necessary for several reasons:
+(a) A retrofit device manufacturer may claim that some mileage accumulation may be needed before the full effectiveness of the device can be obtained. If such claims are made, durability testing as described in subpart E may be performed. To determine whether the effectiveness change during the mileage accumulation is a function of the device or of the mileage accumulation alone, in some durability tests it may be necessary to run the mileage accumulation on vehicles with and without the device. Due to the high cost of durability testing and in particular of such duplicate testing, it will be used only where it is judged by the Administrator to be necessary.
+(b) A device may have a limited life expectancy or be such that it requires replacement or adjustment at a prescribed mileage interval. Confirmatory durability tests may be run to assess whether such mileage intervals are proper and effective.
+(c) A device may be suspected of having an adverse effect on the durability of the engine to which it is applied. After identification of a potential failure mode, durability tests may be conducted to investigate any changes in engine characteristics associated with that failure mode. Examples are valve problems, deterioration in spark plug life, increase in carburetor or combustion chamber deposits, or increased engine wear. If it is not possible to directly measure the change in the suspect characteristic, then a durability run may be made as described in subpart E, in which fuel economy and exhaust emissions are periodically checked during the accumulation of up to 15,000 miles.
+(d) A critical item which can influence fuel economy is vehicle maintenance. Any durability test program used in evaluation of the effectiveness of a fuel economy device will be designed to differentiate maintenance effects from the effect of the device. Any maintenance associated with the device operation will be rigidly controlled. If the maintenance appears to be a significant factor in the effectiveness of a device, then it may be necessary to run a control test on vehicles without the device installed where the same maintenance is performed to quantify any incremental effect of that maintenance.
+§ 610.34
+Special test conditions.
+If the Administrator determines that a device may have potentially detrimental effects on the operation of a vehicle when operated in ambient conditions outside the range specified in 40 CFR part 86, or if the device manufacturer claims a fuel economy improvement in such conditions, additional tests may be performed. These tests will determine whether the device will significantly limit the operational usefulness of the vehicle and will assess the claimed fuel economy benefit.
+(a)
+Extreme temperatures.
+As required by the Administrator, tests will be conducted at extreme ambient temperature conditions to determine the effect due to devices (e.g. engine heaters) for which fuel economy improvements at extreme temperatures are made. For other devices it may be necessary to
+determine whether the cold starting and driving capability of device-equipped vehicles is affected sufficiently to make them dangerous, or whether fuel economy characteristics at extreme temperatures are significantly worse than before the device was installed.
+(b)
+High altitude.
+Devices for which specific claims of improved fuel economy at high altitude are made may be tested using the procedures in subpart D, at altitudes above 4000 feet. For other devices, testing at high altitude may be necessary for determining whether a device will make the vehicle less useful or efficient when operated at various altitudes. The Administrator will determine when such testing is required.
+§ 610.35
+Driveability and performance tests.
+If the Administrator determines that driveability and performance of a vehicle may be adversely affected by the use of a device, a number of automobiles to be determined by the Administrator will be subjected to the driveability and performance tests discussed in §§ 610.62 and 610.63, respectively.
+
+# Subpart D—General Vehicle Test Procedures
+§ 610.40
+General.
+Two chassis dynamometer test procedures, the Federal Test Procedure and the Highway Fuel Economy Test will generally be used to evaluate the effectiveness of the devices supplemented by steady state or engine dynamometer tests where warranted. Under unusual circumstances, other test procedures, durability test procedures or special test procedures such as track versions of the City and Highway fuel economy tests may be used. These procedures are described in subparts E and F.
+§ 610.41
+Test configurations.
+(a) In order to measure the effectiveness of a retrofit device at least two, and in some cases, three vehicle configurations defined in § 610.11 will be tested. Each vehicle will be tested at least twice in each configuration, as determined by the Administrator.
+(b) The first test configuration is a baseline configuration. In this configuration the baseline or unretrofitted vehicle emissions will be measured.
+(c) A second test configuration, an adjusted configuration, may be required at the discretion of the Administrator if a device requires both hardware and engine parameter modifications to achieve the fuel economy improvement. If, in the Administrator's judgment, based on a review of the available information, the combined effects of retrofit hardware installation and parametric adjustment could be substantially duplicated by parametric adjustment alone, then the Administrator may specify a second test, to evaluate such adjustment exclusive of the retrofit hardware.
+(d) The third series of tests, in the retrofitted configuration, will evaluate the full retrofit system installed on the vehicle.
+§ 610.42
+Fuel economy measurement.
+(a) Fuel consumption will be measured by:
+(1) The carbon balance method, or
+(2) Gravimetric or volumetric methods. In the gravimetric and volumetric methods, fuel consumption is determined by weighing the fuel source before and after a test, or by measuring the volume of fuel consumed during a test. Since the distance traveled during the tests is known, the fuel economy, in miles per gallon, can be calculated. Gravimetric and volumetric methods require the use of special test equipment in addition to the emissions measuring equipment.
+(b) The carbon balance procedure for measuring fuel consumption relates the carbon products in the exhaust to the amount of fuel burned during the test. This method will be the one used to measure fuel economy unless track or road tests are employed.
+(c) Three values of fuel economy will be reported: for city driving ('75 FTP), for highway driving (HFET), and the combined city/highway value calculated according to this equation:
+EC15NO91.205
+§ 610.43
+Chassis dynamometer procedures.
+(a)(1)
+1975 Federal Test Procedure.
+Vehicle exhaust emissions and fuel economy under urban driving conditions will be measured according to the Federal emission test procedure described in 40 CFR part 86, subpart B, which is known as the 1975 Federal Test Procedure ('75 FTP). However, the following modifications will be employed:
+(i) No evaporative emission loss, as specified by 40 CFR part 86 need be measured (with the exception of devices modifying or disconnecting existing evaporative control devices in such a manner as would be expected to adversely affect their evaporative emission control performance).
+(ii) Vehicle preconditioning shall consist of operation of the vehicle through one (1) EPA Urban Dynamometer Driving Schedule. This preconditioning must be done at least 12 hours, but no earlier than 36 hours before the emission test.
+(iii) While the test fuel must meet the specifications outlined in 40 CFR part 86, fuel conditioning as specified for evaporative emission test procedures is not required.
+(b)
+Highway Fuel Economy Test.
+The test vehicle is fully warmed up at the start of the highway Fuel Economy Test which is ordinarily run immediately following the Federal Emission Test Procedure. The test procedure to be followed for generation of highway fuel economy data is that specified in § 600.111.
+(c)
+Steady state tests.
+Constant speed, road load tests may be conducted to help give insight into operational differences and exhaust emission and fuel economy changes due to a retrofit device. Speeds between 0 (engine idling) and 60 mpg will be investigated, with a time period at each speed long enough to ensure that engine operation has stabilized.
+
+# Subpart E—Durability Test Procedures
+§ 610.50
+Test configurations.
+(a) In addition to the tuneup to manufacturer's specifications per § 610.41, all vehicles in the durability fleet will have installed the following new parts: Air, oil, and fuel filters, spark plugs, points, condenser, rotor, distributor cap, PCV valve, and emission control devices such as vacuum control valves and EGR valves.
+(b) Vehicles included in the durability fleet will be subjected at zero device-miles to the same test sequence for fuel economy and exhaust emissions as specified in subpart D. Subsequently, they will be tested at 3,000 device-mile intervals, up to and including the final mileage point of 15,000 device-miles. Testing at these mileage points will be performed with the vehicle equipped with the full retrofit system.
+(c) After the 15,000-mile test the vehicle will be tuned as necessary and the device adjusted to the manufacturer's specifications as required. The fully restored retrofitted configuration will then be tested. The device will then be removed from the vehicle and the vehicle set to vehicle manufacturer's specifications. A tuned baseline test will then be conducted.
+§ 610.51
+Mileage accumulation procedure.
+(a) Except as otherwise provided in this part, the mileage accumulation procedure will be that provided in 40 CFR part 86. This mileage accumulation schedule, or a suitable alternate procedure approved by the Administrator, will be used.
+(b) Fuel used in the accumulation of mileage will be commercial fuel available in the retail market and shall conform to the requirements of 40 CFR part 86 for mileage accumulation fuel.
+(1) The requirements of this paragraph may be modified by the Administrator when it is a fuel or fuel additive that is being tested.
+§ 610.52
+Maintenance.
+(a) Maintenance during the durability evaluation can best be considered in three separate categories:
+(1) Normal scheduled vehicle maintenance,
+(2) Unscheduled vehicle maintenance, and
+(3) Retrofit maintenance.
+(b) Normal scheduled vehicle maintenance is the periodic service specified in the original owner's manual supplied
+to the owner at the time of new vehicle purchase.
+(1) Normal periodic engine oil changes, vehicle lubrication, and oil filter changes, as specified in the original owner's manual, will be performed during durability mileage accumulation.
+(2) For purposes of this part, the following items of normally scheduled vehicle maintenance will not be performed during the durability mileage accumulation:
+(i) Normal tune-up items:
+(A) Spark plugs.
+(B) Condenser.
+(C) Rotor.
+(D) Distributor cap.
+(ii) Air Cleaner element.
+(iii) PCV Inspection.
+(iv) Dwell and timing check.
+(v) Charging circuit check.
+(3) Periodic maintenance items specified in the original owner's manual, other than those listed above, may be performed if found to be necessary by the Administrator.
+(c)
+Unscheduled maintenance.
+Because the vehicles used for durability evaluation in this program will probably have considerable mileage accumulation and unknown maintenance prior to inclusion in the program, it can be anticipated that certain vehicle and engine failures may occur, which may be unrelated to the retrofit device. Unscheduled maintenance will be performed only in those cases where a significant and obvious driveability problem has been reported by the driver of the vehicle.
+(1) Correction of the following problems will be made as soon as the problems occur:
+(i) Tire replacement (same size and type).
+(ii) Vehicle body repairs (remote from engine and retrofit).
+(iii) Windshield wipers.
+(iv) Fluid levels unrelated to retrofit.
+(v) Brakes.
+(vi) Hoses unrelated to retrofit.
+(vii) Belts unrelated to retrofit.
+(viii) Suspension failures.
+(ix) Wheel alignment.
+(x) Steering.
+(xi) Wheel bearings.
+(xii) Non-engine electrical system.
+(xiii) Drivetrain components (U-joints, axles, transmission adjustments, etc.)
+(2) Other unscheduled maintenance of the engine or drivetrain may be made as directed by the Administrator. Upon notification of a need for unscheduled maintenance, the Administrator may decide that before and after maintenance fuel economy tests are required.
+(d)
+Retrofit maintenance.
+Maintenance of the retrofit device will normally not be performed during the accumulation of durability mileage of 15,000 miles. However, certain retrofit devices may require periodic maintenance that is directly related to device function. An example is the periodic addition of fluid to the reservoir of a vapor injector. The Administrator will determine whether periodic maintenance will be allowed, based on his review of available information including the device manufacturer's maintenance instructions to the consumer.
+(e) A log of all maintenance shall be kept for every vehicle. These logs will be summarized in the final report by the Administrator.
+
+# Subpart F—Special Test Procedures
+§ 610.60
+Non-standard ambient conditions.
+(a)
+Extreme temperatures.
+For vehicles required to be tested at extreme temperatures, the test sequence described in § 610.41 will be performed using either test track or dynamometer, in ambient temperatures outside the 60° to 90° range specified in § 610.64 as determined by the Administrator. The driveability tests described in § 610.62 may also be performed at non-standard temperatures, as determined to be necessary by the Administrator.
+(b)
+High altitudes.
+Vehicles required to be tested at high altitudes will undergo the tests described in § 610.43 if necessary, on either test track or dynamometer as determined by the Administrator. One test location, at an elevation of no less than 4000 feet, will be selected.
+§ 610.61
+Engine dynamometer tests.
+The Administrator will choose a test procedure or procedures from various
+engine dynamometer durability test procedures used by research organizations in government, the oil industry, engine manufacturing companies, and independent laboratories.
+§ 610.62
+Driveability tests.
+Driveability assessment (at normal ambient temperatures) of the baseline configuration, of the adjusted configuration (if required by the Administrator), and of the fully retrofitted configuration may be conducted at zero device-miles for all vehicles included in the durability fleet, and at approximately zero device-miles at low ambient temperatures (0 °F-20 °F). Driveability evaluation procedures will be provided by the Administrator when necessary.
+§ 610.63
+Performance tests.
+The effect of a device on a vehicle's performance will be determined by performing wide-open-throttle 0 to 60 mph acceleration tests (at normal ambient temperatures) on the baseline vehicle configuration, on the adjusted configuration (if required), and on the fully retrofitted configuration. Tests will be conducted on a dry, level, smooth-surfaced test track, with appropriate speed-time measuring equipment, on as many vehicles as determined to be necessary.
+§ 610.64
+Track test procedures.
+(a) Cases may arise where it will be necessary to evaluate the fuel economy effects of a retrofit device on a test track, because the effect of the device cannot be adequately tested using the chassis dynamometer procedures. (An obvious example is a device that changes the aerodynamic drag of the test vehicle.) In such cases, testing will be performed on a dry, level, smooth-surfaced test track for such dimensions that the speeds required by the city and highway fuel economy tests may be safely achieved.
+(1) Because aerodynamic drag is not a linear function of velocity, it will be necessary to limit testing to times when the wind velocity is less than 5 mph, with gusts less than 10 mph.
+(2) Testing will also be limited to ambient temperatures between 60° and 90 °F, and to times when the ambient temperature remains reasonably constant during individual tests. Temperature differences between tests of baseline and retrofit configurations will also be minimized.
+(3) Exhaust emissions will not be measured during track testing.
+(4) Fuel economy of a vehicle running on a track will be measured using either a volumetric or gravimetric procedure approved by the Administrator.
+(5) Vehicle speed and distance will be measured with a “fifth wheel” type of device. Suitable apparatus will be used to generate a permanent record (strip chart recorder, etc.) of the vehicle speed versus time.
+(b)
+City fuel economy test.
+Although essentially the same procedures will be used for track testing as for dynamometer testing, some modifications will be necessary to insure safe operation of the test vehicle and to adjust to the requirements of track testing.
+(1) An assistant to the driver will be necessary to steer the vehicle, so that the driver will not be distracted from following the speed-time schedules used in the Federal test procedure.
+(2) The test vehicle will be preconditioned within the same time constraints given in § 610.43(a)(1)(ii). Preconditioning may take place either on the track or on a dynamometer. The 12-hour soak after preconditioning will take place in an area where the ambient temperature will remain within the 60° to 90 °F range, indoors, if necessary.
+(3) The vehicle will be transported to the test track without being started. If the distance from soak area to track is no greater than one-quarter mile, then the vehicle may be pushed or towed to the track. Otherwise the vehicle must be transported by truck or trailer.
+(4) Fuel economy will be determined by either a gravimetric or volumetric method.
+(c)
+Highway fuel economy test.
+The highway test will follow the city fuel economy test in the same manner as in dynamometer tests (§ 610.43(b)). Fuel economy will be measured by gravimetric or volumetric methods.
+(d)
+Steady state tests.
+Steady state tests on the track will be run in the same manner as on the dynamometer
+except that fuel economy will be measured by gravimetric or volumetric methods.
+§ 610.65
+Other test procedures.
+The Administrator may, pursuant to § 610.31(c), choose a test procedure or procedures from those used by research organizations in government, the oil industry, engine manufacturing companies, and independent laboratories. If none of these is deemed suitable, the Administrator may, in consultation with the party requesting the test, design a dynamometer, track or road test to measure the effects of the device.
+PARTS 611-699 [RESERVED]
+
+# FINDING AIDS
+A list of CFR titles, subtitles, chapters, subchapters and parts and an alphabetical list of agencies publishing in the CFR are included in the CFR Index and Finding Aids volume to the Code of Federal Regulations which is published separately and revised annually.
+Table of CFR Titles and Chapters
+Alphabetical List of Agencies Appearing in the CFR
+List of CFR Sections Affected
+Chap.
+
+# Table of CFR Titles and Chapters
+(Revised as of July 1, 2025)
+
+# Title 1—General Provisions
+I
+Administrative Committee of the Federal Register (Parts 1—49)
+II
+Office of the Federal Register (Parts 50—299)
+III
+Administrative Conference of the United States (Parts 300—399)
+IV
+Miscellaneous Agencies (Parts 400—599)
+VI
+National Capital Planning Commission (Parts 600—699)
+
+# Title 2—Federal Financial Assistance
+Subtitle A—Office of Management and Budget Guidance for Federal Financial Assistance
+I
+Office of Management and Budget Governmentwide Guidance for Grants and Agreements (Parts 2—199)
+II
+Office of Management and Budget Guidance (Parts 200—299)
+Subtitle B—Federal Agency Regulations for Grants and Agreements
+III
+Department of Health and Human Services (Parts 300—399)
+IV
+Department of Agriculture (Parts 400—499)
+VI
+Department of State (Parts 600—699)
+VII
+Agency for International Development (Parts 700—799)
+VIII
+Department of Veterans Affairs (Parts 800—899)
+IX
+Department of Energy (Parts 900—999)
+X
+Department of the Treasury (Parts 1000—1099)
+XI
+Department of Defense (Parts 1100—1199)
+XII
+Department of Transportation (Parts 1200—1299)
+XIII
+Department of Commerce (Parts 1300—1399)
+XIV
+Department of the Interior (Parts 1400—1499)
+XV
+Environmental Protection Agency (Parts 1500—1599)
+XVI
+U.S. International Development Finance Corporation (Parts 1600—1699)
+XVIII
+National Aeronautics and Space Administration (Parts 1800—1899)
+XIX
+U.S. Agency for Global Media (Parts 1900—1999)
+XX
+United States Nuclear Regulatory Commission (Parts 2000—2099)
+XXII
+Corporation for National and Community Service (Parts 2200—2299)
+XXIII
+Social Security Administration (Parts 2300—2399)
+XXIV
+Department of Housing and Urban Development (Parts 2400—2499)
+XXV
+National Science Foundation (Parts 2500—2599)
+XXVI
+National Archives and Records Administration (Parts 2600—2699)
+XXVII
+Small Business Administration (Parts 2700—2799)
+XXVIII
+Department of Justice (Parts 2800—2899)
+XXIX
+Department of Labor (Parts 2900—2999)
+XXX
+Department of Homeland Security (Parts 3000—3099)
+XXXI
+Institute of Museum and Library Services (Parts 3100—3199)
+XXXII
+National Endowment for the Arts (Parts 3200—3299)
+XXXIII
+National Endowment for the Humanities (Parts 3300—3399)
+XXXIV
+Department of Education (Parts 3400—3499)
+XXXV
+Export-Import Bank of the United States (Parts 3500—3599)
+XXXVI
+Office of National Drug Control Policy, Executive Office of the President (Parts 3600—3699)
+XXXVII
+Peace Corps (Parts 3700—3799)
+LVIII
+Election Assistance Commission (Parts 5800—5899)
+LIX
+Gulf Coast Ecosystem Restoration Council (Parts 5900—5999)
+LX
+Federal Communications Commission (Parts 6000—6099)
+
+# Title 3—The President
+I
+Executive Office of the President (Parts 100—199)
+
+# Title 4—Accounts
+I
+Government Accountability Office (Parts 1—199)
+
+# Title 5—Administrative Personnel
+I
+Office of Personnel Management (Parts 1—1199)
+II
+Merit Systems Protection Board (Parts 1200—1299)
+III
+Office of Management and Budget (Parts 1300—1399)
+IV
+Office of Personnel Management and Office of the Director of National Intelligence (Parts 1400—1499)
+V
+The International Organizations Employees Loyalty Board (Parts 1500—1599)
+VI
+Federal Retirement Thrift Investment Board (Parts 1600—1699)
+VIII
+Office of Special Counsel (Parts 1800—1899)
+IX
+Appalachian Regional Commission (Parts 1900—1999)
+XI
+Armed Forces Retirement Home (Parts 2100—2199)
+XIV
+Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel (Parts 2400—2499)
+XVI
+Office of Government Ethics (Parts 2600—2699)
+XXI
+Department of the Treasury (Parts 3100—3199)
+XXII
+Federal Deposit Insurance Corporation (Parts 3200—3299)
+XXIII
+Department of Energy (Parts 3300—3399)
+XXIV
+Federal Energy Regulatory Commission (Parts 3400—3499)
+XXV
+Department of the Interior (Parts 3500—3599)
+XXVI
+Department of Defense (Parts 3600—3699)
+XXVIII
+Department of Justice (Parts 3800—3899)
+XXIX
+Federal Communications Commission (Parts 3900—3999)
+XXX
+Farm Credit System Insurance Corporation (Parts 4000—4099)
+XXXI
+Farm Credit Administration (Parts 4100—4199)
+XXXIII
+U.S. International Development Finance Corporation (Parts 4300—4399)
+XXXIV
+Securities and Exchange Commission (Parts 4400—4499)
+XXXV
+Office of Personnel Management (Parts 4500—4599)
+XXXVI
+Department of Homeland Security (Parts 4600—4699)
+XXXVII
+Federal Election Commission (Parts 4700—4799)
+XL
+Interstate Commerce Commission (Parts 5000—5099)
+XLI
+Commodity Futures Trading Commission (Parts 5100—5199)
+XLII
+Department of Labor (Parts 5200—5299)
+XLIII
+National Science Foundation (Parts 5300—5399)
+XLV
+Department of Health and Human Services (Parts 5500—5599)
+XLVI
+Postal Rate Commission (Parts 5600—5699)
+XLVII
+Federal Trade Commission (Parts 5700—5799)
+XLVIII
+Nuclear Regulatory Commission (Parts 5800—5899)
+XLIX
+Federal Labor Relations Authority (Parts 5900—5999)
+L
+Department of Transportation (Parts 6000—6099)
+LII
+Export-Import Bank of the United States (Parts 6200—6299)
+LIII
+Department of Education (Parts 6300—6399)
+LIV
+Environmental Protection Agency (Parts 6400—6499)
+LV
+National Endowment for the Arts (Parts 6500—6599)
+LVI
+National Endowment for the Humanities (Parts 6600—6699)
+LVII
+General Services Administration (Parts 6700—6799)
+LVIII
+Board of Governors of the Federal Reserve System (Parts 6800—6899)
+LIX
+National Aeronautics and Space Administration (Parts 6900—6999)
+LX
+United States Postal Service (Parts 7000—7099)
+LXI
+National Labor Relations Board (Parts 7100—7199)
+LXII
+Equal Employment Opportunity Commission (Parts 7200—7299)
+LXIII
+Inter-American Foundation (Parts 7300—7399)
+LXIV
+Merit Systems Protection Board (Parts 7400—7499)
+LXV
+Department of Housing and Urban Development (Parts 7500—7599)
+LXVI
+National Archives and Records Administration (Parts 7600—7699)
+LXVII
+Institute of Museum and Library Services (Parts 7700—7799)
+LXVIII
+Commission on Civil Rights (Parts 7800—7899)
+LXIX
+Tennessee Valley Authority (Parts 7900—7999)
+LXX
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 8000—8099)
+LXXI
+Consumer Product Safety Commission (Parts 8100—8199)
+LXXIII
+Department of Agriculture (Parts 8300—8399)
+LXXIV
+Federal Mine Safety and Health Review Commission (Parts 8400—8499)
+LXXVI
+Federal Retirement Thrift Investment Board (Parts 8600—8699)
+LXXVII
+Office of Management and Budget (Parts 8700—8799)
+LXXX
+Federal Housing Finance Agency (Parts 9000—9099)
+LXXXIII
+Special Inspector General for Afghanistan Reconstruction (Parts 9300—9399)
+LXXXIV
+Bureau of Consumer Financial Protection (Parts 9400—9499)
+LXXXVI
+National Credit Union Administration (Parts 9600—9699)
+XCVII
+Department of Homeland Security Human Resources Management System (Department of Homeland Security—Office of Personnel Management) (Parts 9700—9799)
+XCVIII
+Council of the Inspectors General on Integrity and Efficiency (Parts 9800—9899)
+XCIX
+Military Compensation and Retirement Modernization Commission (Parts 9900—9999)
+C
+National Council on Disability (Parts 10000—10049)
+CI
+National Mediation Board (Parts 10100—10199)
+CII
+U.S. Office of Special Counsel (Parts 10200—10299)
+CIII
+U.S. Office of Federal Mediation and Conciliation Service (Parts 10300—10399)
+CIV
+Office of the Intellectual Property Enforcement Coordinator (Part 10400—10499)
+
+# Title 6—Domestic Security
+I
+Department of Homeland Security, Office of the Secretary (Parts 1—199)
+X
+Privacy and Civil Liberties Oversight Board (Parts 1000—1099)
+
+# Title 7—Agriculture
+Subtitle A—Office of the Secretary of Agriculture (Parts 0—26)
+Subtitle B—Regulations of the Department of Agriculture
+I
+Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture (Parts 27—209)
+II
+Food and Nutrition Service, Department of Agriculture (Parts 210—299)
+III
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 300—399)
+IV
+Federal Crop Insurance Corporation, Department of Agriculture (Parts 400—499)
+V
+Agricultural Research Service, Department of Agriculture (Parts 500—599)
+VI
+Natural Resources Conservation Service, Department of Agriculture (Parts 600—699)
+VII
+Farm Service Agency, Department of Agriculture (Parts 700—799)
+VIII
+Agricultural Marketing Service (Federal Grain Inspection Service, Fair Trade Practices Program), Department of Agriculture (Parts 800—899)
+IX
+Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture (Parts 900—999)
+X
+Agricultural Marketing Service (Marketing Agreements and Orders; Milk), Department of Agriculture (Parts 1000—1199)
+XI
+Agricultural Marketing Service (Marketing Agreements and Orders; Miscellaneous Commodities), Department of Agriculture (Parts 1200—1299)
+XIV
+Commodity Credit Corporation, Department of Agriculture (Parts 1400—1499)
+XV
+Foreign Agricultural Service, Department of Agriculture (Parts 1500—1599)
+XVI
+[Reserved]
+XVII
+Rural Utilities Service, Department of Agriculture (Parts 1700—1799)
+XVIII
+Rural Housing Service, Rural Business-Cooperative Service, Rural Utilities Service, and Farm Service Agency, Department of Agriculture (Parts 1800—2099)
+XX
+[Reserved]
+XXI
+Office of Energy and Environmental Policy, Department of Agriculture (Part 2100)
+XXV
+Office of Advocacy and Outreach, Department of Agriculture (Parts 2500—2599)
+XXVI
+Office of Inspector General, Department of Agriculture (Parts 2600—2699)
+XXVII
+Office of Information Resources Management, Department of Agriculture (Parts 2700—2799)
+XXVIII
+Office of Operations, Department of Agriculture (Parts 2800—2899)
+XXIX
+Office of Energy Policy and New Uses, Department of Agriculture (Parts 2900—2999)
+XXX
+Office of the Chief Financial Officer, Department of Agriculture (Parts 3000—3099)
+XXXI
+Office of Environmental Quality, Department of Agriculture (Parts 3100—3199)
+XXXII
+Office of Procurement and Property Management, Department of Agriculture (Parts 3200—3299)
+XXXIII
+Office of Transportation, Department of Agriculture (Parts 3300—3399)
+XXXIV
+National Institute of Food and Agriculture (Parts 3400—3499)
+XXXV
+Rural Housing Service, Department of Agriculture (Parts 3500—3599)
+XXXVI
+National Agricultural Statistics Service, Department of Agriculture (Parts 3600—3699)
+XXXVII
+Economic Research Service, Department of Agriculture (Parts 3700—3799)
+XXXVIII
+World Agricultural Outlook Board, Department of Agriculture (Parts 3800—3899)
+XLI
+[Reserved]
+XLII
+Rural Business-Cooperative Service, Department of Agriculture (Parts 4200—4299)
+L
+Rural Business-Cooperative Service, Rural Housing Service, and Rural Utilities Service, Department of Agriculture (Parts 5000—5099)
+
+# Title 8—Aliens and Nationality
+I
+Department of Homeland Security (Parts 1—499)
+V
+Executive Office for Immigration Review, Department of Justice (Parts 1000—1399)
+
+# Title 9—Animals and Animal Products
+I
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 1—199)
+II
+Agricultural Marketing Service (Fair Trade Practices Program), Department of Agriculture (Parts 200—299)
+III
+Food Safety and Inspection Service, Department of Agriculture (Parts 300—599)
+
+# Title 10—Energy
+I
+Nuclear Regulatory Commission (Parts 0—199)
+II
+Department of Energy (Parts 200—699)
+III
+Department of Energy (Parts 700—999)
+X
+Department of Energy (General Provisions) (Parts 1000—1099)
+XIII
+Nuclear Waste Technical Review Board (Parts 1300—1399)
+XVII
+Defense Nuclear Facilities Safety Board (Parts 1700—1799)
+XVIII
+Northeast Interstate Low-Level Radioactive Waste Commission (Parts 1800—1899)
+
+# Title 11—Federal Elections
+I
+Federal Election Commission (Parts 1—9099)
+II
+Election Assistance Commission (Parts 9400—9499)
+
+# Title 12—Banks and Banking
+I
+Comptroller of the Currency, Department of the Treasury (Parts 1—199)
+II
+Federal Reserve System (Parts 200—299)
+III
+Federal Deposit Insurance Corporation (Parts 300—399)
+IV
+Export-Import Bank of the United States (Parts 400—499)
+V
+(Parts 500—599) [Reserved]
+VI
+Farm Credit Administration (Parts 600—699)
+VII
+National Credit Union Administration (Parts 700—799)
+VIII
+Federal Financing Bank (Parts 800—899)
+IX
+(Parts 900—999)[Reserved]
+X
+Consumer Financial Protection Bureau (Parts 1000—1099)
+XI
+Federal Financial Institutions Examination Council (Parts 1100—1199)
+XII
+Federal Housing Finance Agency (Parts 1200—1299)
+XIII
+Financial Stability Oversight Council (Parts 1300—1399)
+XIV
+Farm Credit System Insurance Corporation (Parts 1400—1499)
+XV
+Department of the Treasury (Parts 1500—1599)
+XVI
+Office of Financial Research, Department of the Treasury (Parts 1600—1699)
+XVII
+Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development (Parts 1700—1799)
+XVIII
+Community Development Financial Institutions Fund, Department of the Treasury (Parts 1800—1899)
+
+# Title 13—Business Credit and Assistance
+I
+Small Business Administration (Parts 1—199)
+III
+Economic Development Administration, Department of Commerce (Parts 300—399)
+IV
+Emergency Steel Guarantee Loan Board (Parts 400—499)
+V
+Emergency Oil and Gas Guaranteed Loan Board (Parts 500—599)
+
+# Title 14—Aeronautics and Space
+I
+Federal Aviation Administration, Department of Transportation (Parts 1—199)
+II
+Office of the Secretary, Department of Transportation (Aviation Proceedings) (Parts 200—399)
+III
+Commercial Space Transportation, Federal Aviation Administration, Department of Transportation (Parts 400—1199)
+V
+National Aeronautics and Space Administration (Parts 1200—1299)
+VI
+Air Transportation System Stabilization (Parts 1300—1399)
+
+# Title 15—Commerce and Foreign Trade
+Subtitle A—Office of the Secretary of Commerce (Parts 0—29)
+Subtitle B—Regulations Relating to Commerce and Foreign Trade
+I
+Bureau of the Census, Department of Commerce (Parts 30—199)
+II
+National Institute of Standards and Technology, Department of Commerce (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+Foreign-Trade Zones Board, Department of Commerce (Parts 400—499)
+VII
+Bureau of Industry and Security, Department of Commerce (Parts 700—799)
+VIII
+Bureau of Economic Analysis, Department of Commerce (Parts 800—899)
+IX
+National Oceanic and Atmospheric Administration, Department of Commerce (Parts 900—999)
+XI
+National Technical Information Service, Department of Commerce (Parts 1100—1199)
+XIII
+East-West Foreign Trade Board (Parts 1300—1399)
+XIV
+Minority Business Development Agency (Parts 1400—1499)
+XV
+Office of the Under-Secretary for Economic Affairs, Department of Commerce (Parts 1500—1599)
+Subtitle C—Regulations Relating to Foreign Trade Agreements
+XX
+Office of the United States Trade Representative (Parts 2000—2099)
+Subtitle D—Regulations Relating to Telecommunications and Information
+XXIII
+National Telecommunications and Information Administration, Department of Commerce (Parts 2300—2399) [Reserved]
+
+# Title 16—Commercial Practices
+I
+Federal Trade Commission (Parts 0—999)
+II
+Consumer Product Safety Commission (Parts 1000—1799)
+
+# Title 17—Commodity and Securities Exchanges
+I
+Commodity Futures Trading Commission (Parts 1—199)
+II
+Securities and Exchange Commission (Parts 200—399)
+IV
+Department of the Treasury (Parts 400—499)
+
+# Title 18—Conservation of Power and Water Resources
+I
+Federal Energy Regulatory Commission, Department of Energy (Parts 1—399)
+III
+Delaware River Basin Commission (Parts 400—499)
+VI
+Water Resources Council (Parts 700—799)
+VIII
+Susquehanna River Basin Commission (Parts 800—899)
+XIII
+Tennessee Valley Authority (Parts 1300—1399)
+
+# Title 19—Customs Duties
+I
+U.S. Customs and Border Protection, Department of Homeland Security; Department of the Treasury (Parts 0—199)
+II
+United States International Trade Commission (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+U.S. Immigration and Customs Enforcement, Department of Homeland Security (Parts 400—599) [Reserved]
+
+# Title 20—Employees' Benefits
+I
+Office of Workers' Compensation Programs, Department of Labor (Parts 1—199)
+II
+Railroad Retirement Board (Parts 200—399)
+III
+Social Security Administration (Parts 400—499)
+IV
+Employees' Compensation Appeals Board, Department of Labor (Parts 500—599)
+V
+Employment and Training Administration, Department of Labor (Parts 600—699)
+VI
+Office of Workers' Compensation Programs, Department of Labor (Parts 700—799)
+VII
+Benefits Review Board, Department of Labor (Parts 800—899)
+VIII
+Joint Board for the Enrollment of Actuaries (Parts 900—999)
+IX
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 1000—1099)
+
+# Title 21—Food and Drugs
+I
+Food and Drug Administration, Department of Health and Human Services (Parts 1—1299)
+II
+Drug Enforcement Administration, Department of Justice (Parts 1300—1399)
+III
+Office of National Drug Control Policy (Parts 1400—1499)
+
+# Title 22—Foreign Relations
+I
+Department of State (Parts 1—199)
+II
+Agency for International Development (Parts 200—299)
+III
+Peace Corps (Parts 300—399)
+IV
+International Joint Commission, United States and Canada (Parts 400—499)
+V
+United States Agency for Global Media (Parts 500—599)
+VII
+U.S. International Development Finance Corporation (Parts 700—799)
+IX
+Foreign Service Grievance Board (Parts 900—999)
+X
+Inter-American Foundation (Parts 1000—1099)
+XI
+International Boundary and Water Commission, United States and Mexico, United States Section (Parts 1100—1199)
+XII
+United States International Development Cooperation Agency (Parts 1200—1299)
+XIII
+Millennium Challenge Corporation (Parts 1300—1399)
+XIV
+Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel (Parts 1400—1499)
+XV
+African Development Foundation (Parts 1500—1599)
+XVI
+Japan-United States Friendship Commission (Parts 1600—1699)
+XVII
+United States Institute of Peace (Parts 1700—1799)
+
+# Title 23—Highways
+I
+Federal Highway Administration, Department of Transportation (Parts 1—999)
+II
+National Highway Traffic Safety Administration and Federal Highway Administration, Department of Transportation (Parts 1200—1299)
+III
+National Highway Traffic Safety Administration, Department of Transportation (Parts 1300—1399)
+
+# Title 24—Housing and Urban Development
+Subtitle A—Office of the Secretary, Department of Housing and Urban Development (Parts 0—99)
+Subtitle B—Regulations Relating to Housing and Urban Development
+I
+Office of Assistant Secretary for Equal Opportunity, Department of Housing and Urban Development (Parts 100—199)
+II
+Office of Assistant Secretary for Housing-Federal Housing Commissioner, Department of Housing and Urban Development (Parts 200—299)
+III
+Government National Mortgage Association, Department of Housing and Urban Development (Parts 300—399)
+IV
+Office of Housing and Office of Multifamily Housing Assistance Restructuring, Department of Housing and Urban Development (Parts 400—499)
+V
+Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development (Parts 500—599)
+VII
+Office of the Secretary, Department of Housing and Urban Development (Housing Assistance Programs and Public and Indian Housing Programs) (Parts 700—799)
+VIII
+Office of the Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Section 8 Housing Assistance Programs, Section 202 Direct Loan Program, Section 202 Supportive Housing for the Elderly Program and Section 811 Supportive Housing for Persons With Disabilities Program) (Parts 800—899)
+IX
+Office of Assistant Secretary for Public and Indian Housing, Department of Housing and Urban Development (Parts 900—1699)
+XII
+Office of Inspector General, Department of Housing and Urban Development (Parts 2000—2099)
+XX
+Office of Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Parts 3200—3899)
+XXV
+Neighborhood Reinvestment Corporation (Parts 4100—4199)
+
+# Title 25—Indians
+I
+Bureau of Indian Affairs, Department of the Interior (Parts 1—299)
+II
+Indian Arts and Crafts Board, Department of the Interior (Parts 300—399)
+III
+National Indian Gaming Commission, Department of the Interior (Parts 500—599)
+IV
+Office of Navajo and Hopi Indian Relocation (Parts 700—899)
+V
+Bureau of Indian Affairs, Department of the Interior, and Indian Health Service, Department of Health and Human Services (Part 900—999)
+VI
+Office of the Assistant Secretary, Indian Affairs, Department of the Interior (Parts 1000—1199)
+VII
+Office of the Special Trustee for American Indians, Department of the Interior (Parts 1200—1299)
+
+# Title 26—Internal Revenue
+I
+Internal Revenue Service, Department of the Treasury (Parts 1—End)
+
+# Title 27—Alcohol, Tobacco Products and Firearms
+I
+Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury (Parts 1—399)
+II
+Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice (Parts 400—799)
+
+# Title 28—Judicial Administration
+I
+Department of Justice (Parts 0—299)
+III
+Federal Prison Industries, Inc., Department of Justice (Parts 300—399)
+V
+Bureau of Prisons, Department of Justice (Parts 500—599)
+VI
+Offices of Independent Counsel, Department of Justice (Parts 600—699)
+VII
+Office of Independent Counsel (Parts 700—799)
+VIII
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 800—899)
+IX
+National Crime Prevention and Privacy Compact Council (Parts 900—999)
+XI
+Department of Justice and Department of State (Parts 1100—1199)
+
+# Title 29—Labor
+Subtitle A—Office of the Secretary of Labor (Parts 0—99)
+Subtitle B—Regulations Relating to Labor
+I
+National Labor Relations Board (Parts 100—199)
+II
+Office of Labor-Management Standards, Department of Labor (Parts 200—299)
+III
+National Railroad Adjustment Board (Parts 300—399)
+IV
+Office of Labor-Management Standards, Department of Labor (Parts 400—499)
+V
+Wage and Hour Division, Department of Labor (Parts 500—899)
+IX
+Construction Industry Collective Bargaining Commission (Parts 900—999)
+X
+National Mediation Board (Parts 1200—1299)
+XII
+Federal Mediation and Conciliation Service (Parts 1400—1499)
+XIV
+Equal Employment Opportunity Commission (Parts 1600—1699)
+XVII
+Occupational Safety and Health Administration, Department of Labor (Parts 1900—1999)
+XX
+Occupational Safety and Health Review Commission (Parts 2200—2499)
+XXV
+Employee Benefits Security Administration, Department of Labor (Parts 2500—2599)
+XXVII
+Federal Mine Safety and Health Review Commission (Parts 2700—2799)
+XL
+Pension Benefit Guaranty Corporation (Parts 4000—4999)
+
+# Title 30—Mineral Resources
+I
+Mine Safety and Health Administration, Department of Labor (Parts 1—199)
+II
+Bureau of Safety and Environmental Enforcement, Department of the Interior (Parts 200—299)
+IV
+Geological Survey, Department of the Interior (Parts 400—499)
+V
+Bureau of Ocean Energy Management, Department of the Interior (Parts 500—599)
+VII
+Office of Surface Mining Reclamation and Enforcement, Department of the Interior (Parts 700—999)
+XII
+Office of Natural Resources Revenue, Department of the Interior (Parts 1200—1299)
+
+# Title 31—Money and Finance: Treasury
+Subtitle A—Office of the Secretary of the Treasury (Parts 0—50)
+Subtitle B—Regulations Relating to Money and Finance
+I
+Monetary Offices, Department of the Treasury (Parts 51—199)
+II
+Fiscal Service, Department of the Treasury (Parts 200—399)
+IV
+Secret Service, Department of the Treasury (Parts 400—499)
+V
+Office of Foreign Assets Control, Department of the Treasury (Parts 500—599)
+VI
+Bureau of Engraving and Printing, Department of the Treasury (Parts 600—699)
+VII
+Federal Law Enforcement Training Center, Department of the Treasury (Parts 700—799)
+VIII
+Office of Investment Security, Department of the Treasury (Parts 800—899)
+IX
+Federal Claims Collection Standards (Department of the Treasury—Department of Justice) (Parts 900—999)
+X
+Financial Crimes Enforcement Network, Department of the Treasury (Parts 1000—1099)
+
+# Title 32—National Defense
+Subtitle A—Department of Defense
+I
+Office of the Secretary of Defense (Parts 1—399)
+V
+Department of the Army (Parts 400—699)
+VI
+Department of the Navy (Parts 700—799)
+VII
+Department of the Air Force (Parts 800—1099)
+Subtitle B—Other Regulations Relating to National Defense
+XII
+Department of Defense, Defense Logistics Agency (Parts 1200—1299)
+XVI
+Selective Service System (Parts 1600—1699)
+XVII
+Office of the Director of National Intelligence (Parts 1700—1799)
+XVIII
+National Counterintelligence Center (Parts 1800—1899)
+XIX
+Central Intelligence Agency (Parts 1900—1999)
+XX
+Information Security Oversight Office, National Archives and Records Administration (Parts 2000—2099)
+XXI
+National Security Council (Parts 2100—2199)
+XXIV
+Office of Science and Technology Policy (Parts 2400—2499)
+XXVII
+Office for Micronesian Status Negotiations (Parts 2700—2799)
+XXVIII
+Office of the Vice President of the United States (Parts 2800—2899)
+
+# Title 33—Navigation and Navigable Waters
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Corps of Engineers, Department of the Army, Department of Defense (Parts 200—399)
+IV
+Great Lakes St. Lawrence Seaway Development Corporation, Department of Transportation (Parts 400—499)
+
+# Title 34—Education
+Subtitle A—Office of the Secretary, Department of Education (Parts 1—99)
+Subtitle B—Regulations of the Offices of the Department of Education
+I
+Office for Civil Rights, Department of Education (Parts 100—199)
+II
+Office of Elementary and Secondary Education, Department of Education (Parts 200—299)
+III
+Office of Special Education and Rehabilitative Services, Department of Education (Parts 300—399)
+IV
+Office of Career, Technical, and Adult Education, Department of Education (Parts 400—499)
+V
+Office of Bilingual Education and Minority [Reserved]
+VI
+Office of Postsecondary Education, Department of Education (Parts 600—699)
+VII
+Office of Educational Research and Improvement, Department of Education (Parts 700—799) [Reserved]
+Subtitle C—Regulations Relating to Education
+XI
+[Reserved]
+XII
+National Council on Disability (Parts 1200—1299)
+Title 35 [Reserved]
+
+# Title 36—Parks, Forests, and Public Property
+I
+National Park Service, Department of the Interior (Parts 1—199)
+II
+Forest Service, Department of Agriculture (Parts 200—299)
+III
+Corps of Engineers, Department of the Army (Parts 300—399)
+IV
+American Battle Monuments Commission (Parts 400—499)
+V
+Smithsonian Institution (Parts 500—599)
+VI
+[Reserved]
+VII
+Library of Congress (Parts 700—799)
+VIII
+Advisory Council on Historic Preservation (Parts 800—899)
+IX
+Pennsylvania Avenue Development Corporation (Parts 900—999)
+X
+Presidio Trust (Parts 1000—1099)
+XI
+Architectural and Transportation Barriers Compliance Board (Parts 1100—1199)
+XII
+National Archives and Records Administration (Parts 1200—1299)
+XV
+Oklahoma City National Memorial Trust (Parts 1500—1599)
+XVI
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation (Parts 1600—1699)
+
+# Title 37—Patents, Trademarks, and Copyrights
+I
+United States Patent and Trademark Office, Department of Commerce (Parts 1—199)
+II
+U.S. Copyright Office, Library of Congress (Parts 200—299)
+III
+Copyright Royalty Board, Library of Congress (Parts 300—399)
+IV
+National Institute of Standards and Technology, Department of Commerce (Parts 400—599)
+
+# Title 38—Pensions, Bonuses, and Veterans' Relief
+I
+Department of Veterans Affairs (Parts 0—199)
+II
+Armed Forces Retirement Home (Parts 200—299)
+
+# Title 39—Postal Service
+I
+United States Postal Service (Parts 1—999)
+III
+Postal Regulatory Commission (Parts 3000—3099)
+
+# Title 40—Protection of Environment
+I
+Environmental Protection Agency (Parts 1—1099)
+IV
+Environmental Protection Agency and Department of Justice (Parts 1400—1499)
+V
+Council on Environmental Quality (Parts 1500—1599)
+VI
+Chemical Safety and Hazard Investigation Board (Parts 1600—1699)
+VII
+Environmental Protection Agency and Department of Defense; Uniform National Discharge Standards for Vessels of the Armed Forces (Parts 1700—1799)
+VIII
+Gulf Coast Ecosystem Restoration Council (Parts 1800—1899)
+IX
+Federal Permitting Improvement Steering Council (Part 1900)
+
+# Title 41—Public Contracts and Property Management
+Subtitle A—Federal Procurement Regulations System [Note]
+Subtitle B—Other Provisions Relating to Public Contracts
+50
+Public Contracts, Department of Labor (Parts 50-1—50-999)
+51
+Committee for Purchase From People Who Are Blind or Severely Disabled (Parts 51-1—51-99)
+60
+Office of Federal Contract Compliance Programs, Equal Employment Opportunity, Department of Labor (Parts 60-1—60-999)
+61
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 61-1—61-999)
+62—100
+[Reserved]
+Subtitle C—Federal Property Management Regulations System
+101
+Federal Property Management Regulations (Parts 101-1—101-99)
+102
+Federal Management Regulation (Parts 102-1—102-299)
+103—104
+[Reserved]
+105
+General Services Administration (Parts 105-1—105-999)
+109
+Department of Energy Property Management Regulations (Parts 109-1—109-99)
+114
+Department of the Interior (Parts 114-1—114-99)
+115
+Environmental Protection Agency (Parts 115-1—115-99)
+128
+Department of Justice (Parts 128-1—128-99)
+129—200
+[Reserved]
+Subtitle D—Federal Acquisition Supply Chain Security
+201
+Federal Acquisition Security Council (Parts 201-1—201-99)
+Subtitle E [Reserved]
+Subtitle F—Federal Travel Regulation System
+300
+General (Parts 300-1—300-99)
+301
+Temporary Duty (TDY) Travel Allowances (Parts 301-1—301-99)
+302
+Relocation Allowances (Parts 302-1—302-99)
+303
+Payment of Expenses Connected with the Death of Certain Employees (Part 303-1—303-99)
+304
+Payment of Travel Expenses from a Non-Federal Source (Parts 304-1—304-99)
+
+# Title 42—Public Health
+I
+Public Health Service, Department of Health and Human Services (Parts 1—199)
+II—III
+[Reserved]
+IV
+Centers for Medicare
+Medicaid Services, Department of Health and Human Services (Parts 400—699)
+V
+Office of Inspector General-Health Care, Department of Health and Human Services (Parts 1000—1099)
+
+# Title 43—Public Lands: Interior
+Subtitle A—Office of the Secretary of the Interior (Parts 1—199)
+Subtitle B—Regulations Relating to Public Lands
+I
+Bureau of Reclamation, Department of the Interior (Parts 400—999)
+II
+Bureau of Land Management, Department of the Interior (Parts 1000—9999)
+III
+Utah Reclamation Mitigation and Conservation Commission (Parts 10000—10099)
+
+# Title 44—Emergency Management and Assistance
+I
+Federal Emergency Management Agency, Department of Homeland Security (Parts 0—399)
+IV
+Department of Commerce and Department of Transportation (Parts 400—499)
+
+# Title 45—Public Welfare
+Subtitle A—Department of Health and Human Services (Parts 1—199)
+Subtitle B—Regulations Relating to Public Welfare
+II
+Office of Family Assistance (Assistance Programs), Administration for Children and Families, Department of Health and Human Services (Parts 200—299)
+III
+Office of Child Support Services, Administration of Families and Services, Department of Health and Human Services (Parts 300—399)
+IV
+Office of Refugee Resettlement, Administration for Children and Families, Department of Health and Human Services (Parts 400—499)
+V
+Foreign Claims Settlement Commission of the United States, Department of Justice (Parts 500—599)
+VI
+National Science Foundation (Parts 600—699)
+VII
+Commission on Civil Rights (Parts 700—799)
+VIII
+Office of Personnel Management (Parts 800—899)
+IX
+Denali Commission (Parts 900—999)
+X
+Office of Community Services, Administration for Children and Families, Department of Health and Human Services (Parts 1000—1099)
+XI
+National Foundation on the Arts and the Humanities (Parts 1100—1199)
+XII
+Corporation for National and Community Service (Parts 1200—1299)
+XIII
+Administration for Children and Families, Department of Health and Human Services (Parts 1300—1399)
+XVI
+Legal Services Corporation (Parts 1600—1699)
+XVII
+National Commission on Libraries and Information Science (Parts 1700—1799)
+XVIII
+Harry S. Truman Scholarship Foundation (Parts 1800—1899)
+XXI
+Commission of Fine Arts (Parts 2100—2199)
+XXIII
+Arctic Research Commission (Parts 2300—2399)
+XXIV
+James Madison Memorial Fellowship Foundation (Parts 2400—2499)
+XXV
+Corporation for National and Community Service (Parts 2500—2599)
+
+# Title 46—Shipping
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Maritime Administration, Department of Transportation (Parts 200—399)
+III
+Coast Guard (Great Lakes Pilotage), Department of Homeland Security (Parts 400—499)
+IV
+Federal Maritime Commission (Parts 500—599)
+
+# Title 47—Telecommunication
+I
+Federal Communications Commission (Parts 0—199)
+II
+Office of Science and Technology Policy and National Security Council (Parts 200—299)
+III
+National Telecommunications and Information Administration, Department of Commerce (Parts 300—399)
+IV
+National Telecommunications and Information Administration, Department of Commerce, and National Highway Traffic Safety Administration, Department of Transportation (Parts 400—499)
+V
+The First Responder Network Authority (Parts 500—599)
+
+# Title 48—Federal Acquisition Regulations System
+1
+Federal Acquisition Regulation (Parts 1—99)
+2
+Defense Acquisition Regulations System, Department of Defense (Parts 200—299)
+3
+Health and Human Services (Parts 300—399)
+4
+Department of Agriculture (Parts 400—499)
+5
+General Services Administration (Parts 500—599)
+6
+Department of State (Parts 600—699)
+7
+Agency for International Development (Parts 700—799)
+8
+Department of Veterans Affairs (Parts 800—899)
+9
+Department of Energy (Parts 900—999)
+10
+Department of the Treasury (Parts 1000—1099)
+12
+Department of Transportation (Parts 1200—1299)
+13
+Department of Commerce (Parts 1300—1399)
+14
+Department of the Interior (Parts 1400—1499)
+15
+Environmental Protection Agency (Parts 1500—1599)
+16
+Office of Personnel Management, Federal Employees Health Benefits Acquisition Regulation (Parts 1600—1699)
+17
+Office of Personnel Management (Parts 1700—1799)
+18
+National Aeronautics and Space Administration (Parts 1800—1899)
+19
+Broadcasting Board of Governors (Parts 1900—1999)
+20
+Nuclear Regulatory Commission (Parts 2000—2099)
+21
+Office of Personnel Management, Federal Employees Group Life Insurance Federal Acquisition Regulation (Parts 2100—2199)
+23
+Social Security Administration (Parts 2300—2399)
+24
+Department of Housing and Urban Development (Parts 2400—2499)
+25
+National Science Foundation (Parts 2500—2599)
+28
+Department of Justice (Parts 2800—2899)
+29
+Department of Labor (Parts 2900—2999)
+30
+Department of Homeland Security, Homeland Security Acquisition Regulation (HSAR) (Parts 3000—3099)
+34
+Department of Education Acquisition Regulation (Parts 3400—3499)
+51
+Department of the Army Acquisition Regulations (Parts 5100—5199) [Reserved]
+52
+Department of the Navy Acquisition Regulations (Parts 5200—5299)
+53
+Department of the Air Force Federal Acquisition Regulation Supplement (Parts 5300—5399) [Reserved]
+54
+Defense Logistics Agency, Department of Defense (Parts 5400—5499)
+57
+African Development Foundation (Parts 5700—5799)
+61
+Civilian Board of Contract Appeals, General Services Administration (Parts 6100—6199)
+99
+Cost Accounting Standards Board, Office of Federal Procurement Policy, Office of Management and Budget (Parts 9900—9999)
+
+# Title 49—Transportation
+Subtitle A—Office of the Secretary of Transportation (Parts 1—99)
+Subtitle B—Other Regulations Relating to Transportation
+I
+Pipeline and Hazardous Materials Safety Administration, Department of Transportation (Parts 100—199)
+II
+Federal Railroad Administration, Department of Transportation (Parts 200—299)
+III
+Federal Motor Carrier Safety Administration, Department of Transportation (Parts 300—399)
+IV
+Coast Guard, Department of Homeland Security (Parts 400—499)
+V
+National Highway Traffic Safety Administration, Department of Transportation (Parts 500—599)
+VI
+Federal Transit Administration, Department of Transportation (Parts 600—699)
+VII
+National Railroad Passenger Corporation (AMTRAK) (Parts 700—799)
+VIII
+National Transportation Safety Board (Parts 800—999)
+X
+Surface Transportation Board (Parts 1000—1399)
+XI
+Research and Innovative Technology Administration, Department of Transportation (Parts 1400—1499) [Reserved]
+XII
+Transportation Security Administration, Department of Homeland Security (Parts 1500—1699)
+
+# Title 50—Wildlife and Fisheries
+I
+United States Fish and Wildlife Service, Department of the Interior (Parts 1—199)
+II
+National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 200—299)
+III
+International Fishing and Related Activities (Parts 300—399)
+IV
+Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations (Parts 400—499)
+V
+Marine Mammal Commission (Parts 500—599)
+VI
+Fishery Conservation and Management, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 600—699)
+
+# Alphabetical List of Agencies Appearing in the CFR
+(Revised as of July 1, 2025)
+Agency
+CFR Title, Subtitle or Chapter
+Administrative Conference of the United States
+1, III
+Advisory Council on Historic Preservation
+36, VIII
+Advocacy and Outreach, Office of
+7, XXV
+Afghanistan Reconstruction, Special Inspector General for
+5, LXXXIII
+African Development Foundation
+22, XV
+Federal Acquisition Regulation
+48, 57
+Agency for International Development
+2, VII; 22, II
+Federal Acquisition Regulation
+48, 7
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Agriculture, Department of
+2, IV; 5, LXXIII
+Advocacy and Outreach, Office of
+7, XXV
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Chief Financial Officer, Office of
+7, XXX
+Commodity Credit Corporation
+7, XIV
+Economic Research Service
+7, XXXVII
+Energy and Environmental Policy, Office of
+7, XXI
+Energy Policy and New Uses, Office of
+2, IX; 7, XXIX
+Environmental Quality, Office of
+7, XXXI
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 4
+Federal Crop Insurance Corporation
+7, IV
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Forest Service
+36, II
+Information Resources Management, Office of
+7, XXVII
+Inspector General, Office of
+7, XXVI
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National Institute of Food and Agriculture
+7, XXXIV
+Natural Resources Conservation Service
+7, VI
+Operations, Office of
+7, XXVIII
+Procurement and Property Management, Office of
+7, XXXII
+Rural Business-Cooperative Service
+7, XVIII, XLII
+Rural Development Administration
+7, XLII
+Rural Housing Service
+7, XVIII, XXXV
+Rural Utilities Service
+7, XVII, XVIII, XLII
+Secretary of Agriculture, Office of
+7, Subtitle A
+Transportation, Office of
+7, XXXIII
+World Agricultural Outlook Board
+7, XXXVIII
+Air Force, Department of
+32, VII
+Federal Acquisition Regulation Supplement
+48, 53
+Air Transportation Stabilization Board
+14, VI
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+AMTRAK
+49, VII
+American Battle Monuments Commission
+36, IV
+American Indians, Office of the Special Trustee
+25, VII
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Appalachian Regional Commission
+5, IX
+Architectural and Transportation Barriers Compliance Board
+36, XI
+Arctic Research Commission
+45, XXIII
+Armed Forces Retirement Home
+5, XI; 38, II
+Army, Department of
+32, V
+Engineers, Corps of
+33, II; 36, III
+Federal Acquisition Regulation
+48, 51
+Benefits Review Board
+20, VII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Blind or Severely Disabled, Committee for Purchase from People Who Are
+41, 51
+Broadcasting Board of Governors
+Federal Acquisition Regulation
+48, 19
+Career, Technical, and Adult Education, Office of
+34, IV
+Census Bureau
+15, I
+Centers for Medicare
+Medicaid Services
+42, IV
+Central Intelligence Agency
+32, XIX
+Chemical Safety and Hazard Investigation Board
+40, VI
+Chief Financial Officer, Office of
+7, XXX
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Civil Rights, Commission on
+5, LXVIII; 45, VII
+Civil Rights, Office for
+34, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Commerce, Department of
+2, XIII; 44, IV; 50, VI
+Census Bureau
+15, I
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 13
+Foreign-Trade Zones Board
+15, IV
+Industry and Security, Bureau of
+15, VII
+International Trade Administration
+15, III; 19, III
+National Institute of Standards and Technology
+15, II; 37, IV
+National Marine Fisheries Service
+50, II, IV
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV
+National Weather Service
+15, IX
+Patent and Trademark Office, United States
+37, I
+Secretary of Commerce, Office of
+15, Subtitle A
+Commercial Space Transportation
+14, III
+Commodity Credit Corporation
+7, XIV
+Commodity Futures Trading Commission
+5, XLI; 17, I
+Community Planning and Development, Office of Assistant Secretary for
+24, V
+Community Services, Office of
+45, X
+Comptroller of the Currency
+12, I
+Construction Industry Collective Bargaining Commission
+29, IX
+Consumer Financial Protection Bureau
+5, LXXXIV; 12, X
+Consumer Product Safety Commission
+5, LXXI; 16, II
+Copyright Royalty Board
+37, III
+Corporation for National and Community Service
+2, XXII; 45, XII, XXV
+Cost Accounting Standards Board
+48, 99
+Council on Environmental Quality
+40, V
+Council of the Inspectors General on Integrity and Efficiency
+5, XCVIII
+Court Services and Offender Supervision Agency for the District of Columbia
+5, LXX; 28, VIII
+Customs and Border Protection
+19, I
+Defense, Department of
+2, XI; 5, XXVI; 32, Subtitle A; 40, VII
+Advanced Research Projects Agency
+32, I
+Air Force Department
+32, VII
+Army Department
+32, V; 33, II; 36, III; 48, 51
+Defense Acquisition Regulations System
+48, 2
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, I, XII; 48, 54
+Engineers, Corps of
+33, II; 36, III
+National Imagery and Mapping Agency
+32, I
+Navy, Department of
+32, VI; 48, 52
+Secretary of Defense, Office of
+2, XI; 32, I
+Defense Contract Audit Agency
+32, I
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, XII; 48, 54
+Defense Nuclear Facilities Safety Board
+10, XVII
+Delaware River Basin Commission
+18, III
+Denali Commission
+45, IX
+Disability, National Council on
+5, C; 34, XII
+District of Columbia, Court Services and Offender Supervision Agency for the
+5, LXX; 28, VIII
+Drug Enforcement Administration
+21, II
+East-West Foreign Trade Board
+15, XIII
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Economic Research Service
+7, XXXVII
+Education, Department of
+2, XXXIV; 5, LIII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Career, Technical, and Adult Education, Office of
+34, IV
+Civil Rights, Office for
+34, I
+Educational Research and Improvement, Office of
+34, VII
+Elementary and Secondary Education, Office of
+34, II
+Federal Acquisition Regulation
+48, 34
+Postsecondary Education, Office of
+34, VI
+Secretary of Education, Office of
+34, Subtitle A
+Special Education and Rehabilitative Services, Office of
+34, III
+Educational Research and Improvement, Office of
+34, VII
+Election Assistance Commission
+2, LVIII; 11, II
+Elementary and Secondary Education, Office of
+34, II
+Emergency Oil and Gas Guaranteed Loan Board
+13, V
+Emergency Steel Guarantee Loan Board
+13, IV
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employees Loyalty Board
+5, V
+Employment and Training Administration
+20, V
+Employment Policy, National Commission for
+1, IV
+Employment Standards Administration
+20, VI
+Endangered Species Committee
+50, IV
+Energy, Department of
+2, IX; 5, XXIII; 10, II, III, X
+Federal Acquisition Regulation
+48, 9
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Property Management Regulations
+41, 109
+Energy, Office of
+7, XXIX
+Energy and Environmental Policy, Office of
+7, XXI
+Engineers, Corps of
+33, II; 36, III
+Engraving and Printing, Bureau of
+31, VI
+Environmental Protection Agency
+2, XV; 5, LIV; 40, I, IV, VII
+Federal Acquisition Regulation
+48, 15
+Property Management Regulations
+41, 115
+Environmental Quality, Office of
+7, XXXI
+Equal Employment Opportunity Commission
+5, LXII; 29, XIV
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Executive Office of the President
+3, I
+Environmental Quality, Council on
+40, V
+Management and Budget, Office of
+2, Subtitle A; 5, III, LXXVII; 14, VI; 48, 99
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Security Council
+32, XXI; 47, II
+Presidential Documents
+3
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Trade Representative, Office of the United States
+15, XX
+Export-Import Bank of the United States
+2, XXXV; 5, LII; 12, IV
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Farm Credit Administration
+5, XXXI; 12, VI
+Farm Credit System Insurance Corporation
+5, XXX; 12, XIV
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 1
+Federal Acquisition Security Council
+41, 201
+Federal Aviation Administration
+14, I
+Commercial Space Transportation
+14, III
+Federal Claims Collection Standards
+31, IX
+Federal Communications Commission
+2, LX; 5, XXIX; 47, I
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Crop Insurance Corporation
+7, IV
+Federal Deposit Insurance Corporation
+5, XXII; 12, III
+Federal Election Commission
+5, XXXVII; 11, I
+Federal Emergency Management Agency
+44, I
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Federal Financial Institutions Examination Council
+12, XI
+Federal Financing Bank
+12, VIII
+Federal Highway Administration
+23, I, II
+Federal Home Loan Mortgage Corporation
+1, IV
+Federal Housing Enterprise Oversight Office
+12, XVII
+Federal Housing Finance Agency
+5, LXXX; 12, XII
+Federal Labor Relations Authority
+5, XIV, XLIX; 22, XIV
+Federal Law Enforcement Training Center
+31, VII
+Federal Management Regulation
+41, 102
+Federal Maritime Commission
+46, IV
+Federal Mediation and Conciliation Service
+5, CIII; 29, XII
+Federal Mine Safety and Health Review Commission
+5, LXXIV; 29, XXVII
+Federal Motor Carrier Safety Administration
+49, III
+Federal Permitting Improvement Steering Council
+40, IX
+Federal Prison Industries, Inc.
+28, III
+Federal Procurement Policy Office
+48, 99
+Federal Property Management Regulations
+41, 101
+Federal Railroad Administration
+49, II
+Federal Register, Administrative Committee of
+1, I
+Federal Register, Office of
+1, II
+Federal Reserve System
+12, II
+Board of Governors
+5, LVIII
+Federal Retirement Thrift Investment Board
+5, VI, LXXVI
+Federal Service Impasses Panel
+5, XIV
+Federal Trade Commission
+5, XLVII; 16, I
+Federal Transit Administration
+49, VI
+Federal Travel Regulation System
+41, Subtitle F
+Financial Crimes Enforcement Network
+31, X
+Financial Research Office
+12, XVI
+Financial Stability Oversight Council
+12, XIII
+Fine Arts, Commission of
+45, XXI
+Fiscal Service
+31, II
+Fish and Wildlife Service, United States
+50, I, IV
+Food and Drug Administration
+21, I
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Foreign Assets Control, Office of
+31, V
+Foreign Claims Settlement Commission of the United States
+45, V
+Foreign Service Grievance Board
+22, IX
+Foreign Service Impasse Disputes Panel
+22, XIV
+Foreign Service Labor Relations Board
+22, XIV
+Foreign-Trade Zones Board
+15, IV
+Forest Service
+36, II
+General Services Administration
+5, LVII; 41, 105
+Contract Appeals, Board of
+48, 61
+Federal Acquisition Regulation
+48, 5
+Federal Management Regulation
+41, 102
+Federal Property Management Regulations
+41, 101
+Federal Travel Regulation System
+41, Subtitle F
+General
+41, 300
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Relocation Allowances
+41, 302
+Temporary Duty (TDY) Travel Allowances
+41, 301
+Geological Survey
+30, IV
+Government Accountability Office
+4, I
+Government Ethics, Office of
+5, XVI
+Government National Mortgage Association
+24, III
+Grain Inspection, Packers and Stockyards Administration
+7, VIII; 9, II
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Gulf Coast Ecosystem Restoration Council
+2, LIX; 40, VIII
+Harry S. Truman Scholarship Foundation
+45, XVIII
+Health and Human Services, Department of
+2, III; 5, XLV; 45, Subtitle A
+Centers for Medicare
+Medicaid Services
+42, IV
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Community Services, Office of
+45, X
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Federal Acquisition Regulation
+48, 3
+Food and Drug Administration
+21, I
+Indian Health Service
+25, V
+Inspector General (Health Care), Office of
+42, V
+Public Health Service
+42, I
+Refugee Resettlement, Office of
+45, IV
+Homeland Security, Department of
+2, XXX; 5, XXXVI; 6, I; 8, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Customs and Border Protection
+19, I
+Federal Emergency Management Agency
+44, I
+Human Resources Management and Labor Relations Systems
+5, XCVII
+Immigration and Customs Enforcement Bureau
+19, IV
+Transportation Security Administration
+49, XII
+Housing and Urban Development, Department of
+2, XXIV; 5, LXV; 24, Subtitle B
+Community Planning and Development, Office of Assistant Secretary for
+24, V
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Federal Acquisition Regulation
+48, 24
+Federal Housing Enterprise Oversight, Office of
+12, XVII
+Government National Mortgage Association
+24, III
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Inspector General, Office of
+24, XII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Secretary, Office of
+24, Subtitle A, VII
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Immigration and Customs Enforcement Bureau
+19, IV
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Office of
+28, VII
+Independent Counsel, Offices of
+28, VI
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Indian Health Service
+25, V
+Industry and Security, Bureau of
+15, VII
+Information Resources Management, Office of
+7, XXVII
+Information Security Oversight Office, National Archives and Records Administration
+32, XX
+Inspector General
+Agriculture Department
+7, XXVI
+Health and Human Services Department
+42, V
+Housing and Urban Development Department
+24, XII
+Institute of Peace, United States
+22, XVII
+Intellectual Property Enforcement Coordinator, Office of
+5, CIV
+Inter-American Foundation
+5, LXIII; 22, X
+Interior, Department of
+2, XIV
+American Indians, Office of the Special Trustee
+25, VII
+Endangered Species Committee
+50, IV
+Federal Acquisition Regulation
+48, 14
+Federal Property Management Regulations System
+41, 114
+Fish and Wildlife Service, United States
+50, I, IV
+Geological Survey
+30, IV
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Land Management, Bureau of
+43, II
+National Indian Gaming Commission
+25, III
+National Park Service
+36, I
+Natural Resource Revenue, Office of
+30, XII
+Ocean Energy Management, Bureau of
+30, V
+Reclamation, Bureau of
+43, I
+Safety and Environmental Enforcement, Bureau of
+30, II
+Secretary of the Interior, Office of
+2, XIV; 43, Subtitle A
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Internal Revenue Service
+26, I
+International Boundary and Water Commission, United States and Mexico, United States Section
+22, XI
+International Development, United States Agency for
+22, II
+Federal Acquisition Regulation
+48, 7
+International Development Cooperation Agency, United States
+22, XII
+International Development Finance Corporation, U.S.
+2, XVI; 5, XXXIII; 22, VII
+International Joint Commission, United States and Canada
+22, IV
+International Organizations Employees Loyalty Board
+5, V
+International Trade Administration
+15, III; 19, III
+International Trade Commission, United States
+19, II
+Interstate Commerce Commission
+5, XL
+Investment Security, Office of
+31, VIII
+James Madison Memorial Fellowship Foundation
+45, XXIV
+Japan-United States Friendship Commission
+22, XVI
+Joint Board for the Enrollment of Actuaries
+20, VIII
+Justice, Department of
+2, XXVIII; 5, XXVIII; 28, I, XI; 40, IV
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+Drug Enforcement Administration
+21, II
+Federal Acquisition Regulation
+48, 28
+Federal Claims Collection Standards
+31, IX
+Federal Prison Industries, Inc.
+28, III
+Foreign Claims Settlement Commission of the United States
+45, V
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Offices of
+28, VI
+Prisons, Bureau of
+28, V
+Property Management Regulations
+41, 128
+Labor, Department of
+2, XXIX; 5, XLII
+Benefits Review Board
+20, VII
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employment and Training Administration
+20, V
+Federal Acquisition Regulation
+48, 29
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Procurement Regulations System
+41, 50
+Labor-Management Standards, Office of
+29, II, IV
+Mine Safety and Health Administration
+30, I
+Occupational Safety and Health Administration
+29, XVII
+Public Contracts
+41, 50
+Secretary of Labor, Office of
+29, Subtitle A
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Wage and Hour Division
+29, V
+Workers' Compensation Programs, Office of
+20, I, VI
+Labor-Management Standards, Office of
+29, II, IV
+Land Management, Bureau of
+43, II
+Legal Services Corporation
+45, XVI
+Libraries and Information Science, National Commission on
+45, XVII
+Library of Congress
+36, VII
+Copyright Royalty Board
+37, III
+U.S. Copyright Office
+37, II
+Management and Budget, Office of
+2, Subpart A; 5, III, LXXVII; 14, VI; 48, 99
+Marine Mammal Commission
+50, V
+Maritime Administration
+46, II
+Merit Systems Protection Board
+5, II, LXIV
+Micronesian Status Negotiations, Office for
+32, XXVII
+Military Compensation and Retirement Modernization Commission
+5, XCIX
+Millennium Challenge Corporation
+22, XIII
+Mine Safety and Health Administration
+30, I
+Minority Business Development Agency
+15, XIV
+Miscellaneous Agencies
+1, IV
+Monetary Offices
+31, I
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation
+36, XVI
+Museum and Library Services, Institute of
+2, XXXI
+National Aeronautics and Space Administration
+2, XVIII; 5, LIX; 14, V
+Federal Acquisition Regulation
+48, 18
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National and Community Service, Corporation for
+2, XXII; 45, XII, XXV
+National Archives and Records Administration
+2, XXVI; 5, LXVI; 36, XII
+Information Security Oversight Office
+32, XX
+National Capital Planning Commission
+1, IV, VI
+National Counterintelligence Center
+32, XVIII
+National Credit Union Administration
+5, LXXXVI; 12, VII
+National Crime Prevention and Privacy Compact Council
+28, IX
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Endowment for the Arts
+2, XXXII
+National Endowment for the Humanities
+2, XXXIII
+National Foundation on the Arts and the Humanities
+45, XI
+National Geospatial-Intelligence Agency
+32, I
+National Highway Traffic Safety Administration
+23, II, III; 47, VI; 49, V
+National Imagery and Mapping Agency
+32, I
+National Indian Gaming Commission
+25, III
+National Institute of Food and Agriculture
+7, XXXIV
+National Institute of Standards and Technology
+15, II; 37, IV
+National Intelligence, Office of Director of
+5, IV; 32, XVII
+National Labor Relations Board
+5, LXI; 29, I
+National Marine Fisheries Service
+50, II, IV
+National Mediation Board
+5, CI; 29, X
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Park Service
+36, I
+National Railroad Adjustment Board
+29, III
+National Railroad Passenger Corporation (AMTRAK)
+49, VII
+National Science Foundation
+2, XXV; 5, XLIII; 45, VI
+Federal Acquisition Regulation
+48, 25
+National Security Council
+32, XXI; 47, II
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV, V
+National Transportation Safety Board
+49, VIII
+Natural Resource Revenue, Office of
+30, XII
+Natural Resources Conservation Service
+7, VI
+Navajo and Hopi Indian Relocation, Office of
+25, IV
+Navy, Department of
+32, VI
+Federal Acquisition Regulation
+48, 52
+Neighborhood Reinvestment Corporation
+24, XXV
+Northeast Interstate Low-Level Radioactive Waste Commission
+10, XVIII
+Nuclear Regulatory Commission
+2, XX; 5, XLVIII; 10, I
+Federal Acquisition Regulation
+48, 20
+Occupational Safety and Health Administration
+29, XVII
+Occupational Safety and Health Review Commission
+29, XX
+Ocean Energy Management, Bureau of
+30, V
+Oklahoma City National Memorial Trust
+36, XV
+Operations Office
+7, XXVIII
+Patent and Trademark Office, United States
+37, I
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Peace Corps
+2, XXXVII; 22, III
+Pennsylvania Avenue Development Corporation
+36, IX
+Pension Benefit Guaranty Corporation
+29, XL
+Personnel Management, Office of
+5, I, IV, XXXV; 45, VIII
+Federal Acquisition Regulation
+48, 17
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Human Resources Management and Labor Relations Systems, Department of Homeland Security
+5, XCVII
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Postal Regulatory Commission
+5, XLVI; 39, III
+Postal Service, United States
+5, LX; 39, I
+Postsecondary Education, Office of
+34, VI
+President's Commission on White House Fellowships
+1, IV
+Presidential Documents
+3
+Presidio Trust
+36, X
+Prisons, Bureau of
+28, V
+Privacy and Civil Liberties Oversight Board
+6, X
+Procurement and Property Management, Office of
+7, XXXII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Public Contracts, Department of Labor
+41, 50
+Public Health Service
+42, I
+Railroad Retirement Board
+20, II
+Reclamation, Bureau of
+43, I
+Refugee Resettlement, Office of
+45, IV
+Relocation Allowances
+41, 302
+Research and Innovative Technology Administration
+49, XI
+Rural Business-Cooperative Service
+7, XVIII, XLII, L
+Rural Housing Service
+7, XVIII, XXXV, L
+Rural Utilities Service
+7, XVII, XVIII, XLII, L
+Safety and Environmental Enforcement, Bureau of
+30, II
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Secret Service
+31, IV
+Securities and Exchange Commission
+5, XXXIV; 17, II
+Selective Service System
+32, XVI
+Small Business Administration
+2, XXVII; 13, I
+Smithsonian Institution
+36, V
+Social Security Administration
+2, XXIII; 20, III; 48, 23
+Soldiers' and Airmen's Home, United States
+5, XI
+Special Counsel, Office of
+5, VIII
+Special Education and Rehabilitative Services, Office of
+34, III
+State, Department of
+2, VI; 22, I; 28, XI
+Federal Acquisition Regulation
+48, 6
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Surface Transportation Board
+49, X
+Susquehanna River Basin Commission
+18, VIII
+Tennessee Valley Authority
+5, LXIX; 18, XIII
+Trade Representative, United States, Office of
+15, XX
+Transportation, Department of
+2, XII; 5, L
+Commercial Space Transportation
+14, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 12
+Federal Aviation Administration
+14, I
+Federal Highway Administration
+23, I, II
+Federal Motor Carrier Safety Administration
+49, III
+Federal Railroad Administration
+49, II
+Federal Transit Administration
+49, VI
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Maritime Administration
+46, II
+National Highway Traffic Safety Administration
+23, II, III; 47, IV; 49, V
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Secretary of Transportation, Office of
+14, II; 49, Subtitle A
+Transportation Statistics Bureau
+49, XI
+Transportation, Office of
+7, XXXIII
+Transportation Security Administration
+49, XII
+Transportation Statistics Bureau
+49, XI
+Travel Allowances, Temporary Duty (TDY)
+41, 301
+Treasury, Department of the
+2, X; 5, XXI; 12, XV; 17, IV; 31, IX
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Community Development Financial Institutions Fund
+12, XVIII
+Comptroller of the Currency
+12, I
+Customs and Border Protection
+19, I
+Engraving and Printing, Bureau of
+31, VI
+Federal Acquisition Regulation
+48, 10
+Federal Claims Collection Standards
+31, IX
+Federal Law Enforcement Training Center
+31, VII
+Financial Crimes Enforcement Network
+31, X
+Fiscal Service
+31, II
+Foreign Assets Control, Office of
+31, V
+Internal Revenue Service
+26, I
+Investment Security, Office of
+31, VIII
+Monetary Offices
+31, I
+Secret Service
+31, IV
+Secretary of the Treasury, Office of
+31, Subtitle A
+Truman, Harry S. Scholarship Foundation
+45, XVIII
+United States Agency for Global Media
+2, XIX; 22, V
+United States and Canada, International Joint Commission
+22, IV
+United States and Mexico, International Boundary and Water Commission, United States Section
+22, XI
+U.S. Copyright Office
+37, II
+U.S. Office of Special Counsel
+5, CII
+Utah Reclamation Mitigation and Conservation Commission
+43, III
+Veterans Affairs, Department of
+2, VIII; 38, I
+Federal Acquisition Regulation
+48, 8
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Vice President of the United States, Office of
+32, XXVIII
+Wage and Hour Division
+29, V
+Water Resources Council
+18, VI
+Workers' Compensation Programs, Office of
+20, I, VI
+World Agricultural Outlook Board
+7, XXXVIII
+40 CFR (7-1-25 Edition)
+List of CFR Sections Affected
+
+# List of CFR Sections Affected
+All changes in this volume of the Code of Federal Regulations (CFR) that were made by documents published in the
+Federal Register
+since January 1, 2020 are enumerated in the following list. Entries indicate the nature of the changes effected. Page numbers refer to
+Federal Register
+pages. The user should consult the entries for chapters, parts and subparts as well as sections for revisions.
+For changes to this volume of the CFR prior to this listing, consult the annual edition of the monthly List of CFR Sections Affected (LSA). The LSA is available at
+www.govinfo.gov
+. For changes to this volume of the CFR prior to 2001, see the “List of CFR Sections Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000” published in 11 separate volumes. The “List of CFR Sections Affected 1986-2000” is available at
+www.govinfo.gov
+.
+2020
+40 CFR
+85 FR
+Page
+Chapter I
+425 Notification
+32094
+503.18 Revised
+69205
+503.28 Revised
+69205
+503.48 Revised
+69205
+600 Technical correction
+40905
+600.113-12 (n) introductory text, (1), and (3) revised
+25271
+600.510-12 (c)(2)(vii) introductory text added; (c)(2) (c)(2)(vi) introductory text, (vii)(B) introductory text, (j)(2)(v) introductory text, (vii)(A) introductory text, and (B) introductory text revised
+25272
+600.510-12 (h) introductory text and (h)(1) revised
+53679
+2021
+40 CFR
+86 FR
+Page
+Chapter I
+600.510-12 (j)(2)(v) introductory text and (vii)(A) introductory text revised
+74526
+2022
+(No regulations published in 2022)
+2023
+40 CFR
+88 FR
+Page
+Chapter I
+441.50 (b)(3) revised
+54115
+600.001 (e) heading removed; (f) added
+4480
+600.002 Amended
+4480
+600.011 (a) and (d) removed; (b) redesignated as (a); introductory text and new (b) added; (c)(2) revised
+4480
+600.106-08 Removed
+4481
+600.108-08 Removed
+4481
+600.109-08 Removed
+4481
+600.110-08 Removed
+4481
+600.111-08 Introductory text revised
+4481
+600.112-08 Removed
+4481
+600.113-12 (a)(1), (b) through (d), and (e)(1) revised
+4481
+600.115-11 Introductory text revised
+4481
+600.116-12 (a) revised
+4481
+600.210-12 (a) introductory text, (2)(iii), and (d) revised
+4483
+600.311-12 (j)(2), (4) introductory text, and (i) revised
+4483
+600.510-12 (e) amended
+4484
+600.512-12 (a)(3) added; (b) revised
+4484
+2024
+40 CFR
+89 FR
+Page
+Chapter I
+501.15 (b)(3) amended
+88656
+501.17 (a)(3)(i) amended
+88656
+600.001 (a) revised
+28200
+600.002 Amended
+28200
+600.007 (b)(4) introductory text revised
+28201
+600.008 (b)(1)(iii) through (v) removed
+28201
+600.011 Revised
+28201
+600.101 Added
+28201
+600.113-12 Introductory text, (f)(1), and (n) revised; (o) redesignated as (p); new (o) added
+28202
+600.114-12 (d)(2), (e)(3), (f)(1) introductory text, (2) introductory text, and (4) revised
+28204
+600.115-11 Introductory text revised
+28204
+600.116-12 (b), (c)(1), (2), (5) through (7), and (10) revised; (c)(11) added
+28204
+600.117 Revised
+28207
+600.206-12 (a) revised
+28207
+600.207-12 Heading and (a) revised
+28208
+600.208-12 (a)(4) revised; (b)(3)(iii)(C) added
+28208
+600.209-12 (a) introductory text and (b) introductory text revised
+28209
+600.210-12 (a)(2)(i)(B), (ii)(B), (b)(2)(i)(B), and (ii)(B) revised
+28209
+600.311-12 (g) revised
+28210
+2025
+(No regulations published from January 1, 2025, through July 1, 2025)
+○
