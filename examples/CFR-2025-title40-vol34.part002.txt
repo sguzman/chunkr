@@ -1,0 +1,600 @@
+32, XXI; 47, II
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV, V
+National Transportation Safety Board
+49, VIII
+Natural Resource Revenue, Office of
+30, XII
+Natural Resources Conservation Service
+7, VI
+Navajo and Hopi Indian Relocation, Office of
+25, IV
+Navy, Department of
+32, VI
+Federal Acquisition Regulation
+48, 52
+Neighborhood Reinvestment Corporation
+24, XXV
+Northeast Interstate Low-Level Radioactive Waste Commission
+10, XVIII
+Nuclear Regulatory Commission
+2, XX; 5, XLVIII; 10, I
+Federal Acquisition Regulation
+48, 20
+Occupational Safety and Health Administration
+29, XVII
+Occupational Safety and Health Review Commission
+29, XX
+Ocean Energy Management, Bureau of
+30, V
+Oklahoma City National Memorial Trust
+36, XV
+Operations Office
+7, XXVIII
+Patent and Trademark Office, United States
+37, I
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Peace Corps
+2, XXXVII; 22, III
+Pennsylvania Avenue Development Corporation
+36, IX
+Pension Benefit Guaranty Corporation
+29, XL
+Personnel Management, Office of
+5, I, IV, XXXV; 45, VIII
+Federal Acquisition Regulation
+48, 17
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Human Resources Management and Labor Relations Systems, Department of Homeland Security
+5, XCVII
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Postal Regulatory Commission
+5, XLVI; 39, III
+Postal Service, United States
+5, LX; 39, I
+Postsecondary Education, Office of
+34, VI
+President's Commission on White House Fellowships
+1, IV
+Presidential Documents
+3
+Presidio Trust
+36, X
+Prisons, Bureau of
+28, V
+Privacy and Civil Liberties Oversight Board
+6, X
+Procurement and Property Management, Office of
+7, XXXII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Public Contracts, Department of Labor
+41, 50
+Public Health Service
+42, I
+Railroad Retirement Board
+20, II
+Reclamation, Bureau of
+43, I
+Refugee Resettlement, Office of
+45, IV
+Relocation Allowances
+41, 302
+Research and Innovative Technology Administration
+49, XI
+Rural Business-Cooperative Service
+7, XVIII, XLII, L
+Rural Housing Service
+7, XVIII, XXXV, L
+Rural Utilities Service
+7, XVII, XVIII, XLII, L
+Safety and Environmental Enforcement, Bureau of
+30, II
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Secret Service
+31, IV
+Securities and Exchange Commission
+5, XXXIV; 17, II
+Selective Service System
+32, XVI
+Small Business Administration
+2, XXVII; 13, I
+Smithsonian Institution
+36, V
+Social Security Administration
+2, XXIII; 20, III; 48, 23
+Soldiers' and Airmen's Home, United States
+5, XI
+Special Counsel, Office of
+5, VIII
+Special Education and Rehabilitative Services, Office of
+34, III
+State, Department of
+2, VI; 22, I; 28, XI
+Federal Acquisition Regulation
+48, 6
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Surface Transportation Board
+49, X
+Susquehanna River Basin Commission
+18, VIII
+Tennessee Valley Authority
+5, LXIX; 18, XIII
+Trade Representative, United States, Office of
+15, XX
+Transportation, Department of
+2, XII; 5, L
+Commercial Space Transportation
+14, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 12
+Federal Aviation Administration
+14, I
+Federal Highway Administration
+23, I, II
+Federal Motor Carrier Safety Administration
+49, III
+Federal Railroad Administration
+49, II
+Federal Transit Administration
+49, VI
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Maritime Administration
+46, II
+National Highway Traffic Safety Administration
+23, II, III; 47, IV; 49, V
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Secretary of Transportation, Office of
+14, II; 49, Subtitle A
+Transportation Statistics Bureau
+49, XI
+Transportation, Office of
+7, XXXIII
+Transportation Security Administration
+49, XII
+Transportation Statistics Bureau
+49, XI
+Travel Allowances, Temporary Duty (TDY)
+41, 301
+Treasury, Department of the
+2, X; 5, XXI; 12, XV; 17, IV; 31, IX
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Community Development Financial Institutions Fund
+12, XVIII
+Comptroller of the Currency
+12, I
+Customs and Border Protection
+19, I
+Engraving and Printing, Bureau of
+31, VI
+Federal Acquisition Regulation
+48, 10
+Federal Claims Collection Standards
+31, IX
+Federal Law Enforcement Training Center
+31, VII
+Financial Crimes Enforcement Network
+31, X
+Fiscal Service
+31, II
+Foreign Assets Control, Office of
+31, V
+Internal Revenue Service
+26, I
+Investment Security, Office of
+31, VIII
+Monetary Offices
+31, I
+Secret Service
+31, IV
+Secretary of the Treasury, Office of
+31, Subtitle A
+Truman, Harry S. Scholarship Foundation
+45, XVIII
+United States Agency for Global Media
+2, XIX; 22, V
+United States and Canada, International Joint Commission
+22, IV
+United States and Mexico, International Boundary and Water Commission, United States Section
+22, XI
+U.S. Copyright Office
+37, II
+U.S. Office of Special Counsel
+5, CII
+Utah Reclamation Mitigation and Conservation Commission
+43, III
+Veterans Affairs, Department of
+2, VIII; 38, I
+Federal Acquisition Regulation
+48, 8
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Vice President of the United States, Office of
+32, XXVIII
+Wage and Hour Division
+29, V
+Water Resources Council
+18, VI
+Workers' Compensation Programs, Office of
+20, I, VI
+World Agricultural Outlook Board
+7, XXXVIII
+40 CFR (7-1-25 Edition)
+List of CFR Sections Affected
+
+# List of CFR Sections Affected
+All changes in this volume of the Code of Federal Regulations (CFR) that were made by documents published in the
+Federal Register
+since January 1, 2020 are enumerated in the following list. Entries indicate the nature of the changes effected. Page numbers refer to
+Federal Register
+pages. The user should consult the entries for chapters, parts and subparts as well as sections for revisions.
+For changes to this volume of the CFR prior to this listing, consult the annual edition of the monthly List of CFR Sections Affected (LSA). The LSA is available at
+www.govinfo.gov.
+For changes to this volume of the CFR prior to 2001, see the “List of CFR Sections Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000” published in 11 separate volumes. The “List of CFR Sections Affected 1986-2000” is available at
+www.govinfo.gov.
+2020
+40 CFR
+85 FR
+Page
+Chapter I
+725.3 Amended
+13772
+725.420 (k) and (l) added
+13772
+2021
+40 CFR
+86 FR
+Page
+Chapter I
+725.1079 Added; eff. 7-6-21
+24336
+725.1080 Added
+22875
+745.223 Amended
+994
+745.227 (e)(8)(viii) revised
+994
+751.401—751.413 (Subpart E) Added
+879
+751.403 Amended
+894, 909, 922, 932
+751.405 Added
+894
+751.407 Added
+909
+751.407 (a)(2)(iii) added; (d)(4) revised
+51832
+751.411 Added
+922
+751.413 Added
+932
+2022
+40 CFR
+87 FR
+Page
+Chapter I
+723.50 (a)(1) introductory text and (e)(2)(xi)(A) revised; (e)(2)(xiii) added
+39769
+723.50 Correction: Technical correction
+47103
+723.250 (e)(3) Table 1 and (j)(1) amended
+39769
+725.1081 Added
+73955
+751.407 (a)(2)(iii) and (d)(4) amended; (e)(3)(i) through (iii) revised
+12886
+2023
+40 CFR
+88 FR
+Page
+Chapter I
+723.50 (l) revised; eff. 8-7-23
+37173
+723.250 (f) introductory text and (n) revised; eff. 8-7-23
+37173
+725.80 Revised; eff. 8-7-23
+37173
+725.85 Removed; eff. 8-7-23
+37173
+725.92 Removed; eff. 8-7-23
+37174
+725.94 Removed; eff. 8-7-23
+37174
+725.95 Revised; eff. 8-7-23
+37174
+725.190 (c) revised; (e) and (f) added; eff. 8-7-23
+37174
+761.1 (b)(3) revised
+59684
+761.3 Amended
+59684
+761.19 Revised
+59685
+761.20 (e)(3)(ii)(B), (4)(i), and (ii) revised
+59686
+761.30 (i)(4) revised
+59686
+761.50 (b)(3)(i)(A) and (ii) introductory text revised
+59686
+761.60 (b)(2)(v)(C), (g)(1)(iii), and (2)(ii) revised
+59686
+761.61 (a)(3)(ii), (5)(i)(B)(
+2
+)(
+iv
+), (7), (8) introductory text, (i)(A), (B), (ii) introductory text, (b), (c) heading, and (1) revised
+59687
+761.62 (c)(1) and (d) revised
+59689
+761.65 (c)(9)(i), (iii), (g) introductory text, (1) introductory text, (iv), (2), (3)(i), (4)(i), (5) through (7), and (h) revised
+59689
+761.66 Added
+59690
+761.70 (d)(4)(i) revised
+59691
+761.71 (b)(2)(iv) and (vi) revised
+59691
+761.75 (b)(8)(iii), (c)(3)(i), and (4) revised
+59691
+761.77 (a)(1)(ii)(B), (2), and (b) introductory text revised
+59691
+761.79 (h)(3) revised
+59692
+761.120 (b)(2) and (c) revised
+59692
+761.123 Amended
+59692
+761.125 (a)(2), (c)(3)(iii), and (4)(iv) revised
+59692
+761.130 (e) revised
+59693
+761.180 (b)(3) introductory text, (iii), (v), and (4) revised; (b)(3)(ii) removed
+59693
+761.205 (a)(3), (4)(v), and (d) revised
+59693
+761.207 (a) and (c) revised
+59694
+761.212 (a) introductory text revised
+59694
+761.213 (a)(2) introductory text and (b) introductory text revised
+59694
+761.214 (a)(1) revised
+59694
+761.216 (a) introductory text and (6) revised
+59694
+761.217 (a)(2)(ii) revised
+59694
+761.243 (a) revised
+59694
+761.247 (b)(2)(ii)(B)(
+(2)
+) revised
+59695
+761.253 (a) revised
+59695
+761.267 (a) revised
+59695
+761.272 Revised
+59695
+761.292 Revised
+59695
+761.314 Revised
+59695
+761.358 Revised
+59695
+761.386 (e) revised
+59695
+761.395 (b)(1) revised
+59696
+770.1 (c)(3) through (5) and (8) revised
+10476
+770.3 Amended
+10476
+770.4 (b)(2) revised
+10476
+770.7 (a)(5)(i)(A) introductory text, (c)(1)(iii), (2)(v), (4)(i)(F), (viii)(A) introductory text, and (
+3
+) revised; (c)(4)(i)(G) added
+10476
+770.15 (c)(1)(viii) revised
+10477
+770.17 (c)(2) revised
+10477
+770.18 (d)(2) revised
+10477
+770.20 (a)(1), (b)(1)(iii), (vii), and (d)(1)(iii) revised
+10477
+770.99 Revised
+10477
+2024
+40 CFR
+89 FR
+Page
+Chapter I
+723.50 (a)(1), (d), (e)(3), (g), (h)(2)(v), and (i) revised; (b)(11), (12), (e)(2)(xiv), and (p) added
+102798
+723.250 (f) introductory text revised
+12250
+725.8 (c)(1) amended
+102799
+725.54 (b)(1), (c), and (d) revised
+102799
+725.60 (a)(1) revised
+102799
+725.170 (a) and (b) revised; (c) removed
+102799
+745.61 (d) added
+89456
+745.63 Amended
+89456
+745.65 (b) revised
+89456
+745.67 Added
+89456
+745.81 (a)(4) and (b) revised
+89457
+745.83 Amended
+89457
+745.85 (c)(3) revised
+89457
+745.89 (a)(1), (b)(1) introductory text, (i), and (c)(1) revised
+89457
+745.90 (a)(3), (4), and (c)(1) revised
+89457
+745.92 (c)(2) revised
+89457
+745.103 Amended
+89458
+745.113 (a)(4), (b)(1), and (4) revised
+89458
+745.118 (f) amended
+88656
+745.223 Amended
+89458
+745.225 (b)(1) introductory text, (c)(13)(vi), (14)(iii), (d)(1)(vi), (3)(xi), (4)(v), (7)(v), (e)(5), (f)(2), and (j)(2) revised; (i)(2)(ii) removed
+89459
+745.225 Correction: (b)(1) introductory text, (c)(13)(vi), (14)(iii), (d)(1)(vi), (3)(xi), (4)(v), (7)(v), (e)(5) introductory text, and (2) revised
+101490
+745.226 (a)(1)(i), (ii), (3), (e)(1) introductory text, (2), (f)(2), (3), and (h)(1)(iii) revised; (a)(2) and (f)(5) removed
+89459
+745.227 (a)(4) removed; (c)(2)(i), (iv), (v), (d)(3), (5), (6)(ii), (7), (e)(4)(ii), (vii), (8) introductory text, (i) through (v), (vii), (viii), (9) introductory text, (ii), (iii), (10)(iv), (v), (h)(2)(i), and (3) revised; (e)(10)(vii) added
+89460
+745.227 Correction: (c)(2)(i), (iv), (v), (d)(3), (5), (6)(ii), (7), (e)(4)(ii), (vii), (e)(8) introductory text, (i) through (v), (vii), (viii), (9) introductory text, (ii), (iii), (10)(iv), and (v) revised
+101490
+745.238 (d)(1), (2), (e)(1) introductory text, and (2) revised; (d)(3) removed
+89461
+745.325 (d)(3)(ii) and (iii) revised
+89461
+751.5 Amended; eff. 7-8-24
+39296
+751.5 Amended
+103607
+751.101 Revised; eff. 7-8-24
+39296
+751.103 Amended; eff. 7-8-24
+39296
+751.105 Heading revised; eff. 7-8-24
+39296
+751.107 Redesignated as 751.111; new section added; eff. 7-8-24
+39296
+751.109 Redesignated as 751.113; new section added; eff. 7-8-24
+39297
+751.111 Redesignated from 751.107; eff. 7-8-24
+39296
+751.111 Revised; eff. 7-8-24
+39300
+751.113 Redesignated from 751.109; eff. 7-8-24
+39297
+751.113 Revised; eff. 7-8-24
+39301
+751.115 Added; eff. 7-8-24
+39301
+751.117 Added; eff. 7-8-24
+39302
+751.301—751.325 (Subpart D) Added
+102623
+751.401 (c) added
+91514
+751.403 Amended
+91514
+751.405 (a)(1), (2)(ii), (b), (c)(1)(i), and (iii) revised; (a)(2)(vi) and (d) through (g) added
+91514
+751.407 (a)(1), (2)(iii), (b)(1)(ii), (iii), and (vii) revised; (a)(2) introductory text, (iv) through (xi), (b)(1)(viii), (2), (e)(5), and (f) added
+91516
+751.501 Added
+22005
+751.502 Added
+22005
+751.503 Added
+22005
+751.504 Added
+22005
+751.505 Added
+22005
+751.506 Added
+22005
+751.507 Added
+22005
+751.508 Added
+22005
+751.509 Added
+22005
+751.510 Added
+22005
+751.511 Added
+22005
+751.512 Added
+22005
+751.513 Added
+22005
+751.514 Added
+22005
+751.515 Added
+22005
+751.515 Correction: (c)(1) amended
+31655
+751.601—751.617 (Subpart G) Added
+103607
+751.701—751.713 (Subpart H) Added
+103551
+761 Authority citation revised
+60736
+761.3 Amended
+60736, 102800
+761.60 (e) revised
+60736
+761.205 (d) revised
+60737
+761.207 (g) added
+60737
+761.209 Revised
+60737
+761.210 (a)(1) and (2) revised
+60737
+761.211 (d)(1), (e)(3), (f)(3)(i), and (4)(i) revised; (g) added
+60737
+761.213 (a)(2)(i), (iv), and (v) revised; (d) and (e) added
+60738
+761.215 (c) and (g) revised
+60738
+761.216 (b) added
+60738
+761.217 (a)(1), (2) introductory text, and (b)(2) revised; (c) added
+60738
+761.218 (e) and (f) added
+60739
+761.219 (e) and (f) added
+60739
+763.97 (g) added
+88656
+763.80—763.99 (Subpart E) Appendix C and Appendix D amended
+86751
+2025
+(Regulations published from January 1, 2025, through July 1, 2025)
+40 CFR
+90 FR
+Page
+Chapter I
+751 Regulation at 89 FR 102623 eff. date delayed to 6-20-25
+14415
+751.301—751.325 (Subpart D) Regulation at 89 FR 102623 eff. date delayed to 8-19-25
+26453
+751.1301—751.325 (Subpart D) Regulation at 89 FR 102623 eff. date delayed to 3-21-25
+8254
+○
