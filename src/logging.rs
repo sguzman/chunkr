@@ -1,10 +1,11 @@
 use crate::config::LoggingConfig;
+use chrono::Utc;
 use std::fmt;
 use tracing::{Event, Subscriber};
-use tracing_subscriber::fmt::format::{Writer};
-use tracing_subscriber::fmt::time::UtcTime;
+use tracing_subscriber::fmt::format::Writer;
 use tracing_subscriber::fmt::{FmtContext, FormatEvent};
 use tracing_subscriber::layer::SubscriberExt;
+use tracing_subscriber::util::SubscriberInitExt;
 use tracing_subscriber::{EnvFilter, Registry};
 
 pub fn init(config: &LoggingConfig) {
@@ -15,7 +16,6 @@ pub fn init(config: &LoggingConfig) {
         .with_ansi(true)
         .with_level(true)
         .with_target(true)
-        .with_timer(UtcTime::rfc_3339())
         .event_format(ColorPrefixFormat);
     Registry::default().with(filter).with(fmt_layer).init();
 }
@@ -29,13 +29,13 @@ where
 {
     fn format_event(
         &self,
-        ctx: &FmtContext<'_, S, N>,
+        _ctx: &FmtContext<'_, S, N>,
         mut writer: Writer<'_>,
         event: &Event<'_>,
     ) -> fmt::Result {
         let meta = event.metadata();
-        ctx.format_time(&mut writer)?;
-        write!(writer, " ")?;
+        let now = Utc::now().to_rfc3339_opts(chrono::SecondsFormat::Micros, true);
+        write!(writer, "{now} ")?;
         write!(writer, "{} ", meta.level())?;
         write!(writer, "{}: ", meta.target())?;
 
