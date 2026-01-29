@@ -172,3 +172,8 @@ chunkr insert --config /path/to/config.toml
 ## Logging
 
 All commands should emit extensive structured logs (start/end, counts, skips, timing, errors). Configure log level via `[logging]`.
+
+## Testing
+
+- The pipeline test (`cargo test --test pipeline -- --ignored --nocapture`) loads `test.toml` if present, otherwise `config.toml`.
+- It overrides only the `paths.*` values to use a temp directory, and uses the collection/index from the config file. Set those to test-safe values.

@@ -14,10 +14,10 @@ const SAMPLE_BYTES: usize = usize::MAX;
 #[ignore]
 async fn chunk_and_insert_pipeline() -> Result<()> {
     let started = Instant::now();
-    let base = load_base_config()?;
     let client = Client::builder()
         .timeout(Duration::from_secs(120))
         .build()?;
+    let (config_path, mut config) = load_test_config()?;
     let temp_root = std::env::temp_dir().join(format!("chunkr-test-{}", Uuid::new_v4()));
     let extract_root = temp_root.join("extract");
     let chunk_root = temp_root.join("chunked");
@@ -43,30 +43,31 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
         copy_truncated(&src, &dst, SAMPLE_BYTES)?;
     }
 
-    let test_collection = "chunkr_test";
-    let test_index = "chunkr_test";
-    let config_path = temp_root.join("config.toml");
-    let embed_dim = detect_embedding_dim(&client, &base).await?;
-    let config_contents = render_config(
-        &base,
-        &extract_root,
-        &chunk_root,
-        &state_dir,
-        test_collection,
-        test_index,
-        embed_dim,
-    );
-    fs::write(&config_path, config_contents)?;
+    config.paths.extract_root = extract_root.clone();
+    config.paths.chunk_root = chunk_root.clone();
+    config.paths.state_dir = state_dir.clone();
 
-    init_logging_once(&config_path)?;
+    let embed_dim = detect_embedding_dim(&client, &config.insert.embeddings).await?;
+    config.insert.qdrant.vector_size = embed_dim;
+
+    init_logging_once(&config)?;
+    eprintln!("[test] using config {}", config_path.display());
+    let test_collection = config.insert.qdrant.collection.clone();
+    let test_index = config.insert.quickwit.index_id.clone();
 
     eprintln!("[test] resetting qdrant collection {}", test_collection);
-    reset_qdrant(&client, &base.qdrant_url, test_collection, embed_dim).await?;
+    reset_qdrant(
+        &client,
+        &config.insert.qdrant.url,
+        test_collection,
+        embed_dim,
+    )
+    .await?;
     eprintln!("[test] resetting quickwit index {}", test_index);
-    reset_quickwit(&client, &base.quickwit_url, test_index).await?;
+    reset_quickwit(&client, &config.insert.quickwit.url, test_index).await?;
 
-    eprintln!("[test] starting chunk (config={})", config_path.display());
-    run_in_process(&config_path, CommandKind::Chunk).await?;
+    eprintln!("[test] starting chunk");
+    run_in_process(&config, CommandKind::Chunk).await?;
     eprintln!(
         "[test] chunk finished in {:?}, building sample query",
         started.elapsed()
@@ -78,7 +79,7 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
         sample_query.term
     );
     eprintln!("[test] starting insert");
-    run_in_process(&config_path, CommandKind::Insert).await?;
+    run_in_process(&config, CommandKind::Insert).await?;
     eprintln!(
         "[test] insert finished in {:?}, verifying qdrant/quickwit",
         started.elapsed()
@@ -86,15 +87,15 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
 
     verify_qdrant(
         &client,
-        &base.qdrant_url,
+        &config.insert.qdrant.url,
         test_collection,
-        &base,
+        &config.insert.embeddings,
         &sample_query.embed_text,
     )
     .await?;
     verify_quickwit(
         &client,
-        &base.quickwit_url,
+        &config.insert.quickwit.url,
         test_index,
         &sample_query.term,
     )
@@ -109,8 +110,7 @@ enum CommandKind {
     Insert,
 }
 
-async fn run_in_process(config_path: &Path, command: CommandKind) -> Result<()> {
-    let config = config::load(&config_path.to_path_buf())?;
+async fn run_in_process(config: &config::Config, command: CommandKind) -> Result<()> {
     match command {
         CommandKind::Chunk => {
             chunk::run(&config)?;
@@ -122,9 +122,8 @@ async fn run_in_process(config_path: &Path, command: CommandKind) -> Result<()> 
     Ok(())
 }
 
-fn init_logging_once(config_path: &Path) -> Result<()> {
+fn init_logging_once(config: &config::Config) -> Result<()> {
     static INIT: Once = Once::new();
-    let config = config::load(&config_path.to_path_buf())?;
     INIT.call_once(|| {
         logging::init(&config.logging);
     });
@@ -207,7 +206,7 @@ async fn verify_qdrant(
     client: &Client,
     url: &str,
     collection: &str,
-    base: &BaseConfig,
+    embeddings: &config::InsertEmbeddingsConfig,
     query: &str,
 ) -> Result<()> {
     let count_url = format!(
@@ -234,7 +233,7 @@ async fn verify_qdrant(
         return Err(anyhow!("qdrant count is zero"));
     }
 
-    let embed = ollama_embed(client, base, query).await?;
+    let embed = ollama_embed(client, embeddings, query).await?;
     let search_url = format!(
         "{}/collections/{}/points/search",
         url.trim_end_matches('/'),
@@ -299,11 +298,18 @@ async fn quickwit_hits(client: &Client, url: &str, query: &str) -> Result<u64> {
     Ok(hits)
 }
 
-async fn ollama_embed(client: &Client, base: &BaseConfig, text: &str) -> Result<Vec<f32>> {
-    let url = format!("{}/api/embeddings", base.ollama_url.trim_end_matches('/'));
+async fn ollama_embed(
+    client: &Client,
+    embeddings: &config::InsertEmbeddingsConfig,
+    text: &str,
+) -> Result<Vec<f32>> {
+    let url = format!(
+        "{}/api/embeddings",
+        embeddings.base_url.trim_end_matches('/')
+    );
     let resp = client
         .post(url)
-        .json(&json!({ "model": base.ollama_model, "prompt": text }))
+        .json(&json!({ "model": embeddings.model, "prompt": text }))
         .send()
         .await?;
     if !resp.status().is_success() {
@@ -322,8 +328,11 @@ async fn ollama_embed(client: &Client, base: &BaseConfig, text: &str) -> Result<
     Ok(embedding)
 }
 
-async fn detect_embedding_dim(client: &Client, base: &BaseConfig) -> Result<usize> {
-    let embedding = ollama_embed(client, base, "federal regulation").await?;
+async fn detect_embedding_dim(
+    client: &Client,
+    embeddings: &config::InsertEmbeddingsConfig,
+) -> Result<usize> {
+    let embedding = ollama_embed(client, embeddings, "federal regulation").await?;
     if embedding.is_empty() {
         return Err(anyhow!("ollama returned empty embedding"));
     }
@@ -414,162 +423,13 @@ fn pick_query_term(text: &str) -> Option<String> {
     None
 }
 
-struct BaseConfig {
-    qdrant_url: String,
-    quickwit_url: String,
-    ollama_url: String,
-    ollama_model: String,
-}
-
-fn load_base_config() -> Result<BaseConfig> {
-    let raw = fs::read_to_string("config.toml")?;
-    let value: toml::Value = toml::from_str(&raw)?;
-    let qdrant_url = value
-        .get("insert")
-        .and_then(|v| v.get("qdrant"))
-        .and_then(|v| v.get("url"))
-        .and_then(|v| v.as_str())
-        .unwrap_or("http://127.0.0.1:6333")
-        .to_string();
-    let quickwit_url = value
-        .get("insert")
-        .and_then(|v| v.get("quickwit"))
-        .and_then(|v| v.get("url"))
-        .and_then(|v| v.as_str())
-        .unwrap_or("http://127.0.0.1:7280")
-        .to_string();
-    let ollama_url = value
-        .get("insert")
-        .and_then(|v| v.get("embeddings"))
-        .and_then(|v| v.get("base_url"))
-        .and_then(|v| v.as_str())
-        .unwrap_or("http://127.0.0.1:11434")
-        .to_string();
-    let ollama_model = value
-        .get("insert")
-        .and_then(|v| v.get("embeddings"))
-        .and_then(|v| v.get("model"))
-        .and_then(|v| v.as_str())
-        .unwrap_or("qllama/bge-small-en-v1.5:latest")
-        .to_string();
-    Ok(BaseConfig {
-        qdrant_url,
-        quickwit_url,
-        ollama_url,
-        ollama_model,
-    })
-}
-
-fn render_config(
-    base: &BaseConfig,
-    extract_root: &Path,
-    chunk_root: &Path,
-    state_dir: &Path,
-    collection: &str,
-    index_id: &str,
-    vector_size: usize,
-) -> String {
-    format!(
-        r#"[logging]
-level = "info"
-
-[paths]
-calibre_root = "/drive/calibre/en_nonfiction"
-extract_root = "{extract_root}"
-chunk_root = "{chunk_root}"
-state_dir = "{state_dir}"
-
-[extract]
-extensions = ["epub", "pdf"]
-skip_existing = true
-write_metadata = false
-output_layout = "{{format}}/{{title_slug}}.txt"
-metadata_layout = "{{format}}/{{title_slug}}.json"
-
-[extract.epub]
-backend = "pandoc"
-pandoc_bin = "pandoc"
-toc_depth = 3
-chapter_split = false
-max_chapter_bytes = 2000000
-max_file_bytes = 20000000
-
-[extract.pdf]
-backend = "docling"
-pdffonts_bin = "pdffonts"
-pdftotext_bin = "pdftotext"
-docling_bin = "/home/admin/Code/AI/docling/.venv/bin/python"
-docling_script = "/home/admin/Code/AI/docling/docling/cli/main.py"
-text_first = true
-text_min_chars = 40
-text_sample_pages = 3
-ocr_fallback = true
-ocr_lang = "eng"
-ocr_engine = "tesseract"
-docling_device = "cuda"
-docling_pipeline = "standard"
-docling_pdf_backend = "dlparse_v4"
-docling_threads = 16
-docling_tables = true
-docling_table_mode = "accurate"
-max_file_bytes = 20000000
-skip_oversize = false
-
-[chunk]
-normalize_unicode = true
-collapse_whitespace = true
-strip_headers = true
-min_paragraph_chars = 80
-max_paragraph_chars = 1200
-target_chunk_chars = 800
-max_chunk_chars = 900
-chunk_overlap_chars = 100
-emit_jsonl = true
-
-[chunk.metadata]
-include_source_path = true
-include_calibre_id = true
-include_title = true
-include_authors = true
-include_published = true
-include_language = true
-
-[insert]
-batch_size = 64
-retry_max = 3
-retry_backoff_ms = 500
-max_parallel_files = 2
-
-[insert.qdrant]
-url = "{qdrant_url}"
-collection = "{collection}"
-distance = "Cosine"
-vector_size = {vector_size}
-create_collection = false
-api_key = ""
-
-[insert.quickwit]
-url = "{quickwit_url}"
-index_id = "{index_id}"
-commit_timeout_seconds = 30
-
-[insert.embeddings]
-provider = "ollama"
-base_url = "{ollama_url}"
-model = "{ollama_model}"
-request_timeout_seconds = 120
-max_concurrency = 2
-max_input_chars = 400
-"#,
-        extract_root = extract_root.display(),
-        chunk_root = chunk_root.display(),
-        state_dir = state_dir.display(),
-        qdrant_url = base.qdrant_url,
-        quickwit_url = base.quickwit_url,
-        ollama_url = base.ollama_url,
-        ollama_model = base.ollama_model,
-        collection = collection,
-        index_id = index_id,
-        vector_size = vector_size
-    )
+fn load_test_config() -> Result<(PathBuf, config::Config)> {
+    let test_path = PathBuf::from("test.toml");
+    let path = if test_path.exists() {
+        test_path
+    } else {
+        PathBuf::from("config.toml")
+    };
+    let config = config::load(&path.to_path_buf())?;
+    Ok((path, config))
 }
