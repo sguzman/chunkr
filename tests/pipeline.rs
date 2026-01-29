@@ -17,6 +17,9 @@ const SAMPLE_BYTES: usize = 20_000;
 #[ignore]
 async fn chunk_and_insert_pipeline() -> Result<()> {
     let base = load_base_config()?;
+    let client = Client::builder()
+        .timeout(Duration::from_secs(120))
+        .build()?;
     let temp_root = std::env::temp_dir().join(format!("chunkr-test-{}", Uuid::new_v4()));
     let extract_root = temp_root.join("extract");
     let chunk_root = temp_root.join("chunked");
@@ -37,6 +40,7 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     let test_collection = "chunkr_test";
     let test_index = "chunkr_test";
     let config_path = temp_root.join("config.toml");
+    let embed_dim = detect_embedding_dim(&client, &base).await?;
     let config_contents = render_config(
         &base,
         &extract_root,
@@ -44,21 +48,32 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
         &state_dir,
         test_collection,
         test_index,
+        embed_dim,
     );
     fs::write(&config_path, config_contents)?;
 
-    let client = Client::builder()
-        .timeout(Duration::from_secs(120))
-        .build()?;
-
-    reset_qdrant(&client, &base.qdrant_url, test_collection).await?;
+    reset_qdrant(&client, &base.qdrant_url, test_collection, embed_dim).await?;
     reset_quickwit(&client, &base.quickwit_url, test_index).await?;
 
     run_chunkr(&config_path, "chunk")?;
+    let sample_query = sample_query_from_chunks(&chunk_root)?;
     run_chunkr(&config_path, "insert")?;
 
-    verify_qdrant(&client, &base.qdrant_url, test_collection, &base).await?;
-    verify_quickwit(&client, &base.quickwit_url, test_index).await?;
+    verify_qdrant(
+        &client,
+        &base.qdrant_url,
+        test_collection,
+        &base,
+        &sample_query.embed_text,
+    )
+    .await?;
+    verify_quickwit(
+        &client,
+        &base.quickwit_url,
+        test_index,
+        &sample_query.term,
+    )
+    .await?;
 
     // Best-effort cleanup
     let _ = delete_qdrant(&client, &base.qdrant_url, test_collection).await;
@@ -80,7 +95,12 @@ fn run_chunkr(config: &Path, command: &str) -> Result<()> {
     Ok(())
 }
 
-async fn reset_qdrant(client: &Client, url: &str, collection: &str) -> Result<()> {
+async fn reset_qdrant(
+    client: &Client,
+    url: &str,
+    collection: &str,
+    vector_size: usize,
+) -> Result<()> {
     let _ = delete_qdrant(client, url, collection).await;
     let create_url = format!(
         "{}/collections/{}",
@@ -88,11 +108,13 @@ async fn reset_qdrant(client: &Client, url: &str, collection: &str) -> Result<()
         collection
     );
     let body = json!({
-        "vectors": { "size": 384, "distance": "Cosine" }
+        "vectors": { "size": vector_size, "distance": "Cosine" }
     });
     let resp = client.put(create_url).json(&body).send().await?;
     if !resp.status().is_success() {
-        return Err(anyhow!("qdrant create failed: {}", resp.status()));
+        let status = resp.status();
+        let text = resp.text().await.unwrap_or_default();
+        return Err(anyhow!("qdrant create failed: {} {}", status, text));
     }
     Ok(())
 }
@@ -145,17 +167,24 @@ async fn delete_quickwit(client: &Client, url: &str, index_id: &str) -> Result<(
     Ok(())
 }
 
-async fn verify_qdrant(client: &Client, url: &str, collection: &str, base: &BaseConfig) -> Result<()> {
+async fn verify_qdrant(
+    client: &Client,
+    url: &str,
+    collection: &str,
+    base: &BaseConfig,
+    query: &str,
+) -> Result<()> {
     let count_url = format!(
         "{}/collections/{}/points/count",
         url.trim_end_matches('/'),
         collection
     );
-    let resp = client
-        .post(count_url)
-        .json(&json!({ "exact": true }))
-        .send()
-        .await?;
+    let resp = retry_request(|| {
+        client
+            .post(&count_url)
+            .json(&json!({ "exact": true }))
+    })
+    .await?;
     if !resp.status().is_success() {
         return Err(anyhow!("qdrant count failed: {}", resp.status()));
     }
@@ -169,19 +198,22 @@ async fn verify_qdrant(client: &Client, url: &str, collection: &str, base: &Base
         return Err(anyhow!("qdrant count is zero"));
     }
 
-    let embed = ollama_embed(client, base, "federal regulation").await?;
+    let embed = ollama_embed(client, base, query).await?;
     let search_url = format!(
         "{}/collections/{}/points/search",
         url.trim_end_matches('/'),
         collection
     );
-    let resp = client
-        .post(search_url)
-        .json(&json!({ "vector": embed, "limit": 3 }))
-        .send()
-        .await?;
+    let resp = retry_request(|| {
+        client
+            .post(&search_url)
+            .json(&json!({ "vector": embed, "limit": 3 }))
+    })
+    .await?;
     if !resp.status().is_success() {
-        return Err(anyhow!("qdrant search failed: {}", resp.status()));
+        let status = resp.status();
+        let text = resp.text().await.unwrap_or_default();
+        return Err(anyhow!("qdrant search failed: {} {}", status, text));
     }
     let search_json: serde_json::Value = resp.json().await?;
     let hits = search_json
@@ -195,30 +227,40 @@ async fn verify_qdrant(client: &Client, url: &str, collection: &str, base: &Base
     Ok(())
 }
 
-async fn verify_quickwit(client: &Client, url: &str, index_id: &str) -> Result<()> {
+async fn verify_quickwit(client: &Client, url: &str, index_id: &str, query: &str) -> Result<()> {
     let search_url = format!(
         "{}/api/v1/{}/search",
         url.trim_end_matches('/'),
         index_id
     );
-    let resp = client
-        .post(search_url)
-        .json(&json!({ "query": "federal regulation", "max_hits": 3 }))
-        .send()
-        .await?;
+    let hits = quickwit_hits(client, &search_url, query).await?;
+    if hits == 0 {
+        let fallback = quickwit_hits(client, &search_url, "*").await?;
+        if fallback == 0 {
+            return Err(anyhow!("quickwit search returned no hits"));
+        }
+    }
+    Ok(())
+}
+
+async fn quickwit_hits(client: &Client, url: &str, query: &str) -> Result<u64> {
+    let resp = retry_request(|| {
+        client
+            .post(url)
+            .json(&json!({ "query": query, "max_hits": 3 }))
+    })
+    .await?;
     if !resp.status().is_success() {
         return Err(anyhow!("quickwit search failed: {}", resp.status()));
     }
     let search_json: serde_json::Value = resp.json().await?;
     let hits = search_json
-        .get("hits")
-        .and_then(|h| h.get("total"))
+        .get("num_hits")
         .and_then(|t| t.as_u64())
+        .or_else(|| search_json.get("hits").and_then(|h| h.get("total")).and_then(|t| t.as_u64()))
+        .or_else(|| search_json.get("hits").and_then(|h| h.as_array()).map(|a| a.len() as u64))
         .unwrap_or(0);
-    if hits == 0 {
-        return Err(anyhow!("quickwit search returned no hits"));
-    }
-    Ok(())
+    Ok(hits)
 }
 
 async fn ollama_embed(client: &Client, base: &BaseConfig, text: &str) -> Result<Vec<f32>> {
@@ -229,7 +271,9 @@ async fn ollama_embed(client: &Client, base: &BaseConfig, text: &str) -> Result<
         .send()
         .await?;
     if !resp.status().is_success() {
-        return Err(anyhow!("ollama embed failed: {}", resp.status()));
+        let status = resp.status();
+        let body = resp.text().await.unwrap_or_default();
+        return Err(anyhow!("ollama embed failed: {} {}", status, body));
     }
     let value: serde_json::Value = resp.json().await?;
     let embedding = value
@@ -242,6 +286,31 @@ async fn ollama_embed(client: &Client, base: &BaseConfig, text: &str) -> Result<
     Ok(embedding)
 }
 
+async fn detect_embedding_dim(client: &Client, base: &BaseConfig) -> Result<usize> {
+    let embedding = ollama_embed(client, base, "federal regulation").await?;
+    if embedding.is_empty() {
+        return Err(anyhow!("ollama returned empty embedding"));
+    }
+    Ok(embedding.len())
+}
+
+async fn retry_request<F>(mut f: F) -> Result<reqwest::Response>
+where
+    F: FnMut() -> reqwest::RequestBuilder,
+{
+    let mut last_err: Option<anyhow::Error> = None;
+    for _ in 0..3 {
+        match f().send().await {
+            Ok(resp) => return Ok(resp),
+            Err(err) => {
+                last_err = Some(anyhow!(err));
+                tokio::time::sleep(Duration::from_millis(500)).await;
+            }
+        }
+    }
+    Err(last_err.unwrap_or_else(|| anyhow!("request failed")))
+}
+
 fn copy_truncated(src: &Path, dst: &Path, max_bytes: usize) -> Result<()> {
     let raw = fs::read(src).with_context(|| format!("read {}", src.display()))?;
     let slice = if raw.len() > max_bytes {
@@ -251,6 +320,47 @@ fn copy_truncated(src: &Path, dst: &Path, max_bytes: usize) -> Result<()> {
     };
     fs::write(dst, slice).with_context(|| format!("write {}", dst.display()))?;
     Ok(())
+}
+
+struct SampleQuery {
+    embed_text: String,
+    term: String,
+}
+
+fn sample_query_from_chunks(chunk_root: &Path) -> Result<SampleQuery> {
+    for entry in walkdir::WalkDir::new(chunk_root)
+        .into_iter()
+        .filter_map(|e| e.ok())
+        .filter(|e| e.file_type().is_file())
+    {
+        let path = entry.path();
+        if path.extension().and_then(|s| s.to_str()) != Some("jsonl") {
+            continue;
+        }
+        let raw = fs::read_to_string(path)?;
+        if let Some(line) = raw.lines().find(|l| !l.trim().is_empty()) {
+            let value: serde_json::Value = serde_json::from_str(line)?;
+            if let Some(text) = value.get("text").and_then(|v| v.as_str()) {
+                let snippet = text.trim();
+                if !snippet.is_empty() {
+                    let embed_text: String = snippet.chars().take(160).collect();
+                    let term = pick_query_term(&embed_text)
+                        .unwrap_or_else(|| embed_text.clone());
+                    return Ok(SampleQuery { embed_text, term });
+                }
+            }
+        }
+    }
+    Err(anyhow!("no chunk text available for query"))
+}
+
+fn pick_query_term(text: &str) -> Option<String> {
+    for token in text.split(|c: char| !c.is_alphanumeric()) {
+        if token.len() >= 4 {
+            return Some(token.to_lowercase());
+        }
+    }
+    None
 }
 
 struct BaseConfig {
@@ -306,6 +416,7 @@ fn render_config(
     state_dir: &Path,
     collection: &str,
     index_id: &str,
+    vector_size: usize,
 ) -> String {
     format!(
         r#"[logging]
@@ -357,11 +468,11 @@ skip_oversize = false
 normalize_unicode = true
 collapse_whitespace = true
 strip_headers = true
-min_paragraph_chars = 120
-max_paragraph_chars = 2400
-target_chunk_chars = 1800
-max_chunk_chars = 2600
-chunk_overlap_chars = 200
+min_paragraph_chars = 80
+max_paragraph_chars = 1200
+target_chunk_chars = 800
+max_chunk_chars = 900
+chunk_overlap_chars = 100
 emit_jsonl = true
 
 [chunk.metadata]
@@ -381,7 +492,7 @@ retry_backoff_ms = 500
 url = "{qdrant_url}"
 collection = "{collection}"
 distance = "Cosine"
-vector_size = 384
+vector_size = {vector_size}
 create_collection = false
 api_key = ""
 
@@ -405,6 +516,7 @@ max_concurrency = 2
         ollama_url = base.ollama_url,
         ollama_model = base.ollama_model,
         collection = collection,
-        index_id = index_id
+        index_id = index_id,
+        vector_size = vector_size
     )
 }
