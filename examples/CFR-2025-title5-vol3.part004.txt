@@ -1,0 +1,3148 @@
+(3) The disclosure must not be primarily in the commercial interest of the requester. To determine whether disclosure of the requested information is primarily in the commercial interest of the requester, IPEC will consider the following criteria:
+(i) IPEC must identify whether the requester has any commercial interest that would be furthered by the requested disclosure. A commercial interest includes any commercial, trade, or profit interest. Requesters must be given an opportunity to provide explanatory information regarding this consideration.
+(ii) If there is an identified commercial interest, IPEC must determine whether that is the primary interest furthered by the request. A waiver or reduction of fees is justified when the requirements of paragraph (a) of this section are satisfied and any commercial interest is not the primary interest furthered by the request. IPEC ordinarily will presume that when a news media requester has satisfied the requirements of paragraph (a) of this section, the request is not primarily in the commercial interest of the requester. Disclosure to data brokers or others who merely compile and market government information for direct economic return will not be presumed to primarily serve the public interest.
+(c) Where only some of the records to be released satisfy the requirements for a waiver of fees, a waiver shall be granted for those records.
+(d) Requests for a waiver or reduction of fees should be made when the request is first submitted to IPEC and should address the criteria referenced above. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester shall be required to pay any costs incurred up to the date the fee waiver request was received.
+§ 10400.16
+Aggregation of requests for fees.
+When IPEC reasonably believes that a requester or a group of requesters acting in concert is attempting to divide a single request into a series of requests for the purpose of avoiding fees, IPEC may aggregate those requests and charge accordingly. IPEC may presume that multiple requests of this type made within a 30-day period have been made in order to avoid fees. For requests separated by a longer period, IPEC will aggregate them only where there is a reasonable basis for determining that aggregation is warranted in view of all the circumstances involved. Multiple requests involving unrelated matters cannot be aggregated.
+§ 10400.17
+Markings on released documents.
+When requested records contain matters that are exempted under 5 U.S.C. 552(b), but such exempted matters can be reasonably segregated from the remainder of the records, the records
+shall be disclosed by IPEC with the necessary redactions. If records are disclosed in part, IPEC will mark them to show the amount and location of information redacted and the exemption(s) under which the redactions were made unless doing so would harm an interest protected by an applicable exemption.
+§ 10400.18
+Confidential commercial information.
+(a)
+Definitions
+—
+Confidential commercial information
+means commercial or financial information obtained by IPEC from a submitter that may be protected from disclosure under Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4).
+Submitter
+means any person or entity, including a corporation, State, or foreign government, but not including another Federal Government entity, that provides confidential commercial information, either directly or indirectly to the Federal Government.
+(b)
+Designation of confidential commercial information.
+A submitter of confidential commercial information must use good faith efforts to designate by appropriate markings, at the time of submission, any portion of its submission that it considers to be protected from disclosure under Exemption 4. These designations expire 10 years after the date of the submission unless the submitter requests and provides justification for a longer designation period.
+(c)
+When notice to submitters is required.
+(1) IPEC must promptly provide written notice to the submitter of confidential commercial information whenever records containing such information are requested under the FOIA if IPEC determines that it may be required to disclose the records, provided:
+(i) The requested information has been designated in good faith by the submitter as information considered protected from disclosure under Exemption 4; or
+(ii) IPEC has a reason to believe that the requested information may be protected from disclosure under Exemption 4, but has not yet determined whether the information is protected from disclosure.
+(2) The notice must either describe the commercial information requested or include a copy of the requested records or portions of records containing the information. In cases involving a voluminous number of submitters, IPEC may post or publish a notice in a place or manner reasonably likely to inform the submitters of the proposed disclosure, instead of sending individual notifications.
+(d)
+Exceptions to submitter notice requirements.
+The notice requirements of this section do not apply if:
+(1) IPEC determines that the information is exempt under the FOIA, and therefore will not be disclosed;
+(2) The information has been lawfully published or has been officially made available to the public;
+(3) Disclosure of the information is required by a statute other than the FOIA or by a regulation issued in accordance with the requirements of Executive Order 12600 of June 23, 1987; or
+(4) The designation made by the submitter under paragraph (b) of this section appears obviously frivolous. In such case, IPEC must give the submitter written notice of any final decision to disclose the information within a reasonable number of days prior to a specified disclosure date.
+(e)
+Opportunity to object to disclosure.
+(1) IPEC must specify a reasonable time period within which the submitter must respond to the notice referenced above.
+(2) If a submitter has any objections to disclosure, it should provide IPEC a detailed written statement that specifies all grounds for withholding the particular information under any exemption of the FOIA. In order to rely on Exemption 4 as the basis for nondisclosure, the submitter must explain why the information constitutes a trade secret or commercial or financial information that is confidential.
+(3) A submitter who fails to respond within the time period specified in the notice will be considered to have no objection to disclosure of the information. IPEC is not required to consider any information received after the date of any disclosure decision. Any information provided by a submitter under this subpart may itself be subject to disclosure under the FOIA.
+(f)
+Analysis of objections.
+IPEC must consider a submitter's objections and specific grounds for nondisclosure in deciding whether to disclose the requested information.
+(g)
+Notice of intent to disclose.
+Whenever IPEC decides to disclose information over the objection of a submitter, IPEC must provide the submitter written notice, which must include:
+(1) A statement of the reasons why each of the submitter's disclosure objections was not sustained;
+(2) A description of the information to be disclosed or copies of the records as IPEC intends to release them; and
+(3) A specified disclosure date, which must be a reasonable time after the notice.
+(h)
+Notice of FOIA lawsuit.
+Whenever a requester files a lawsuit seeking to compel the disclosure of confidential commercial information, IPEC must promptly notify the submitter.
+(i)
+Requester notification.
+IPEC must notify the requester whenever it provides the submitter with notice and an opportunity to object to disclosure; whenever it notifies the submitter of its intent to disclose the requested information; and whenever a submitter files a lawsuit to prevent the disclosure of the information.
+(j)
+No right or benefit.
+In accordance with Executive Order 12600, the related requirements in this section, such as notification, do not create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, its officers, or any person.
+
+# Subpart B—Privacy Act Policies and Procedures
+§ 10400.19
+Definitions.
+For purposes of this subpart:
+Access
+means making a record available to a subject individual.
+Amendment
+means any correction, addition to, or deletion of information in a record.
+Individual
+means a natural person who either is a citizen of the United States or an alien lawfully admitted to the United States for permanent residence.
+Maintain
+includes the term “maintain”, collect, use, or disseminate.
+Privacy Act Office
+means the IPEC officials who are authorized to respond to requests and to process requests for amendment of records IPEC maintains under the Privacy Act.
+Record
+means any item, collection or grouping of information about an individual that IPEC maintains within a system of records and contains the individual's name or the identifying number, symbol or other identifying particular assigned to the individual, such as a finger or voice print or photograph.
+System of records
+means a group of records IPEC maintains or controls from which information is retrieved by the name of an individual or by some identifying number, symbol or other identifying particular assigned to the individual.
+§ 10400.20
+Purpose and scope.
+This subpart implements the Privacy Act, 5 U.S.C. 552a, a Federal law that requires Federal agencies to protect private information about individuals that the agencies collect or maintain. It establishes IPEC's rules for access to records in systems of records we maintain that are retrieved by an individual's name or another personal identifier. It describes the procedures by which individuals may request access to records, request amendment or correction of those records, and request an accounting of disclosures of those records by IPEC. Whenever it is appropriate to do so, IPEC automatically processes a Privacy Act request for access to records under both the Privacy Act and the FOIA, following the rules contained in this part. IPEC processes a request under both the Privacy Act and the FOIA so you will receive the maximum amount of information available to you by law.
+§ 10400.21
+How do I make a Privacy Act request?
+(a)
+In general.
+You can make a Privacy Act request for records about yourself. You also can make a request on behalf of another individual as the parent or legal guardian of a minor, or as the legal guardian of someone determined by a court to be incompetent.
+(b)
+How do I make a request?
+—(1)
+Where do I send my written request?
+To
+make a request for access to a record, you should write directly to our FOIA Officer. Heightened security delays mail delivery. To avoid mail delivery delays, we strongly suggest that you email your request to
+ipecfoia@ipec.eop.gov
+. Our mailing address is: Office of the Intellectual Property Enforcement Coordinator, Executive Office of the President, Washington, DC 20503, Attn: FOIA Officer. To make sure that the FOIA Officer receives your request without delay, you should include the notation “Privacy Act Request” in the subject line of your email or on the front of your envelope and also at the beginning of your request.
+(2)
+Security concerns.
+To protect our computer systems, we reserve the right not to open attachments to emailed requests. We request that you include your request within the body of the email.
+(c)
+What should my request include?
+You must describe the record that you seek in enough detail to enable IPEC to locate the system of records containing the record with a reasonable amount of effort. Include specific information about each record sought, such as the time period in which you believe it was compiled, the name or identifying number of each system of records in which you believe it is kept, and the date, title or name, author, recipient, or subject matter of the record. As a general rule, the more specific you are about the record that you seek, the more likely we will be able to locate it in response to your request.
+(d)
+How do I request amendment of a record?
+If you are requesting an amendment of an IPEC record, you must identify each particular record in question and the system of records in which the record is located, describe the amendment that you seek, and state why you believe that the record is not accurate, relevant, timely or complete. You may submit any documentation that you think would be helpful, including an annotated copy of the record.
+(e)
+How do I request an accounting of record disclosures?
+If you are requesting an accounting of disclosures made by IPEC to another person, organization or Federal agency, you must identify each system of records in question. An accounting generally includes the date, nature and purpose of each disclosure, as well as the name and address of the person, organization, or Federal agency to which the disclosure was made.
+(f)
+Verification of identity.
+When making a Privacy Act request, you must verify your identity in accordance with these procedures to protect your privacy or the privacy of the individual on whose behalf you are acting. If you make a Privacy Act request and you do not follow these identity verification procedures, IPEC cannot process your request.
+(1)
+How do I verify my own identity?
+You must include in your request your full name, current address, and date and place of birth. We may request additional information to verify your identity. To verify your own identity, you must provide an unsworn declaration under 28 U.S.C. 1746, a law that permits statements to be made under penalty of perjury. To fulfill this requirement, you must include the following statement just before the signature on your request:
+I declare under penalty of perjury that the foregoing is true and correct. Executed on [date].
+(2)
+How do I verify parentage or guardianship?
+If you make a request as the parent or legal guardian of a minor, or as the legal guardian of someone determined by a court to be incompetent, for access to records or information about that individual, you must establish:
+(i) The identity of the individual who is the subject of the record, by stating the individual's name, current address, and date and place of birth;
+(ii) Your own identity, as required in paragraph (f)(1) of this section;
+(iii) That you are the parent or legal guardian of the individual, which you may prove by providing a copy of the individual's birth certificate showing your parentage or a court order establishing your guardianship; and
+(iv) That you are acting on behalf of the individual in making the request.
+§ 10400.22
+How will IPEC respond to my Privacy Act request?
+(a)
+When will we respond to your request?
+We will search to determine if
+the requested records exist in a system of records IPEC owns or controls. The FOIA Officer will respond to you in writing within 20 days after we receive your request and/or within 10 working days after we receive your request for an amendment, if it meets the requirements of this subpart. We may extend the response time in unusual circumstances, such as the need to consult with another agency about a record or to retrieve a record that is in storage.
+(b)
+What will our response include?
+(1) Our written response will include our determination whether to grant or deny your request in whole or in part, a brief explanation of the reasons for the determination, and the amount of the fee charged, if any, under § 10400.24. If you requested access to records, we will make the records, if any, available to you. If you requested amendment of a record, the response will describe any amendments made and advise you of your right to obtain a copy of the amended record.
+(2) We will also notify the individual who is subject to the record in writing, if, based on your request, any system of records contains a record pertaining to him or her.
+(3) If IPEC makes an adverse determination with respect to your request, our written response will identify the name and address of the person responsible for the adverse determination, that the adverse determination is not a final agency action, and describe the procedures by which you may appeal the adverse determination under § 10400.23.
+(4) An adverse determination is a response to a Privacy Act request that:
+(i) Withholds any requested record in whole or in part;
+(ii) Denies a request to amend a record in whole or in part;
+(iii) Declines to provide an accounting of disclosures;
+(iv) Advises that a requested record does not exist or cannot be located;
+(v) Finds that what you requested is not a record subject to the Privacy Act; or
+(vi) Advises on any disputed fee matter.
+§ 10400.23
+What can I do if I am dissatisfied with IPEC's response to my Privacy Act request?
+(a)
+What can I appeal?
+You can appeal any adverse determination in writing to the Privacy Act Appeals Officer (the Legal Advisor or a designee) within ninety calendar days after the date of our response. We provide a list of adverse determinations in § 10400.22(b)(4).
+(b)
+How do I make an appeal?
+—(1)
+What should I include?
+You may appeal by submitting a written statement giving the reasons why you believe the Privacy Act Appeals Officer should overturn the adverse determination. Your written appeal may include as much or as little related information as you wish to provide, as long as it clearly identifies the determination (including the request number, if known) that you are appealing.
+(2)
+Where do I send my appeal?
+You should mark both your letter and the envelope, or the subject of your email, “Privacy Act Appeal.” To avoid mail delivery delays caused by heightened security, we strongly suggest that you email any appeal to
+ipecfoia@ipec.eop.gov.
+Our mailing address is: Office of the Intellectual Property Enforcement Coordinator, Executive Office of the President, Washington, DC 20503, Attn: Privacy Act Appeals Officer.
+(c)
+Who will decide your appeal?
+(1) The Privacy Act Appeals Officer will act on all appeals under this section.
+(2) We ordinarily will not adjudicate an appeal if the request becomes a matter of litigation.
+(3) On receipt of any appeal involving classified information, the Privacy Act Appeals Officer must take appropriate action to ensure compliance with applicable classification rules.
+(d)
+When will we respond to your appeal?
+The Privacy Act Appeals Officer will notify you of its appeal decision in writing within 30 days from the date it receives an appeal that meets the requirements of paragraph (b) of this section. We may extend the response time in unusual circumstances, such as the need to consult with another agency about a record or to retrieve a record shipped offsite for storage.
+(e)
+What will our response include?
+The written response will include the Privacy Act Appeals Officer's determination whether to grant or deny your appeal in whole or in part, a brief explanation of the reasons for the determination, and information about the Privacy Act provisions for court review of the determination.
+(1)
+Appeals concerning access to records.
+If your appeal concerns a request for access to records and the appeal is granted in whole or in part, we will make the records, if any, available to you.
+(2)
+Appeals concerning amendments.
+If your appeal concerns amendment of a record, the response will describe any amendment made and advise you of your right to obtain a copy of the amended record. We will notify all persons, organizations or Federal agencies to which we previously disclosed the record, if an accounting of that disclosure was made, that the record has been amended. Whenever the record is subsequently disclosed, the record will be disclosed as amended. If our response denies your request for an amendment to a record, we will advise you of your right to file a statement of disagreement under paragraph (f) of this section.
+(f)
+Statements of disagreement
+—(1)
+What is a statement of disagreement?
+A statement of disagreement is a concise written statement in which you clearly identify each part of any record that you dispute and explain your reason(s) for disagreeing with our denial in whole or in part of your appeal requesting amendment.
+(2)
+How do I file a statement of disagreement?
+You should mark both your letter and the envelope, or the subject of your email, “Privacy Act Statement of Disagreement.” To avoid mail delivery delays caused by heightened security, we strongly suggest that you email a statement of disagreement to
+ipecfoia@ipec.eop.gov.
+Our mailing address is: Office of the Intellectual Property Enforcement Coordinator, Executive Office of the President, Washington, DC 20503, Attn: Privacy Act Appeals Officer.
+(3)
+What will we do with your statement of disagreement?
+We shall clearly note any portion of the record that is disputed and provide copies of the statement and, if we deem appropriate, copies of our statement that denied your request for an appeal for amendment, to persons or other agencies to whom the disputed record has been disclosed.
+(g)
+When appeal is required.
+Under this section, you generally first must submit a timely administrative appeal, before seeking review of an adverse determination or denial request by a court.
+§ 10400.24
+What does it cost to get records under the Privacy Act?
+(a)
+Agreement to pay fees.
+Your request is an agreement to pay fees. We consider your Privacy Act request as your agreement to pay all applicable fees unless you specify a limit on the amount of fees you agree to pay. We will not exceed the specified limit without your written agreement.
+(b)
+How do we calculate fees?
+We will charge a fee for duplication of a record under the Privacy Act in the same way we charge for duplication of records under the FOIA in § 10400.11(c). There are no fees to search for or review records requested under the Privacy Act.
+
+# FINDING AIDS
+A list of CFR titles, subtitles, chapters, subchapters and parts and an alphabetical list of agencies publishing in the CFR are included in the CFR Index and Finding Aids volume to the Code of Federal Regulations which is published separately and revised annually.
+Table of CFR Titles and Chapters
+Alphabetical List of Agencies Appearing in the CFR
+List of CFR Sections Affected
+Chap.
+
+# Table of CFR Titles and Chapters
+(Revised as of January 1, 2025)
+
+# Title 1—General Provisions
+I
+Administrative Committee of the Federal Register (Parts 1—49)
+II
+Office of the Federal Register (Parts 50—299)
+III
+Administrative Conference of the United States (Parts 300—399)
+IV
+Miscellaneous Agencies (Parts 400—599)
+VI
+National Capital Planning Commission (Parts 600—699)
+
+# Title 2—Federal Financial Assistance
+Subtitle A—Office of Management and Budget Guidance for Federal Financial Assistance
+I
+Office of Management and Budget Governmentwide Guidance for Grants and Agreements (Parts 2—199)
+II
+Office of Management and Budget Guidance (Parts 200—299)
+Subtitle B—Federal Agency Regulations for Grants and Agreements
+III
+Department of Health and Human Services (Parts 300—399)
+IV
+Department of Agriculture (Parts 400—499)
+VI
+Department of State (Parts 600—699)
+VII
+Agency for International Development (Parts 700—799)
+VIII
+Department of Veterans Affairs (Parts 800—899)
+IX
+Department of Energy (Parts 900—999)
+X
+Department of the Treasury (Parts 1000—1099)
+XI
+Department of Defense (Parts 1100—1199)
+XII
+Department of Transportation (Parts 1200—1299)
+XIII
+Department of Commerce (Parts 1300—1399)
+XIV
+Department of the Interior (Parts 1400—1499)
+XV
+Environmental Protection Agency (Parts 1500—1599)
+XVI
+U.S. International Development Finance Corporation (Parts 1600—1699)
+XVIII
+National Aeronautics and Space Administration (Parts 1800—1899)
+XIX
+U.S. Agency for Global Media (Parts 1900—1999)
+XX
+United States Nuclear Regulatory Commission (Parts 2000—2099)
+XXII
+Corporation for National and Community Service (Parts 2200—2299)
+XXIII
+Social Security Administration (Parts 2300—2399)
+XXIV
+Department of Housing and Urban Development (Parts 2400—2499)
+XXV
+National Science Foundation (Parts 2500—2599)
+XXVI
+National Archives and Records Administration (Parts 2600—2699)
+XXVII
+Small Business Administration (Parts 2700—2799)
+XXVIII
+Department of Justice (Parts 2800—2899)
+XXIX
+Department of Labor (Parts 2900—2999)
+XXX
+Department of Homeland Security (Parts 3000—3099)
+XXXI
+Institute of Museum and Library Services (Parts 3100—3199)
+XXXII
+National Endowment for the Arts (Parts 3200—3299)
+XXXIII
+National Endowment for the Humanities (Parts 3300—3399)
+XXXIV
+Department of Education (Parts 3400—3499)
+XXXV
+Export-Import Bank of the United States (Parts 3500—3599)
+XXXVI
+Office of National Drug Control Policy, Executive Office of the President (Parts 3600—3699)
+XXXVII
+Peace Corps (Parts 3700—3799)
+LVIII
+Election Assistance Commission (Parts 5800—5899)
+LIX
+Gulf Coast Ecosystem Restoration Council (Parts 5900—5999)
+LX
+Federal Communications Commission (Parts 6000—6099)
+
+# Title 3—The President
+I
+Executive Office of the President (Parts 100—199)
+
+# Title 4—Accounts
+I
+Government Accountability Office (Parts 1—199)
+
+# Title 5—Administrative Personnel
+I
+Office of Personnel Management (Parts 1—1199)
+II
+Merit Systems Protection Board (Parts 1200—1299)
+III
+Office of Management and Budget (Parts 1300—1399)
+IV
+Office of Personnel Management and Office of the Director of National Intelligence (Parts 1400—1499)
+V
+The International Organizations Employees Loyalty Board (Parts 1500—1599)
+VI
+Federal Retirement Thrift Investment Board (Parts 1600—1699)
+VIII
+Office of Special Counsel (Parts 1800—1899)
+IX
+Appalachian Regional Commission (Parts 1900—1999)
+XI
+Armed Forces Retirement Home (Parts 2100—2199)
+XIV
+Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel (Parts 2400—2499)
+XVI
+Office of Government Ethics (Parts 2600—2699)
+XXI
+Department of the Treasury (Parts 3100—3199)
+XXII
+Federal Deposit Insurance Corporation (Parts 3200—3299)
+XXIII
+Department of Energy (Parts 3300—3399)
+XXIV
+Federal Energy Regulatory Commission (Parts 3400—3499)
+XXV
+Department of the Interior (Parts 3500—3599)
+XXVI
+Department of Defense (Parts 3600—3699)
+XXVIII
+Department of Justice (Parts 3800—3899)
+XXIX
+Federal Communications Commission (Parts 3900—3999)
+XXX
+Farm Credit System Insurance Corporation (Parts 4000—4099)
+XXXI
+Farm Credit Administration (Parts 4100—4199)
+XXXIII
+U.S. International Development Finance Corporation (Parts 4300—4399)
+XXXIV
+Securities and Exchange Commission (Parts 4400—4499)
+XXXV
+Office of Personnel Management (Parts 4500—4599)
+XXXVI
+Department of Homeland Security (Parts 4600—4699)
+XXXVII
+Federal Election Commission (Parts 4700—4799)
+XL
+Interstate Commerce Commission (Parts 5000—5099)
+XLI
+Commodity Futures Trading Commission (Parts 5100—5199)
+XLII
+Department of Labor (Parts 5200—5299)
+XLIII
+National Science Foundation (Parts 5300—5399)
+XLV
+Department of Health and Human Services (Parts 5500—5599)
+XLVI
+Postal Rate Commission (Parts 5600—5699)
+XLVII
+Federal Trade Commission (Parts 5700—5799)
+XLVIII
+Nuclear Regulatory Commission (Parts 5800—5899)
+XLIX
+Federal Labor Relations Authority (Parts 5900—5999)
+L
+Department of Transportation (Parts 6000—6099)
+LII
+Export-Import Bank of the United States (Parts 6200—6299)
+LIII
+Department of Education (Parts 6300—6399)
+LIV
+Environmental Protection Agency (Parts 6400—6499)
+LV
+National Endowment for the Arts (Parts 6500—6599)
+LVI
+National Endowment for the Humanities (Parts 6600—6699)
+LVII
+General Services Administration (Parts 6700—6799)
+LVIII
+Board of Governors of the Federal Reserve System (Parts 6800—6899)
+LIX
+National Aeronautics and Space Administration (Parts 6900—6999)
+LX
+United States Postal Service (Parts 7000—7099)
+LXI
+National Labor Relations Board (Parts 7100—7199)
+LXII
+Equal Employment Opportunity Commission (Parts 7200—7299)
+LXIII
+Inter-American Foundation (Parts 7300—7399)
+LXIV
+Merit Systems Protection Board (Parts 7400—7499)
+LXV
+Department of Housing and Urban Development (Parts 7500—7599)
+LXVI
+National Archives and Records Administration (Parts 7600—7699)
+LXVII
+Institute of Museum and Library Services (Parts 7700—7799)
+LXVIII
+Commission on Civil Rights (Parts 7800—7899)
+LXIX
+Tennessee Valley Authority (Parts 7900—7999)
+LXX
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 8000—8099)
+LXXI
+Consumer Product Safety Commission (Parts 8100—8199)
+LXXIII
+Department of Agriculture (Parts 8300—8399)
+LXXIV
+Federal Mine Safety and Health Review Commission (Parts 8400—8499)
+LXXVI
+Federal Retirement Thrift Investment Board (Parts 8600—8699)
+LXXVII
+Office of Management and Budget (Parts 8700—8799)
+LXXX
+Federal Housing Finance Agency (Parts 9000—9099)
+LXXXIII
+Special Inspector General for Afghanistan Reconstruction (Parts 9300—9399)
+LXXXIV
+Bureau of Consumer Financial Protection (Parts 9400—9499)
+LXXXVI
+National Credit Union Administration (Parts 9600—9699)
+XCVII
+Department of Homeland Security Human Resources Management System (Department of Homeland Security—Office of Personnel Management) (Parts 9700—9799)
+XCVIII
+Council of the Inspectors General on Integrity and Efficiency (Parts 9800—9899)
+XCIX
+Military Compensation and Retirement Modernization Commission (Parts 9900—9999)
+C
+National Council on Disability (Parts 10000—10049)
+CI
+National Mediation Board (Parts 10100—10199)
+CII
+U.S. Office of Special Counsel (Parts 10200—10299)
+CIII
+U.S. Office of Federal Mediation and Conciliation Service (Parts 10300—10399)
+CIV
+Office of the Intellectual Property Enforcement Coordinator (Part 10400—10499)
+
+# Title 6—Domestic Security
+I
+Department of Homeland Security, Office of the Secretary (Parts 1—199)
+X
+Privacy and Civil Liberties Oversight Board (Parts 1000—1099)
+
+# Title 7—Agriculture
+Subtitle A—Office of the Secretary of Agriculture (Parts 0—26)
+Subtitle B—Regulations of the Department of Agriculture
+I
+Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture (Parts 27—209)
+II
+Food and Nutrition Service, Department of Agriculture (Parts 210—299)
+III
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 300—399)
+IV
+Federal Crop Insurance Corporation, Department of Agriculture (Parts 400—499)
+V
+Agricultural Research Service, Department of Agriculture (Parts 500—599)
+VI
+Natural Resources Conservation Service, Department of Agriculture (Parts 600—699)
+VII
+Farm Service Agency, Department of Agriculture (Parts 700—799)
+VIII
+Agricultural Marketing Service (Federal Grain Inspection Service, Fair Trade Practices Program), Department of Agriculture (Parts 800—899)
+IX
+Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture (Parts 900—999)
+X
+Agricultural Marketing Service (Marketing Agreements and Orders; Milk), Department of Agriculture (Parts 1000—1199)
+XI
+Agricultural Marketing Service (Marketing Agreements and Orders; Miscellaneous Commodities), Department of Agriculture (Parts 1200—1299)
+XIV
+Commodity Credit Corporation, Department of Agriculture (Parts 1400—1499)
+XV
+Foreign Agricultural Service, Department of Agriculture (Parts 1500—1599)
+XVI
+[Reserved]
+XVII
+Rural Utilities Service, Department of Agriculture (Parts 1700—1799)
+XVIII
+Rural Housing Service, Rural Business-Cooperative Service, Rural Utilities Service, and Farm Service Agency, Department of Agriculture (Parts 1800—2099)
+XX
+[Reserved]
+XXV
+Office of Advocacy and Outreach, Department of Agriculture (Parts 2500—2599)
+XXVI
+Office of Inspector General, Department of Agriculture (Parts 2600—2699)
+XXVII
+Office of Information Resources Management, Department of Agriculture (Parts 2700—2799)
+XXVIII
+Office of Operations, Department of Agriculture (Parts 2800—2899)
+XXIX
+Office of Energy Policy and New Uses, Department of Agriculture (Parts 2900—2999)
+XXX
+Office of the Chief Financial Officer, Department of Agriculture (Parts 3000—3099)
+XXXI
+Office of Environmental Quality, Department of Agriculture (Parts 3100—3199)
+XXXII
+Office of Procurement and Property Management, Department of Agriculture (Parts 3200—3299)
+XXXIII
+Office of Transportation, Department of Agriculture (Parts 3300—3399)
+XXXIV
+National Institute of Food and Agriculture (Parts 3400—3499)
+XXXV
+Rural Housing Service, Department of Agriculture (Parts 3500—3599)
+XXXVI
+National Agricultural Statistics Service, Department of Agriculture (Parts 3600—3699)
+XXXVII
+Economic Research Service, Department of Agriculture (Parts 3700—3799)
+XXXVIII
+World Agricultural Outlook Board, Department of Agriculture (Parts 3800—3899)
+XLI
+[Reserved]
+XLII
+Rural Business-Cooperative Service, Department of Agriculture (Parts 4200—4299)
+L
+Rural Business-Cooperative Service, Rural Housing Service, and Rural Utilities Service, Department of Agriculture (Parts 5000—5099)
+
+# Title 8—Aliens and Nationality
+I
+Department of Homeland Security (Parts 1—499)
+V
+Executive Office for Immigration Review, Department of Justice (Parts 1000—1399)
+
+# Title 9—Animals and Animal Products
+I
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 1—199)
+II
+Agricultural Marketing Service (Fair Trade Practices Program), Department of Agriculture (Parts 200—299)
+III
+Food Safety and Inspection Service, Department of Agriculture (Parts 300—599)
+
+# Title 10—Energy
+I
+Nuclear Regulatory Commission (Parts 0—199)
+II
+Department of Energy (Parts 200—699)
+III
+Department of Energy (Parts 700—999)
+X
+Department of Energy (General Provisions) (Parts 1000—1099)
+XIII
+Nuclear Waste Technical Review Board (Parts 1300—1399)
+XVII
+Defense Nuclear Facilities Safety Board (Parts 1700—1799)
+XVIII
+Northeast Interstate Low-Level Radioactive Waste Commission (Parts 1800—1899)
+
+# Title 11—Federal Elections
+I
+Federal Election Commission (Parts 1—9099)
+II
+Election Assistance Commission (Parts 9400—9499)
+
+# Title 12—Banks and Banking
+I
+Comptroller of the Currency, Department of the Treasury (Parts 1—199)
+II
+Federal Reserve System (Parts 200—299)
+III
+Federal Deposit Insurance Corporation (Parts 300—399)
+IV
+Export-Import Bank of the United States (Parts 400—499)
+V
+(Parts 500—599) [Reserved]
+VI
+Farm Credit Administration (Parts 600—699)
+VII
+National Credit Union Administration (Parts 700—799)
+VIII
+Federal Financing Bank (Parts 800—899)
+IX
+(Parts 900—999)[Reserved]
+X
+Consumer Financial Protection Bureau (Parts 1000—1099)
+XI
+Federal Financial Institutions Examination Council (Parts 1100—1199)
+XII
+Federal Housing Finance Agency (Parts 1200—1299)
+XIII
+Financial Stability Oversight Council (Parts 1300—1399)
+XIV
+Farm Credit System Insurance Corporation (Parts 1400—1499)
+XV
+Department of the Treasury (Parts 1500—1599)
+XVI
+Office of Financial Research, Department of the Treasury (Parts 1600—1699)
+XVII
+Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development (Parts 1700—1799)
+XVIII
+Community Development Financial Institutions Fund, Department of the Treasury (Parts 1800—1899)
+
+# Title 13—Business Credit and Assistance
+I
+Small Business Administration (Parts 1—199)
+III
+Economic Development Administration, Department of Commerce (Parts 300—399)
+IV
+Emergency Steel Guarantee Loan Board (Parts 400—499)
+V
+Emergency Oil and Gas Guaranteed Loan Board (Parts 500—599)
+
+# Title 14—Aeronautics and Space
+I
+Federal Aviation Administration, Department of Transportation (Parts 1—199)
+II
+Office of the Secretary, Department of Transportation (Aviation Proceedings) (Parts 200—399)
+III
+Commercial Space Transportation, Federal Aviation Administration, Department of Transportation (Parts 400—1199)
+V
+National Aeronautics and Space Administration (Parts 1200—1299)
+VI
+Air Transportation System Stabilization (Parts 1300—1399)
+
+# Title 15—Commerce and Foreign Trade
+Subtitle A—Office of the Secretary of Commerce (Parts 0—29)
+Subtitle B—Regulations Relating to Commerce and Foreign Trade
+I
+Bureau of the Census, Department of Commerce (Parts 30—199)
+II
+National Institute of Standards and Technology, Department of Commerce (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+Foreign-Trade Zones Board, Department of Commerce (Parts 400—499)
+VII
+Bureau of Industry and Security, Department of Commerce (Parts 700—799)
+VIII
+Bureau of Economic Analysis, Department of Commerce (Parts 800—899)
+IX
+National Oceanic and Atmospheric Administration, Department of Commerce (Parts 900—999)
+XI
+National Technical Information Service, Department of Commerce (Parts 1100—1199)
+XIII
+East-West Foreign Trade Board (Parts 1300—1399)
+XIV
+Minority Business Development Agency (Parts 1400—1499)
+XV
+Office of the Under-Secretary for Economic Affairs, Department of Commerce (Parts 1500—1599)
+Subtitle C—Regulations Relating to Foreign Trade Agreements
+XX
+Office of the United States Trade Representative (Parts 2000—2099)
+Subtitle D—Regulations Relating to Telecommunications and Information
+XXIII
+National Telecommunications and Information Administration, Department of Commerce (Parts 2300—2399) [Reserved]
+
+# Title 16—Commercial Practices
+I
+Federal Trade Commission (Parts 0—999)
+II
+Consumer Product Safety Commission (Parts 1000—1799)
+
+# Title 17—Commodity and Securities Exchanges
+I
+Commodity Futures Trading Commission (Parts 1—199)
+II
+Securities and Exchange Commission (Parts 200—399)
+IV
+Department of the Treasury (Parts 400—499)
+
+# Title 18—Conservation of Power and Water Resources
+I
+Federal Energy Regulatory Commission, Department of Energy (Parts 1—399)
+III
+Delaware River Basin Commission (Parts 400—499)
+VI
+Water Resources Council (Parts 700—799)
+VIII
+Susquehanna River Basin Commission (Parts 800—899)
+XIII
+Tennessee Valley Authority (Parts 1300—1399)
+
+# Title 19—Customs Duties
+I
+U.S. Customs and Border Protection, Department of Homeland Security; Department of the Treasury (Parts 0—199)
+II
+United States International Trade Commission (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+U.S. Immigration and Customs Enforcement, Department of Homeland Security (Parts 400—599) [Reserved]
+
+# Title 20—Employees' Benefits
+I
+Office of Workers' Compensation Programs, Department of Labor (Parts 1—199)
+II
+Railroad Retirement Board (Parts 200—399)
+III
+Social Security Administration (Parts 400—499)
+IV
+Employees' Compensation Appeals Board, Department of Labor (Parts 500—599)
+V
+Employment and Training Administration, Department of Labor (Parts 600—699)
+VI
+Office of Workers' Compensation Programs, Department of Labor (Parts 700—799)
+VII
+Benefits Review Board, Department of Labor (Parts 800—899)
+VIII
+Joint Board for the Enrollment of Actuaries (Parts 900—999)
+IX
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 1000—1099)
+
+# Title 21—Food and Drugs
+I
+Food and Drug Administration, Department of Health and Human Services (Parts 1—1299)
+II
+Drug Enforcement Administration, Department of Justice (Parts 1300—1399)
+III
+Office of National Drug Control Policy (Parts 1400—1499)
+
+# Title 22—Foreign Relations
+I
+Department of State (Parts 1—199)
+II
+Agency for International Development (Parts 200—299)
+III
+Peace Corps (Parts 300—399)
+IV
+International Joint Commission, United States and Canada (Parts 400—499)
+V
+United States Agency for Global Media (Parts 500—599)
+VII
+U.S. International Development Finance Corporation (Parts 700—799)
+IX
+Foreign Service Grievance Board (Parts 900—999)
+X
+Inter-American Foundation (Parts 1000—1099)
+XI
+International Boundary and Water Commission, United States and Mexico, United States Section (Parts 1100—1199)
+XII
+United States International Development Cooperation Agency (Parts 1200—1299)
+XIII
+Millennium Challenge Corporation (Parts 1300—1399)
+XIV
+Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel (Parts 1400—1499)
+XV
+African Development Foundation (Parts 1500—1599)
+XVI
+Japan-United States Friendship Commission (Parts 1600—1699)
+XVII
+United States Institute of Peace (Parts 1700—1799)
+
+# Title 23—Highways
+I
+Federal Highway Administration, Department of Transportation (Parts 1—999)
+II
+National Highway Traffic Safety Administration and Federal Highway Administration, Department of Transportation (Parts 1200—1299)
+III
+National Highway Traffic Safety Administration, Department of Transportation (Parts 1300—1399)
+
+# Title 24—Housing and Urban Development
+Subtitle A—Office of the Secretary, Department of Housing and Urban Development (Parts 0—99)
+Subtitle B—Regulations Relating to Housing and Urban Development
+I
+Office of Assistant Secretary for Equal Opportunity, Department of Housing and Urban Development (Parts 100—199)
+II
+Office of Assistant Secretary for Housing-Federal Housing Commissioner, Department of Housing and Urban Development (Parts 200—299)
+III
+Government National Mortgage Association, Department of Housing and Urban Development (Parts 300—399)
+IV
+Office of Housing and Office of Multifamily Housing Assistance Restructuring, Department of Housing and Urban Development (Parts 400—499)
+V
+Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development (Parts 500—599)
+VI
+Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development (Parts 600—699) [Reserved]
+VII
+Office of the Secretary, Department of Housing and Urban Development (Housing Assistance Programs and Public and Indian Housing Programs) (Parts 700—799)
+VIII
+Office of the Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Section 8 Housing Assistance Programs, Section 202 Direct Loan Program, Section 202 Supportive Housing for the Elderly Program and Section 811 Supportive Housing for Persons With Disabilities Program) (Parts 800—899)
+IX
+Office of Assistant Secretary for Public and Indian Housing, Department of Housing and Urban Development (Parts 900—1699)
+X
+Office of Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Interstate Land Sales Registration Program) (Parts 1700—1799) [Reserved]
+XII
+Office of Inspector General, Department of Housing and Urban Development (Parts 2000—2099)
+XV
+Emergency Mortgage Insurance and Loan Programs, Department of Housing and Urban Development (Parts 2700—2799) [Reserved]
+XX
+Office of Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Parts 3200—3899)
+XXIV
+Board of Directors of the HOPE for Homeowners Program (Parts 4000—4099) [Reserved]
+XXV
+Neighborhood Reinvestment Corporation (Parts 4100—4199)
+
+# Title 25—Indians
+I
+Bureau of Indian Affairs, Department of the Interior (Parts 1—299)
+II
+Indian Arts and Crafts Board, Department of the Interior (Parts 300—399)
+III
+National Indian Gaming Commission, Department of the Interior (Parts 500—599)
+IV
+Office of Navajo and Hopi Indian Relocation (Parts 700—899)
+V
+Bureau of Indian Affairs, Department of the Interior, and Indian Health Service, Department of Health and Human Services (Part 900—999)
+VI
+Office of the Assistant Secretary, Indian Affairs, Department of the Interior (Parts 1000—1199)
+VII
+Office of the Special Trustee for American Indians, Department of the Interior (Parts 1200—1299)
+
+# Title 26—Internal Revenue
+I
+Internal Revenue Service, Department of the Treasury (Parts 1—End)
+
+# Title 27—Alcohol, Tobacco Products and Firearms
+I
+Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury (Parts 1—399)
+II
+Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice (Parts 400—799)
+
+# Title 28—Judicial Administration
+I
+Department of Justice (Parts 0—299)
+III
+Federal Prison Industries, Inc., Department of Justice (Parts 300—399)
+V
+Bureau of Prisons, Department of Justice (Parts 500—599)
+VI
+Offices of Independent Counsel, Department of Justice (Parts 600—699)
+VII
+Office of Independent Counsel (Parts 700—799)
+VIII
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 800—899)
+IX
+National Crime Prevention and Privacy Compact Council (Parts 900—999)
+XI
+Department of Justice and Department of State (Parts 1100—1199)
+
+# Title 29—Labor
+Subtitle A—Office of the Secretary of Labor (Parts 0—99)
+Subtitle B—Regulations Relating to Labor
+I
+National Labor Relations Board (Parts 100—199)
+II
+Office of Labor-Management Standards, Department of Labor (Parts 200—299)
+III
+National Railroad Adjustment Board (Parts 300—399)
+IV
+Office of Labor-Management Standards, Department of Labor (Parts 400—499)
+V
+Wage and Hour Division, Department of Labor (Parts 500—899)
+IX
+Construction Industry Collective Bargaining Commission (Parts 900—999)
+X
+National Mediation Board (Parts 1200—1299)
+XII
+Federal Mediation and Conciliation Service (Parts 1400—1499)
+XIV
+Equal Employment Opportunity Commission (Parts 1600—1699)
+XVII
+Occupational Safety and Health Administration, Department of Labor (Parts 1900—1999)
+XX
+Occupational Safety and Health Review Commission (Parts 2200—2499)
+XXV
+Employee Benefits Security Administration, Department of Labor (Parts 2500—2599)
+XXVII
+Federal Mine Safety and Health Review Commission (Parts 2700—2799)
+XL
+Pension Benefit Guaranty Corporation (Parts 4000—4999)
+
+# Title 30—Mineral Resources
+I
+Mine Safety and Health Administration, Department of Labor (Parts 1—199)
+II
+Bureau of Safety and Environmental Enforcement, Department of the Interior (Parts 200—299)
+IV
+Geological Survey, Department of the Interior (Parts 400—499)
+V
+Bureau of Ocean Energy Management, Department of the Interior (Parts 500—599)
+VII
+Office of Surface Mining Reclamation and Enforcement, Department of the Interior (Parts 700—999)
+XII
+Office of Natural Resources Revenue, Department of the Interior (Parts 1200—1299)
+
+# Title 31—Money and Finance: Treasury
+Subtitle A—Office of the Secretary of the Treasury (Parts 0—50)
+Subtitle B—Regulations Relating to Money and Finance
+I
+Monetary Offices, Department of the Treasury (Parts 51—199)
+II
+Fiscal Service, Department of the Treasury (Parts 200—399)
+IV
+Secret Service, Department of the Treasury (Parts 400—499)
+V
+Office of Foreign Assets Control, Department of the Treasury (Parts 500—599)
+VI
+Bureau of Engraving and Printing, Department of the Treasury (Parts 600—699)
+VII
+Federal Law Enforcement Training Center, Department of the Treasury (Parts 700—799)
+VIII
+Office of Investment Security, Department of the Treasury (Parts 800—899)
+IX
+Federal Claims Collection Standards (Department of the Treasury—Department of Justice) (Parts 900—999)
+X
+Financial Crimes Enforcement Network, Department of the Treasury (Parts 1000—1099)
+
+# Title 32—National Defense
+Subtitle A—Department of Defense
+I
+Office of the Secretary of Defense (Parts 1—399)
+V
+Department of the Army (Parts 400—699)
+VI
+Department of the Navy (Parts 700—799)
+VII
+Department of the Air Force (Parts 800—1099)
+Subtitle B—Other Regulations Relating to National Defense
+XII
+Department of Defense, Defense Logistics Agency (Parts 1200—1299)
+XVI
+Selective Service System (Parts 1600—1699)
+XVII
+Office of the Director of National Intelligence (Parts 1700—1799)
+XVIII
+National Counterintelligence Center (Parts 1800—1899)
+XIX
+Central Intelligence Agency (Parts 1900—1999)
+XX
+Information Security Oversight Office, National Archives and Records Administration (Parts 2000—2099)
+XXI
+National Security Council (Parts 2100—2199)
+XXIV
+Office of Science and Technology Policy (Parts 2400—2499)
+XXVII
+Office for Micronesian Status Negotiations (Parts 2700—2799)
+XXVIII
+Office of the Vice President of the United States (Parts 2800—2899)
+
+# Title 33—Navigation and Navigable Waters
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Corps of Engineers, Department of the Army, Department of Defense (Parts 200—399)
+IV
+Great Lakes St. Lawrence Seaway Development Corporation, Department of Transportation (Parts 400—499)
+
+# Title 34—Education
+Subtitle A—Office of the Secretary, Department of Education (Parts 1—99)
+Subtitle B—Regulations of the Offices of the Department of Education
+I
+Office for Civil Rights, Department of Education (Parts 100—199)
+II
+Office of Elementary and Secondary Education, Department of Education (Parts 200—299)
+III
+Office of Special Education and Rehabilitative Services, Department of Education (Parts 300—399)
+IV
+Office of Career, Technical, and Adult Education, Department of Education (Parts 400—499)
+V
+Office of Bilingual Education and Minority [Reserved]
+VI
+Office of Postsecondary Education, Department of Education (Parts 600—699)
+VII
+Office of Educational Research and Improvement, Department of Education (Parts 700—799) [Reserved]
+Subtitle C—Regulations Relating to Education
+XI
+[Reserved]
+XII
+National Council on Disability (Parts 1200—1299)
+Title 35 [Reserved]
+
+# Title 36—Parks, Forests, and Public Property
+I
+National Park Service, Department of the Interior (Parts 1—199)
+II
+Forest Service, Department of Agriculture (Parts 200—299)
+III
+Corps of Engineers, Department of the Army (Parts 300—399)
+IV
+American Battle Monuments Commission (Parts 400—499)
+V
+Smithsonian Institution (Parts 500—599)
+VI
+[Reserved]
+VII
+Library of Congress (Parts 700—799)
+VIII
+Advisory Council on Historic Preservation (Parts 800—899)
+IX
+Pennsylvania Avenue Development Corporation (Parts 900—999)
+X
+Presidio Trust (Parts 1000—1099)
+XI
+Architectural and Transportation Barriers Compliance Board (Parts 1100—1199)
+XII
+National Archives and Records Administration (Parts 1200—1299)
+XV
+Oklahoma City National Memorial Trust (Parts 1500—1599)
+XVI
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation (Parts 1600—1699)
+
+# Title 37—Patents, Trademarks, and Copyrights
+I
+United States Patent and Trademark Office, Department of Commerce (Parts 1—199)
+II
+U.S. Copyright Office, Library of Congress (Parts 200—299)
+III
+Copyright Royalty Board, Library of Congress (Parts 300—399)
+IV
+National Institute of Standards and Technology, Department of Commerce (Parts 400—599)
+
+# Title 38—Pensions, Bonuses, and Veterans' Relief
+I
+Department of Veterans Affairs (Parts 0—199)
+II
+Armed Forces Retirement Home (Parts 200—299)
+
+# Title 39—Postal Service
+I
+United States Postal Service (Parts 1—999)
+III
+Postal Regulatory Commission (Parts 3000—3099)
+
+# Title 40—Protection of Environment
+I
+Environmental Protection Agency (Parts 1—1099)
+IV
+Environmental Protection Agency and Department of Justice (Parts 1400—1499)
+V
+Council on Environmental Quality (Parts 1500—1599)
+VI
+Chemical Safety and Hazard Investigation Board (Parts 1600—1699)
+VII
+Environmental Protection Agency and Department of Defense; Uniform National Discharge Standards for Vessels of the Armed Forces (Parts 1700—1799)
+VIII
+Gulf Coast Ecosystem Restoration Council (Parts 1800—1899)
+IX
+Federal Permitting Improvement Steering Council (Part 1900)
+
+# Title 41—Public Contracts and Property Management
+Subtitle A—Federal Procurement Regulations System [Note]
+Subtitle B—Other Provisions Relating to Public Contracts
+50
+Public Contracts, Department of Labor (Parts 50-1—50-999)
+51
+Committee for Purchase From People Who Are Blind or Severely Disabled (Parts 51-1—51-99)
+60
+Office of Federal Contract Compliance Programs, Equal Employment Opportunity, Department of Labor (Parts 60-1—60-999)
+61
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 61-1—61-999)
+62—100
+[Reserved]
+Subtitle C—Federal Property Management Regulations System
+101
+Federal Property Management Regulations (Parts 101-1—101-99)
+102
+Federal Management Regulation (Parts 102-1—102-299)
+103—104
+(Parts 103-001—104-099) [Reserved]
+105
+General Services Administration (Parts 105-1—105-999)
+109
+Department of Energy Property Management Regulations (Parts 109-1—109-99)
+114
+Department of the Interior (Parts 114-1—114-99)
+115
+Environmental Protection Agency (Parts 115-1—115-99)
+128
+Department of Justice (Parts 128-1—128-99)
+129—200
+[Reserved]
+Subtitle D—Federal Acquisition Supply Chain Security
+201
+Federal Acquisition Security Council (Parts 201-1—201-99)
+Subtitle E [Reserved]
+Subtitle F—Federal Travel Regulation System
+300
+General (Parts 300-1—300-99)
+301
+Temporary Duty (TDY) Travel Allowances (Parts 301-1—301-99)
+302
+Relocation Allowances (Parts 302-1—302-99)
+303
+Payment of Expenses Connected with the Death of Certain Employees (Part 303-1—303-99)
+304
+Payment of Travel Expenses from a Non-Federal Source (Parts 304-1—304-99)
+
+# Title 42—Public Health
+I
+Public Health Service, Department of Health and Human Services (Parts 1—199)
+II—III
+[Reserved]
+IV
+Centers for Medicare
+Medicaid Services, Department of Health and Human Services (Parts 400—699)
+V
+Office of Inspector General-Health Care, Department of Health and Human Services (Parts 1000—1099)
+
+# Title 43—Public Lands: Interior
+Subtitle A—Office of the Secretary of the Interior (Parts 1—199)
+Subtitle B—Regulations Relating to Public Lands
+I
+Bureau of Reclamation, Department of the Interior (Parts 400—999)
+II
+Bureau of Land Management, Department of the Interior (Parts 1000—9999)
+III
+Utah Reclamation Mitigation and Conservation Commission (Parts 10000—10099)
+
+# Title 44—Emergency Management and Assistance
+I
+Federal Emergency Management Agency, Department of Homeland Security (Parts 0—399)
+IV
+Department of Commerce and Department of Transportation (Parts 400—499)
+
+# Title 45—Public Welfare
+Subtitle A—Department of Health and Human Services (Parts 1—199)
+Subtitle B—Regulations Relating to Public Welfare
+II
+Office of Family Assistance (Assistance Programs), Administration for Children and Families, Department of Health and Human Services (Parts 200—299)
+III
+Office of Child Support Services, Administration of Families and Services, Department of Health and Human Services (Parts 300—399)
+IV
+Office of Refugee Resettlement, Administration for Children and Families, Department of Health and Human Services (Parts 400—499)
+V
+Foreign Claims Settlement Commission of the United States, Department of Justice (Parts 500—599)
+VI
+National Science Foundation (Parts 600—699)
+VII
+Commission on Civil Rights (Parts 700—799)
+VIII
+Office of Personnel Management (Parts 800—899)
+IX
+Denali Commission (Parts 900—999)
+X
+Office of Community Services, Administration for Children and Families, Department of Health and Human Services (Parts 1000—1099)
+XI
+National Foundation on the Arts and the Humanities (Parts 1100—1199)
+XII
+Corporation for National and Community Service (Parts 1200—1299)
+XIII
+Administration for Children and Families, Department of Health and Human Services (Parts 1300—1399)
+XVI
+Legal Services Corporation (Parts 1600—1699)
+XVII
+National Commission on Libraries and Information Science (Parts 1700—1799)
+XVIII
+Harry S. Truman Scholarship Foundation (Parts 1800—1899)
+XXI
+Commission of Fine Arts (Parts 2100—2199)
+XXIII
+Arctic Research Commission (Parts 2300—2399)
+XXIV
+James Madison Memorial Fellowship Foundation (Parts 2400—2499)
+XXV
+Corporation for National and Community Service (Parts 2500—2599)
+
+# Title 46—Shipping
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Maritime Administration, Department of Transportation (Parts 200—399)
+III
+Coast Guard (Great Lakes Pilotage), Department of Homeland Security (Parts 400—499)
+IV
+Federal Maritime Commission (Parts 500—599)
+
+# Title 47—Telecommunication
+I
+Federal Communications Commission (Parts 0—199)
+II
+Office of Science and Technology Policy and National Security Council (Parts 200—299)
+III
+National Telecommunications and Information Administration, Department of Commerce (Parts 300—399)
+IV
+National Telecommunications and Information Administration, Department of Commerce, and National Highway Traffic Safety Administration, Department of Transportation (Parts 400—499)
+V
+The First Responder Network Authority (Parts 500—599)
+
+# Title 48—Federal Acquisition Regulations System
+1
+Federal Acquisition Regulation (Parts 1—99)
+2
+Defense Acquisition Regulations System, Department of Defense (Parts 200—299)
+3
+Health and Human Services (Parts 300—399)
+4
+Department of Agriculture (Parts 400—499)
+5
+General Services Administration (Parts 500—599)
+6
+Department of State (Parts 600—699)
+7
+Agency for International Development (Parts 700—799)
+8
+Department of Veterans Affairs (Parts 800—899)
+9
+Department of Energy (Parts 900—999)
+10
+Department of the Treasury (Parts 1000—1099)
+12
+Department of Transportation (Parts 1200—1299)
+13
+Department of Commerce (Parts 1300—1399)
+14
+Department of the Interior (Parts 1400—1499)
+15
+Environmental Protection Agency (Parts 1500—1599)
+16
+Office of Personnel Management, Federal Employees Health Benefits Acquisition Regulation (Parts 1600—1699)
+17
+Office of Personnel Management (Parts 1700—1799)
+18
+National Aeronautics and Space Administration (Parts 1800—1899)
+19
+Broadcasting Board of Governors (Parts 1900—1999)
+20
+Nuclear Regulatory Commission (Parts 2000—2099)
+21
+Office of Personnel Management, Federal Employees Group Life Insurance Federal Acquisition Regulation (Parts 2100—2199)
+23
+Social Security Administration (Parts 2300—2399)
+24
+Department of Housing and Urban Development (Parts 2400—2499)
+25
+National Science Foundation (Parts 2500—2599)
+28
+Department of Justice (Parts 2800—2899)
+29
+Department of Labor (Parts 2900—2999)
+30
+Department of Homeland Security, Homeland Security Acquisition Regulation (HSAR) (Parts 3000—3099)
+34
+Department of Education Acquisition Regulation (Parts 3400—3499)
+51
+Department of the Army Acquisition Regulations (Parts 5100—5199) [Reserved]
+52
+Department of the Navy Acquisition Regulations (Parts 5200—5299)
+53
+Department of the Air Force Federal Acquisition Regulation Supplement (Parts 5300—5399) [Reserved]
+54
+Defense Logistics Agency, Department of Defense (Parts 5400—5499)
+57
+African Development Foundation (Parts 5700—5799)
+61
+Civilian Board of Contract Appeals, General Services Administration (Parts 6100—6199)
+99
+Cost Accounting Standards Board, Office of Federal Procurement Policy, Office of Management and Budget (Parts 9900—9999)
+
+# Title 49—Transportation
+Subtitle A—Office of the Secretary of Transportation (Parts 1—99)
+Subtitle B—Other Regulations Relating to Transportation
+I
+Pipeline and Hazardous Materials Safety Administration, Department of Transportation (Parts 100—199)
+II
+Federal Railroad Administration, Department of Transportation (Parts 200—299)
+III
+Federal Motor Carrier Safety Administration, Department of Transportation (Parts 300—399)
+IV
+Coast Guard, Department of Homeland Security (Parts 400—499)
+V
+National Highway Traffic Safety Administration, Department of Transportation (Parts 500—599)
+VI
+Federal Transit Administration, Department of Transportation (Parts 600—699)
+VII
+National Railroad Passenger Corporation (AMTRAK) (Parts 700—799)
+VIII
+National Transportation Safety Board (Parts 800—999)
+X
+Surface Transportation Board (Parts 1000—1399)
+XI
+Research and Innovative Technology Administration, Department of Transportation (Parts 1400—1499) [Reserved]
+XII
+Transportation Security Administration, Department of Homeland Security (Parts 1500—1699)
+
+# Title 50—Wildlife and Fisheries
+I
+United States Fish and Wildlife Service, Department of the Interior (Parts 1—199)
+II
+National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 200—299)
+III
+International Fishing and Related Activities (Parts 300—399)
+IV
+Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations (Parts 400—499)
+V
+Marine Mammal Commission (Parts 500—599)
+VI
+Fishery Conservation and Management, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 600—699)
+
+# Alphabetical List of Agencies Appearing in the CFR
+(Revised as of January 1, 2025)
+Agency
+CFR Title, Subtitle or Chapter
+Administrative Conference of the United States
+1, III
+Advisory Council on Historic Preservation
+36, VIII
+Advocacy and Outreach, Office of
+7, XXV
+Afghanistan Reconstruction, Special Inspector General for
+5, LXXXIII
+African Development Foundation
+22, XV
+Federal Acquisition Regulation
+48, 57
+Agency for International Development
+2, VII; 22, II
+Federal Acquisition Regulation
+48, 7
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Agriculture, Department of
+2, IV; 5, LXXIII
+Advocacy and Outreach, Office of
+7, XXV
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Chief Financial Officer, Office of
+7, XXX
+Commodity Credit Corporation
+7, XIV
+Economic Research Service
+7, XXXVII
+Energy Policy and New Uses, Office of
+2, IX; 7, XXIX
+Environmental Quality, Office of
+7, XXXI
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 4
+Federal Crop Insurance Corporation
+7, IV
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Forest Service
+36, II
+Information Resources Management, Office of
+7, XXVII
+Inspector General, Office of
+7, XXVI
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National Institute of Food and Agriculture
+7, XXXIV
+Natural Resources Conservation Service
+7, VI
+Operations, Office of
+7, XXVIII
+Procurement and Property Management, Office of
+7, XXXII
+Rural Business-Cooperative Service
+7, XVIII, XLII
+Rural Development Administration
+7, XLII
+Rural Housing Service
+7, XVIII, XXXV
+Rural Utilities Service
+7, XVII, XVIII, XLII
+Secretary of Agriculture, Office of
+7, Subtitle A
+Transportation, Office of
+7, XXXIII
+World Agricultural Outlook Board
+7, XXXVIII
+Air Force, Department of
+32, VII
+Federal Acquisition Regulation Supplement
+48, 53
+Air Transportation Stabilization Board
+14, VI
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+AMTRAK
+49, VII
+American Battle Monuments Commission
+36, IV
+American Indians, Office of the Special Trustee
+25, VII
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Appalachian Regional Commission
+5, IX
+Architectural and Transportation Barriers Compliance Board
+36, XI
+Arctic Research Commission
+45, XXIII
+Armed Forces Retirement Home
+5, XI; 38, II
+Army, Department of
+32, V
+Engineers, Corps of
+33, II; 36, III
+Federal Acquisition Regulation
+48, 51
+Benefits Review Board
+20, VII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Blind or Severely Disabled, Committee for Purchase from People Who Are
+41, 51
+Broadcasting Board of Governors
+Federal Acquisition Regulation
+48, 19
+Career, Technical, and Adult Education, Office of
+34, IV
+Census Bureau
+15, I
+Centers for Medicare
+Medicaid Services
+42, IV
+Central Intelligence Agency
+32, XIX
+Chemical Safety and Hazard Investigation Board
+40, VI
+Chief Financial Officer, Office of
+7, XXX
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Civil Rights, Commission on
+5, LXVIII; 45, VII
+Civil Rights, Office for
+34, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Commerce, Department of
+2, XIII; 44, IV; 50, VI
+Census Bureau
+15, I
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 13
+Foreign-Trade Zones Board
+15, IV
+Industry and Security, Bureau of
+15, VII
+International Trade Administration
+15, III; 19, III
+National Institute of Standards and Technology
+15, II; 37, IV
+National Marine Fisheries Service
+50, II, IV
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV
+National Weather Service
+15, IX
+Patent and Trademark Office, United States
+37, I
+Secretary of Commerce, Office of
+15, Subtitle A
+Commercial Space Transportation
+14, III
+Commodity Credit Corporation
+7, XIV
+Commodity Futures Trading Commission
+5, XLI; 17, I
+Community Planning and Development, Office of Assistant Secretary for
+24, V, VI
+Community Services, Office of
+45, X
+Comptroller of the Currency
+12, I
+Construction Industry Collective Bargaining Commission
+29, IX
+Consumer Financial Protection Bureau
+5, LXXXIV; 12, X
+Consumer Product Safety Commission
+5, LXXI; 16, II
+Copyright Royalty Board
+37, III
+Corporation for National and Community Service
+2, XXII; 45, XII, XXV
+Cost Accounting Standards Board
+48, 99
+Council on Environmental Quality
+40, V
+Council of the Inspectors General on Integrity and Efficiency
+5, XCVIII
+Court Services and Offender Supervision Agency for the District of Columbia
+5, LXX; 28, VIII
+Customs and Border Protection
+19, I
+Defense, Department of
+2, XI; 5, XXVI; 32, Subtitle A; 40, VII
+Advanced Research Projects Agency
+32, I
+Air Force Department
+32, VII
+Army Department
+32, V; 33, II; 36, III; 48, 51
+Defense Acquisition Regulations System
+48, 2
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, I, XII; 48, 54
+Engineers, Corps of
+33, II; 36, III
+National Imagery and Mapping Agency
+32, I
+Navy, Department of
+32, VI; 48, 52
+Secretary of Defense, Office of
+2, XI; 32, I
+Defense Contract Audit Agency
+32, I
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, XII; 48, 54
+Defense Nuclear Facilities Safety Board
+10, XVII
+Delaware River Basin Commission
+18, III
+Denali Commission
+45, IX
+Disability, National Council on
+5, C; 34, XII
+District of Columbia, Court Services and Offender Supervision Agency for the
+5, LXX; 28, VIII
+Drug Enforcement Administration
+21, II
+East-West Foreign Trade Board
+15, XIII
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Economic Research Service
+7, XXXVII
+Education, Department of
+2, XXXIV; 5, LIII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Career, Technical, and Adult Education, Office of
+34, IV
+Civil Rights, Office for
+34, I
+Educational Research and Improvement, Office of
+34, VII
+Elementary and Secondary Education, Office of
+34, II
+Federal Acquisition Regulation
+48, 34
+Postsecondary Education, Office of
+34, VI
+Secretary of Education, Office of
+34, Subtitle A
+Special Education and Rehabilitative Services, Office of
+34, III
+Educational Research and Improvement, Office of
+34, VII
+Election Assistance Commission
+2, LVIII; 11, II
+Elementary and Secondary Education, Office of
+34, II
+Emergency Oil and Gas Guaranteed Loan Board
+13, V
+Emergency Steel Guarantee Loan Board
+13, IV
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employees Loyalty Board
+5, V
+Employment and Training Administration
+20, V
+Employment Policy, National Commission for
+1, IV
+Employment Standards Administration
+20, VI
+Endangered Species Committee
+50, IV
+Energy, Department of
+2, IX; 5, XXIII; 10, II, III, X
+Federal Acquisition Regulation
+48, 9
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Property Management Regulations
+41, 109
+Energy, Office of
+7, XXIX
+Engineers, Corps of
+33, II; 36, III
+Engraving and Printing, Bureau of
+31, VI
+Environmental Protection Agency
+2, XV; 5, LIV; 40, I, IV, VII
+Federal Acquisition Regulation
+48, 15
+Property Management Regulations
+41, 115
+Environmental Quality, Office of
+7, XXXI
+Equal Employment Opportunity Commission
+5, LXII; 29, XIV
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Executive Office of the President
+3, I
+Environmental Quality, Council on
+40, V
+Management and Budget, Office of
+2, Subtitle A; 5, III, LXXVII; 14, VI; 48, 99
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Security Council
+32, XXI; 47, II
+Presidential Documents
+3
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Trade Representative, Office of the United States
+15, XX
+Export-Import Bank of the United States
+2, XXXV; 5, LII; 12, IV
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Farm Credit Administration
+5, XXXI; 12, VI
+Farm Credit System Insurance Corporation
+5, XXX; 12, XIV
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 1
+Federal Acquisition Security Council
+41, 201
+Federal Aviation Administration
+14, I
+Commercial Space Transportation
+14, III
+Federal Claims Collection Standards
+31, IX
+Federal Communications Commission
+2, LX; 5, XXIX; 47, I
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Crop Insurance Corporation
+7, IV
+Federal Deposit Insurance Corporation
+5, XXII; 12, III
+Federal Election Commission
+5, XXXVII; 11, I
+Federal Emergency Management Agency
+44, I
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Federal Financial Institutions Examination Council
+12, XI
+Federal Financing Bank
+12, VIII
+Federal Highway Administration
+23, I, II
+Federal Home Loan Mortgage Corporation
+1, IV
+Federal Housing Enterprise Oversight Office
+12, XVII
+Federal Housing Finance Agency
+5, LXXX; 12, XII
+Federal Labor Relations Authority
+5, XIV, XLIX; 22, XIV
+Federal Law Enforcement Training Center
+31, VII
+Federal Management Regulation
+41, 102
+Federal Maritime Commission
+46, IV
+Federal Mediation and Conciliation Service
+5, CIII; 29, XII
+Federal Mine Safety and Health Review Commission
+5, LXXIV; 29, XXVII
+Federal Motor Carrier Safety Administration
+49, III
+Federal Permitting Improvement Steering Council
+40, IX
+Federal Prison Industries, Inc.
+28, III
+Federal Procurement Policy Office
+48, 99
+Federal Property Management Regulations
+41, 101
+Federal Railroad Administration
+49, II
+Federal Register, Administrative Committee of
+1, I
+Federal Register, Office of
+1, II
+Federal Reserve System
+12, II
+Board of Governors
+5, LVIII
+Federal Retirement Thrift Investment Board
+5, VI, LXXVI
+Federal Service Impasses Panel
+5, XIV
+Federal Trade Commission
+5, XLVII; 16, I
+Federal Transit Administration
+49, VI
+Federal Travel Regulation System
+41, Subtitle F
+Financial Crimes Enforcement Network
+31, X
+Financial Research Office
+12, XVI
+Financial Stability Oversight Council
+12, XIII
+Fine Arts, Commission of
+45, XXI
+Fiscal Service
+31, II
+Fish and Wildlife Service, United States
+50, I, IV
+Food and Drug Administration
+21, I
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Foreign Assets Control, Office of
+31, V
+Foreign Claims Settlement Commission of the United States
+45, V
+Foreign Service Grievance Board
+22, IX
+Foreign Service Impasse Disputes Panel
+22, XIV
+Foreign Service Labor Relations Board
+22, XIV
+Foreign-Trade Zones Board
+15, IV
+Forest Service
+36, II
+General Services Administration
+5, LVII; 41, 105
+Contract Appeals, Board of
+48, 61
+Federal Acquisition Regulation
+48, 5
+Federal Management Regulation
+41, 102
+Federal Property Management Regulations
+41, 101
+Federal Travel Regulation System
+41, Subtitle F
+General
+41, 300
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Relocation Allowances
+41, 302
+Temporary Duty (TDY) Travel Allowances
+41, 301
+Geological Survey
+30, IV
+Government Accountability Office
+4, I
+Government Ethics, Office of
+5, XVI
+Government National Mortgage Association
+24, III
+Grain Inspection, Packers and Stockyards Administration
+7, VIII; 9, II
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Gulf Coast Ecosystem Restoration Council
+2, LIX; 40, VIII
+Harry S. Truman Scholarship Foundation
+45, XVIII
+Health and Human Services, Department of
+2, III; 5, XLV; 45, Subtitle A
+Centers for Medicare
+Medicaid Services
+42, IV
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Community Services, Office of
+45, X
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Federal Acquisition Regulation
+48, 3
+Food and Drug Administration
+21, I
+Indian Health Service
+25, V
+Inspector General (Health Care), Office of
+42, V
+Public Health Service
+42, I
+Refugee Resettlement, Office of
+45, IV
+Homeland Security, Department of
+2, XXX; 5, XXXVI; 6, I; 8, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Customs and Border Protection
+19, I
+Federal Emergency Management Agency
+44, I
+Human Resources Management and Labor Relations Systems
+5, XCVII
+Immigration and Customs Enforcement Bureau
+19, IV
+Transportation Security Administration
+49, XII
+HOPE for Homeowners Program, Board of Directors of
+24, XXIV
+Housing and Urban Development, Department of
+2, XXIV; 5, LXV; 24, Subtitle B
+Community Planning and Development, Office of Assistant Secretary for
+24, V, VI
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Federal Acquisition Regulation
+48, 24
+Federal Housing Enterprise Oversight, Office of
+12, XVII
+Government National Mortgage Association
+24, III
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, X, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Inspector General, Office of
+24, XII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Secretary, Office of
+24, Subtitle A, VII
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, X, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Immigration and Customs Enforcement Bureau
+19, IV
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Office of
+28, VII
+Independent Counsel, Offices of
+28, VI
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Indian Health Service
+25, V
+Industry and Security, Bureau of
+15, VII
+Information Resources Management, Office of
+7, XXVII
+Information Security Oversight Office, National Archives and Records Administration
+32, XX
+Inspector General
+Agriculture Department
+7, XXVI
+Health and Human Services Department
+42, V
+Housing and Urban Development Department
+24, XII, XV
+Institute of Peace, United States
+22, XVII
+Intellectual Property Enforcement Coordinator, Office of
+5, CIV
+Inter-American Foundation
+5, LXIII; 22, X
+Interior, Department of
+2, XIV
+American Indians, Office of the Special Trustee
+25, VII
+Endangered Species Committee
+50, IV
+Federal Acquisition Regulation
+48, 14
+Federal Property Management Regulations System
+41, 114
+Fish and Wildlife Service, United States
+50, I, IV
+Geological Survey
+30, IV
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Land Management, Bureau of
+43, II
+National Indian Gaming Commission
+25, III
+National Park Service
+36, I
+Natural Resource Revenue, Office of
+30, XII
+Ocean Energy Management, Bureau of
+30, V
+Reclamation, Bureau of
+43, I
+Safety and Environmental Enforcement, Bureau of
+30, II
+Secretary of the Interior, Office of
+2, XIV; 43, Subtitle A
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Internal Revenue Service
+26, I
+International Boundary and Water Commission, United States and Mexico, United States Section
+22, XI
+International Development, United States Agency for
+22, II
+Federal Acquisition Regulation
+48, 7
+International Development Cooperation Agency, United States
+22, XII
+International Development Finance Corporation, U.S.
+2, XVI; 5, XXXIII; 22, VII
+International Joint Commission, United States and Canada
+22, IV
+International Organizations Employees Loyalty Board
+5, V
+International Trade Administration
+15, III; 19, III
+International Trade Commission, United States
+19, II
+Interstate Commerce Commission
+5, XL
+Investment Security, Office of
+31, VIII
+James Madison Memorial Fellowship Foundation
+45, XXIV
+Japan-United States Friendship Commission
+22, XVI
+Joint Board for the Enrollment of Actuaries
+20, VIII
+Justice, Department of
+2, XXVIII; 5, XXVIII; 28, I, XI; 40, IV
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+Drug Enforcement Administration
+21, II
+Federal Acquisition Regulation
+48, 28
+Federal Claims Collection Standards
+31, IX
+Federal Prison Industries, Inc.
+28, III
+Foreign Claims Settlement Commission of the United States
+45, V
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Offices of
+28, VI
+Prisons, Bureau of
+28, V
+Property Management Regulations
+41, 128
+Labor, Department of
+2, XXIX; 5, XLII
+Benefits Review Board
+20, VII
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employment and Training Administration
+20, V
+Federal Acquisition Regulation
+48, 29
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Procurement Regulations System
+41, 50
+Labor-Management Standards, Office of
+29, II, IV
+Mine Safety and Health Administration
+30, I
+Occupational Safety and Health Administration
+29, XVII
+Public Contracts
+41, 50
+Secretary of Labor, Office of
+29, Subtitle A
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Wage and Hour Division
+29, V
+Workers' Compensation Programs, Office of
+20, I, VI
+Labor-Management Standards, Office of
+29, II, IV
+Land Management, Bureau of
+43, II
+Legal Services Corporation
+45, XVI
+Libraries and Information Science, National Commission on
+45, XVII
+Library of Congress
+36, VII
+Copyright Royalty Board
+37, III
+U.S. Copyright Office
+37, II
+Management and Budget, Office of
+2, Subpart A; 5, III, LXXVII; 14, VI; 48, 99
+Marine Mammal Commission
+50, V
+Maritime Administration
+46, II
+Merit Systems Protection Board
+5, II, LXIV
+Micronesian Status Negotiations, Office for
+32, XXVII
+Military Compensation and Retirement Modernization Commission
+5, XCIX
+Millennium Challenge Corporation
+22, XIII
+Mine Safety and Health Administration
+30, I
+Minority Business Development Agency
+15, XIV
+Miscellaneous Agencies
+1, IV
+Monetary Offices
+31, I
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation
+36, XVI
+Museum and Library Services, Institute of
+2, XXXI
+National Aeronautics and Space Administration
+2, XVIII; 5, LIX; 14, V
+Federal Acquisition Regulation
+48, 18
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National and Community Service, Corporation for
+2, XXII; 45, XII, XXV
+National Archives and Records Administration
+2, XXVI; 5, LXVI; 36, XII
+Information Security Oversight Office
+32, XX
+National Capital Planning Commission
+1, IV, VI
+National Counterintelligence Center
+32, XVIII
+National Credit Union Administration
+5, LXXXVI; 12, VII
+National Crime Prevention and Privacy Compact Council
+28, IX
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Endowment for the Arts
+2, XXXII
+National Endowment for the Humanities
+2, XXXIII
+National Foundation on the Arts and the Humanities
+45, XI
+National Geospatial-Intelligence Agency
+32, I
+National Highway Traffic Safety Administration
+23, II, III; 47, VI; 49, V
+National Imagery and Mapping Agency
+32, I
+National Indian Gaming Commission
+25, III
+National Institute of Food and Agriculture
+7, XXXIV
+National Institute of Standards and Technology
+15, II; 37, IV
+National Intelligence, Office of Director of
+5, IV; 32, XVII
+National Labor Relations Board
+5, LXI; 29, I
+National Marine Fisheries Service
+50, II, IV
+National Mediation Board
+5, CI; 29, X
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Park Service
+36, I
+National Railroad Adjustment Board
+29, III
+National Railroad Passenger Corporation (AMTRAK)
+49, VII
+National Science Foundation
+2, XXV; 5, XLIII; 45, VI
+Federal Acquisition Regulation
+48, 25
+National Security Council
+32, XXI; 47, II
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV, V
+National Transportation Safety Board
+49, VIII
+Natural Resource Revenue, Office of
+30, XII
+Natural Resources Conservation Service
+7, VI
+Navajo and Hopi Indian Relocation, Office of
+25, IV
+Navy, Department of
+32, VI
+Federal Acquisition Regulation
+48, 52
+Neighborhood Reinvestment Corporation
+24, XXV
+Northeast Interstate Low-Level Radioactive Waste Commission
+10, XVIII
+Nuclear Regulatory Commission
+2, XX; 5, XLVIII; 10, I
+Federal Acquisition Regulation
+48, 20
+Occupational Safety and Health Administration
+29, XVII
+Occupational Safety and Health Review Commission
+29, XX
+Ocean Energy Management, Bureau of
+30, V
+Oklahoma City National Memorial Trust
+36, XV
+Operations Office
+7, XXVIII
+Patent and Trademark Office, United States
+37, I
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Peace Corps
+2, XXXVII; 22, III
+Pennsylvania Avenue Development Corporation
+36, IX
+Pension Benefit Guaranty Corporation
+29, XL
+Personnel Management, Office of
+5, I, IV, XXXV; 45, VIII
+Federal Acquisition Regulation
+48, 17
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Human Resources Management and Labor Relations Systems, Department of Homeland Security
+5, XCVII
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Postal Regulatory Commission
+5, XLVI; 39, III
+Postal Service, United States
+5, LX; 39, I
+Postsecondary Education, Office of
+34, VI
+President's Commission on White House Fellowships
+1, IV
+Presidential Documents
+3
+Presidio Trust
+36, X
+Prisons, Bureau of
+28, V
+Privacy and Civil Liberties Oversight Board
+6, X
+Procurement and Property Management, Office of
+7, XXXII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Public Contracts, Department of Labor
+41, 50
+Public Health Service
+42, I
+Railroad Retirement Board
+20, II
+Reclamation, Bureau of
+43, I
+Refugee Resettlement, Office of
+45, IV
+Relocation Allowances
+41, 302
+Research and Innovative Technology Administration
+49, XI
+Rural Business-Cooperative Service
+7, XVIII, XLII, L
+Rural Housing Service
+7, XVIII, XXXV, L
+Rural Utilities Service
+7, XVII, XVIII, XLII, L
+Safety and Environmental Enforcement, Bureau of
+30, II
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Secret Service
+31, IV
+Securities and Exchange Commission
+5, XXXIV; 17, II
+Selective Service System
+32, XVI
+Small Business Administration
+2, XXVII; 13, I
+Smithsonian Institution
+36, V
+Social Security Administration
+2, XXIII; 20, III; 48, 23
+Soldiers' and Airmen's Home, United States
+5, XI
+Special Counsel, Office of
+5, VIII
+Special Education and Rehabilitative Services, Office of
+34, III
+State, Department of
+2, VI; 22, I; 28, XI
+Federal Acquisition Regulation
+48, 6
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Surface Transportation Board
+49, X
+Susquehanna River Basin Commission
+18, VIII
+Tennessee Valley Authority
+5, LXIX; 18, XIII
+Trade Representative, United States, Office of
+15, XX
+Transportation, Department of
+2, XII; 5, L
+Commercial Space Transportation
+14, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 12
+Federal Aviation Administration
+14, I
+Federal Highway Administration
+23, I, II
+Federal Motor Carrier Safety Administration
+49, III
+Federal Railroad Administration
+49, II
+Federal Transit Administration
+49, VI
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Maritime Administration
+46, II
+National Highway Traffic Safety Administration
+23, II, III; 47, IV; 49, V
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Secretary of Transportation, Office of
+14, II; 49, Subtitle A
+Transportation Statistics Bureau
+49, XI
+Transportation, Office of
+7, XXXIII
+Transportation Security Administration
+49, XII
+Transportation Statistics Bureau
+49, XI
+Travel Allowances, Temporary Duty (TDY)
+41, 301
+Treasury, Department of the
+2, X; 5, XXI; 12, XV; 17, IV; 31, IX
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Community Development Financial Institutions Fund
+12, XVIII
+Comptroller of the Currency
+12, I
+Customs and Border Protection
+19, I
+Engraving and Printing, Bureau of
+31, VI
+Federal Acquisition Regulation
+48, 10
+Federal Claims Collection Standards
+31, IX
+Federal Law Enforcement Training Center
+31, VII
+Financial Crimes Enforcement Network
+31, X
+Fiscal Service
+31, II
+Foreign Assets Control, Office of
+31, V
+Internal Revenue Service
+26, I
+Investment Security, Office of
+31, VIII
+Monetary Offices
+31, I
+Secret Service
+31, IV
+Secretary of the Treasury, Office of
+31, Subtitle A
+Truman, Harry S. Scholarship Foundation
+45, XVIII
+United States Agency for Global Media
+2, XIX; 22, V
+United States and Canada, International Joint Commission
+22, IV
+United States and Mexico, International Boundary and Water Commission, United States Section
+22, XI
+U.S. Copyright Office
+37, II
+U.S. Office of Special Counsel
+5, CII
+Utah Reclamation Mitigation and Conservation Commission
+43, III
+Veterans Affairs, Department of
+2, VIII; 38, I
+Federal Acquisition Regulation
+48, 8
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Vice President of the United States, Office of
+32, XXVIII
+Wage and Hour Division
+29, V
+Water Resources Council
+18, VI
+Workers' Compensation Programs, Office of
+20, I, VI
+World Agricultural Outlook Board
+7, XXXVIII
+5 CFR (1-1-25 Edition)
+List of CFR Sections Affected
+
+# List of CFR Sections Affected
+All changes in this volume of the Code of Federal Regulations (CFR) that were made by documents published in the
+Federal Register
+since January 1, 2020 are enumerated in the following list. Entries indicate the nature of the changes effected. Page numbers refer to
+Federal Register
+pages. The user should consult the entries for chapters, parts and subparts as well as sections for revisions.
+For changes to this volume of the CFR prior to this listing, consult the annual edition of the monthly List of CFR Sections Affected (LSA). The LSA is available at
+www.govinfo.gov.
+For changes to this volume of the CFR prior to 2001, see the “List of CFR Sections Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000” published in 11 separate volumes. The “List of CFR Sections Affected 1986-2000” is available at
+www.govinfo.gov.
+2020
+5 CFR
+85 FR
+Page
+Chapter II
+831 Authority citation revised
+20576
+831.202 Heading, (a), (b)(1), and (3) revised; (e) and (f) added
+20576
+841.403 (b) revised; (c) through (h) redesignated as (d) through (i); (c) added
+59378
+842 Authority citation revised
+20577
+842.110 Added
+20577
+843 Authority citation revised
+59379
+843.309 (b)(2) revised
+59379
+843.301—843.314 (Subpart C) Appendix A revised
+59379
+870.101 Amended
+60048
+870.204 (a) revised
+60048
+870.703 (e)(1) introductory text revised; (e)(1)(vii) added
+60048
+Chapter II
+1201.126 (a) amended
+12724
+Chapter VI
+1600 Technical correction
+61575
+1600.23 (b) and (h) removed
+72914
+1600.34 (a) through (c) amended
+57666
+1600.37 (a) amended
+57666
+1605.2 (b)(1)(iii) revised
+40570
+1605.12 (c)(2)(ii) revised
+40570
+1605.13 (c)(2) revised
+72914
+1630.4 (a)(2) revised
+12431
+1630.7 (c)(3) revised
+12431
+1631 Revised
+67266
+1632.4 (c) revised
+12432
+1650 Technical correction
+61575
+1650.1 (b) amended
+40570
+1650.13 (a)(2) revised
+57666
+1650.13 (b) revised; eff. 1-11-21
+76420
+1650.14 (g)(4) revised
+12432
+1650.32 (b) introductory text revised; (b)(5) added
+61805
+1650.61 (c)(4) revised; interim
+21312
+1650.61 (c)(4) revised
+59174
+1650.62 (c) revised; interim
+21312
+1650.62 (c) revised
+59174
+1651.1 (b) amended
+40571
+Chapter XIV
+2429.19 Added
+41172
+Chapter XVI
+2611 Added
+51302
+2634.304 (a) note revised; (a), (b), (d)
+Example 1
+through
+Example 3
+amended
+36716
+2634.701 (b) revised
+2280
+2634.702 Revised
+2280
+2634.703 Revised
+2280
+2634.907 (g)(1), (2) introductory text, note, and (5)
+Example
+amended
+36716
+2635.204 (g)(3)(iv), (6)
+Example 1
+, and
+Example 4
+amended
+36717
+2636.104 (a) revised
+2281
+2638.208 Revised
+51304
+2641 Appendix B amended
+38275
+Chapter LXI
+7101.101 (b) removed; (c) redesignated as new (b); new (b) amended
+43681
+7101.101 Correction: (b) amended
+53137
+Chapter LXXIII
+8301.105 Authority citation and section revised
+12860
+2021
+5 CFR
+86 FR
+Page
+Chapter II
+1201.126 (a) amended
+7798
+Chapter VI
+1630.15 (b) revised
+58205
+Chapter XVI
+2611 Removed
+25801
+2634.701 (b) revised
+7636
+2634.702 Revised
+7636
+2634.703 (a) revised
+7636
+2636.104 (a) revised
+7637
+2638.208 Revised
+63308
+2641 Appendix B amended
+17692
+Chapter XCVIII
+9801 Authority citation revised
+26649
+9801.103 (i) added; interim
+26649
+9801.401 (c) added; interim
+26650
+Chapter CII
+Chapter CII Added
+29931
+2022
+5 CFR
+87 FR
+Page
+Chapter II
+1201.126 (a) amended
+3176
+Chapter VI
+1600 Heading revised
+31672
+1600.11 (b) heading revised; (b) amended
+31672
+1600.13 (b) removed
+31672
+1600.14 (b) amended; (d) revised
+31672
+1600.18 Amended
+31672
+1600.19 (a) heading and (b) heading revised; (c)(2)(i)(A), (B), (ii)(A), and (B) amended
+31672
+1600.21 (b) amended
+31672
+1600.22 (a) amended
+31672
+1600.30—1600.33 (Subpart D) Revised
+31672
+1600.35 (a) introductory text and (d) amended
+31673
+1600.37 Introductory text and (c) amended
+31673
+1601.1 (b) amended
+31673
+1601.11—1601.13 (Subpart B) Revised
+31674
+1601.21—1601.23 (Subpart C) Revised
+31674
+1601.31—1601.34 (Subpart D) Revised
+31675
+1601.40 Revised
+31675
+1601.51—1601.53 (Subpart F) Added
+27922
+1605.1 (b) amended
+31676
+1605.2 Revised
+31676
+1605.3 (a) through (c) amended
+31676
+1605.11 (a), (b) introductory text, (2), (c)(1), (4), (5), (9), and (13) amended
+31676
+1605.12 (a), (b) introductory text, (c) introductory text, (1) introductory text, (i), (2) introductory text, (ii), (d)(4), and (f)(1) revised; (f) heading added
+31677
+1605.13 (a)(3) and (b)(3) amended; (d) and (e) revised
+31677
+1605.14 (a)(2), (b)(4), (c)(3), (f)(3), and (g)(2) revised
+31677
+1605.15 (b) and (d) amended
+31678
+1605.16 (a)(1), (2), (b)(1), and (2) revised
+31678
+1605.17 (b) and (c)(1) through (3) revised
+31678
+1605.21 Revised
+31678
+1605.22 (d)(1) amended
+31679
+1605.31 (c)(1) through (5) and (d) revised
+31679
+1620.3 Revised
+31679
+1620.14 Heading and (b) amended
+31679
+1620.22 (a) introductory text and (2) introductory text amended
+31679
+1620.35 Revised
+31679
+1620.42 (c)(1) amended
+31679
+1620.43 Heading, (a), and (c) amended
+31679
+1620.45 Revised
+31679
+1620.46 (b) and (d) amended
+31680
+1631.3 (a)(3) and (7) through (11) amended; (a)(12) removed
+31680
+1640.2 Amended
+31680
+1640.3 Revised
+31680
+1640.4 Revised
+31680
+1640.5 Revised
+31680
+1640.6 Revised
+31680
+1645.2 Revised
+31680
+1645.3 Heading, (a), and (c) amended
+31681
+1645.4 Heading, introductory text, (a), and (c) revised
+31681
+1645.5 (a) amended
+31681
+1645.6 Amended
+31681
+1650.1 (b) amended
+31681
+1650.2 (a) through (c), (f), and (h) revised
+31681
+1650.3 Revised
+31681
+1650.4 Revised
+31681
+1650.5 Revised
+31681
+1650.6 Revised
+31681
+1650.11 Revised
+31682
+1650.12 Revised
+31682
+1650.13 (a) introductory text, (2), (f), and (g) revised
+31682
+1650.14 (a), (b), (d), (e), (g)(3)(iii), and (h) revised
+31682
+1650.16 (c) and (d) revised
+31682
+1650.17 Revised
+31683
+1650.21—1650.25 (Subpart C) Revised
+31683
+1650.31 (b) revised
+31683
+1650.32 (a), (b)(5), and (e) revised
+31683
+1650.33 Removed
+31684
+1650.34 Revised
+31684
+1650.41—1650.43 (Subpart E) Revised
+31684
+1650.61 (a), (b), (c) introductory text, (1), (2), (4), and (5) revised
+31684
+1650.62 (b) and (c) revised
+31684
+1650.63 (a) introductory text, (3)(i), (b), and (c) revised
+31684
+1650.64 (a) introductory text, (2)(ii)(C), and (b) revised
+31685
+1651.1 Amended
+31685
+1651.2 (a) introductory text, (1), (b) introductory text, (1) through (4), (c), and (d) revised
+31685
+1651.3 Revised
+31685
+1651.4 Revised
+31686
+1651.5 (b) amended
+31686
+1651.6 (d) introductory text amended
+31686
+1651.8 (b) amended
+31686
+1651.10 (c) amended
+31686
+1651.12 Amended
+31686
+1651.13 Revised
+31686
+1651.14 Revised
+31686
+1651.16 (c) revised
+31687
+1651.19 (a), (b), (c)(3), (4), (e), (g), (h), (k), (l), (m) introductory text, (1), (4), and (n) revised
+31687
+1653.1 Amended
+31688
+1653.2 (a)(3)(ii), (iv), (b)(1), (2), (4), (5), and (7) revised
+31688
+1653.3 Revised
+31688
+1653.4 (b), (c), (f) introductory text, (1), (3) introductory text, (i), (g) introductory text, and (2) revised
+31689
+1653.5 (a)(1), (2), (d), (e), (g), (h), (k), (m), and (n) revised
+31689
+1653.6 Added
+31690
+1653.12 (a) and (c)(6) amended; (c)(2) revised
+31690
+1653.13 Revised
+31690
+1653.16 Added
+31691
+1653.22 Amended
+31691
+1653.23 Amended
+31691
+1653.32 (a), (c)(2), and (6) amended
+31691
+1653.33 (a), (c)(2), and (6) amended
+31691
+1653.34 Revised
+31691
+1653.36 (a), (e), and (h) amended
+31692
+1655.1 (b) amended
+31692
+1655.2 Revised
+31692
+1655.3 Amended
+31692
+1655.4 Revised
+31692
+1655.5 Revised
+31692
+1655.6 (b)(2) revised; (d) added
+31692
+1655.7 (a) revised
+31692
+1655.8 Removed
+31692
+1655.9 (b) through (d) amended; (e) added
+31692
+1655.10 Revised
+31693
+1655.11 Revised
+31693
+1655.12 Revised
+31693
+1655.13 (b)(2) and (e) amended; (b)(5) removed
+31693
+1655.14 Revised
+31693
+1655.15 Revised
+31693
+1655.16 Revised
+31694
+1655.17 Revised
+31694
+1655.18 (d) revised
+31694
+1655.20 Revised
+31694
+1655.21 Revised
+31695
+1690.1 Amended
+31695
+1690.12 Revised
+31695
+1690.13 Revised
+31696
+1690.14 (b) revised
+31696
+1690.15 Revised
+31696
+Chapter VIII
+1800 Revised
+63405
+1810 Revised
+63407
+1811 Added
+63407
+1820 Revised
+63407
+1830 Revised
+63413
+1850 Revised
+63415
+Chapter XVI
+2634.701 (b) revised
+2524
+2634.702 Revised
+2524
+2634.703 (a) revised
+2524
+2636.104 (a) revised
+2525
+2023
+5 CFR
+88 FR
+Page
+Chapter II
+1201.14 Revised; interim
+67056
+1201.24 (a) introductory text, (1), (6), (9), and (c) amended; interim
+67058
+1201.26 Revised; interim
+67058
+1201.126 (a) amended
+4080
+1201 Appendix II amended; interim
+67058
+Chapter VI
+1650.16 (d) removed
+74330
+Chapter XIV
+2411.3 (b) revised
+67059
+2411.5 Revised
+67059
+2411.6 (a), (c), and (d) revised
+67059
+2411.7 Revised
+67060
+2411.8 (a), (b), (c) introductory text, (4), (5), (d) introductory text, and (2) introductory text revised
+67060
+2411.10 (a)(1), (2) introductory text, (ii), (b), and (c) revised
+67060
+2411.12 Revised
+67061
+2411.13 (a) introductory text, (1), (2), (5), (b) heading, (1) through (3), (4)(i), (ii) introductory text, (D), (iii) introductory text, (B), (iv), (v), (c) introductory text, (2), through (4), (d) introductory text, (1), (4), (e) through (h), and (j) revised
+67061
+2411.14 Revised
+67063
+2411.15 Revised
+67063
+2412 Revised; eff. 1-3-24
+84067
+2424.1 Revised
+62455
+2424.1 (a), (c)(2), (3), (e), and (f) revised; (c)(4) through (7) added
+62455
+2424.2 Correction: Amendatory instruction 3 amended; (a), (c)(2), (3), (e), and (f) revised; (c)(4) through (7) added
+69873
+2424.10 Revised
+62456
+2424.11 Revised
+62456
+2424.21 (b) revised
+62456
+2424.22 Revised
+62456
+2424.22 Correction: (d) added
+77883
+2424.23 Revised
+62457
+2424.24 Revised
+62457
+2424.25 (a) through (c) revised
+62458
+2424.25 Correction: Amendatory instruction 6 and section amended
+70579
+2424.25 Correction: (d) revised
+71731
+2424.26 Revised
+62458
+2424.27 Revised
+62458
+2424.30 Revised
+62458
+2424.31 Heading, introductory text, and (c) revised
+62459
+2424.31 Correction: Amendatory instruction 14, heading, introductory text, and (c) amended
+69873
+2424.32 Revised
+62459
+2424.40 (b) and (c) revised
+62459
+2424.41 Revised
+62460
+2424.50 Introductory text revised
+62460
+2429 Technical correction
+44191
+2429.12 (a) and (c) revised; interim
+43426
+2429.12 Regulation at 88 FR 43426 confirmed
+65778
+2429.24 (a) revised
+80092
+Chapter XVI
+2634 Authority citation revised
+1140, 33809
+2634.304 (a), (b), (d),
+Examples 1
+through
+3
+following (d), and
+Example
+following (f) amended; (a) note designated as Note 1 and revised
+37754
+2634.701 (b) revised
+1140
+2634.702 Revised
+1140
+2634.703 Revised
+1141
+2634.907 (g)(5) revised;
+Example
+following (g)(5) designated as (g)
+Example 1
+33809
+2635 Authority citation revised
+33809
+2635.203 (h) and (i) added
+33809
+2635.204 (c)(2)(ii) and (iii) amended; (c)(2)(iv),
+Example 4
+, and (n) added
+33809
+2635.204 (g)(3)(iv),
+Example 1
+, and
+Example 4
+following (g) amended
+37755
+2635.1001—2635.1009 (Subpart J) Added
+33809
+2636 Authority citation revised
+1141
+2636.104 (a) revised
+1141
+Chapter XXVI
+3601 Revised
+12543
+3601.106 Correction: (a) introductory text amended
+86029
+Chapter LX
+7001.102 Revised
+53354
+7001.104 Added
+53356
+Chapter CIII
+Chapter CIII Added; eff. 1-8-24
+85468
+Chapter CIV
+10400 Added
+8208
+2024
+5 CFR
+89 FR
+Page
+Chapter II
+1200.3 Revised; interim
+72960
+1200.5 Added; interim
+72961
+1201.3 (a)(12) added
+24681
+1201.3 (c)(3) amended; interim
+72961
+1201.22 (b)(3) amended; interim
+72961
+1201.23 Introductory text,
+Example 1
+, and
+Example 2
+redesignated as (a) introductory text, (1), and (2); (a) heading and (b) added; interim
+72961
+1201.33 (a) amended; interim
+72961
+1201.41 (b)(5) revised; (b)(6) amended; (c)(2)(iii) added; interim
+72961
+1201.56 (b)(2)(ii) revised; interim
+72961
+1201.72 (a) and (c) amended; (d)(2) revised; interim
+72961
+1201.73 (d)(3) revised; (e)(2) and (3) redesignated as (e)(4) and (5); (b) and new (e)(5) amended; new (e)(2) and new (3) added; interim
+72961
+1201.81 (a) and (b) amended; interim
+72962
+1201.82 Revised; interim
+72962
+1201.83 (c) added; interim
+72962
+1201.84 (b) and (c) amended; (d) added; interim
+72962
+1201.85 Revised; interim
+72962
+1201.113 (d) revised; interim
+72962
+1201.114 (a)(2) removed; (a)(3) through (5) redesignated as new (a)(2) through (4); heading, (a) introductory text, new (2), new (4), (b), (e), (g), (h), and (k) revised; (c) amended; interim
+72962
+1201.115 Heading and introductory text revised; interim
+72963
+1201.116 Revised; interim
+72963
+1201.117 (a) introductory text revised; interim
+72964
+1201.118 Revised; interim
+72964
+1201.126 (a) amended
+11164
+1201.155 Heading revised; (g) added; interim
+72964
+1201.182 (a) amended; interim
+72964
+1201.183 (a) and (b) revised; (g) added; interim
+72964
+1201.204 Revised; interim
+72965
+1203.12 (b) revised; interim
+72966
+1203.13 Heading revised; (a) and (d) amended; interim
+72966
+1203.14 (c) revised; interim
+72966
+1203.21 (d) added; interim
+72966
+1209.2 (d)(1) amended; interim
+72966
+1209.4 (e) amended; interim
+72966
+Chapter III
+1302 Revised
+48822
+1303.3 (a)(5) revised
+48825
+1303.20 Revised
+48825
+1303.21 Revised
+48825
+1303.30 (c)(2)(i) and (ii) revised
+48825
+1303.40 (e)(1)(iv) and (4) revised
+48825
+1303.50 (a), (c) introductory text, and (4) revised
+48825
+1303.60 (a)(2) and (e)(2) revised
+48826
+1303.70 (a) revised
+48826
+1303.91 Introductory text and (i) revised
+48826
+1303.92 (a) through (d) revised
+48826
+1303.93 (a) and (d)(1) revised; (c) amended
+48826
+1321 Added
+82473
+Chapter VI
+1631.3 (a)(1) through (10) revised; (a)(11) removed
+19225
+1650.11 (d) removed
+18534
+1650.31 (c) revised
+18534
+Chapter XIV
+2417.204 (a) revised
+11701
+2429.24 (a) revised
+11702
+2429.25 (a) revised; (b)(1) removed; (b)(2) through (4) redesignated as (b)(1) through (3)
+11702
+2471.2 Revised
+11702
+2471.4 Revised
+11702
+Chapter XIV Appendix A revised
+11702
+Chapter XVI
+2634 Authority citation revised
+1440
+2634.701 (b) revised
+1440
+2634.702 Revised
+1440
+2634.703 Revised
+1440
+2635 Authority citation revised
+43695
+2635.101—2635.107 (Subpart A) Revised
+43695
+2635.201—2635.206 (Subpart B) Revised
+43695
+2635.301—2635.305 (Subpart C) Revised
+43695
+2635.401—2635.403 (Subpart D) Revised
+43695
+2635.501—2635.503 (Subpart E) Revised
+43695
+2635.601—2635.607 (Subpart F) Revised
+43695
+2635.701—2635.705 (Subpart G) Revised
+43695
+2635.801—2635.809 (Subpart H) Revised
+43695
+2635.901—2635.902 (Subpart I) Revised
+43695
+2636 Authority citation revised
+1440
+2636.104 Heading and (a) revised
+1441
+2641 Authority citation revised
+74108
+2641 Appendix B revised
+74108
+Chapter XXXIV
+4401 Authority citation revised
+14574
+4401.102 Revised
+14574
+Chapter XL
+Chapter XL Removed
+104859
+Chapter LX
+7001 Authority citation revised
+7267
+7001.102 (a)(2)(ii)
+Example 1
+and (c)(2) revised
+7267
+○
