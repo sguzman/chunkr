@@ -2,7 +2,7 @@
 # The test overrides paths/collection/index at runtime, but uses these settings.
 
 [logging]
-level = "debug"
+level = "info"
 
 [paths]
 calibre_root = "/drive/calibre/en_nonfiction"
