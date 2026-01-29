@@ -70,6 +70,7 @@ metadata_layout = "{format}/{title_slug}.json"
 
 [extract.epub]
 backend = "pandoc"
+pandoc_bin = "pandoc"
 toc_depth = 3
 chapter_split = true
 max_chapter_bytes = 2_000_000
@@ -77,17 +78,24 @@ max_file_bytes = 20_000_000
 
 [extract.pdf]
 backend = "docling"
+pdffonts_bin = "pdffonts"
+pdftotext_bin = "pdftotext"
+docling_bin = "/home/admin/Code/AI/docling/.venv/bin/python"
+docling_script = "/home/admin/Code/AI/docling/docling/cli/main.py"
 text_first = true
 text_min_chars = 40
 text_sample_pages = 3
 ocr_fallback = true
 ocr_lang = "eng"
+ocr_engine = "tesseract"
 docling_device = "cuda"
 docling_pipeline = "standard"
 docling_pdf_backend = "dlparse_v4"
 docling_threads = 16
 docling_tables = true
 docling_table_mode = "accurate"
+max_file_bytes = 20_000_000
+skip_oversize = false
 
 [chunk]
 normalize_unicode = true
@@ -118,6 +126,7 @@ url = "http://127.0.0.1:6333"
 collection = "books"
 distance = "Cosine"
 vector_size = 384
+create_collection = true
 
 [insert.quickwit]
 url = "http://127.0.0.1:7280"
@@ -160,4 +169,3 @@ chunkr insert --config /path/to/config.toml
 ## Logging
 
 All commands should emit extensive structured logs (start/end, counts, skips, timing, errors). Configure log level via `[logging]`.
-
