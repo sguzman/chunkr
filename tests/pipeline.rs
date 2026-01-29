@@ -4,7 +4,7 @@ use serde_json::json;
 use std::fs;
 use std::path::{Path, PathBuf};
 use std::process::Command;
-use std::time::Duration;
+use std::time::{Duration, Instant};
 use uuid::Uuid;
 
 const SAMPLE_BYTES: usize = usize::MAX;
@@ -12,6 +12,7 @@ const SAMPLE_BYTES: usize = usize::MAX;
 #[tokio::test]
 #[ignore]
 async fn chunk_and_insert_pipeline() -> Result<()> {
+    let started = Instant::now();
     let base = load_base_config()?;
     let client = Client::builder()
         .timeout(Duration::from_secs(120))
@@ -28,6 +29,11 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     if sample_files.is_empty() {
         return Err(anyhow!("no example .txt files found"));
     }
+    eprintln!(
+        "[test] using {} example files -> {}",
+        sample_files.len(),
+        extract_root.display()
+    );
     for src in sample_files {
         let dst = extract_root.join(
             src.file_name()
@@ -51,12 +57,29 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     );
     fs::write(&config_path, config_contents)?;
 
+    eprintln!("[test] resetting qdrant collection {}", test_collection);
     reset_qdrant(&client, &base.qdrant_url, test_collection, embed_dim).await?;
+    eprintln!("[test] resetting quickwit index {}", test_index);
     reset_quickwit(&client, &base.quickwit_url, test_index).await?;
 
+    eprintln!("[test] starting chunk (config={})", config_path.display());
     run_chunkr(&config_path, "chunk")?;
+    eprintln!(
+        "[test] chunk finished in {:?}, building sample query",
+        started.elapsed()
+    );
     let sample_query = sample_query_from_chunks(&chunk_root)?;
+    eprintln!(
+        "[test] sample query picked (len={}): {:?}",
+        sample_query.term.len(),
+        sample_query.term
+    );
+    eprintln!("[test] starting insert");
     run_chunkr(&config_path, "insert")?;
+    eprintln!(
+        "[test] insert finished in {:?}, verifying qdrant/quickwit",
+        started.elapsed()
+    );
 
     verify_qdrant(
         &client,
@@ -74,18 +97,27 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     )
     .await?;
 
+    eprintln!("[test] done in {:?}", started.elapsed());
     Ok(())
 }
 
 fn run_chunkr(config: &Path, command: &str) -> Result<()> {
-    let status = Command::new(env!("CARGO_BIN_EXE_chunkr"))
+    let output = Command::new(env!("CARGO_BIN_EXE_chunkr"))
         .arg("--config")
         .arg(config)
         .arg(command)
-        .status()
+        .output()
         .with_context(|| format!("run chunkr {}", command))?;
-    if !status.success() {
-        return Err(anyhow!("chunkr {} failed: {}", command, status));
+    let stdout = String::from_utf8_lossy(&output.stdout);
+    let stderr = String::from_utf8_lossy(&output.stderr);
+    if !stdout.trim().is_empty() {
+        eprintln!("[chunkr:{} stdout]\n{}", command, stdout.trim_end());
+    }
+    if !stderr.trim().is_empty() {
+        eprintln!("[chunkr:{} stderr]\n{}", command, stderr.trim_end());
+    }
+    if !output.status.success() {
+        return Err(anyhow!("chunkr {} failed: {}", command, output.status));
     }
     Ok(())
 }
