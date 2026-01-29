@@ -125,6 +125,7 @@ pub struct InsertEmbeddingsConfig {
     pub model: String,
     pub request_timeout_seconds: u64,
     pub max_concurrency: usize,
+    pub max_input_chars: usize,
 }
 
 pub fn load(path: &PathBuf) -> anyhow::Result<Config> {

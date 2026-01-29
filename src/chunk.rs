@@ -192,28 +192,41 @@ fn build_chunks(paragraphs: &[String], cfg: &ChunkConfig) -> Vec<String> {
         }
 
         for part in parts {
-            if current.len() + part.len() + 1 > cfg.max_chunk_chars && !current.is_empty() {
+            let bounded_parts = if part.len() > cfg.max_chunk_chars {
+                split_by_max_bytes(&part, cfg.max_chunk_chars)
+            } else {
+                vec![part]
+            };
+
+            for part in bounded_parts {
+                if current.len() + part.len() + 1 > cfg.max_chunk_chars && !current.is_empty() {
                 if !last_overlap.is_empty() {
                     let mut overlap_chunk = last_overlap.clone();
                     overlap_chunk.push(' ');
                     overlap_chunk.push_str(&part);
-                    current = overlap_chunk;
+                    if overlap_chunk.len() > cfg.max_chunk_chars {
+                        current.clear();
+                        current.push_str(&part);
+                    } else {
+                        current = overlap_chunk;
+                    }
                 } else {
                     current.clear();
                     current.push_str(&part);
                 }
-            } else {
-                if !current.is_empty() {
-                    current.push(' ');
+                } else {
+                    if !current.is_empty() {
+                        current.push(' ');
+                    }
+                    current.push_str(&part);
                 }
-                current.push_str(&part);
-            }
 
-            if current.len() >= cfg.target_chunk_chars {
-                let finalized = current.clone();
-                last_overlap = overlap_tail(&finalized, cfg.chunk_overlap_chars);
-                chunks.push(finalized);
-                current.clear();
+                if current.len() >= cfg.target_chunk_chars {
+                    let finalized = current.clone();
+                    last_overlap = overlap_tail(&finalized, cfg.chunk_overlap_chars);
+                    chunks.push(finalized);
+                    current.clear();
+                }
             }
         }
     }
@@ -247,14 +260,21 @@ fn split_large_paragraph(paragraph: &str, max_len: usize) -> Vec<String> {
     let mut parts = Vec::new();
     let mut current = String::new();
     for sentence in sentences {
-        if current.len() + sentence.len() + 1 > max_len && !current.is_empty() {
-            parts.push(current.trim().to_string());
-            current.clear();
+        let sentence_parts = if sentence.len() > max_len {
+            split_by_max_bytes(&sentence, max_len)
+        } else {
+            vec![sentence]
+        };
+        for sub in sentence_parts {
+            if current.len() + sub.len() + 1 > max_len && !current.is_empty() {
+                parts.push(current.trim().to_string());
+                current.clear();
+            }
+            if !current.is_empty() {
+                current.push(' ');
+            }
+            current.push_str(&sub);
         }
-        if !current.is_empty() {
-            current.push(' ');
-        }
-        current.push_str(&sentence);
     }
     if !current.trim().is_empty() {
         parts.push(current.trim().to_string());
@@ -266,11 +286,62 @@ fn split_large_paragraph(paragraph: &str, max_len: usize) -> Vec<String> {
     parts
 }
 
+fn split_by_max_bytes(text: &str, max_len: usize) -> Vec<String> {
+    if max_len == 0 {
+        return Vec::new();
+    }
+    if text.len() <= max_len {
+        return vec![text.to_string()];
+    }
+    let mut out = Vec::new();
+    let mut current = String::new();
+    for word in text.split_whitespace() {
+        if word.len() > max_len {
+            if !current.is_empty() {
+                out.push(current.trim().to_string());
+                current.clear();
+            }
+            let mut start = 0usize;
+            for (idx, _) in word.char_indices() {
+                if idx - start >= max_len {
+                    out.push(word[start..idx].to_string());
+                    start = idx;
+                }
+            }
+            if start < word.len() {
+                out.push(word[start..].to_string());
+            }
+            continue;
+        }
+        if current.is_empty() {
+            current.push_str(word);
+        } else if current.len() + 1 + word.len() <= max_len {
+            current.push(' ');
+            current.push_str(word);
+        } else {
+            out.push(current);
+            current = word.to_string();
+        }
+    }
+    if !current.is_empty() {
+        out.push(current);
+    }
+    if out.is_empty() {
+        out.push(text.to_string());
+    }
+    out
+}
+
 fn overlap_tail(text: &str, overlap: usize) -> String {
-    if overlap == 0 || text.len() <= overlap {
+    if overlap == 0 {
+        return String::new();
+    }
+    let total_chars = text.chars().count();
+    if total_chars <= overlap {
         return text.to_string();
     }
-    text[text.len().saturating_sub(overlap)..].to_string()
+    let start = total_chars.saturating_sub(overlap);
+    text.chars().skip(start).collect()
 }
 
 fn load_metadata(path: &Path) -> anyhow::Result<Value> {

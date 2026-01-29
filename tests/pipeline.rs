@@ -479,10 +479,10 @@ normalize_unicode = true
 collapse_whitespace = true
 strip_headers = true
 min_paragraph_chars = 80
-max_paragraph_chars = 1200
-target_chunk_chars = 800
-max_chunk_chars = 900
-chunk_overlap_chars = 100
+max_paragraph_chars = 50000
+target_chunk_chars = 40000
+max_chunk_chars = 50000
+chunk_overlap_chars = 2000
 emit_jsonl = true
 
 [chunk.metadata]
@@ -494,7 +494,7 @@ include_published = true
 include_language = true
 
 [insert]
-batch_size = 16
+batch_size = 64
 retry_max = 3
 retry_backoff_ms = 500
 
@@ -516,7 +516,8 @@ provider = "ollama"
 base_url = "{ollama_url}"
 model = "{ollama_model}"
 request_timeout_seconds = 120
-max_concurrency = 2
+max_concurrency = 8
+max_input_chars = 400
 "#,
         extract_root = extract_root.display(),
         chunk_root = chunk_root.display(),

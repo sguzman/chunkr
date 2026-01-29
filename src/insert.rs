@@ -107,7 +107,10 @@ async fn process_batch(
         let client = client.clone();
         let model = embed_cfg.model.clone();
         let base_url = embed_cfg.base_url.clone();
-        let text = record.text.clone();
+        let mut text = record.text.clone();
+        if embed_cfg.max_input_chars > 0 && text.len() > embed_cfg.max_input_chars {
+            text = text.chars().take(embed_cfg.max_input_chars).collect();
+        }
         tasks.push(tokio::spawn(async move {
             let _permit = permit;
             embed_text(&client, &base_url, &model, &text).await
@@ -140,7 +143,14 @@ async fn embed_text(
     if !resp.status().is_success() {
         let status = resp.status();
         let body = resp.text().await.unwrap_or_default();
-        return Err(anyhow!("ollama embedding failed: {} {}", status, body));
+        let snippet: String = text.chars().take(120).collect();
+        return Err(anyhow!(
+            "ollama embedding failed: {} {} (text_len={} snippet={:?})",
+            status,
+            body,
+            text.len(),
+            snippet
+        ));
     }
     let value: Value = resp.json().await?;
     let embedding = value

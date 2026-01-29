@@ -140,6 +140,7 @@ base_url = "http://127.0.0.1:11434"
 model = "qllama/bge-small-en-v1.5:latest"
 request_timeout_seconds = 120
 max_concurrency = 4
+max_input_chars = 512
 ```
 
 Notes:
