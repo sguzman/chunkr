@@ -103,6 +103,7 @@ async fn ingest_file(
     let mut total = 0usize;
     let mut buffer = Vec::new();
     let mut lines_seen = 0usize;
+    let mut batch_idx = 0usize;
 
     for line in raw.lines() {
         if line.trim().is_empty() {
@@ -112,6 +113,7 @@ async fn ingest_file(
         let record: ChunkRecord = serde_json::from_str(line)?;
         buffer.push(record);
         if buffer.len() >= batch_size {
+            batch_idx += 1;
             debug!(
                 path = %path.display(),
                 batch_size = buffer.len(),
@@ -124,6 +126,7 @@ async fn ingest_file(
                 embed_cfg,
                 qdrant_cfg,
                 quickwit_cfg,
+                &BatchContext::new(path, batch_idx, lines_seen, &buffer),
             )
             .await?;
             debug!(
@@ -137,13 +140,22 @@ async fn ingest_file(
     }
 
     if !buffer.is_empty() {
+        batch_idx += 1;
         debug!(
             path = %path.display(),
             batch_size = buffer.len(),
             lines_seen,
             "insert final batch start"
         );
-        total += process_batch(&buffer, client, embed_cfg, qdrant_cfg, quickwit_cfg).await?;
+        total += process_batch(
+            &buffer,
+            client,
+            embed_cfg,
+            qdrant_cfg,
+            quickwit_cfg,
+            &BatchContext::new(path, batch_idx, lines_seen, &buffer),
+        )
+        .await?;
         debug!(
             path = %path.display(),
             total,
@@ -155,18 +167,68 @@ async fn ingest_file(
     Ok(total)
 }
 
+#[derive(Clone)]
+struct BatchContext {
+    path: String,
+    batch_idx: usize,
+    lines_seen: usize,
+    first_id: String,
+    last_id: String,
+}
+
+impl BatchContext {
+    fn new(path: &Path, batch_idx: usize, lines_seen: usize, batch: &[ChunkRecord]) -> Self {
+        let first_id = batch
+            .first()
+            .map(|r| r.id.clone())
+            .unwrap_or_else(|| "unknown".to_string());
+        let last_id = batch
+            .last()
+            .map(|r| r.id.clone())
+            .unwrap_or_else(|| "unknown".to_string());
+        Self {
+            path: path.display().to_string(),
+            batch_idx,
+            lines_seen,
+            first_id,
+            last_id,
+        }
+    }
+}
+
 async fn process_batch(
     batch: &[ChunkRecord],
     client: &Client,
     embed_cfg: &InsertEmbeddingsConfig,
     qdrant_cfg: &InsertQdrantConfig,
     quickwit_cfg: &InsertQuickwitConfig,
+    ctx: &BatchContext,
 ) -> anyhow::Result<usize> {
     let semaphore = Arc::new(Semaphore::new(embed_cfg.max_concurrency));
     let mut tasks = Vec::new();
 
     let batch_len = batch.len();
     let batch_start = std::time::Instant::now();
+    let (mut min_len, mut max_len, mut sum_len) = (usize::MAX, 0usize, 0usize);
+    for record in batch {
+        let len = record.text.len();
+        min_len = min_len.min(len);
+        max_len = max_len.max(len);
+        sum_len += len;
+    }
+    let avg_len = if batch_len == 0 { 0 } else { sum_len / batch_len };
+    info!(
+        path = %ctx.path,
+        batch_idx = ctx.batch_idx,
+        batch_len,
+        lines_seen = ctx.lines_seen,
+        first_id = %ctx.first_id,
+        last_id = %ctx.last_id,
+        min_len,
+        max_len,
+        avg_len,
+        "embedding batch start"
+    );
     for record in batch {
         let permit = semaphore.clone().acquire_owned().await?;
         let client = client.clone();
@@ -188,11 +250,29 @@ async fn process_batch(
         vectors.push(vec);
     }
 
-    debug!(batch_len, elapsed = ?batch_start.elapsed(), "embeddings complete");
+    let vector_dim = vectors.first().map(|v| v.len()).unwrap_or(0);
+    info!(
+        path = %ctx.path,
+        batch_idx = ctx.batch_idx,
+        batch_len,
+        vector_dim,
+        elapsed = ?batch_start.elapsed(),
+        "embedding batch complete"
+    );
     upsert_qdrant(client, qdrant_cfg, batch, &vectors).await?;
-    debug!(batch_len, "qdrant upsert complete");
+    info!(
+        path = %ctx.path,
+        batch_idx = ctx.batch_idx,
+        batch_len,
+        "qdrant upsert complete"
+    );
     ingest_quickwit(client, quickwit_cfg, batch).await?;
-    debug!(batch_len, "quickwit ingest complete");
+    info!(
+        path = %ctx.path,
+        batch_idx = ctx.batch_idx,
+        batch_len,
+        "quickwit ingest complete"
+    );
     Ok(batch.len())
 }
 
