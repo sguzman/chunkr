@@ -3,7 +3,7 @@ use reqwest::Client;
 use serde_json::json;
 use std::fs;
 use std::path::{Path, PathBuf};
-use std::process::Command;
+use std::process::{Command, Stdio};
 use std::time::{Duration, Instant};
 use uuid::Uuid;
 
@@ -102,22 +102,33 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
 }
 
 fn run_chunkr(config: &Path, command: &str) -> Result<()> {
-    let output = Command::new(env!("CARGO_BIN_EXE_chunkr"))
+    let mut child = Command::new(env!("CARGO_BIN_EXE_chunkr"))
         .arg("--config")
         .arg(config)
         .arg(command)
-        .output()
+        .stdout(Stdio::inherit())
+        .stderr(Stdio::inherit())
+        .spawn()
         .with_context(|| format!("run chunkr {}", command))?;
-    let stdout = String::from_utf8_lossy(&output.stdout);
-    let stderr = String::from_utf8_lossy(&output.stderr);
-    if !stdout.trim().is_empty() {
-        eprintln!("[chunkr:{} stdout]\n{}", command, stdout.trim_end());
-    }
-    if !stderr.trim().is_empty() {
-        eprintln!("[chunkr:{} stderr]\n{}", command, stderr.trim_end());
-    }
-    if !output.status.success() {
-        return Err(anyhow!("chunkr {} failed: {}", command, output.status));
+
+    let started = Instant::now();
+    let mut last_log = Instant::now();
+    loop {
+        if let Some(status) = child.try_wait()? {
+            if !status.success() {
+                return Err(anyhow!("chunkr {} failed: {}", command, status));
+            }
+            break;
+        }
+        if last_log.elapsed() >= Duration::from_secs(30) {
+            eprintln!(
+                "[test] chunkr {} still running after {:?}",
+                command,
+                started.elapsed()
+            );
+            last_log = Instant::now();
+        }
+        std::thread::sleep(Duration::from_secs(5));
     }
     Ok(())
 }
