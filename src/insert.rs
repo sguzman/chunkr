@@ -8,7 +8,7 @@ use std::path::Path;
 use std::sync::Arc;
 use std::time::Duration;
 use tokio::sync::Semaphore;
-use tracing::{info, warn};
+use tracing::{debug, info, warn};
 use walkdir::WalkDir;
 
 #[derive(Debug, Deserialize)]
@@ -30,6 +30,7 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
     }
 
     let mut total_chunks = 0usize;
+    let mut total_files = 0usize;
     for entry in WalkDir::new(&config.paths.chunk_root)
         .into_iter()
         .filter_map(|e| e.ok())
@@ -39,6 +40,8 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
         if path.extension().and_then(|s| s.to_str()) != Some("jsonl") {
             continue;
         }
+        total_files += 1;
+        info!(path = %path.display(), "insert file start");
         let count = ingest_file(
             path,
             &client,
@@ -48,9 +51,10 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
             config.insert.batch_size,
         )
         .await?;
+        info!(path = %path.display(), count, "insert file complete");
         total_chunks += count;
     }
-    info!(total_chunks, "insert complete");
+    info!(total_files, total_chunks, "insert complete");
     Ok(())
 }
 
@@ -65,14 +69,22 @@ async fn ingest_file(
     let raw = fs::read_to_string(path).with_context(|| format!("read {}", path.display()))?;
     let mut total = 0usize;
     let mut buffer = Vec::new();
+    let mut lines_seen = 0usize;
 
     for line in raw.lines() {
         if line.trim().is_empty() {
             continue;
         }
+        lines_seen += 1;
         let record: ChunkRecord = serde_json::from_str(line)?;
         buffer.push(record);
         if buffer.len() >= batch_size {
+            debug!(
+                path = %path.display(),
+                batch_size = buffer.len(),
+                lines_seen,
+                "insert batch start"
+            );
             total += process_batch(
                 &buffer,
                 client,
@@ -81,12 +93,30 @@ async fn ingest_file(
                 quickwit_cfg,
             )
             .await?;
+            debug!(
+                path = %path.display(),
+                total,
+                lines_seen,
+                "insert batch complete"
+            );
             buffer.clear();
         }
     }
 
     if !buffer.is_empty() {
+        debug!(
+            path = %path.display(),
+            batch_size = buffer.len(),
+            lines_seen,
+            "insert final batch start"
+        );
         total += process_batch(&buffer, client, embed_cfg, qdrant_cfg, quickwit_cfg).await?;
+        debug!(
+            path = %path.display(),
+            total,
+            lines_seen,
+            "insert final batch complete"
+        );
     }
 
     Ok(total)
@@ -102,6 +132,8 @@ async fn process_batch(
     let semaphore = Arc::new(Semaphore::new(embed_cfg.max_concurrency));
     let mut tasks = Vec::new();
 
+    let batch_len = batch.len();
+    let batch_start = std::time::Instant::now();
     for record in batch {
         let permit = semaphore.clone().acquire_owned().await?;
         let client = client.clone();
@@ -123,8 +155,11 @@ async fn process_batch(
         vectors.push(vec);
     }
 
+    debug!(batch_len, elapsed = ?batch_start.elapsed(), "embeddings complete");
     upsert_qdrant(client, qdrant_cfg, batch, &vectors).await?;
+    debug!(batch_len, "qdrant upsert complete");
     ingest_quickwit(client, quickwit_cfg, batch).await?;
+    debug!(batch_len, "quickwit ingest complete");
     Ok(batch.len())
 }
 
