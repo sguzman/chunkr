@@ -166,7 +166,11 @@ async fn ensure_qdrant_collection(
             "distance": cfg.distance,
         }
     });
-    let resp = client.put(url).json(&body).send().await?;
+    let mut req = client.put(url).json(&body);
+    if let Some(key) = cfg.api_key.as_ref().filter(|k| !k.is_empty()) {
+        req = req.header("api-key", key);
+    }
+    let resp = req.send().await?;
     if !resp.status().is_success() {
         warn!(status = %resp.status(), "qdrant collection create failed");
     }
@@ -198,7 +202,11 @@ async fn upsert_qdrant(
         cfg.url.trim_end_matches('/'),
         cfg.collection
     );
-    let resp = client.post(url).json(&json!({ "points": points })).send().await?;
+    let mut req = client.post(url).json(&json!({ "points": points }));
+    if let Some(key) = cfg.api_key.as_ref().filter(|k| !k.is_empty()) {
+        req = req.header("api-key", key);
+    }
+    let resp = req.send().await?;
     if !resp.status().is_success() {
         return Err(anyhow!("qdrant upsert failed: {}", resp.status()));
     }

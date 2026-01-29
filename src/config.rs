@@ -108,6 +108,7 @@ pub struct InsertQdrantConfig {
     pub distance: String,
     pub vector_size: usize,
     pub create_collection: bool,
+    pub api_key: Option<String>,
 }
 
 #[derive(Debug, Clone, Deserialize)]

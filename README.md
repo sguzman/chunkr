@@ -127,6 +127,7 @@ collection = "books"
 distance = "Cosine"
 vector_size = 384
 create_collection = true
+api_key = ""
 
 [insert.quickwit]
 url = "http://127.0.0.1:7280"
