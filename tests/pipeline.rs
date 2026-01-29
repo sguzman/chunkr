@@ -6,6 +6,7 @@ use std::fs;
 use std::path::{Path, PathBuf};
 use std::sync::Once;
 use std::time::{Duration, Instant};
+use tracing::info;
 use uuid::Uuid;
 
 const SAMPLE_BYTES: usize = usize::MAX;
@@ -30,7 +31,7 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     if sample_files.is_empty() {
         return Err(anyhow!("no example .txt files found"));
     }
-    eprintln!(
+    info!(
         "[test] using {} example files -> {}",
         sample_files.len(),
         extract_root.display()
@@ -51,11 +52,11 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     config.insert.qdrant.vector_size = embed_dim;
 
     init_logging_once(&config)?;
-    eprintln!("[test] using config {}", config_path.display());
+    info!("[test] using config {}", config_path.display());
     let test_collection = config.insert.qdrant.collection.clone();
     let test_index = config.insert.quickwit.index_id.clone();
 
-    eprintln!("[test] resetting qdrant collection {}", test_collection);
+    info!("[test] resetting qdrant collection {}", test_collection);
     reset_qdrant(
         &client,
         &config.insert.qdrant.url,
@@ -63,24 +64,24 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
         embed_dim,
     )
     .await?;
-    eprintln!("[test] resetting quickwit index {}", test_index);
+    info!("[test] resetting quickwit index {}", test_index);
     reset_quickwit(&client, &config.insert.quickwit.url, test_index).await?;
 
-    eprintln!("[test] starting chunk");
+    info!("[test] starting chunk");
     run_in_process(&config, CommandKind::Chunk).await?;
-    eprintln!(
+    info!(
         "[test] chunk finished in {:?}, building sample query",
         started.elapsed()
     );
     let sample_query = sample_query_from_chunks(&chunk_root)?;
-    eprintln!(
+    info!(
         "[test] sample query picked (len={}): {:?}",
         sample_query.term.len(),
         sample_query.term
     );
-    eprintln!("[test] starting insert");
+    info!("[test] starting insert");
     run_in_process(&config, CommandKind::Insert).await?;
-    eprintln!(
+    info!(
         "[test] insert finished in {:?}, verifying qdrant/quickwit",
         started.elapsed()
     );
@@ -101,7 +102,7 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     )
     .await?;
 
-    eprintln!("[test] done in {:?}", started.elapsed());
+    info!("[test] done in {:?}", started.elapsed());
     Ok(())
 }
 
