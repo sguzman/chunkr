@@ -60,12 +60,12 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     reset_qdrant(
         &client,
         &config.insert.qdrant.url,
-        test_collection,
+        &test_collection,
         embed_dim,
     )
     .await?;
     info!("[test] resetting quickwit index {}", test_index);
-    reset_quickwit(&client, &config.insert.quickwit.url, test_index).await?;
+    reset_quickwit(&client, &config.insert.quickwit.url, &test_index).await?;
 
     info!("[test] starting chunk");
     run_in_process(&config, CommandKind::Chunk).await?;
@@ -89,7 +89,7 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     verify_qdrant(
         &client,
         &config.insert.qdrant.url,
-        test_collection,
+        &test_collection,
         &config.insert.embeddings,
         &sample_query.embed_text,
     )
@@ -97,7 +97,7 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     verify_quickwit(
         &client,
         &config.insert.quickwit.url,
-        test_index,
+        &test_index,
         &sample_query.term,
     )
     .await?;
