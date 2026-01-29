@@ -1,0 +1,3223 @@
+With respect to HCT/Ps that are drugs (subject to review under an application submitted under section 505 of the Federal Food, Drug, and Cosmetic Act or under a biological product license application under section 351 of the Public Health Service Act) or that are devices (subject to premarket review or notification under the device provisions of the act or under a biological product license application under section 351 of the Public Health Service Act), the procedures contained in this subpart and in subpart C of this part and the current good manufacturing practice regulations in parts 210 and 211 of this chapter and the quality system regulations in part 820 of this chapter supplement, and do not supersede, each other unless the regulations explicitly provide otherwise. In the event that a regulation in part 1271 of this chapter is in conflict with a requirement in parts 210, 211, or 820 of this chapter, the regulations more specifically applicable to the product in question will supersede the more general.
+(e)
+Where appropriate.
+When a requirement is qualified by “where appropriate,” it is deemed to be “appropriate” unless you can document justification otherwise. A requirement is “appropriate” if nonimplementation of the requirement could reasonably be expected to result in the HCT/P not meeting its specified requirements related to prevention of introduction, transmission, or spread of communicable diseases, or in your inability to carry out any necessary corrective action.
+§ 1271.155
+Exemptions and alternatives.
+(a)
+General.
+You may request an exemption from or alternative to any requirement in subpart C or D of this part.
+(b)
+Request for exemption or alternative.
+Submit your request under this section to the Director of the appropriate Center (the Director), e.g., the Center for Biologics Evaluation and Research or the Center for Devices and Radiological Health. The request must be accompanied by supporting documentation, including all relevant valid scientific data, and must contain either:
+(1) Information justifying the requested exemption from the requirement, or
+(2) A description of a proposed alternative method of meeting the requirement.
+(c)
+Criteria for granting an exemption or alternative.
+The Director may grant an exemption or alternative if he or she finds that such action is consistent with the goals of protecting the public health and/or preventing the introduction, transmission, or spread of communicable diseases and that:
+(1) The information submitted justifies an exemption; or
+(2) The proposed alternative satisfies the purpose of the requirement.
+(d)
+Form of request.
+You must ordinarily make your request for an exemption or alternative in writing (hard copy or electronically). However, if circumstances make it difficult (e.g., there is inadequate time) to submit your request in writing, you may make the request orally, and the Director may orally grant an exemption or alternative. You must follow your oral request with an immediate written request, to which the Director will respond in writing.
+(e)
+Operation under exemption or alternative.
+You must not begin operating
+under the terms of a requested exemption or alternative until the exemption or alternative has been granted. You may apply for an extension of an exemption or alternative beyond its expiration date, if any.
+(f)
+Documentation.
+If you operate under the terms of an exemption or alternative, you must maintain documentation of:
+(1) FDA's grant of the exemption or alternative, and
+(2) The date on which you began operating under the terms of the exemption or alternative.
+(g)
+Issuance of an exemption or alternative by the Director.
+In a public health emergency, the Director may issue an exemption from, or alternative to, any requirement in part 1271. The Director may issue an exemption or alternative under this section if the exemption or alternative is necessary to assure that certain HCT/Ps will be available in a specified location to respond to an unanticipated immediate need for those HCT/Ps.
+§ 1271.160
+Establishment and maintenance of a quality program.
+(a)
+General.
+If you are an establishment that performs any step in the manufacture of HCT/Ps, you must establish and maintain a quality program intended to prevent the introduction, transmission, or spread of communicable diseases through the manufacture and use of HCT/Ps. The quality program must be appropriate for the specific HCT/Ps manufactured and the manufacturing steps performed. The quality program must address all core CGTP requirements listed in § 1271.150(b).
+(b)
+Functions.
+Functions of the quality program must include:
+(1) Establishing and maintaining appropriate procedures relating to core CGTP requirements, and ensuring compliance with the requirements of § 1271.180 with respect to such procedures, including review, approval, and revision;
+(2) Ensuring that procedures exist for receiving, investigating, evaluating, and documenting information relating to core CGTP requirements, including complaints, and for sharing any information pertaining to the possible contamination of the HCT/P or the potential for transmission of a communicable disease by the HCT/P with the following:
+(i) Other establishments that are known to have recovered HCT/Ps from the same donor;
+(ii) Other establishments that are known to have performed manufacturing steps with respect to the same HCT/P; and
+(iii) Relating to consignees, in the case of such information received after the HCT/P is made available for distribution, shipped to the consignee, or administered to the recipient, procedures must include provisions for assessing risk and appropriate followup, and evaluating the effect this information has on the HCT/P and for the notification of all entities to whom the affected HCT/P was distributed, the quarantine and recall of the HCT/P, and/or reporting to FDA, as necessary.
+(3) Ensuring that appropriate corrective actions relating to core CGTP requirements, including reaudits of deficiencies, are taken and documented, as necessary. You must verify corrective actions to ensure that such actions are effective and are in compliance with CGTP. Where appropriate, corrective actions must include both short-term action to address the immediate problem and long-term action to prevent the problem's recurrence. Documentation of corrective actions must include, where appropriate:
+(i) Identification of the HCT/P affected and a description of its disposition;
+(ii) The nature of the problem requiring corrective action;
+(iii) A description of the corrective action taken; and
+(iv) The date(s) of the corrective action.
+(4) Ensuring the proper training and education of personnel involved in activities related to core CGTP requirements;
+(5) Establishing and maintaining appropriate monitoring systems as necessary to comply with the requirements of this subpart (e.g., environmental monitoring);
+(6) Investigating and documenting HCT/P deviations and trends of HCT/P
+deviations relating to core CGTP requirements and making reports if required under § 1271.350(b) or other applicable regulations. Each investigation must include a review and evaluation of the HCT/P deviation, the efforts made to determine the cause, and the implementation of corrective action(s) to address the HCT/P deviation and prevent recurrence.
+(c)
+Audits.
+You must periodically perform for management review a quality audit, as defined in § 1271.3(gg), of activities related to core CGTP requirements.
+(d)
+Computers.
+You must validate the performance of computer software for the intended use, and the performance of any changes to that software for the intended use, if you rely upon the software to comply with core CGTP requirements and if the software either is custom software or is commercially available software that has been customized or programmed (including software programmed to perform a user defined calculation or table) to perform a function related to core CGTP requirements. You must verify the performance of all other software for the intended use if you rely upon it to comply with core CGTP requirements. You must approve and document these activities and results before implementation.
+§ 1271.170
+Personnel.
+(a)
+General.
+You must have personnel sufficient to ensure compliance with the requirements of this part.
+(b)
+Competent performance of functions.
+You must have personnel with the necessary education, experience, and training to ensure competent performance of their assigned functions. Personnel must perform only those activities for which they are qualified and authorized.
+(c)
+Training.
+You must train all personnel, and retrain as necessary, to perform their assigned responsibilities adequately.
+§ 1271.180
+Procedures.
+(a)
+General.
+You must establish and maintain procedures appropriate to meet core CGTP requirements for all steps that you perform in the manufacture of HCT/Ps. You must design these procedures to prevent circumstances that increase the risk of the introduction, transmission, or spread of communicable diseases through the use of HCT/Ps.
+(b)
+Review and approval.
+Before implementation, a responsible person must review and approve these procedures.
+(c)
+Availability.
+These procedures must be readily available to the personnel in the area where the operations to which they relate are performed, or in a nearby area if such availability is impractical.
+(d)
+Standard procedures.
+If you adopt current standard procedures from another organization, you must verify that the procedures meet the requirements of this part and are appropriate for your operations.
+§ 1271.190
+Facilities.
+(a)
+General.
+Any facility used in the manufacture of HCT/Ps must be of suitable size, construction, and location to prevent contamination of HCT/Ps with communicable disease agents and to ensure orderly handling of HCT/Ps without mix-ups. You must maintain the facility in a good state of repair. You must provide lighting, ventilation, plumbing, drainage, and access to sinks and toilets that are adequate to prevent the introduction, transmission, or spread of communicable disease.
+(b)
+Facility cleaning and sanitation.
+(1) You must maintain any facility used in the manufacture of HCT/Ps in a clean, sanitary, and orderly manner, to prevent the introduction, transmission, or spread of communicable disease.
+(2) You must dispose of sewage, trash, and other refuse in a timely, safe, and sanitary manner.
+(c)
+Operations.
+You must divide a facility used in the manufacture of HCT/Ps into separate or defined areas of adequate size for each operation that takes place in the facility, or you must establish and maintain other control systems to prevent improper labeling, mix-ups, contamination, cross-contamination, and accidental exposure of HCT/Ps to communicable disease agents.
+(d)
+Procedures and records.
+(1) You must establish and maintain procedures for facility cleaning and sanitation for the purpose of preventing the
+introduction, transmission, or spread of communicable disease. These procedures must assign responsibility for sanitation and must describe in sufficient detail the cleaning methods to be used and the schedule for cleaning the facility.
+(2) You must document, and maintain records of, all cleaning and sanitation activities performed to prevent contamination of HCT/Ps. You must retain such records 3 years after their creation.
+§ 1271.195
+Environmental control and monitoring.
+(a)
+Environmental control.
+Where environmental conditions could reasonably be expected to cause contamination or cross-contamination of HCT/Ps or equipment, or accidental exposure of HCT/Ps to communicable disease agents, you must adequately control environmental conditions and provide proper conditions for operations. Where appropriate, you must provide for the following control activities or systems:
+(1) Temperature and humidity controls;
+(2) Ventilation and air filtration;
+(3) Cleaning and disinfecting of rooms and equipment to ensure aseptic processing operations; and
+(4) Maintenance of equipment used to control conditions necessary for aseptic processing operations.
+(b)
+Inspections.
+You must inspect each environmental control system periodically to verify that the system, including necessary equipment, is adequate and functioning properly. You must take appropriate corrective action as necessary.
+(c)
+Environmental monitoring.
+You must monitor environmental conditions where environmental conditions could reasonably be expected to cause contamination or cross-contamination of HCT/Ps or equipment, or accidental exposure of HCT/Ps to communicable disease agents. Where appropriate, you must provide environmental monitoring for microorganisms.
+(d)
+Records.
+You must document, and maintain records of, environmental control and monitoring activities.
+§ 1271.200
+Equipment.
+(a)
+General.
+To prevent the introduction, transmission, or spread of communicable diseases, equipment used in the manufacture of HCT/Ps must be of appropriate design for its use and must be suitably located and installed to facilitate operations, including cleaning and maintenance. Any automated, mechanical, electronic, or other equipment used for inspection, measuring, or testing in accordance with this part must be capable of producing valid results. You must clean, sanitize, and maintain equipment according to established schedules.
+(b)
+Procedures and schedules.
+You must establish and maintain procedures for cleaning, sanitizing, and maintaining equipment to prevent malfunctions, contamination or cross-contamination, accidental exposure of HCT/Ps to communicable disease agents, and other events that could reasonably be expected to result in the introduction, transmission, or spread of communicable diseases.
+(c)
+Calibration of equipment.
+Where appropriate, you must routinely calibrate according to established procedures and schedules all automated, mechanical, electronic, or other equipment used for inspection, measuring, and testing in accordance with this part.
+(d)
+Inspections.
+You must routinely inspect equipment for cleanliness, sanitation, and calibration, and to ensure adherence to applicable equipment maintenance schedules.
+(e)
+Records.
+You must document and maintain records of all equipment maintenance, cleaning, sanitizing, calibration, and other activities performed in accordance with this section. You must display records of recent maintenance, cleaning, sanitizing, calibration, and other activities on or near each piece of equipment, or make the records readily available to the individuals responsible for performing these activities and to the personnel using the equipment. You must maintain records of the use of each piece of equipment, including the identification of each HCT/P manufactured with that equipment.
+§ 1271.210
+Supplies and reagents.
+(a)
+Verification.
+You must not use supplies and reagents until they have been verified to meet specifications designed to prevent circumstances that increase the risk of the introduction, transmission, or spread of communicable diseases. Verification may be accomplished by the establishment that uses the supply or reagent, or by the vendor of the supply or reagent.
+(b)
+Reagents.
+Reagents used in processing and preservation of HCT/Ps must be sterile, where appropriate.
+(c)
+In-house reagents.
+You must validate and/or verify the processes used for production of in-house reagents.
+(d)
+Records.
+You must maintain the following records pertaining to supplies and reagents:
+(1) Records of the receipt of each supply or reagent, including the type, quantity, manufacturer, lot number, date of receipt, and expiration date;
+(2) Records of the verification of each supply or reagent, including test results or, in the case of vendor verification, a certificate of analysis from the vendor; and
+(3) Records of the lot of supply or reagent used in the manufacture of each HCT/P.
+§ 1271.215
+Recovery.
+If you are an establishment that recovers HCT/Ps, you must recover each HCT/P in a way that does not cause contamination or cross-contamination during recovery, or otherwise increase the risk of the introduction, transmission, or spread of communicable disease through the use of the HCT/P.
+§ 1271.220
+Processing and process controls.
+(a)
+General.
+If you are an establishment that processes HCT/Ps, you must process each HCT/P in a way that does not cause contamination or cross-contamination during processing, and that prevents the introduction, transmission, or spread of communicable disease through the use of the HCT/P.
+(b)
+Pooling.
+Human cells or tissue from two or more donors must not be pooled (placed in physical contact or mixed in a single receptacle) during manufacturing.
+(c)
+In-process control and testing.
+You must ensure that specified requirements, consistent with paragraph (a) of this section, for in-process controls are met, and that each in-process HCT/P is controlled until the required inspection and tests or other verification activities have been completed, or necessary approvals are received and documented. Sampling of in-process HCT/Ps must be representative of the material to be evaluated.
+(d)
+Dura mater.
+(1) When there is a published validated process that reduces the risk of transmissible spongiform encephalopathy, you must use this process for dura mater (or an equivalent process that you have validated), unless following this process adversely affects the clinical utility of the dura mater.
+(2) When you use a published validated process, you must verify such a process in your establishment.
+§ 1271.225
+Process changes.
+Any change to a process must be verified or validated in accordance with § 1271.230, to ensure that the change does not create an adverse impact elsewhere in the operation, and must be approved before implementation by a responsible person with appropriate knowledge and background. You must communicate approved changes to the appropriate personnel in a timely manner.
+§ 1271.230
+Process validation.
+(a)
+General.
+Where the results of processing described in § 1271.220 cannot be fully verified by subsequent inspection and tests, you must validate and approve the process according to established procedures. The validation activities and results must be documented, including the date and signature of the individual(s) approving the validation.
+(b)
+Written representation.
+Any written representation that your processing methods reduce the risk of transmission of communicable disease by an HCT/P, including but not limited to, a representation of sterility or pathogen inactivation of an HCT/P, must be based on a fully verified or validated process.
+(c)
+Changes.
+When changes to a validated process subject to paragraph (a) of this section occur, you must review and evaluate the process and perform revalidation where appropriate. You must document these activities.
+§ 1271.250
+Labeling controls.
+(a)
+General.
+You must establish and maintain procedures to control the labeling of HCT/Ps. You must design these procedures to ensure proper HCT/P identification and to prevent mix-ups.
+(b)
+Verification.
+Procedures must include verification of label accuracy, legibility, and integrity.
+(c)
+Labeling requirements.
+Procedures must ensure that each HCT/P is labeled in accordance with all applicable labeling requirements, including those in §§ 1271.55, 1271.60, 1271.65, 1271.90, 1271.290, and 1271.370, and that each HCT/P made available for distribution is accompanied by documentation of the donor eligibility determination as required under § 1271.55.
+§ 1271.260
+Storage.
+(a)
+Control of storage areas.
+You must control your storage areas and stock rooms to prevent:
+(1) Mix-ups, contamination, and cross-contamination of HCT/Ps, supplies, and reagents, and
+(2) An HCT/P from being improperly made available for distribution.
+(b)
+Temperature.
+You must store HCT/Ps at an appropriate temperature.
+(c)
+Expiration date.
+Where appropriate, you must assign an expiration date to each HCT/P based on the following factors:
+(1) HCT/P type;
+(2) Processing, including the method of preservation;
+(3) Storage conditions; and
+(4) Packaging.
+(d)
+Corrective action.
+You must take and document corrective action whenever proper storage conditions are not met.
+(e)
+Acceptable temperature limits.
+You must establish acceptable temperature limits for storage of HCT/Ps at each step of the manufacturing process to inhibit the growth of infectious agents. You must maintain and record storage temperatures for HCT/Ps. You must periodically review recorded temperatures to ensure that temperatures have been within acceptable limits.
+§ 1271.265
+Receipt, predistribution shipment, and distribution of an HCT/P.
+(a)
+Receipt.
+You must evaluate each incoming HCT/P for the presence and significance of microorganisms and inspect for damage and contamination. You must determine whether to accept, reject, or place in quarantine each incoming HCT/P, based upon pre-established criteria designed to prevent communicable disease transmission.
+(b)
+Predistribution shipment.
+If you ship an HCT/P within your establishment or between establishments (e.g., procurer to processor) and the HCT/P is not available for distribution as described in paragraph (c) of this section, you must first determine and document whether pre-established criteria designed to prevent communicable disease transmission have been met, and you must ship the HCT/P in quarantine.
+(c)
+Availability for distribution.
+(1) Before making an HCT/P available for distribution, you must review manufacturing and tracking records pertaining to the HCT/P, and, on the basis of that record review, you must verify and document that the release criteria have been met. A responsible person must document and date the determination that an HCT/P is available for distribution.
+(2) You must not make available for distribution an HCT/P that is in quarantine, is contaminated, is recovered from a donor who has been determined to be ineligible or for whom a donor-eligibility determination has not been completed (except as provided under §§ 1271.60, 1271.65, and 1271.90), or that otherwise does not meet release criteria designed to prevent communicable disease transmission.
+(3) You must not make available for distribution any HCT/P manufactured under a departure from a procedure relevant to preventing risks of communicable disease transmission, unless a responsible person has determined that the departure does not increase the risk of communicable disease through the use of the HCT/P. You must record
+and justify any departure from a procedure at the time of its occurrence.
+(d)
+Packaging and shipping.
+Packaging and shipping containers must be designed and constructed to protect the HCT/P from contamination. For each type of HCT/P, you must establish appropriate shipping conditions to be maintained during transit.
+(e)
+Procedures.
+You must establish and maintain procedures, including release criteria, for the activities in paragraphs (a) through (d) of this section. You must document these activities. Documentation must include:
+(1) Identification of the HCT/P and the establishment that supplied the HCT/P;
+(2) Activities performed and the results of each activity;
+(3) Date(s) of activity;
+(4) Quantity of HCT/P subject to the activity; and
+(5) Disposition of the HCT/P (e.g., identity of consignee).
+(f)
+Return to inventory.
+You must establish and maintain procedures to determine if an HCT/P that is returned to your establishment is suitable to be returned to inventory.
+§ 1271.270
+Records.
+(a)
+General.
+You must maintain records concurrently with the performance of each step required in this subpart and subpart C of this part. Any requirement in this part that an action be documented involves the creation of a record, which is subject to the requirements of this section. All records must be accurate, indelible, and legible. The records must identify the person performing the work and the dates of the various entries, and must be as detailed as necessary to provide a complete history of the work performed and to relate the records to the particular HCT/P involved.
+(b)
+Records management system.
+You must establish and maintain a records management system relating to core CGTP requirements. Under this system, records pertaining to a particular HCT/P must be maintained in such a way as to facilitate review of the HCT/Ps history before making it available for distribution and, if necessary, subsequent to the HCT/Ps release as part of a followup evaluation or investigation. Records pertinent to the manufacture of HCT/Ps (e.g., labeling and packaging procedures, and equipment logs) must also be maintained and organized under the records management system. If records are maintained in more than one location, then the records management system must be designed to ensure prompt identification, location, and retrieval of all records.
+(c)
+Methods of retention.
+You may maintain records required under this subpart electronically, as original paper records, or as true copies such as photocopies, microfiche, or microfilm. Equipment that is necessary to make the records available and legible, such as computer and reader equipment, must be readily available. Records stored in electronic systems must be backed up.
+(d)
+Length of retention.
+You must retain all records for 10 years after their creation, unless stated otherwise in this part. However, you must retain the records pertaining to a particular HCT/P at least 10 years after the date of its administration, or if the date of administration is not known, then at least 10 years after the date of the HCT/Ps distribution, disposition, or expiration, whichever is latest. You must retain records for archived specimens of dura mater for 10 years after the appropriate disposition of the specimens.
+(e)
+Contracts and agreements.
+You must maintain the name and address and a list of the responsibilities of any establishment that performs a manufacturing step for you. This information must be available during an inspection conducted under § 1271.400.
+§ 1271.290
+Tracking.
+(a)
+General.
+If you perform any step in the manufacture of an HCT/P in which you handle the HCT/P, you must track each such HCT/P in accordance with this section, to facilitate the investigation of actual or suspected transmission of communicable disease and take appropriate and timely corrective action.
+(b)
+System of HCT/P tracking.
+(1) You must establish and maintain a system of HCT/P tracking that enables the tracking of all HCT/Ps from:
+(i) The donor to the consignee or final disposition; and
+(ii) The consignee or final disposition to the donor.
+(2) Alternatively, if you are an establishment that performs some but not all of the steps in the manufacture of an HCT/P in which you handle the HCT/P, you may participate in a system of HCT/P tracking established and maintained by another establishment responsible for other steps in the manufacture of the same HCT/P, provided that the tracking system complies with all the requirements of this section.
+(c)
+Distinct identification code.
+As part of your tracking system, you must ensure: That each HCT/P that you manufacture is assigned and labeled with a distinct identification code, e.g., alphanumeric, that relates the HCT/P to the donor and to all records pertaining to the HCT/P; and that labeling includes information designed to facilitate effective tracking, using the distinct identification code, from the donor to the recipient and from the recipient to the donor. Except as described in § 1271.55(a)(1), you must create such a code specifically for tracking, and it may not include an individual's name, social security number, or medical record number. You may adopt a distinct identification code assigned by another establishment engaged in the manufacturing process, or you may assign a new code. If you assign a new code to an HCT/P, you must establish and maintain procedures for relating the new code to the old code.
+(d)
+Tracking from consignee to donor.
+As part of your tracking system, you must establish and maintain a method for recording the distinct identification code and type of each HCT/P distributed to a consignee to enable tracking from the consignee to the donor.
+(e)
+Tracking from donor to consignee or final disposition.
+As part of your tracking system, you must establish and maintain a method for documenting the disposition of each of your HCT/Ps, to enable tracking from the donor to the consignee or final disposition. The information you maintain must permit the prompt identification of the consignee of the HCT/P, if any.
+(f)
+Consignees.
+At or before the time of distribution of an HCT/P to a consignee, you must inform the consignee in writing of the requirements in this section and of the tracking system that you have established and are maintaining to comply with these requirements.
+(g)
+Requirements specific to dura mater donors.
+You must archive appropriate specimens from each donor of dura mater, under appropriate storage conditions, and for the appropriate duration, to enable testing of the archived material for evidence of transmissible spongiform encephalopathy, and to enable appropriate disposition of any affected nonadministered dura mater tissue, if necessary.
+[69 FR 68681, Nov. 24, 2004, as amended at 70 FR 29952, May 25, 2005]
+§ 1271.320
+Complaint file.
+(a)
+Procedures.
+You must establish and maintain procedures for the review, evaluation, and documentation of complaints as defined in § 1271.3(aa), relating to core current good tissue practice (CGTP) requirements, and the investigation of complaints as appropriate.
+(b)
+Complaint file.
+You must maintain a record of complaints that you receive in a file designated for complaints. The complaint file must contain sufficient information about each complaint for proper review and evaluation of the complaint (including the distinct identification code of the HCT/P that is the subject of the complaint) and for determining whether the complaint is an isolated event or represents a trend. You must make the complaint file available for review and copying upon request from FDA.
+(c)
+Review and evaluation of complaints.
+You must review and evaluate each complaint relating to core CGTP requirements to determine if the complaint is related to an HCT/P deviation or to an adverse reaction, and to determine if a report under § 1271.350 or another applicable regulation is required. As soon as practical, you must review, evaluate, and investigate each complaint that represents an event required to be reported to FDA, as described in § 1271.350. You must review and evaluate a complaint relating to
+core CGTP requirements that does not represent an event required to be reported to determine whether an investigation is necessary; an investigation may include referring a copy of the complaint to another establishment that performed manufacturing steps pertinent to the complaint. When no investigation is made, you must maintain a record that includes the reason no investigation was made, and the name of the individual(s) responsible for the decision not to investigate.
+
+# Subpart E—Additional Requirements for Establishments Described in § 1271.10
+
+# Source:
+69 FR 68686, Nov. 24, 2004, unless otherwise noted.
+§ 1271.330
+Applicability.
+The provisions set forth in this subpart are being implemented for nonreproductive HCT/Ps described in § 1271.10 and regulated solely under section 361 of the Public Health Service Act and the regulations in this part, and for the establishments that manufacture those HCT/Ps. HCT/Ps that are drugs or devices regulated under the act, or are biological products regulated under section 351 of the Public Health Service Act, are not subject to the regulations set forth in this subpart.
+§ 1271.350
+Reporting.
+(a)
+Adverse reaction reports.
+(1) You must investigate any adverse reaction involving a communicable disease related to an HCT/P that you made available for distribution. You must report to FDA an adverse reaction involving a communicable disease if it:
+(i) Is fatal;
+(ii) Is life-threatening;
+(iii) Results in permanent impairment of a body function or permanent damage to body structure; or
+(iv) Necessitates medical or surgical intervention, including hospitalization.
+(2) You must submit each report on a Form FDA-3500A to the address in paragraph (a)(5) of this section within 15 calendar days of initial receipt of the information.
+(3) You must, as soon as practical, investigate all adverse reactions that are the subject of these 15-day reports and must submit followup reports within 15 calendar days of the receipt of new information or as requested by FDA. If additional information is not obtainable, a followup report may be required that describes briefly the steps taken to seek additional information and the reasons why it could not be obtained.
+(4) You may obtain copies of the reporting form (FDA-3500A) from the Center for Biologics Evaluation and Research (see address in paragraph (a)(5) of this section). Electronic Form FDA-3500A may be obtained at
+http://www.fda.gov/medwatch
+or at
+http://www.hhs.gov/forms.
+(5) You must submit two copies of each report described in this paragraph to the Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave., Bldg. 71, Rm. G112, Silver Spring, MD 20993-0002. FDA may waive the requirement for the second copy in appropriate circumstances.
+(b)
+Reports of HCT/P deviations.
+(1) You must investigate all HCT/P deviations related to a distributed HCT/P for which you performed a manufacturing step.
+(2) You must report any such HCT/P deviation relating to the core CGTP requirements, if the HCT/P deviation occurred in your facility or in a facility that performed a manufacturing step for you under contract, agreement, or other arrangement. Each report must contain a description of the HCT/P deviation, information relevant to the event and the manufacture of the HCT/P involved, and information on all follow-up actions that have been or will be taken in response to the HCT/P deviation (e.g., recalls).
+(3) You must report each such HCT/P deviation that relates to a core CGTP requirement on Form FDA 3486 within 45 days of the discovery of the event either electronically using the Center for Biologics Evaluation and Research electronic Web-based application or by mail to the Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave., Bldg.
+71, Rm. G112, Silver Spring, MD 20993-0002.
+[69 FR 68686, Nov. 24, 2004, as amended at 80 FR 18095, Apr. 3, 2015]
+§ 1271.370
+Labeling.
+The following requirements apply in addition to §§ 1271.55, 1271.60, 1271.65, and 1271.90:
+(a) You must label each HCT/P made available for distribution clearly and accurately.
+(b) The following information must appear on the HCT/P label:
+(1) Distinct identification code affixed to the HCT/P container, and assigned in accordance with § 1271.290(c);
+(2) Description of the type of HCT/P;
+(3) Expiration date, if any; and
+(4) Warnings required under § 1271.60(d)(2), § 1271.65(b)(2), or § 1271.90(c), if applicable and physically possible. If it is not physically possible to include these warnings on the label, the warnings must, instead, accompany the HCT/P.
+(c) The following information must either appear on the HCT/P label or accompany the HCT/P:
+(1) Name and address of the establishment that determines that the HCT/P meets release criteria and makes the HCT/P available for distribution;
+(2) Storage temperature;
+(3) Other warnings, where appropriate; and
+(4) Instructions for use when related to the prevention of the introduction, transmission, or spread of communicable diseases.
+[69 FR 68686, Nov. 24, 2004, as amended at 70 FR 29952, May 25, 2005; 81 FR 40518, June 22, 2016]
+
+# Subpart F—Inspection and Enforcement of Establishments Described in § 1271.10
+
+# Source:
+69 FR 68687, Nov. 24, 2004, unless otherwise noted.
+§ 1271.390
+Applicability.
+The provisions set forth in this subpart are applicable only to HCT/Ps described in § 1271.10 and regulated solely under section 361 of the Public Health Service Act and the regulations in this part, and to the establishments that manufacture those HCT/Ps. HCT/Ps that are drugs or devices regulated under the act, or are biological products regulated under section 351 of the Public Health Service Act, are not subject to the regulations set forth in this subpart.
+§ 1271.400
+Inspections.
+(a) If you are an establishment that manufactures HCT/Ps described in § 1271.10, whether or not under contract, you must permit the Food and Drug Administration (FDA) to inspect any manufacturing location at any reasonable time and in a reasonable manner to determine compliance with applicable provisions of this part. The inspection will be conducted as necessary in the judgment of the FDA and may include your establishment, facilities, equipment, finished and unfinished materials, containers, processes, HCT/Ps, procedures, labeling, records, files, papers, and controls required to be maintained under the part. The inspection may be made with or without prior notification and will ordinarily be made during regular business hours.
+(b) The frequency of inspection will be at the agency's discretion.
+(c) FDA will call upon the most responsible person available at the time of the inspection of the establishment and may question the personnel of the establishment as necessary to determine compliance with the provisions of this part.
+(d) FDA's representatives may take samples, may review and copy any records required to be kept under this part, and may use other appropriate means to record evidence of observations during inspections conducted under this subpart.
+(e) The public disclosure of records containing the name or other positive identification of donors or recipients of HCT/Ps will be handled in accordance with FDA's procedures on disclosure of information as set forth in parts 20 and 21 of this chapter.
+§ 1271.420
+HCT/Ps offered for import.
+(a) Except as provided in paragraphs (c) and (d) of this section, when an HCT/P is offered for import, the importer of record must notify, either before or at the time of importation, the
+director of the district of the Food and Drug Administration (FDA) having jurisdiction over the port of entry through which the HCT/P is imported or offered for import, or such officer of the district as the director may designate to act in his or her behalf in administering and enforcing this part, and must provide sufficient information, including information submitted in the Automated Commercial Environment (ACE) system or any other electronic data interchange system authorized by the U.S. Customs and Border Protection Agency as required in part 1, subpart D of this chapter, for FDA to make an admissibility decision.
+(b) Except as provided in paragraphs (c) and (d) of this section, an HCT/P offered for import must be held intact by the importer or consignee, under conditions necessary to prevent transmission of communicable disease, until an admissibility decision is made by FDA. The HCT/P may be transported under quarantine to the consignee, while the FDA district reviews the documentation accompanying the HCT/P. When FDA makes a decision regarding the admissibility of the HCT/P, FDA will notify the importer of record.
+(c) This section does not apply to reproductive HCT/Ps regulated solely under section 361 of the Public Health Service Act and the regulations in this part, and donated by a sexually intimate partner of the recipient for reproductive use.
+(d) This section does not apply to peripheral blood stem/progenitor cells regulated solely under section 361 of the Public Health Service Act and the regulations in this part, except that paragraphs (a) and (b) of this section apply when circumstances occur under which such imported peripheral blood stem/progenitor cells may present an unreasonable risk of communicable disease transmission which indicates the need to review the information referenced in paragraph (a) of this section.
+[69 FR 68687, Nov. 24, 2004, as amended at 81 FR 85873, Nov. 29, 2016]
+§ 1271.440
+Orders of retention, recall, destruction, and cessation of manufacturing.
+(a) Upon an agency finding that there are reasonable grounds to believe that an HCT/P is a violative HCT/P because it was manufactured in violation of the regulations in this part and, therefore, the conditions of manufacture of the HCT/P do not provide adequate protections against risks of communicable disease transmission; or the HCT/P is infected or contaminated so as to be a source of dangerous infection to humans; or an establishment is in violation of the regulations in this part and, therefore, does not provide adequate protections against the risks of communicable disease transmission, the Food and Drug Administration (FDA) may take one or more of the following actions:
+(1) Serve upon the person who distributed the HCT/P a written order that the HCT/P be recalled and/or destroyed, as appropriate, and upon persons in possession of the HCT/P that the HCT/P must be retained until it is recalled by the distributor, destroyed, or disposed of as agreed by FDA, or the safety of the HCT/P is confirmed;
+(2) Take possession of and/or destroy the violative HCT/P; or
+(3) Serve upon the establishment an order to cease manufacturing until compliance with the regulations of this part has been achieved. When FDA determines there are reasonable grounds to believe there is a danger to health, such order will be effective immediately. In other situations, such order will be effective after one of the following events, whichever is later:
+(i) Passage of 5 working days from the establishment's receipt of the order; or
+(ii) If the establishment requests a hearing in accordance with paragraph (e) of this section and part 16 of this chapter, a decision in, and in accordance with, those proceedings.
+(b) A written order issued under paragraph (a) of this section will state with particularity the facts that justify the order.
+(c)(1) A written order issued under paragraph (a)(1) of this section will ordinarily provide that the HCT/P be recalled and/or destroyed within 5 working days from the date of receipt of the order. After receipt of an order issued under paragraph (a)(1) of this section, the establishment in possession of the HCT/P must not distribute or dispose of the HCT/P in any manner except to recall and/or destroy the HCT/P consistent with the provisions of the order, under the supervision of FDA.
+(2) In lieu of paragraph (c)(1) of this section, other arrangements for assuring the proper disposition of the HCT/P may be agreed upon by the person receiving the written order and FDA. Such arrangements may include, among others, providing FDA with records or other written information that adequately ensure that the HCT/P has been recovered, processed, stored, and distributed in conformance with this part, and that, except as provided under §§ 1271.60, 1271.65, and 1271.90, the donor of the cells or tissue for the HCT/P has been determined to be eligible.
+(d) A written order issued under paragraph (a)(3) of this section will specify the regulations with which you must achieve compliance and will ordinarily specify the particular operations covered by the order. After receipt of an order that is in effect and issued under paragraph (a)(3) of this section, you must not resume operations without prior written authorization of FDA.
+(e) The recipient of an order issued under this section may request a hearing in accordance with part 16 of this chapter. To request a hearing, the recipient of the written order or prior possessor of such HCT/P must make the request within 5 working days of receipt of a written order for retention, recall, destruction, and/or cessation (or within 5 working days of the agency's possession of an HCT/P under paragraph (a)(2) of this section), in accordance with part 16 of this chapter. An order of destruction will be held in abeyance pending resolution of the hearing request. Upon request under part 16 of this chapter, FDA will provide an opportunity for an expedited hearing for an order of cessation that is not stayed by the Commissioner of Food and Drugs.
+(f) FDA will not issue an order for the destruction of reproductive tissue under paragraph (a)(1) of this section, nor will it carry out such destruction itself under paragraph (a)(2) of this section.
+PARTS 1272-1299 [RESERVED]
+
+# FINDING AIDS
+A list of CFR titles, subtitles, chapters, subchapters and parts and an alphabetical list of agencies publishing in the CFR are included in the CFR Index and Finding Aids volume to the Code of Federal Regulations which is published separately and revised annually.
+Table of CFR Titles and Chapters
+Alphabetical List of Agencies Appearing in the CFR
+List of CFR Sections Affected
+Chap.
+
+# Table of CFR Titles and Chapters
+(Revised as of April 1, 2025)
+
+# Title 1—General Provisions
+I
+Administrative Committee of the Federal Register (Parts 1—49)
+II
+Office of the Federal Register (Parts 50—299)
+III
+Administrative Conference of the United States (Parts 300—399)
+IV
+Miscellaneous Agencies (Parts 400—599)
+VI
+National Capital Planning Commission (Parts 600—699)
+
+# Title 2—Federal Financial Assistance
+Subtitle A—Office of Management and Budget Guidance for Federal Financial Assistance
+I
+Office of Management and Budget Governmentwide Guidance for Grants and Agreements (Parts 2—199)
+II
+Office of Management and Budget Guidance (Parts 200—299)
+Subtitle B—Federal Agency Regulations for Grants and Agreements
+III
+Department of Health and Human Services (Parts 300—399)
+IV
+Department of Agriculture (Parts 400—499)
+VI
+Department of State (Parts 600—699)
+VII
+Agency for International Development (Parts 700—799)
+VIII
+Department of Veterans Affairs (Parts 800—899)
+IX
+Department of Energy (Parts 900—999)
+X
+Department of the Treasury (Parts 1000—1099)
+XI
+Department of Defense (Parts 1100—1199)
+XII
+Department of Transportation (Parts 1200—1299)
+XIII
+Department of Commerce (Parts 1300—1399)
+XIV
+Department of the Interior (Parts 1400—1499)
+XV
+Environmental Protection Agency (Parts 1500—1599)
+XVI
+U.S. International Development Finance Corporation (Parts 1600—1699)
+XVIII
+National Aeronautics and Space Administration (Parts 1800—1899)
+XIX
+U.S. Agency for Global Media (Parts 1900—1999)
+XX
+United States Nuclear Regulatory Commission (Parts 2000—2099)
+XXII
+Corporation for National and Community Service (Parts 2200—2299)
+XXIII
+Social Security Administration (Parts 2300—2399)
+XXIV
+Department of Housing and Urban Development (Parts 2400—2499)
+XXV
+National Science Foundation (Parts 2500—2599)
+XXVI
+National Archives and Records Administration (Parts 2600—2699)
+XXVII
+Small Business Administration (Parts 2700—2799)
+XXVIII
+Department of Justice (Parts 2800—2899)
+XXIX
+Department of Labor (Parts 2900—2999)
+XXX
+Department of Homeland Security (Parts 3000—3099)
+XXXI
+Institute of Museum and Library Services (Parts 3100—3199)
+XXXII
+National Endowment for the Arts (Parts 3200—3299)
+XXXIII
+National Endowment for the Humanities (Parts 3300—3399)
+XXXIV
+Department of Education (Parts 3400—3499)
+XXXV
+Export-Import Bank of the United States (Parts 3500—3599)
+XXXVI
+Office of National Drug Control Policy, Executive Office of the President (Parts 3600—3699)
+XXXVII
+Peace Corps (Parts 3700—3799)
+LVIII
+Election Assistance Commission (Parts 5800—5899)
+LIX
+Gulf Coast Ecosystem Restoration Council (Parts 5900—5999)
+LX
+Federal Communications Commission (Parts 6000—6099)
+
+# Title 3—The President
+I
+Executive Office of the President (Parts 100—199)
+
+# Title 4—Accounts
+I
+Government Accountability Office (Parts 1—199)
+
+# Title 5—Administrative Personnel
+I
+Office of Personnel Management (Parts 1—1199)
+II
+Merit Systems Protection Board (Parts 1200—1299)
+III
+Office of Management and Budget (Parts 1300—1399)
+IV
+Office of Personnel Management and Office of the Director of National Intelligence (Parts 1400—1499)
+V
+The International Organizations Employees Loyalty Board (Parts 1500—1599)
+VI
+Federal Retirement Thrift Investment Board (Parts 1600—1699)
+VIII
+Office of Special Counsel (Parts 1800—1899)
+IX
+Appalachian Regional Commission (Parts 1900—1999)
+XI
+Armed Forces Retirement Home (Parts 2100—2199)
+XIV
+Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel (Parts 2400—2499)
+XVI
+Office of Government Ethics (Parts 2600—2699)
+XXI
+Department of the Treasury (Parts 3100—3199)
+XXII
+Federal Deposit Insurance Corporation (Parts 3200—3299)
+XXIII
+Department of Energy (Parts 3300—3399)
+XXIV
+Federal Energy Regulatory Commission (Parts 3400—3499)
+XXV
+Department of the Interior (Parts 3500—3599)
+XXVI
+Department of Defense (Parts 3600—3699)
+XXVIII
+Department of Justice (Parts 3800—3899)
+XXIX
+Federal Communications Commission (Parts 3900—3999)
+XXX
+Farm Credit System Insurance Corporation (Parts 4000—4099)
+XXXI
+Farm Credit Administration (Parts 4100—4199)
+XXXIII
+U.S. International Development Finance Corporation (Parts 4300—4399)
+XXXIV
+Securities and Exchange Commission (Parts 4400—4499)
+XXXV
+Office of Personnel Management (Parts 4500—4599)
+XXXVI
+Department of Homeland Security (Parts 4600—4699)
+XXXVII
+Federal Election Commission (Parts 4700—4799)
+XL
+Interstate Commerce Commission (Parts 5000—5099)
+XLI
+Commodity Futures Trading Commission (Parts 5100—5199)
+XLII
+Department of Labor (Parts 5200—5299)
+XLIII
+National Science Foundation (Parts 5300—5399)
+XLV
+Department of Health and Human Services (Parts 5500—5599)
+XLVI
+Postal Rate Commission (Parts 5600—5699)
+XLVII
+Federal Trade Commission (Parts 5700—5799)
+XLVIII
+Nuclear Regulatory Commission (Parts 5800—5899)
+XLIX
+Federal Labor Relations Authority (Parts 5900—5999)
+L
+Department of Transportation (Parts 6000—6099)
+LII
+Export-Import Bank of the United States (Parts 6200—6299)
+LIII
+Department of Education (Parts 6300—6399)
+LIV
+Environmental Protection Agency (Parts 6400—6499)
+LV
+National Endowment for the Arts (Parts 6500—6599)
+LVI
+National Endowment for the Humanities (Parts 6600—6699)
+LVII
+General Services Administration (Parts 6700—6799)
+LVIII
+Board of Governors of the Federal Reserve System (Parts 6800—6899)
+LIX
+National Aeronautics and Space Administration (Parts 6900—6999)
+LX
+United States Postal Service (Parts 7000—7099)
+LXI
+National Labor Relations Board (Parts 7100—7199)
+LXII
+Equal Employment Opportunity Commission (Parts 7200—7299)
+LXIII
+Inter-American Foundation (Parts 7300—7399)
+LXIV
+Merit Systems Protection Board (Parts 7400—7499)
+LXV
+Department of Housing and Urban Development (Parts 7500—7599)
+LXVI
+National Archives and Records Administration (Parts 7600—7699)
+LXVII
+Institute of Museum and Library Services (Parts 7700—7799)
+LXVIII
+Commission on Civil Rights (Parts 7800—7899)
+LXIX
+Tennessee Valley Authority (Parts 7900—7999)
+LXX
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 8000—8099)
+LXXI
+Consumer Product Safety Commission (Parts 8100—8199)
+LXXIII
+Department of Agriculture (Parts 8300—8399)
+LXXIV
+Federal Mine Safety and Health Review Commission (Parts 8400—8499)
+LXXVI
+Federal Retirement Thrift Investment Board (Parts 8600—8699)
+LXXVII
+Office of Management and Budget (Parts 8700—8799)
+LXXX
+Federal Housing Finance Agency (Parts 9000—9099)
+LXXXIII
+Special Inspector General for Afghanistan Reconstruction (Parts 9300—9399)
+LXXXIV
+Bureau of Consumer Financial Protection (Parts 9400—9499)
+LXXXVI
+National Credit Union Administration (Parts 9600—9699)
+XCVII
+Department of Homeland Security Human Resources Management System (Department of Homeland Security—Office of Personnel Management) (Parts 9700—9799)
+XCVIII
+Council of the Inspectors General on Integrity and Efficiency (Parts 9800—9899)
+XCIX
+Military Compensation and Retirement Modernization Commission (Parts 9900—9999)
+C
+National Council on Disability (Parts 10000—10049)
+CI
+National Mediation Board (Parts 10100—10199)
+CII
+U.S. Office of Special Counsel (Parts 10200—10299)
+CIII
+U.S. Office of Federal Mediation and Conciliation Service (Parts 10300—10399)
+CIV
+Office of the Intellectual Property Enforcement Coordinator (Part 10400—10499)
+
+# Title 6—Domestic Security
+I
+Department of Homeland Security, Office of the Secretary (Parts 1—199)
+X
+Privacy and Civil Liberties Oversight Board (Parts 1000—1099)
+
+# Title 7—Agriculture
+Subtitle A—Office of the Secretary of Agriculture (Parts 0—26)
+Subtitle B—Regulations of the Department of Agriculture
+I
+Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture (Parts 27—209)
+II
+Food and Nutrition Service, Department of Agriculture (Parts 210—299)
+III
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 300—399)
+IV
+Federal Crop Insurance Corporation, Department of Agriculture (Parts 400—499)
+V
+Agricultural Research Service, Department of Agriculture (Parts 500—599)
+VI
+Natural Resources Conservation Service, Department of Agriculture (Parts 600—699)
+VII
+Farm Service Agency, Department of Agriculture (Parts 700—799)
+VIII
+Agricultural Marketing Service (Federal Grain Inspection Service, Fair Trade Practices Program), Department of Agriculture (Parts 800—899)
+IX
+Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture (Parts 900—999)
+X
+Agricultural Marketing Service (Marketing Agreements and Orders; Milk), Department of Agriculture (Parts 1000—1199)
+XI
+Agricultural Marketing Service (Marketing Agreements and Orders; Miscellaneous Commodities), Department of Agriculture (Parts 1200—1299)
+XIV
+Commodity Credit Corporation, Department of Agriculture (Parts 1400—1499)
+XV
+Foreign Agricultural Service, Department of Agriculture (Parts 1500—1599)
+XVI
+[Reserved]
+XVII
+Rural Utilities Service, Department of Agriculture (Parts 1700—1799)
+XVIII
+Rural Housing Service, Rural Business-Cooperative Service, Rural Utilities Service, and Farm Service Agency, Department of Agriculture (Parts 1800—2099)
+XX
+[Reserved]
+XXI
+Office of Energy and Environmental Policy, Department of Agriculture (Part 2100)
+XXV
+Office of Advocacy and Outreach, Department of Agriculture (Parts 2500—2599)
+XXVI
+Office of Inspector General, Department of Agriculture (Parts 2600—2699)
+XXVII
+Office of Information Resources Management, Department of Agriculture (Parts 2700—2799)
+XXVIII
+Office of Operations, Department of Agriculture (Parts 2800—2899)
+XXIX
+Office of Energy Policy and New Uses, Department of Agriculture (Parts 2900—2999)
+XXX
+Office of the Chief Financial Officer, Department of Agriculture (Parts 3000—3099)
+XXXI
+Office of Environmental Quality, Department of Agriculture (Parts 3100—3199)
+XXXII
+Office of Procurement and Property Management, Department of Agriculture (Parts 3200—3299)
+XXXIII
+Office of Transportation, Department of Agriculture (Parts 3300—3399)
+XXXIV
+National Institute of Food and Agriculture (Parts 3400—3499)
+XXXV
+Rural Housing Service, Department of Agriculture (Parts 3500—3599)
+XXXVI
+National Agricultural Statistics Service, Department of Agriculture (Parts 3600—3699)
+XXXVII
+Economic Research Service, Department of Agriculture (Parts 3700—3799)
+XXXVIII
+World Agricultural Outlook Board, Department of Agriculture (Parts 3800—3899)
+XLI
+[Reserved]
+XLII
+Rural Business-Cooperative Service, Department of Agriculture (Parts 4200—4299)
+L
+Rural Business-Cooperative Service, Rural Housing Service, and Rural Utilities Service, Department of Agriculture (Parts 5000—5099)
+
+# Title 8—Aliens and Nationality
+I
+Department of Homeland Security (Parts 1—499)
+V
+Executive Office for Immigration Review, Department of Justice (Parts 1000—1399)
+
+# Title 9—Animals and Animal Products
+I
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 1—199)
+II
+Agricultural Marketing Service (Fair Trade Practices Program), Department of Agriculture (Parts 200—299)
+III
+Food Safety and Inspection Service, Department of Agriculture (Parts 300—599)
+
+# Title 10—Energy
+I
+Nuclear Regulatory Commission (Parts 0—199)
+II
+Department of Energy (Parts 200—699)
+III
+Department of Energy (Parts 700—999)
+X
+Department of Energy (General Provisions) (Parts 1000—1099)
+XIII
+Nuclear Waste Technical Review Board (Parts 1300—1399)
+XVII
+Defense Nuclear Facilities Safety Board (Parts 1700—1799)
+XVIII
+Northeast Interstate Low-Level Radioactive Waste Commission (Parts 1800—1899)
+
+# Title 11—Federal Elections
+I
+Federal Election Commission (Parts 1—9099)
+II
+Election Assistance Commission (Parts 9400—9499)
+
+# Title 12—Banks and Banking
+I
+Comptroller of the Currency, Department of the Treasury (Parts 1—199)
+II
+Federal Reserve System (Parts 200—299)
+III
+Federal Deposit Insurance Corporation (Parts 300—399)
+IV
+Export-Import Bank of the United States (Parts 400—499)
+V
+(Parts 500—599) [Reserved]
+VI
+Farm Credit Administration (Parts 600—699)
+VII
+National Credit Union Administration (Parts 700—799)
+VIII
+Federal Financing Bank (Parts 800—899)
+IX
+(Parts 900—999)[Reserved]
+X
+Consumer Financial Protection Bureau (Parts 1000—1099)
+XI
+Federal Financial Institutions Examination Council (Parts 1100—1199)
+XII
+Federal Housing Finance Agency (Parts 1200—1299)
+XIII
+Financial Stability Oversight Council (Parts 1300—1399)
+XIV
+Farm Credit System Insurance Corporation (Parts 1400—1499)
+XV
+Department of the Treasury (Parts 1500—1599)
+XVI
+Office of Financial Research, Department of the Treasury (Parts 1600—1699)
+XVII
+Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development (Parts 1700—1799)
+XVIII
+Community Development Financial Institutions Fund, Department of the Treasury (Parts 1800—1899)
+
+# Title 13—Business Credit and Assistance
+I
+Small Business Administration (Parts 1—199)
+III
+Economic Development Administration, Department of Commerce (Parts 300—399)
+IV
+Emergency Steel Guarantee Loan Board (Parts 400—499)
+V
+Emergency Oil and Gas Guaranteed Loan Board (Parts 500—599)
+
+# Title 14—Aeronautics and Space
+I
+Federal Aviation Administration, Department of Transportation (Parts 1—199)
+II
+Office of the Secretary, Department of Transportation (Aviation Proceedings) (Parts 200—399)
+III
+Commercial Space Transportation, Federal Aviation Administration, Department of Transportation (Parts 400—1199)
+V
+National Aeronautics and Space Administration (Parts 1200—1299)
+VI
+Air Transportation System Stabilization (Parts 1300—1399)
+
+# Title 15—Commerce and Foreign Trade
+Subtitle A—Office of the Secretary of Commerce (Parts 0—29)
+Subtitle B—Regulations Relating to Commerce and Foreign Trade
+I
+Bureau of the Census, Department of Commerce (Parts 30—199)
+II
+National Institute of Standards and Technology, Department of Commerce (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+Foreign-Trade Zones Board, Department of Commerce (Parts 400—499)
+VII
+Bureau of Industry and Security, Department of Commerce (Parts 700—799)
+VIII
+Bureau of Economic Analysis, Department of Commerce (Parts 800—899)
+IX
+National Oceanic and Atmospheric Administration, Department of Commerce (Parts 900—999)
+XI
+National Technical Information Service, Department of Commerce (Parts 1100—1199)
+XIII
+East-West Foreign Trade Board (Parts 1300—1399)
+XIV
+Minority Business Development Agency (Parts 1400—1499)
+XV
+Office of the Under-Secretary for Economic Affairs, Department of Commerce (Parts 1500—1599)
+Subtitle C—Regulations Relating to Foreign Trade Agreements
+XX
+Office of the United States Trade Representative (Parts 2000—2099)
+Subtitle D—Regulations Relating to Telecommunications and Information
+XXIII
+National Telecommunications and Information Administration, Department of Commerce (Parts 2300—2399) [Reserved]
+
+# Title 16—Commercial Practices
+I
+Federal Trade Commission (Parts 0—999)
+II
+Consumer Product Safety Commission (Parts 1000—1799)
+
+# Title 17—Commodity and Securities Exchanges
+I
+Commodity Futures Trading Commission (Parts 1—199)
+II
+Securities and Exchange Commission (Parts 200—399)
+IV
+Department of the Treasury (Parts 400—499)
+
+# Title 18—Conservation of Power and Water Resources
+I
+Federal Energy Regulatory Commission, Department of Energy (Parts 1—399)
+III
+Delaware River Basin Commission (Parts 400—499)
+VI
+Water Resources Council (Parts 700—799)
+VIII
+Susquehanna River Basin Commission (Parts 800—899)
+XIII
+Tennessee Valley Authority (Parts 1300—1399)
+
+# Title 19—Customs Duties
+I
+U.S. Customs and Border Protection, Department of Homeland Security; Department of the Treasury (Parts 0—199)
+II
+United States International Trade Commission (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+U.S. Immigration and Customs Enforcement, Department of Homeland Security (Parts 400—599) [Reserved]
+
+# Title 20—Employees' Benefits
+I
+Office of Workers' Compensation Programs, Department of Labor (Parts 1—199)
+II
+Railroad Retirement Board (Parts 200—399)
+III
+Social Security Administration (Parts 400—499)
+IV
+Employees' Compensation Appeals Board, Department of Labor (Parts 500—599)
+V
+Employment and Training Administration, Department of Labor (Parts 600—699)
+VI
+Office of Workers' Compensation Programs, Department of Labor (Parts 700—799)
+VII
+Benefits Review Board, Department of Labor (Parts 800—899)
+VIII
+Joint Board for the Enrollment of Actuaries (Parts 900—999)
+IX
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 1000—1099)
+
+# Title 21—Food and Drugs
+I
+Food and Drug Administration, Department of Health and Human Services (Parts 1—1299)
+II
+Drug Enforcement Administration, Department of Justice (Parts 1300—1399)
+III
+Office of National Drug Control Policy (Parts 1400—1499)
+
+# Title 22—Foreign Relations
+I
+Department of State (Parts 1—199)
+II
+Agency for International Development (Parts 200—299)
+III
+Peace Corps (Parts 300—399)
+IV
+International Joint Commission, United States and Canada (Parts 400—499)
+V
+United States Agency for Global Media (Parts 500—599)
+VII
+U.S. International Development Finance Corporation (Parts 700—799)
+IX
+Foreign Service Grievance Board (Parts 900—999)
+X
+Inter-American Foundation (Parts 1000—1099)
+XI
+International Boundary and Water Commission, United States and Mexico, United States Section (Parts 1100—1199)
+XII
+United States International Development Cooperation Agency (Parts 1200—1299)
+XIII
+Millennium Challenge Corporation (Parts 1300—1399)
+XIV
+Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel (Parts 1400—1499)
+XV
+African Development Foundation (Parts 1500—1599)
+XVI
+Japan-United States Friendship Commission (Parts 1600—1699)
+XVII
+United States Institute of Peace (Parts 1700—1799)
+
+# Title 23—Highways
+I
+Federal Highway Administration, Department of Transportation (Parts 1—999)
+II
+National Highway Traffic Safety Administration and Federal Highway Administration, Department of Transportation (Parts 1200—1299)
+III
+National Highway Traffic Safety Administration, Department of Transportation (Parts 1300—1399)
+
+# Title 24—Housing and Urban Development
+Subtitle A—Office of the Secretary, Department of Housing and Urban Development (Parts 0—99)
+Subtitle B—Regulations Relating to Housing and Urban Development
+I
+Office of Assistant Secretary for Equal Opportunity, Department of Housing and Urban Development (Parts 100—199)
+II
+Office of Assistant Secretary for Housing-Federal Housing Commissioner, Department of Housing and Urban Development (Parts 200—299)
+III
+Government National Mortgage Association, Department of Housing and Urban Development (Parts 300—399)
+IV
+Office of Housing and Office of Multifamily Housing Assistance Restructuring, Department of Housing and Urban Development (Parts 400—499)
+V
+Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development (Parts 500—599)
+VI
+Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development (Parts 600—699) [Reserved]
+VII
+Office of the Secretary, Department of Housing and Urban Development (Housing Assistance Programs and Public and Indian Housing Programs) (Parts 700—799)
+VIII
+Office of the Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Section 8 Housing Assistance Programs, Section 202 Direct Loan Program, Section 202 Supportive Housing for the Elderly Program and Section 811 Supportive Housing for Persons With Disabilities Program) (Parts 800—899)
+IX
+Office of Assistant Secretary for Public and Indian Housing, Department of Housing and Urban Development (Parts 900—1699)
+X
+Office of Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Interstate Land Sales Registration Program) (Parts 1700—1799) [Reserved]
+XII
+Office of Inspector General, Department of Housing and Urban Development (Parts 2000—2099)
+XV
+Emergency Mortgage Insurance and Loan Programs, Department of Housing and Urban Development (Parts 2700—2799) [Reserved]
+XX
+Office of Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Parts 3200—3899)
+XXIV
+Board of Directors of the HOPE for Homeowners Program (Parts 4000—4099) [Reserved]
+XXV
+Neighborhood Reinvestment Corporation (Parts 4100—4199)
+
+# Title 25—Indians
+I
+Bureau of Indian Affairs, Department of the Interior (Parts 1—299)
+II
+Indian Arts and Crafts Board, Department of the Interior (Parts 300—399)
+III
+National Indian Gaming Commission, Department of the Interior (Parts 500—599)
+IV
+Office of Navajo and Hopi Indian Relocation (Parts 700—899)
+V
+Bureau of Indian Affairs, Department of the Interior, and Indian Health Service, Department of Health and Human Services (Part 900—999)
+VI
+Office of the Assistant Secretary, Indian Affairs, Department of the Interior (Parts 1000—1199)
+VII
+Office of the Special Trustee for American Indians, Department of the Interior (Parts 1200—1299)
+
+# Title 26—Internal Revenue
+I
+Internal Revenue Service, Department of the Treasury (Parts 1—End)
+
+# Title 27—Alcohol, Tobacco Products and Firearms
+I
+Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury (Parts 1—399)
+II
+Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice (Parts 400—799)
+
+# Title 28—Judicial Administration
+I
+Department of Justice (Parts 0—299)
+III
+Federal Prison Industries, Inc., Department of Justice (Parts 300—399)
+V
+Bureau of Prisons, Department of Justice (Parts 500—599)
+VI
+Offices of Independent Counsel, Department of Justice (Parts 600—699)
+VII
+Office of Independent Counsel (Parts 700—799)
+VIII
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 800—899)
+IX
+National Crime Prevention and Privacy Compact Council (Parts 900—999)
+XI
+Department of Justice and Department of State (Parts 1100—1199)
+
+# Title 29—Labor
+Subtitle A—Office of the Secretary of Labor (Parts 0—99)
+Subtitle B—Regulations Relating to Labor
+I
+National Labor Relations Board (Parts 100—199)
+II
+Office of Labor-Management Standards, Department of Labor (Parts 200—299)
+III
+National Railroad Adjustment Board (Parts 300—399)
+IV
+Office of Labor-Management Standards, Department of Labor (Parts 400—499)
+V
+Wage and Hour Division, Department of Labor (Parts 500—899)
+IX
+Construction Industry Collective Bargaining Commission (Parts 900—999)
+X
+National Mediation Board (Parts 1200—1299)
+XII
+Federal Mediation and Conciliation Service (Parts 1400—1499)
+XIV
+Equal Employment Opportunity Commission (Parts 1600—1699)
+XVII
+Occupational Safety and Health Administration, Department of Labor (Parts 1900—1999)
+XX
+Occupational Safety and Health Review Commission (Parts 2200—2499)
+XXV
+Employee Benefits Security Administration, Department of Labor (Parts 2500—2599)
+XXVII
+Federal Mine Safety and Health Review Commission (Parts 2700—2799)
+XL
+Pension Benefit Guaranty Corporation (Parts 4000—4999)
+
+# Title 30—Mineral Resources
+I
+Mine Safety and Health Administration, Department of Labor (Parts 1—199)
+II
+Bureau of Safety and Environmental Enforcement, Department of the Interior (Parts 200—299)
+IV
+Geological Survey, Department of the Interior (Parts 400—499)
+V
+Bureau of Ocean Energy Management, Department of the Interior (Parts 500—599)
+VII
+Office of Surface Mining Reclamation and Enforcement, Department of the Interior (Parts 700—999)
+XII
+Office of Natural Resources Revenue, Department of the Interior (Parts 1200—1299)
+
+# Title 31—Money and Finance: Treasury
+Subtitle A—Office of the Secretary of the Treasury (Parts 0—50)
+Subtitle B—Regulations Relating to Money and Finance
+I
+Monetary Offices, Department of the Treasury (Parts 51—199)
+II
+Fiscal Service, Department of the Treasury (Parts 200—399)
+IV
+Secret Service, Department of the Treasury (Parts 400—499)
+V
+Office of Foreign Assets Control, Department of the Treasury (Parts 500—599)
+VI
+Bureau of Engraving and Printing, Department of the Treasury (Parts 600—699)
+VII
+Federal Law Enforcement Training Center, Department of the Treasury (Parts 700—799)
+VIII
+Office of Investment Security, Department of the Treasury (Parts 800—899)
+IX
+Federal Claims Collection Standards (Department of the Treasury—Department of Justice) (Parts 900—999)
+X
+Financial Crimes Enforcement Network, Department of the Treasury (Parts 1000—1099)
+
+# Title 32—National Defense
+Subtitle A—Department of Defense
+I
+Office of the Secretary of Defense (Parts 1—399)
+V
+Department of the Army (Parts 400—699)
+VI
+Department of the Navy (Parts 700—799)
+VII
+Department of the Air Force (Parts 800—1099)
+Subtitle B—Other Regulations Relating to National Defense
+XII
+Department of Defense, Defense Logistics Agency (Parts 1200—1299)
+XVI
+Selective Service System (Parts 1600—1699)
+XVII
+Office of the Director of National Intelligence (Parts 1700—1799)
+XVIII
+National Counterintelligence Center (Parts 1800—1899)
+XIX
+Central Intelligence Agency (Parts 1900—1999)
+XX
+Information Security Oversight Office, National Archives and Records Administration (Parts 2000—2099)
+XXI
+National Security Council (Parts 2100—2199)
+XXIV
+Office of Science and Technology Policy (Parts 2400—2499)
+XXVII
+Office for Micronesian Status Negotiations (Parts 2700—2799)
+XXVIII
+Office of the Vice President of the United States (Parts 2800—2899)
+
+# Title 33—Navigation and Navigable Waters
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Corps of Engineers, Department of the Army, Department of Defense (Parts 200—399)
+IV
+Great Lakes St. Lawrence Seaway Development Corporation, Department of Transportation (Parts 400—499)
+
+# Title 34—Education
+Subtitle A—Office of the Secretary, Department of Education (Parts 1—99)
+Subtitle B—Regulations of the Offices of the Department of Education
+I
+Office for Civil Rights, Department of Education (Parts 100—199)
+II
+Office of Elementary and Secondary Education, Department of Education (Parts 200—299)
+III
+Office of Special Education and Rehabilitative Services, Department of Education (Parts 300—399)
+IV
+Office of Career, Technical, and Adult Education, Department of Education (Parts 400—499)
+V
+Office of Bilingual Education and Minority [Reserved]
+VI
+Office of Postsecondary Education, Department of Education (Parts 600—699)
+VII
+Office of Educational Research and Improvement, Department of Education (Parts 700—799) [Reserved]
+Subtitle C—Regulations Relating to Education
+XI
+[Reserved]
+XII
+National Council on Disability (Parts 1200—1299)
+Title 35 [Reserved]
+
+# Title 36—Parks, Forests, and Public Property
+I
+National Park Service, Department of the Interior (Parts 1—199)
+II
+Forest Service, Department of Agriculture (Parts 200—299)
+III
+Corps of Engineers, Department of the Army (Parts 300—399)
+IV
+American Battle Monuments Commission (Parts 400—499)
+V
+Smithsonian Institution (Parts 500—599)
+VI
+[Reserved]
+VII
+Library of Congress (Parts 700—799)
+VIII
+Advisory Council on Historic Preservation (Parts 800—899)
+IX
+Pennsylvania Avenue Development Corporation (Parts 900—999)
+X
+Presidio Trust (Parts 1000—1099)
+XI
+Architectural and Transportation Barriers Compliance Board (Parts 1100—1199)
+XII
+National Archives and Records Administration (Parts 1200—1299)
+XV
+Oklahoma City National Memorial Trust (Parts 1500—1599)
+XVI
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation (Parts 1600—1699)
+
+# Title 37—Patents, Trademarks, and Copyrights
+I
+United States Patent and Trademark Office, Department of Commerce (Parts 1—199)
+II
+U.S. Copyright Office, Library of Congress (Parts 200—299)
+III
+Copyright Royalty Board, Library of Congress (Parts 300—399)
+IV
+National Institute of Standards and Technology, Department of Commerce (Parts 400—599)
+
+# Title 38—Pensions, Bonuses, and Veterans' Relief
+I
+Department of Veterans Affairs (Parts 0—199)
+II
+Armed Forces Retirement Home (Parts 200—299)
+
+# Title 39—Postal Service
+I
+United States Postal Service (Parts 1—999)
+III
+Postal Regulatory Commission (Parts 3000—3099)
+
+# Title 40—Protection of Environment
+I
+Environmental Protection Agency (Parts 1—1099)
+IV
+Environmental Protection Agency and Department of Justice (Parts 1400—1499)
+V
+Council on Environmental Quality (Parts 1500—1599)
+VI
+Chemical Safety and Hazard Investigation Board (Parts 1600—1699)
+VII
+Environmental Protection Agency and Department of Defense; Uniform National Discharge Standards for Vessels of the Armed Forces (Parts 1700—1799)
+VIII
+Gulf Coast Ecosystem Restoration Council (Parts 1800—1899)
+IX
+Federal Permitting Improvement Steering Council (Part 1900)
+
+# Title 41—Public Contracts and Property Management
+Subtitle A—Federal Procurement Regulations System [Note]
+Subtitle B—Other Provisions Relating to Public Contracts
+50
+Public Contracts, Department of Labor (Parts 50-1—50-999)
+51
+Committee for Purchase From People Who Are Blind or Severely Disabled (Parts 51-1—51-99)
+60
+Office of Federal Contract Compliance Programs, Equal Employment Opportunity, Department of Labor (Parts 60-1—60-999)
+61
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 61-1—61-999)
+62—100
+[Reserved]
+Subtitle C—Federal Property Management Regulations System
+101
+Federal Property Management Regulations (Parts 101-1—101-99)
+102
+Federal Management Regulation (Parts 102-1—102-299)
+103—104
+[Reserved]
+105
+General Services Administration (Parts 105-1—105-999)
+109
+Department of Energy Property Management Regulations (Parts 109-1—109-99)
+114
+Department of the Interior (Parts 114-1—114-99)
+115
+Environmental Protection Agency (Parts 115-1—115-99)
+128
+Department of Justice (Parts 128-1—128-99)
+129—200
+[Reserved]
+Subtitle D—Federal Acquisition Supply Chain Security
+201
+Federal Acquisition Security Council (Parts 201-1—201-99)
+Subtitle E [Reserved]
+Subtitle F—Federal Travel Regulation System
+300
+General (Parts 300-1—300-99)
+301
+Temporary Duty (TDY) Travel Allowances (Parts 301-1—301-99)
+302
+Relocation Allowances (Parts 302-1—302-99)
+303
+Payment of Expenses Connected with the Death of Certain Employees (Part 303-1—303-99)
+304
+Payment of Travel Expenses from a Non-Federal Source (Parts 304-1—304-99)
+
+# Title 42—Public Health
+I
+Public Health Service, Department of Health and Human Services (Parts 1—199)
+II—III
+[Reserved]
+IV
+Centers for Medicare
+Medicaid Services, Department of Health and Human Services (Parts 400—699)
+V
+Office of Inspector General-Health Care, Department of Health and Human Services (Parts 1000—1099)
+
+# Title 43—Public Lands: Interior
+Subtitle A—Office of the Secretary of the Interior (Parts 1—199)
+Subtitle B—Regulations Relating to Public Lands
+I
+Bureau of Reclamation, Department of the Interior (Parts 400—999)
+II
+Bureau of Land Management, Department of the Interior (Parts 1000—9999)
+III
+Utah Reclamation Mitigation and Conservation Commission (Parts 10000—10099)
+
+# Title 44—Emergency Management and Assistance
+I
+Federal Emergency Management Agency, Department of Homeland Security (Parts 0—399)
+IV
+Department of Commerce and Department of Transportation (Parts 400—499)
+
+# Title 45—Public Welfare
+Subtitle A—Department of Health and Human Services (Parts 1—199)
+Subtitle B—Regulations Relating to Public Welfare
+II
+Office of Family Assistance (Assistance Programs), Administration for Children and Families, Department of Health and Human Services (Parts 200—299)
+III
+Office of Child Support Services, Administration of Families and Services, Department of Health and Human Services (Parts 300—399)
+IV
+Office of Refugee Resettlement, Administration for Children and Families, Department of Health and Human Services (Parts 400—499)
+V
+Foreign Claims Settlement Commission of the United States, Department of Justice (Parts 500—599)
+VI
+National Science Foundation (Parts 600—699)
+VII
+Commission on Civil Rights (Parts 700—799)
+VIII
+Office of Personnel Management (Parts 800—899)
+IX
+Denali Commission (Parts 900—999)
+X
+Office of Community Services, Administration for Children and Families, Department of Health and Human Services (Parts 1000—1099)
+XI
+National Foundation on the Arts and the Humanities (Parts 1100—1199)
+XII
+Corporation for National and Community Service (Parts 1200—1299)
+XIII
+Administration for Children and Families, Department of Health and Human Services (Parts 1300—1399)
+XVI
+Legal Services Corporation (Parts 1600—1699)
+XVII
+National Commission on Libraries and Information Science (Parts 1700—1799)
+XVIII
+Harry S. Truman Scholarship Foundation (Parts 1800—1899)
+XXI
+Commission of Fine Arts (Parts 2100—2199)
+XXIII
+Arctic Research Commission (Parts 2300—2399)
+XXIV
+James Madison Memorial Fellowship Foundation (Parts 2400—2499)
+XXV
+Corporation for National and Community Service (Parts 2500—2599)
+
+# Title 46—Shipping
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Maritime Administration, Department of Transportation (Parts 200—399)
+III
+Coast Guard (Great Lakes Pilotage), Department of Homeland Security (Parts 400—499)
+IV
+Federal Maritime Commission (Parts 500—599)
+
+# Title 47—Telecommunication
+I
+Federal Communications Commission (Parts 0—199)
+II
+Office of Science and Technology Policy and National Security Council (Parts 200—299)
+III
+National Telecommunications and Information Administration, Department of Commerce (Parts 300—399)
+IV
+National Telecommunications and Information Administration, Department of Commerce, and National Highway Traffic Safety Administration, Department of Transportation (Parts 400—499)
+V
+The First Responder Network Authority (Parts 500—599)
+
+# Title 48—Federal Acquisition Regulations System
+1
+Federal Acquisition Regulation (Parts 1—99)
+2
+Defense Acquisition Regulations System, Department of Defense (Parts 200—299)
+3
+Health and Human Services (Parts 300—399)
+4
+Department of Agriculture (Parts 400—499)
+5
+General Services Administration (Parts 500—599)
+6
+Department of State (Parts 600—699)
+7
+Agency for International Development (Parts 700—799)
+8
+Department of Veterans Affairs (Parts 800—899)
+9
+Department of Energy (Parts 900—999)
+10
+Department of the Treasury (Parts 1000—1099)
+12
+Department of Transportation (Parts 1200—1299)
+13
+Department of Commerce (Parts 1300—1399)
+14
+Department of the Interior (Parts 1400—1499)
+15
+Environmental Protection Agency (Parts 1500—1599)
+16
+Office of Personnel Management, Federal Employees Health Benefits Acquisition Regulation (Parts 1600—1699)
+17
+Office of Personnel Management (Parts 1700—1799)
+18
+National Aeronautics and Space Administration (Parts 1800—1899)
+19
+Broadcasting Board of Governors (Parts 1900—1999)
+20
+Nuclear Regulatory Commission (Parts 2000—2099)
+21
+Office of Personnel Management, Federal Employees Group Life Insurance Federal Acquisition Regulation (Parts 2100—2199)
+23
+Social Security Administration (Parts 2300—2399)
+24
+Department of Housing and Urban Development (Parts 2400—2499)
+25
+National Science Foundation (Parts 2500—2599)
+28
+Department of Justice (Parts 2800—2899)
+29
+Department of Labor (Parts 2900—2999)
+30
+Department of Homeland Security, Homeland Security Acquisition Regulation (HSAR) (Parts 3000—3099)
+34
+Department of Education Acquisition Regulation (Parts 3400—3499)
+51
+Department of the Army Acquisition Regulations (Parts 5100—5199) [Reserved]
+52
+Department of the Navy Acquisition Regulations (Parts 5200—5299)
+53
+Department of the Air Force Federal Acquisition Regulation Supplement (Parts 5300—5399) [Reserved]
+54
+Defense Logistics Agency, Department of Defense (Parts 5400—5499)
+57
+African Development Foundation (Parts 5700—5799)
+61
+Civilian Board of Contract Appeals, General Services Administration (Parts 6100—6199)
+99
+Cost Accounting Standards Board, Office of Federal Procurement Policy, Office of Management and Budget (Parts 9900—9999)
+
+# Title 49—Transportation
+Subtitle A—Office of the Secretary of Transportation (Parts 1—99)
+Subtitle B—Other Regulations Relating to Transportation
+I
+Pipeline and Hazardous Materials Safety Administration, Department of Transportation (Parts 100—199)
+II
+Federal Railroad Administration, Department of Transportation (Parts 200—299)
+III
+Federal Motor Carrier Safety Administration, Department of Transportation (Parts 300—399)
+IV
+Coast Guard, Department of Homeland Security (Parts 400—499)
+V
+National Highway Traffic Safety Administration, Department of Transportation (Parts 500—599)
+VI
+Federal Transit Administration, Department of Transportation (Parts 600—699)
+VII
+National Railroad Passenger Corporation (AMTRAK) (Parts 700—799)
+VIII
+National Transportation Safety Board (Parts 800—999)
+X
+Surface Transportation Board (Parts 1000—1399)
+XI
+Research and Innovative Technology Administration, Department of Transportation (Parts 1400—1499) [Reserved]
+XII
+Transportation Security Administration, Department of Homeland Security (Parts 1500—1699)
+
+# Title 50—Wildlife and Fisheries
+I
+United States Fish and Wildlife Service, Department of the Interior (Parts 1—199)
+II
+National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 200—299)
+III
+International Fishing and Related Activities (Parts 300—399)
+IV
+Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations (Parts 400—499)
+V
+Marine Mammal Commission (Parts 500—599)
+VI
+Fishery Conservation and Management, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 600—699)
+
+# Alphabetical List of Agencies Appearing in the CFR
+(Revised as of April 1, 2025)
+Agency
+CFR Title, Subtitle or Chapter
+Administrative Conference of the United States
+1, III
+Advisory Council on Historic Preservation
+36, VIII
+Advocacy and Outreach, Office of
+7, XXV
+Afghanistan Reconstruction, Special Inspector General for
+5, LXXXIII
+African Development Foundation
+22, XV
+Federal Acquisition Regulation
+48, 57
+Agency for International Development
+2, VII; 22, II
+Federal Acquisition Regulation
+48, 7
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Agriculture, Department of
+2, IV; 5, LXXIII
+Advocacy and Outreach, Office of
+7, XXV
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Chief Financial Officer, Office of
+7, XXX
+Commodity Credit Corporation
+7, XIV
+Economic Research Service
+7, XXXVII
+Energy and Environmental Policy, Office of
+7, XXI
+Energy Policy and New Uses, Office of
+2, IX; 7, XXIX
+Environmental Quality, Office of
+7, XXXI
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 4
+Federal Crop Insurance Corporation
+7, IV
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Forest Service
+36, II
+Information Resources Management, Office of
+7, XXVII
+Inspector General, Office of
+7, XXVI
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National Institute of Food and Agriculture
+7, XXXIV
+Natural Resources Conservation Service
+7, VI
+Operations, Office of
+7, XXVIII
+Procurement and Property Management, Office of
+7, XXXII
+Rural Business-Cooperative Service
+7, XVIII, XLII
+Rural Development Administration
+7, XLII
+Rural Housing Service
+7, XVIII, XXXV
+Rural Utilities Service
+7, XVII, XVIII, XLII
+Secretary of Agriculture, Office of
+7, Subtitle A
+Transportation, Office of
+7, XXXIII
+World Agricultural Outlook Board
+7, XXXVIII
+Air Force, Department of
+32, VII
+Federal Acquisition Regulation Supplement
+48, 53
+Air Transportation Stabilization Board
+14, VI
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+AMTRAK
+49, VII
+American Battle Monuments Commission
+36, IV
+American Indians, Office of the Special Trustee
+25, VII
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Appalachian Regional Commission
+5, IX
+Architectural and Transportation Barriers Compliance Board
+36, XI
+Arctic Research Commission
+45, XXIII
+Armed Forces Retirement Home
+5, XI; 38, II
+Army, Department of
+32, V
+Engineers, Corps of
+33, II; 36, III
+Federal Acquisition Regulation
+48, 51
+Benefits Review Board
+20, VII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Blind or Severely Disabled, Committee for Purchase from People Who Are
+41, 51
+Broadcasting Board of Governors
+Federal Acquisition Regulation
+48, 19
+Career, Technical, and Adult Education, Office of
+34, IV
+Census Bureau
+15, I
+Centers for Medicare
+Medicaid Services
+42, IV
+Central Intelligence Agency
+32, XIX
+Chemical Safety and Hazard Investigation Board
+40, VI
+Chief Financial Officer, Office of
+7, XXX
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Civil Rights, Commission on
+5, LXVIII; 45, VII
+Civil Rights, Office for
+34, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Commerce, Department of
+2, XIII; 44, IV; 50, VI
+Census Bureau
+15, I
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 13
+Foreign-Trade Zones Board
+15, IV
+Industry and Security, Bureau of
+15, VII
+International Trade Administration
+15, III; 19, III
+National Institute of Standards and Technology
+15, II; 37, IV
+National Marine Fisheries Service
+50, II, IV
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV
+National Weather Service
+15, IX
+Patent and Trademark Office, United States
+37, I
+Secretary of Commerce, Office of
+15, Subtitle A
+Commercial Space Transportation
+14, III
+Commodity Credit Corporation
+7, XIV
+Commodity Futures Trading Commission
+5, XLI; 17, I
+Community Planning and Development, Office of Assistant Secretary for
+24, V, VI
+Community Services, Office of
+45, X
+Comptroller of the Currency
+12, I
+Construction Industry Collective Bargaining Commission
+29, IX
+Consumer Financial Protection Bureau
+5, LXXXIV; 12, X
+Consumer Product Safety Commission
+5, LXXI; 16, II
+Copyright Royalty Board
+37, III
+Corporation for National and Community Service
+2, XXII; 45, XII, XXV
+Cost Accounting Standards Board
+48, 99
+Council on Environmental Quality
+40, V
+Council of the Inspectors General on Integrity and Efficiency
+5, XCVIII
+Court Services and Offender Supervision Agency for the District of Columbia
+5, LXX; 28, VIII
+Customs and Border Protection
+19, I
+Defense, Department of
+2, XI; 5, XXVI; 32, Subtitle A; 40, VII
+Advanced Research Projects Agency
+32, I
+Air Force Department
+32, VII
+Army Department
+32, V; 33, II; 36, III; 48, 51
+Defense Acquisition Regulations System
+48, 2
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, I, XII; 48, 54
+Engineers, Corps of
+33, II; 36, III
+National Imagery and Mapping Agency
+32, I
+Navy, Department of
+32, VI; 48, 52
+Secretary of Defense, Office of
+2, XI; 32, I
+Defense Contract Audit Agency
+32, I
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, XII; 48, 54
+Defense Nuclear Facilities Safety Board
+10, XVII
+Delaware River Basin Commission
+18, III
+Denali Commission
+45, IX
+Disability, National Council on
+5, C; 34, XII
+District of Columbia, Court Services and Offender Supervision Agency for the
+5, LXX; 28, VIII
+Drug Enforcement Administration
+21, II
+East-West Foreign Trade Board
+15, XIII
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Economic Research Service
+7, XXXVII
+Education, Department of
+2, XXXIV; 5, LIII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Career, Technical, and Adult Education, Office of
+34, IV
+Civil Rights, Office for
+34, I
+Educational Research and Improvement, Office of
+34, VII
+Elementary and Secondary Education, Office of
+34, II
+Federal Acquisition Regulation
+48, 34
+Postsecondary Education, Office of
+34, VI
+Secretary of Education, Office of
+34, Subtitle A
+Special Education and Rehabilitative Services, Office of
+34, III
+Educational Research and Improvement, Office of
+34, VII
+Election Assistance Commission
+2, LVIII; 11, II
+Elementary and Secondary Education, Office of
+34, II
+Emergency Oil and Gas Guaranteed Loan Board
+13, V
+Emergency Steel Guarantee Loan Board
+13, IV
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employees Loyalty Board
+5, V
+Employment and Training Administration
+20, V
+Employment Policy, National Commission for
+1, IV
+Employment Standards Administration
+20, VI
+Endangered Species Committee
+50, IV
+Energy, Department of
+2, IX; 5, XXIII; 10, II, III, X
+Federal Acquisition Regulation
+48, 9
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Property Management Regulations
+41, 109
+Energy, Office of
+7, XXIX
+Energy and Environmental Policy, Office of
+7, XXI
+Engineers, Corps of
+33, II; 36, III
+Engraving and Printing, Bureau of
+31, VI
+Environmental Protection Agency
+2, XV; 5, LIV; 40, I, IV, VII
+Federal Acquisition Regulation
+48, 15
+Property Management Regulations
+41, 115
+Environmental Quality, Office of
+7, XXXI
+Equal Employment Opportunity Commission
+5, LXII; 29, XIV
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Executive Office of the President
+3, I
+Environmental Quality, Council on
+40, V
+Management and Budget, Office of
+2, Subtitle A; 5, III, LXXVII; 14, VI; 48, 99
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Security Council
+32, XXI; 47, II
+Presidential Documents
+3
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Trade Representative, Office of the United States
+15, XX
+Export-Import Bank of the United States
+2, XXXV; 5, LII; 12, IV
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Farm Credit Administration
+5, XXXI; 12, VI
+Farm Credit System Insurance Corporation
+5, XXX; 12, XIV
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 1
+Federal Acquisition Security Council
+41, 201
+Federal Aviation Administration
+14, I
+Commercial Space Transportation
+14, III
+Federal Claims Collection Standards
+31, IX
+Federal Communications Commission
+2, LX; 5, XXIX; 47, I
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Crop Insurance Corporation
+7, IV
+Federal Deposit Insurance Corporation
+5, XXII; 12, III
+Federal Election Commission
+5, XXXVII; 11, I
+Federal Emergency Management Agency
+44, I
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Federal Financial Institutions Examination Council
+12, XI
+Federal Financing Bank
+12, VIII
+Federal Highway Administration
+23, I, II
+Federal Home Loan Mortgage Corporation
+1, IV
+Federal Housing Enterprise Oversight Office
+12, XVII
+Federal Housing Finance Agency
+5, LXXX; 12, XII
+Federal Labor Relations Authority
+5, XIV, XLIX; 22, XIV
+Federal Law Enforcement Training Center
+31, VII
+Federal Management Regulation
+41, 102
+Federal Maritime Commission
+46, IV
+Federal Mediation and Conciliation Service
+5, CIII; 29, XII
+Federal Mine Safety and Health Review Commission
+5, LXXIV; 29, XXVII
+Federal Motor Carrier Safety Administration
+49, III
+Federal Permitting Improvement Steering Council
+40, IX
+Federal Prison Industries, Inc.
+28, III
+Federal Procurement Policy Office
+48, 99
+Federal Property Management Regulations
+41, 101
+Federal Railroad Administration
+49, II
+Federal Register, Administrative Committee of
+1, I
+Federal Register, Office of
+1, II
+Federal Reserve System
+12, II
+Board of Governors
+5, LVIII
+Federal Retirement Thrift Investment Board
+5, VI, LXXVI
+Federal Service Impasses Panel
+5, XIV
+Federal Trade Commission
+5, XLVII; 16, I
+Federal Transit Administration
+49, VI
+Federal Travel Regulation System
+41, Subtitle F
+Financial Crimes Enforcement Network
+31, X
+Financial Research Office
+12, XVI
+Financial Stability Oversight Council
+12, XIII
+Fine Arts, Commission of
+45, XXI
+Fiscal Service
+31, II
+Fish and Wildlife Service, United States
+50, I, IV
+Food and Drug Administration
+21, I
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Foreign Assets Control, Office of
+31, V
+Foreign Claims Settlement Commission of the United States
+45, V
+Foreign Service Grievance Board
+22, IX
+Foreign Service Impasse Disputes Panel
+22, XIV
+Foreign Service Labor Relations Board
+22, XIV
+Foreign-Trade Zones Board
+15, IV
+Forest Service
+36, II
+General Services Administration
+5, LVII; 41, 105
+Contract Appeals, Board of
+48, 61
+Federal Acquisition Regulation
+48, 5
+Federal Management Regulation
+41, 102
+Federal Property Management Regulations
+41, 101
+Federal Travel Regulation System
+41, Subtitle F
+General
+41, 300
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Relocation Allowances
+41, 302
+Temporary Duty (TDY) Travel Allowances
+41, 301
+Geological Survey
+30, IV
+Government Accountability Office
+4, I
+Government Ethics, Office of
+5, XVI
+Government National Mortgage Association
+24, III
+Grain Inspection, Packers and Stockyards Administration
+7, VIII; 9, II
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Gulf Coast Ecosystem Restoration Council
+2, LIX; 40, VIII
+Harry S. Truman Scholarship Foundation
+45, XVIII
+Health and Human Services, Department of
+2, III; 5, XLV; 45, Subtitle A
+Centers for Medicare
+Medicaid Services
+42, IV
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Community Services, Office of
+45, X
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Federal Acquisition Regulation
+48, 3
+Food and Drug Administration
+21, I
+Indian Health Service
+25, V
+Inspector General (Health Care), Office of
+42, V
+Public Health Service
+42, I
+Refugee Resettlement, Office of
+45, IV
+Homeland Security, Department of
+2, XXX; 5, XXXVI; 6, I; 8, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Customs and Border Protection
+19, I
+Federal Emergency Management Agency
+44, I
+Human Resources Management and Labor Relations Systems
+5, XCVII
+Immigration and Customs Enforcement Bureau
+19, IV
+Transportation Security Administration
+49, XII
+HOPE for Homeowners Program, Board of Directors of
+24, XXIV
+Housing and Urban Development, Department of
+2, XXIV; 5, LXV; 24, Subtitle B
+Community Planning and Development, Office of Assistant Secretary for
+24, V, VI
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Federal Acquisition Regulation
+48, 24
+Federal Housing Enterprise Oversight, Office of
+12, XVII
+Government National Mortgage Association
+24, III
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, X, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Inspector General, Office of
+24, XII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Secretary, Office of
+24, Subtitle A, VII
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, X, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Immigration and Customs Enforcement Bureau
+19, IV
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Office of
+28, VII
+Independent Counsel, Offices of
+28, VI
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Indian Health Service
+25, V
+Industry and Security, Bureau of
+15, VII
+Information Resources Management, Office of
+7, XXVII
+Information Security Oversight Office, National Archives and Records Administration
+32, XX
+Inspector General
+Agriculture Department
+7, XXVI
+Health and Human Services Department
+42, V
+Housing and Urban Development Department
+24, XII, XV
+Institute of Peace, United States
+22, XVII
+Intellectual Property Enforcement Coordinator, Office of
+5, CIV
+Inter-American Foundation
+5, LXIII; 22, X
+Interior, Department of
+2, XIV
+American Indians, Office of the Special Trustee
+25, VII
+Endangered Species Committee
+50, IV
+Federal Acquisition Regulation
+48, 14
+Federal Property Management Regulations System
+41, 114
+Fish and Wildlife Service, United States
+50, I, IV
+Geological Survey
+30, IV
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Land Management, Bureau of
+43, II
+National Indian Gaming Commission
+25, III
+National Park Service
+36, I
+Natural Resource Revenue, Office of
+30, XII
+Ocean Energy Management, Bureau of
+30, V
+Reclamation, Bureau of
+43, I
+Safety and Environmental Enforcement, Bureau of
+30, II
+Secretary of the Interior, Office of
+2, XIV; 43, Subtitle A
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Internal Revenue Service
+26, I
+International Boundary and Water Commission, United States and Mexico, United States Section
+22, XI
+International Development, United States Agency for
+22, II
+Federal Acquisition Regulation
+48, 7
+International Development Cooperation Agency, United States
+22, XII
+International Development Finance Corporation, U.S.
+2, XVI; 5, XXXIII; 22, VII
+International Joint Commission, United States and Canada
+22, IV
+International Organizations Employees Loyalty Board
+5, V
+International Trade Administration
+15, III; 19, III
+International Trade Commission, United States
+19, II
+Interstate Commerce Commission
+5, XL
+Investment Security, Office of
+31, VIII
+James Madison Memorial Fellowship Foundation
+45, XXIV
+Japan-United States Friendship Commission
+22, XVI
+Joint Board for the Enrollment of Actuaries
+20, VIII
+Justice, Department of
+2, XXVIII; 5, XXVIII; 28, I, XI; 40, IV
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+Drug Enforcement Administration
+21, II
+Federal Acquisition Regulation
+48, 28
+Federal Claims Collection Standards
+31, IX
+Federal Prison Industries, Inc.
+28, III
+Foreign Claims Settlement Commission of the United States
+45, V
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Offices of
+28, VI
+Prisons, Bureau of
+28, V
+Property Management Regulations
+41, 128
+Labor, Department of
+2, XXIX; 5, XLII
+Benefits Review Board
+20, VII
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employment and Training Administration
+20, V
+Federal Acquisition Regulation
+48, 29
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Procurement Regulations System
+41, 50
+Labor-Management Standards, Office of
+29, II, IV
+Mine Safety and Health Administration
+30, I
+Occupational Safety and Health Administration
+29, XVII
+Public Contracts
+41, 50
+Secretary of Labor, Office of
+29, Subtitle A
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Wage and Hour Division
+29, V
+Workers' Compensation Programs, Office of
+20, I, VI
+Labor-Management Standards, Office of
+29, II, IV
+Land Management, Bureau of
+43, II
+Legal Services Corporation
+45, XVI
+Libraries and Information Science, National Commission on
+45, XVII
+Library of Congress
+36, VII
+Copyright Royalty Board
+37, III
+U.S. Copyright Office
+37, II
+Management and Budget, Office of
+2, Subpart A; 5, III, LXXVII; 14, VI; 48, 99
+Marine Mammal Commission
+50, V
+Maritime Administration
+46, II
+Merit Systems Protection Board
+5, II, LXIV
+Micronesian Status Negotiations, Office for
+32, XXVII
+Military Compensation and Retirement Modernization Commission
+5, XCIX
+Millennium Challenge Corporation
+22, XIII
+Mine Safety and Health Administration
+30, I
+Minority Business Development Agency
+15, XIV
+Miscellaneous Agencies
+1, IV
+Monetary Offices
+31, I
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation
+36, XVI
+Museum and Library Services, Institute of
+2, XXXI
+National Aeronautics and Space Administration
+2, XVIII; 5, LIX; 14, V
+Federal Acquisition Regulation
+48, 18
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National and Community Service, Corporation for
+2, XXII; 45, XII, XXV
+National Archives and Records Administration
+2, XXVI; 5, LXVI; 36, XII
+Information Security Oversight Office
+32, XX
+National Capital Planning Commission
+1, IV, VI
+National Counterintelligence Center
+32, XVIII
+National Credit Union Administration
+5, LXXXVI; 12, VII
+National Crime Prevention and Privacy Compact Council
+28, IX
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Endowment for the Arts
+2, XXXII
+National Endowment for the Humanities
+2, XXXIII
+National Foundation on the Arts and the Humanities
+45, XI
+National Geospatial-Intelligence Agency
+32, I
+National Highway Traffic Safety Administration
+23, II, III; 47, VI; 49, V
+National Imagery and Mapping Agency
+32, I
+National Indian Gaming Commission
+25, III
+National Institute of Food and Agriculture
+7, XXXIV
+National Institute of Standards and Technology
+15, II; 37, IV
+National Intelligence, Office of Director of
+5, IV; 32, XVII
+National Labor Relations Board
+5, LXI; 29, I
+National Marine Fisheries Service
+50, II, IV
+National Mediation Board
+5, CI; 29, X
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Park Service
+36, I
+National Railroad Adjustment Board
+29, III
+National Railroad Passenger Corporation (AMTRAK)
+49, VII
+National Science Foundation
+2, XXV; 5, XLIII; 45, VI
+Federal Acquisition Regulation
+48, 25
+National Security Council
+32, XXI; 47, II
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV, V
+National Transportation Safety Board
+49, VIII
+Natural Resource Revenue, Office of
+30, XII
+Natural Resources Conservation Service
+7, VI
+Navajo and Hopi Indian Relocation, Office of
+25, IV
+Navy, Department of
+32, VI
+Federal Acquisition Regulation
+48, 52
+Neighborhood Reinvestment Corporation
+24, XXV
+Northeast Interstate Low-Level Radioactive Waste Commission
+10, XVIII
+Nuclear Regulatory Commission
+2, XX; 5, XLVIII; 10, I
+Federal Acquisition Regulation
+48, 20
+Occupational Safety and Health Administration
+29, XVII
+Occupational Safety and Health Review Commission
+29, XX
+Ocean Energy Management, Bureau of
+30, V
+Oklahoma City National Memorial Trust
+36, XV
+Operations Office
+7, XXVIII
+Patent and Trademark Office, United States
+37, I
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Peace Corps
+2, XXXVII; 22, III
+Pennsylvania Avenue Development Corporation
+36, IX
+Pension Benefit Guaranty Corporation
+29, XL
+Personnel Management, Office of
+5, I, IV, XXXV; 45, VIII
+Federal Acquisition Regulation
+48, 17
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Human Resources Management and Labor Relations Systems, Department of Homeland Security
+5, XCVII
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Postal Regulatory Commission
+5, XLVI; 39, III
+Postal Service, United States
+5, LX; 39, I
+Postsecondary Education, Office of
+34, VI
+President's Commission on White House Fellowships
+1, IV
+Presidential Documents
+3
+Presidio Trust
+36, X
+Prisons, Bureau of
+28, V
+Privacy and Civil Liberties Oversight Board
+6, X
+Procurement and Property Management, Office of
+7, XXXII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Public Contracts, Department of Labor
+41, 50
+Public Health Service
+42, I
+Railroad Retirement Board
+20, II
+Reclamation, Bureau of
+43, I
+Refugee Resettlement, Office of
+45, IV
+Relocation Allowances
+41, 302
+Research and Innovative Technology Administration
+49, XI
+Rural Business-Cooperative Service
+7, XVIII, XLII, L
+Rural Housing Service
+7, XVIII, XXXV, L
+Rural Utilities Service
+7, XVII, XVIII, XLII, L
+Safety and Environmental Enforcement, Bureau of
+30, II
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Secret Service
+31, IV
+Securities and Exchange Commission
+5, XXXIV; 17, II
+Selective Service System
+32, XVI
+Small Business Administration
+2, XXVII; 13, I
+Smithsonian Institution
+36, V
+Social Security Administration
+2, XXIII; 20, III; 48, 23
+Soldiers' and Airmen's Home, United States
+5, XI
+Special Counsel, Office of
+5, VIII
+Special Education and Rehabilitative Services, Office of
+34, III
+State, Department of
+2, VI; 22, I; 28, XI
+Federal Acquisition Regulation
+48, 6
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Surface Transportation Board
+49, X
+Susquehanna River Basin Commission
+18, VIII
+Tennessee Valley Authority
+5, LXIX; 18, XIII
+Trade Representative, United States, Office of
+15, XX
+Transportation, Department of
+2, XII; 5, L
+Commercial Space Transportation
+14, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 12
+Federal Aviation Administration
+14, I
+Federal Highway Administration
+23, I, II
+Federal Motor Carrier Safety Administration
+49, III
+Federal Railroad Administration
+49, II
+Federal Transit Administration
+49, VI
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Maritime Administration
+46, II
+National Highway Traffic Safety Administration
+23, II, III; 47, IV; 49, V
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Secretary of Transportation, Office of
+14, II; 49, Subtitle A
+Transportation Statistics Bureau
+49, XI
+Transportation, Office of
+7, XXXIII
+Transportation Security Administration
+49, XII
+Transportation Statistics Bureau
+49, XI
+Travel Allowances, Temporary Duty (TDY)
+41, 301
+Treasury, Department of the
+2, X; 5, XXI; 12, XV; 17, IV; 31, IX
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Community Development Financial Institutions Fund
+12, XVIII
+Comptroller of the Currency
+12, I
+Customs and Border Protection
+19, I
+Engraving and Printing, Bureau of
+31, VI
+Federal Acquisition Regulation
+48, 10
+Federal Claims Collection Standards
+31, IX
+Federal Law Enforcement Training Center
+31, VII
+Financial Crimes Enforcement Network
+31, X
+Fiscal Service
+31, II
+Foreign Assets Control, Office of
+31, V
+Internal Revenue Service
+26, I
+Investment Security, Office of
+31, VIII
+Monetary Offices
+31, I
+Secret Service
+31, IV
+Secretary of the Treasury, Office of
+31, Subtitle A
+Truman, Harry S. Scholarship Foundation
+45, XVIII
+United States Agency for Global Media
+2, XIX; 22, V
+United States and Canada, International Joint Commission
+22, IV
+United States and Mexico, International Boundary and Water Commission, United States Section
+22, XI
+U.S. Copyright Office
+37, II
+U.S. Office of Special Counsel
+5, CII
+Utah Reclamation Mitigation and Conservation Commission
+43, III
+Veterans Affairs, Department of
+2, VIII; 38, I
+Federal Acquisition Regulation
+48, 8
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Vice President of the United States, Office of
+32, XXVIII
+Wage and Hour Division
+29, V
+Water Resources Council
+18, VI
+Workers' Compensation Programs, Office of
+20, I, VI
+World Agricultural Outlook Board
+7, XXXVIII
+21 CFR (4-1-25 Edition)
+List of CFR Sections Affected
+
+# List of CFR Sections Affected
+All changes in this volume of the Code of Federal Regulations (CFR) that were made by documents published in the
+Federal Register
+since January 1, 2020 are enumerated in the following list. Entries indicate the nature of the changes effected. Page numbers refer to
+Federal Register
+pages. The user should consult the entries for chapters, parts and subparts as well as sections for revisions.
+For changes to this volume of the CFR prior to this listing, consult the annual edition of the monthly List of CFR Sections Affected (LSA). The LSA is available at
+www.govinfo.gov.
+For changes to this volume of the CFR prior to 2001, see the “List of CFR Sections Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000” published in 11 separate volumes. The “List of CFR Sections Affected 1986-2000” is available at
+www.govinfo.gov.
+2020
+21 CFR
+85 FR
+Page
+Chapter I
+801 Policy statement
+39477
+800.55 (c), (e), and (g)(1) amended; (h) heading added; (d)(3)(xi), (g)(3)(ii), (iv), (4), (h)(1), (2), (3) introductory text, (iv), and (4) revised
+16555
+801.55 (b)(2) revised
+18441
+801.57 (c)(2) revised
+18441
+803.11 (d) revised
+18441
+803.19 (b) amended
+18441
+803.21 (a) revised
+18441
+803.33 (a) revised
+18442
+807.21 (b) introductory text revised
+18442
+807.34 (a) revised
+18442
+807.37 (a) revised
+18442
+814.42 (d)(2) revised
+18442
+814.100 (e)(2) revised
+18442
+820.1 (e)(1) revised
+18442
+821.2 (b) introductory text revised
+18443
+822.7 (a)(1) revised
+18443
+822.22 (a)(1) revised
+18443
+830.110 (a)(1) revised
+18443
+830.320 (c)(1) and (3) revised
+18443
+860.123 (b)(1) revised
+18443
+862.1345 (b) revised
+18445
+862.1775 (b) revised
+18445
+866.2900 (b) revised
+18445
+866.3955 Added
+7217
+882.5235 (b) revised; eff. 4-6-20
+13354
+882.5235 Regulation at 85 FR 13354 stayed in part
+50950
+884.5360 (c) removed
+18443
+884.6120 (b) revised
+44188
+884.6180 (b) revised
+44188
+888 Notification
+26350
+888.4505 (b) introductory text revised
+44188
+890.3690 (b) revised
+2020
+890.5360 (b) revised
+44188
+890.5670 (b) introductory text revised
+44188
+892.2060 Added
+3542
+892.2070 Added
+3548
+892.2080 Added
+3544
+895.105 Added; eff. 4-6-20
+13354
+895.105 Regulation at 85 FR 13354 stayed in part
+50950
+900.3 (b)(1) revised
+18443
+900.15 (d)(3)(i) revised
+18443
+900.18 (c) introductory text revised
+18444
+900.21 (b)(1) revised
+18444
+1002.50 (c)(3) revised
+18444
+1005.11 Amended
+50783
+1005.24 (b) and (c) revised
+50783
+1141 Revised; eff. 6-18-21
+15708
+1141 Notification
+15708
+1141 Regulation at 85 FR 15708 eff. date delayed to 10-16-21
+32293
+1271 Notification
+43989
+2021
+21 CFR
+86 FR
+Page
+Chapter I
+801.4 Revised
+41401
+821.2 (b) introductory text and (c) revised
+17065
+860 Authority citation revised
+54846
+860 Nomenclature change
+54846
+860.1 (b) revised
+54846
+860.3 Revised
+54846
+860.5 (g) added
+54847
+860.200—860.260 (Subpart D) Added
+54847
+862.1350 Heading and (a) revised
+20283
+862.2100 (a) revised
+20283
+866.3169 Added
+66176
+866.3170 Added
+66172
+866.4750 (a) revised
+20283
+868.5095 Added
+73678
+868.5480 Added
+68397
+876.1050 Added
+71145
+876.1450 Added
+68399
+876.2100 Added
+70735
+876.5330 Added
+73971
+876.5340 Added
+71143
+876.5982 Added
+70372
+878.4740 Added
+56204
+878.4783 Added
+70374
+878.4800 (a) revised
+56204, 66188
+878.4805 Added
+71569
+878.4825 Added
+66458
+878.4850 (d)(3) added
+66179
+878.4850 Added
+66188
+880.6310 (a) revised
+20283
+882.1455 Added
+71384
+882.4950 Added
+73973
+882.5060 Added
+68403
+882.5560 Added
+73975
+882.5898 Added
+70377
+882.5899 Added
+68401
+882.5955 Added
+70733
+884.2730 (a) revised
+20283
+888.3090 Added
+68405
+890 Order
+69583
+892.2010 (a) revised
+20284
+892.2020 (a) revised
+20284
+892.2050 Heading and (a) revised
+20284
+1100 Heading and authority citation revised
+55411
+1100.1—1100.5 (Subpart A) Added
+55411
+1100.200—1100.204 (Subpart C) Added
+55411
+1107 Heading revised; authority citation revised
+55275, 55412
+1107.3 Added
+55412
+1107.10—1107.12 (Subpart B) Added
+55275
+1107.16—1107.24 (Subpart C) Added
+55275
+1107.40—1107.50 (Subpart D) Added
+55275
+1107.58—1107.62 (Subpart E) Added
+55275
+1114 Added
+55412
+1141 Regulation at 85 FR 15708 eff. date delayed to 1-14-22
+3793
+1141 Regulation at 85 FR 15708 eff. date further delayed to 7-13-22
+36509
+1141 Regulation at 85 FR 15708 eff. date further delayed to 11-11-22
+50854
+1141 Regulation at 85 FR 15708 eff. date further delayed to 1-9-23
+70052
+2022
+21 CFR
+87 FR
+Page
+Chapter I
+800 Notification
+50568
+800 Authority citation revised
+50748
+800.30 Added
+50748
+801 Guidance
+43987
+801 Notification
+50568
+801 Authority citation revised
+50755
+801.420 Removed
+50755
+801.421 Removed
+50755
+801.422 Added
+50755
+808 Notification
+50568
+808 Authority citation revised
+50761
+808 Amended
+50761
+808.1 (a) through (f) headings and (g) added
+50761
+808.3 Revised
+50762
+808.53 Removed
+50762
+808.55 Revised
+50762
+808.57 Removed
+50762
+808.59 Removed
+50762
+808.61 Removed
+50762
+808.67 Removed
+50762
+808.69 Removed
+50762
+808.71 Removed
+50762
+808.73 Removed
+50762
+808.74 Removed
+50762
+808.77 Removed
+50762
+808.80 Removed
+50762
+808.81 Removed
+50762
+808.82 Removed
+50762
+808.85 Removed
+50762
+808.87 Removed
+50762
+808.88 Removed
+50762
+808.89 Removed
+50762
+808.93 Removed
+50762
+808.97 Removed
+50762
+808.98 Removed
+50762
+808.101 Removed
+50762
+814.40 Amended
+2045
+814.44 (d)(1), (2), (e)(2)(ii), and (f)(2) amended
+2045
+814.45 (d)(1) and (e)(3) amended
+2045
+814.116 (b) amended
+2045
+814.118 (c)(3) amended
+2045
+822.8 Revised
+17950
+822.12 Amended
+17950
+822.21 Revised
+17950
+862.1355 Added
+9238
+862.1356 Added
+14172
+866.1655 Added
+6417
+866.3956 Added
+29665
+866.3957 Added
+29667
+866.3958 Added
+66548
+866.5960 Added
+79252
+870.1252 Added
+9241
+870.1342 Added
+26991
+870.1345 Added
+34778
+870.1405 Added
+79803
+870.1420 Added
+32990
+870.2210 Added
+8191
+870.2345 Added
+2549
+870.2790 Added
+6419
+870.2220 Added
+79254
+870.4150 Added
+80039
+874 Notification
+50568
+874.3300 Revised
+50762
+874.3302 Added
+50762
+874.3305 (a) amended; (b) revised
+50762
+874.3315 (a) revised
+50762
+874.3325 (a) amended; (b)(5) revised; (b)(7) removed
+50762
+874.3950 (a) amended
+50762
+876.1310 Added
+26993
+876.5026 Added
+34166
+878.3510 Added
+6421
+878.4550 Added
+24273
+878.4961 Added
+26995
+880.5730 Added
+6424
+880.6887 Added
+8194
+882.1491 Added
+80445
+882.5975 Removed
+2049
+886.1100 Added
+3205
+886.5305 Added
+9243
+888.3043 Added
+11294
+888.3044 Added
+80041
+1141 Regulation at 85 FR 15708 eff. date further delayed to 4-9-23
+11295
+1141 Regulation at 85 FR 15708 eff. date delayed to 7-8-23
+32990
+1141 Regulation at 85 FR 15708 eff. date further delayed to 10-6-23
+50765
+1141 Regulation at 85 FR 15708 eff. date further delayed to 11-6-23
+72384
+1270 Removed
+2049
+1271 Notification
+65681
+2023
+21 CFR
+88 FR
+Page
+Chapter I
+803.19 (b) revised
+16879
+808 Nomenclature change
+45067
+812 Authority citation revised
+88249
+812.2 (b)(1)(iii) revised
+88249
+812.38 (b)(4) revised
+16880
+812.47 (a) revised
+16880
+814.9 (d)(2) amended
+45067
+822.1 Introductory text, (b), and (c) revised; (d) added
+16880
+822.4 Introductory text, (b), and (c) revised; (d) added
+16880
+822.7 (a)(1) revised
+16880
+822.24 Revised
+16880
+830.10 (a) amended
+45067
+860.5 (c)(2) and (d)(2) amended
+45067
+861.38 (c) amended
+45067
+862.1622 Added
+2519
+864.3750 Added
+7009
+864.9115 Added
+77199
+870.2785 Added
+6167
+870.2786 Added
+976
+874.4450 Added
+979
+876.1520 Added
+10
+876.5960 Added
+3636
+882.5705 Added
+2223
+882.5855 Added
+751
+886.5201 Added
+3638
+888.1600 Added
+755
+888.3083 Added; eff. 5-1-23
+18990
+888.3083 (c) added; eff. 5-1-23
+18993
+888.3600 Added
+753
+888.3630 Added
+981
+890.5420 Added
+983
+890.5800 Added
+985
+895.21 (d)(8) amended
+45067
+900.2 (c)(2), (k), (z), (aa)(1), (2), and (ii) revised; (aa)(3) added; eff. 9-10-24
+15168
+900.4 (a)(6) and (f)(1)(ii)(B) revised; eff. 9-10-24
+15168
+900.11 (c)(4) revised; eff. 9-10-24
+15168
+900.12 (a)(40), (b)(11), (c)(1), (2), (3)(ii), (4), (f)(1), and (j) revised; (b)(2)(i), (ii), (16), and (f)(4) added; eff. 9-10-24
+15168
+900.14 (a) introductory text, (3), (5), and (6) revised; (a)(7) added; eff. 9-10-24
+15171
+900.15 (d)(1) revised; eff. 9-10-24
+15171
+900.18 (d)(2) and (4) amended
+45067
+1000.3 (a) revised; (s) removed; (t) and (u) redesignated as new (s) and (t)
+3652
+1000.50—1000.60 (Subpart C) Removed
+3652
+1002.1 Table 1 revised
+3652
+1002.13 (c) removed
+3653
+1002.20 Revised
+3653
+1010.2 (e) added
+3653
+1010.3 (a)(2)(ii) revised
+3654
+1010.4 (b) introductory text, (1), and (2) introductory text revised
+3654
+1010.4 (c)(3) amended
+45067
+1010.5 (c) introductory text revised
+45067
+1020.10 (a) revised
+3654
+1020.30 (d)(1) and (2)(ii) revised
+3654
+1030.10 (c)(6)(iv) introductory text revised
+3654
+1050 Removed
+3654
+1100 Authority citation revised
+16552
+1100.1—1100.5 (Subpart A) Heading added
+16552
+1100.1 Revised
+16552
+1100.2 Amended
+16552
+1100.3 Amended
+16552
+1100.202 Amended
+16552
+1107 Authority citation revised
+16552
+1107.12 Amended
+16552
+1114 Authority citation revised
+16553
+1114.3 Amended
+16553
+1140 Authority citation revised
+16553
+1140.3 Amended
+16553
+1143 Authority citation revised
+16553
+1143.1 Amended
+16553
+1240.62 (d) amended
+45067
+1250.51 (f)(4)(ii) amended
+45067
+1271.37 (a) introductory text amended
+45067
+2024
+21 CFR
+89 FR
+Page
+Chapter I
+803 Notification
+70096
+807 Authority citation revised
+18792
+807.81 (b)(1) revised
+18792
+807.87 OMB number removed
+18793
+809 Authority citation revised
+37444
+809.3 (a) amended
+37445
+814.39 (b) revised
+18793
+820 Revised; eff. 2-2-26
+7523
+820.3 Correction: Amended; eff. 2-2-26
+82945
+862.1676 Added
+72983
+862.3245 Added
+75491
+864.7295 Added
+72317
+866.3180 Added
+77450
+866.3183 Added
+75954
+866.3236 Added
+75493
+866.3966 Added
+66558
+866.3981 Added
+66554
+866.6000 Added
+73566
+870.5600 Added
+72319
+872.5575 Added
+71154
+872.6866 Added
+72321
+876.4330 Added
+72986
+876.5861 Added
+75496
+876.5862 Added
+72716
+880.5220 Added
+66560
+882.5803 Added
+71156
+886.5350 Added
+43746
+886.5919 Added
+72323
+888.3085 Added
+71158
+890.3050 Added
+71160
+900 Notification
+68364
+1140 Authority citation revised
+70486
+1140.10—1140.16 (Subpart B) Heading revised
+70486
+1140.14 Nomenclature change
+70486
+1140.16 (c)(2)(ii) amended
+70486
+1141 Notification
+74831
+1150.15 (a)(4) and (d) revised
+13980
+2025
+(No regulations published from January 1, 2025, through April 1, 2025)
+○
