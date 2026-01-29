@@ -1,0 +1,3222 @@
+(d) Counseling services;
+(e) Travel expenses;
+(f) For the salaries or administrative costs of the Qualified Issuer or any recipients of Bond Proceeds, other than those costs covered by Bond Issuance Fees;
+(g) To fund the Risk-Share Pool;
+(h) To pay fees other than Bond Issuance Fees; or
+(i) Any other use as may be specified in the applicable Notice of Guarantee Availability.
+
+# Subpart D—Applications for Guarantee and Qualified Issuer
+§ 1808.400
+Notice of Guarantee Availability.
+Interested parties will be invited to submit Qualified Issuer Applications and Guarantee Applications in accordance with this interim rule and the applicable Notice of Guarantee Availability. The NOGA will set forth application and eligibility requirements for an entity that wishes to be designated as a Qualified Issuer (including, in the CDFI Fund's sole discretion, the Designated Bonding Authority) and a Qualified Issuer that wishes to be approved to receive a Guarantee. The NOGA may also contain eligibility requirements, application procedures, and additional terms and conditions for entities wishing to serve as Servicers, Program Administrators, and other roles as may be determined by the CDFI Fund. The NOGA will advise interested parties on how to apply and will establish criteria, deadlines, and other Qualified Issuer and Guarantee Application requirements, including specifying any additional terms and conditions, limitations, special rules,
+procedures, and restrictions for a given application period.
+§ 1808.401
+Application requirements.
+(a)
+Qualified Issuer Application.
+A Qualified Issuer applicant shall provide all required information in its Qualified Issuer Application to establish that it meets all criteria for designation as a Qualified Issuer and can carry out all Qualified Issuer responsibilities and requirements including, but not limited to, information that demonstrates that the applicant has the appropriate expertise, capacity, and experience and is qualified to make, administer and service Bond Loans for Eligible Purposes. After receipt of a Qualified Issuer Application, the CDFI Fund may request additional information and clarifying or technical information on the materials submitted as part of the Qualified Issuer Application. The CDFI Fund will provide the template for the Qualified Issuer Application.
+(b)
+Guarantee Application.
+(1) A Qualified Issuer shall provide all required information in its Guarantee Application to establish that it meets all criteria set forth in this interim rule to receive a Guarantee and can carry out all Guarantee requirements including, but not limited to, information that demonstrates that the Qualified Issuer has the appropriate expertise, capacity, and experience and is qualified to make, administer and service Bond Loans for Eligible Purposes. The Guarantee Application shall include a Capital Distribution Plan and a Secondary Capital Distribution Plan for each potential Eligible CDFI, as well as any other requirements set forth in the applicable Notice of Guarantee Availability or as may be required by the CDFI Fund in its sole discretion for the evaluation and selection of Guarantee applicants. After receipt of a Guarantee Application, the CDFI Fund may request additional information and clarifying or technical information on the materials submitted as part of the Guarantee Application. The CDFI Fund will provide the template for the Guarantee Application.
+(2) The Capital Distribution Plan shall include, but not be limited to, the following information:
+(i) Statement of Proposed Sources and Uses of Funds;
+(ii) For the Qualified Issuer and each Certified CDFI seeking a Bond Loan, an organizational capacity statement, a plan that describes how the proposed Bond Loan will meet Eligible Purposes, and a description of Credit Enhancement, if any;
+(iii) A Secondary Capital Distribution Plan, if applicable; and
+(iv) Assurances and certifications that not less than 100 percent of the principal amount of Bonds will be used to make Bond Loans for Eligible Purposes beginning on the Bond Issue Date, and that Secondary Loans shall be made as set forth in subsection 1808.307(b).
+
+# Subpart E—Evaluation and Selection
+§ 1808.500
+Evaluation of Qualified Issuer Applications.
+(a)
+General.
+Each Qualified Issuer Application will be evaluated by the CDFI Fund and, if acceptable, the applicant will be designated as a Qualified Issuer, at the sole discretion of the CDFI Fund. The Qualified Issuer Application review and evaluation process will be based on established standard operating procedures, which may include interviews of applicants and/or site visits to applicants conducted by the CDFI Fund. Through the application review process, the CDFI Fund will evaluate Qualified Issuer applicants on a merit basis and in a fair and consistent manner. Each Qualified Issuer applicant will be reviewed on its ability to successfully implement the activities proposed in its Qualified Issuer Application and carry out the responsibilities of a Qualified Issuer over the life of the Bond. The CDFI Fund will periodically reevaluate the Qualified Issuer over the life of the Bond to ensure it meets the performance standards over the life of the facilities.
+(b)
+Eligibility and completeness.
+A Qualified Issuer applicant will not be eligible to be designated as a Qualified Issuer if it fails to meet the eligibility requirements described in § 1808.200 of this part and the applicable NOGA, or if it has not submitted complete and timely Qualified Issuer Application
+materials. The CDFI Fund reserves the right to request additional information from the Qualified Issuer applicant, as the CDFI Fund deems appropriate.
+(c)
+Substantive review.
+When evaluating Qualified Issuer Applications and selecting applicants to be designated as Qualified Issuers, the CDFI Fund will apply the criteria set forth in the Act at 12 U.S.C. 4713a(a)(8), this interim rule, and the applicable NOGA including, but not limited to, the following evaluation factors:
+(1) The extent to which the Qualified Issuer Application demonstrates that the applicant possesses the appropriate expertise, capacity and experience, or other qualifications to manage the Bond Issue on the terms and conditions set forth in this interim rule and the applicable NOGA;
+(2) The expertise and experience of its Program Administrator and Servicers;
+(3) The Qualified Issuer applicant's demonstrated performance of financially sound business practices relative to the industry norm for bond issuers, as evidenced by reports of Appropriate Federal Banking Agencies, Appropriate State Agencies, and/or auditors;
+(4) Information that demonstrates the applicant, its Program Administrator and Servicers have the appropriate expertise, capacity, and experience or otherwise be qualified to originate, underwrite, service and monitor loan portfolios that serve Eligible Purposes and are targeted toward Low-Income and Underserved Rural Areas; and
+(5) Such other criteria that the CDFI Fund deems appropriate for purposes of evaluating the merits of a Qualified Issuer Application.
+§ 1808.501
+Evaluation of Guarantee Applications.
+(a)
+General.
+After being designated as a Qualified Issuer, the Qualified Issuer may submit a Guarantee Application, seeking authority to issue Bonds and receive a Guarantee on the proposed Bond Issue. A successful Guarantee Application must:
+(1) Demonstrate that the Qualified Issuer and the proposed Eligible CDFIs have a feasible plan to successfully repay the Bond (including principal, interest, and call premium) and Bond Loans according to their respective terms, to the satisfaction of the CDFI Fund; and
+(2) Meet any other requirements deemed appropriate by the CDFI Fund and the Guarantor.
+(b)
+Eligibility and completeness.
+A Qualified Issuer will not be eligible to receive a Guarantee if it fails to meet the eligibility requirements set forth in § 1808.200 of this part and the applicable NOGA, or if it has not submitted complete and timely Guarantee Application materials. The CDFI Fund reserves the right to request additional information from the Qualified Issuer, or to reject a Guarantee Application as the CDFI Fund may deem appropriate.
+(c)
+Substantive review.
+In evaluating Guarantee Applications and selecting a Qualified Issuer to receive a Guarantee, the CDFI Fund and the Guarantor will apply the criteria set forth in this interim rule and the applicable NOGA including, but not limited to, the following evaluation factors:
+(1) The extent to which the Guarantee Application proposes strategies that demonstrate the Qualified Issuer's ability to implement the Capital Distribution Plan;
+(2) The adequacy of proposed risk mitigation provisions designed to protect the financial interests of the Federal Government based on information that includes, but is not limited to: the amount and quality of any Credit Enhancements; the amount and quality of any other financial resources to be pledged or risk mitigation to be provided by an Affiliate to the Eligible CDFI through its management structure, that will assume limited obligation for the Bond Loan and enhance the Eligible CDFI's creditworthiness and its ability to repay the Bond Loan; and the provision for an orderly retirement of principal;
+(3) The extent to which the Guarantee Application demonstrates that the Qualified Issuer possesses the appropriate expertise, capacity and experience, or other qualifications to manage the Bond Issue on the terms and conditions set forth in this interim rule and the applicable NOGA;
+(4) The Qualified Issuer's demonstrated performance of financially
+sound business practices relative to the industry norm for bond issuers, as evidenced by financial audits and reports of Appropriate Federal Banking Agencies, Appropriate State Agencies, independent regulators, or auditors;
+(5) Information that demonstrates that the Qualified Issuer has the appropriate expertise, capacity, and experience or is otherwise qualified to make, service and monitor Bond Loans;
+(6) The extent to which the proposed Bond Loans are likely to serve Low-Income Areas or Underserved Rural Areas; and
+(7) Such other criteria that the CDFI Fund and the Guarantor deem appropriate for purposes of evaluating the merits of a Guarantee Application.
+§ 1808.502
+Evaluation of Designated Bonding Authority Applications.
+In addition to the evaluation criteria for Qualified Issuers set forth above, DBA applicants must demonstrate the existence of resources to perform functions of the DBA as set forth in section 1808.201 and meet any other criteria set forth in the applicable NOGA and that may be required by the CDFI Fund.
+§ 1808.503
+Consultation with Appropriate Regulatory Agencies.
+In the case of any CDFI Bond Guarantee Program applicant that is a Federally regulated financial institution (or an Affiliate thereof), the CDFI Fund may consult with the Appropriate Federal Banking Agency or Appropriate State Agency prior to designating the applicant as a Qualified Issuer, Servicer, Master Servicer/Trustee, Program Administrator or other role, making a final Guarantee commitment, issuing a Guarantee, and/or entering into an Agreement to Guarantee. The CDFI Fund also reserves the right, in its sole discretion, to consult with the Appropriate Federal Banking Agency and Appropriate State Agency with respect to any Eligible CDFI that is proposed to receive a Bond Loan or any Secondary Borrower that is proposed to receive a Secondary Loan.
+§ 1808.504
+Selection of Qualified Issuers; Approval for Guarantee.
+(a)
+General.
+Designation of an applicant as a Qualified Issuer shall be based on the foregoing evaluation criteria and processes, and any other requirements or processes that may be set forth in the applicable NOGA. An applicant may simultaneously apply for Qualified Issuer designation and a Guarantee; however, the entity must be designated as a Qualified Issuer before being selected to receive a Guarantee.
+(b) The Guarantor will determine whether a Qualified Issuer will be authorized to issue Bonds and receive a Guarantee based on the foregoing evaluation criteria and processes, and any other requirements or processes set forth in the applicable NOGA.
+(1) Not later than 30 days after receipt of a complete Guarantee Application (or 30 days after designation as a Qualified Issuer, if submitting simultaneous applications) by a Qualified Issuer, the CDFI Fund shall provide an internal Department Opinion regarding compliance by the Qualified Issuer with the requirements of the CDFI Bond Guarantee Program.
+(2) The Guarantor shall approve or deny a Guarantee Application no later than 90 days after receipt of a complete Guarantee Application, and all other required information by the CDFI Fund or the Guarantor with respect to a request for such Guarantee.
+(c) The Guarantor may limit the number of Guarantees made per year or Guarantee Applications accepted to ensure that a sufficient examination of Guarantee Applications is conducted.
+(d) The CDFI Fund shall notify the Qualified Issuer in writing of the Guarantor's approval or disapproval of a Guarantee Application.
+(e) The Guarantor reserves the sole discretion to approve a Guarantee Application for a Guarantee amount that is less than that which is requested.
+(f) In the event that there are material changes after submission of a Guarantee Application (including, but not limited to, a revision of the Capital Distribution Plan or a change in the Certified CDFIs that are proposed for receiving Bond Loans) prior to or after the designation as a Qualified Issuer or approval of a Guarantee Application or Guarantee, the Qualified Issuer or Guarantee applicant must notify the CDFI Fund of such material changes
+information in a timely and complete manner. The Guarantor will evaluate such material changes, along with the Guarantee Application, to approve or deny the Guarantee Application and/or determine whether to modify the terms and conditions of the Guarantee.
+
+# Subpart F—Terms and Conditions of Guarantee
+§ 1808.600
+Full faith and credit and incontestability of Guarantee.
+The full faith and credit of the Federal Government is pledged to the payment of all Bonds issued as part of a Bond Issue with respect to Verifiable Losses of Principal, Interest, and Call Premium. An executed Guarantee shall be conclusive evidence that: the Guarantee has been properly authorized; the underlying Bond qualified for such Guarantee; and, but for fraud or material misrepresentation, such Guarantee will be presumed to be legally valid, binding, and enforceable.
+§ 1808.601
+Assignment and transfer of Guarantee.
+The Guarantee shall be fully assignable and transferrable to the capital markets, on terms and conditions that are consistent with comparable bonds guaranteed by the Federal Government and satisfactory to the Guarantor and the CDFI Fund.
+§ 1808.602
+Offer of Guarantee.
+Upon approval of the Guarantee Application, the Qualified Issuer will receive from the Guarantor an offer of Guarantee that will set forth certain required terms and conditions to be fulfilled prior to issuance of the Guarantee.
+§ 1808.603
+Issuance of Guarantee.
+(a)
+Conditions precedent.
+The commitment of the Guarantor to issue a Guarantee shall be subject to conditions precedent that are usual and customary for financings of this type or otherwise deemed appropriate by the Guarantor including, but not limited to, the following:
+(1) The conditions precedent to the Bond Issue and the making of the Bond Loan have been satisfied, including a credit review that indicates a reasonable prospect of repayment as demonstrated by the CDFI Fund's analysis of the cash flow and collateral provisions of the Eligible CDFI;
+(2) The Qualified Issuer shall have submitted to the CDFI Fund a complete Guarantee Application, containing all required information relating to the Bond and the Bond Loan, as required by the Guarantor;
+(3) There have been no material changes to the Bond and Bond Loan documents from the forms thereof approved by the Guarantor and the CDFI Fund;
+(4) The Bond Purchaser and the Qualified Issuer shall have executed a Bond Purchase Agreement; and
+(5) Such additional information or documents as may be required by the CDFI Fund, the Guarantor, or the Bond Purchaser.
+(b)
+Rescission of approval.
+The Guarantor, in its sole discretion, may rescind its approval of a Guarantee Application if:
+(1) The Guarantor or the CDFI Fund determines that the Qualified Issuer cannot, or is unwilling to, provide adequate documentation and proof of compliance with paragraph (a) of this section within the time provided for in the offer of Guarantee, or
+(2) The Guarantor or the CDFI Fund determines, in its sole discretion, that the Qualified Issuer no longer meets applicable CDFI Bond Guarantee Program criteria and requirements.
+§ 1808.604
+Agreement to Guarantee.
+(a)
+General.
+The Qualified Issuer must enter into an Agreement to Guarantee that sets forth the terms and conditions on which the Guarantor will provide the Guarantee of the Bonds issued as part of a Bond Issue.
+(b)
+Terms and conditions.
+The terms and conditions of the Agreement to Guarantee may include, but are not limited to, the following:
+(1) The form and amount of Guarantee;
+(2) Any prohibited amendments of Bond Documents or limitations on transfer of the Guarantee;
+(3) Terms and conditions of the Risk-Share Pool and any Credit Enhancement that may be required by the CDFI Fund and the Guarantor;
+(4) Provisions regarding the Agency Administrative Fee;
+(5) Representations and warranties of the Qualified Issuer;
+(6) Pledged security;
+(7) Financial covenants;
+(8) Events of default and remedies;
+(9) Assignment of Bond Loans to the Guarantor;
+(10) Guarantor payment does not discharge Qualified Issuer; subrogation;
+(11) Undertakings for the benefit of the Bondholder including: notices, registration, prohibited amendments, prohibited transfers, and indemnification;
+(12) Governing law;
+(13) Terms and conditions of Bond Loans;
+(14) Prohibition against subordination; and
+(15) Such other matters as the Guarantor or the CDFI Fund may deem necessary or appropriate.
+(c)
+Access to funds.
+In the event that the Qualified Issuer does not execute Bond Loan agreements for 100 percent of the Bond principal on the Bond Issue Date, the Qualified Issuer will have no further access to the amount of funds for which Bond Loan agreements were not executed.
+§ 1808.605
+Agency Administrative Fee.
+The Qualified Issuer shall pay the CDFI Fund annually a fee equal to 10 basis points (0.1 percent) of the amount of the unpaid principal of the Bond(s). The initial Agency Administrative Fee must be paid in full as a condition to closing any Agreement to Guarantee, no later than the effective date of the Agreement to Guarantee.
+§ 1808.606
+Program Administrator; Servicer; Master Servicer/Trustee.
+(a)
+General.
+Bond Loans shall be overseen by qualified Program Administrators, Servicers, and a Master Servicer/Trustee. For purposes of maximizing efficiencies and minimizing costs, Program Administrator and Servicer duties may be consolidated and performed by Qualified Issuers.
+(b)
+Program Administrator—
+(1)
+Duties.
+The duties of a Program Administrator, which may be performed by the Qualified Issuer, shall include, but not be limited to:
+(i) Approving and qualifying Eligible CDFI applications for participation in the Guarantee Application;
+(ii) Bond and Bond Loan packaging;
+(iii) Reviewing and approving Secondary Loan commitments from Eligible CDFIs for funds from the Bondholder or the Relending Account based on the Secondary Loan Requirements;
+(iv) Compliance monitoring of Bond Loans and Secondary Loans;
+(v) Preparing and submitting reports required by this interim rule; and
+(vi) All other duties and related services that are customarily expected of a Program Administrator, and as may be required by the CDFI Fund or the Guarantor.
+(2)
+Selection.
+There shall be one Program Administrator for each Bond Issue. The Qualified Issuer applicant shall provide, in its Qualified Issuer Application, information on its proposed Program Administrator that demonstrates the appropriate expertise, capacity and experience, as well as any additional information that may be required to meet the criteria set forth in the applicable Notice of Guarantee Availability, including, but not limited to, information on the entity's management and organization, loan administration, and financial capability.
+(3)
+Fees and expenses.
+The Program Administrator's administrative fees and expenses shall be paid by the Eligible CDFI in accordance with applicable financing documents.
+(c)
+Servicer—
+(1)
+Duties.
+The duties of a Servicer, which may be performed by the Qualified Issuer, shall include, but not be limited to:
+(i) Billing and collecting Bond Loan payments from Eligible CDFIs;
+(ii) Initiating collection activities on past-due Bond Loans;
+(iii) Transferring Bond Loan payments to the respective funds and accounts managed by the Master Servicer/Trustee;
+(iv) Bond Loan administration and servicing;
+(v) Systematic and timely reporting of Bond Loan performance through remittance and servicing reports, and providing such reports as may be required by this interim rule;
+(vi) Proper measurement of annual outstanding Bond Loan requirements; and
+(vii) All other duties and related services that are customarily expected of Servicers, and as may be required by the CDFI Fund or the Guarantor.
+(2)
+Selection.
+There shall be one Servicer for each Bond Issue. Each Qualified Issuer applicant shall provide, in its Qualified Issuer Application, information on its proposed Servicer that demonstrates the appropriate expertise, capacity and experience, as well as any additional information that as may be required to meet the criteria set forth in the applicable Notice of Guarantee Availability including, but not limited to, information on the entity's management and organization, loan servicing, and financial capability.
+(3)
+Fees and expenses.
+The Servicer's administrative fees and expenses for each Bond Issue shall be paid by the associated Eligible CDFIs in accordance with applicable financing documents.
+(d)
+Special Servicer—
+(1)
+Duties.
+The duties of the Special Servicer shall be performed by the Master Servicer/Trustee and shall include, but not be limited to:
+(i) Negotiating the restructuring of Bond Loans that are in or about to enter into an event of Default;
+(ii) Initiating foreclosure action and appointing a receiver; and
+(iii) Enforcing deficiency judgments.
+(2)
+Evaluation.
+The Master Servicer/Trustee applicant shall provide, in its Master Servicer/Trustee application, information on its proposed Special Servicer capabilities and experience. These capabilities may be performed by the Master Servicer/Trustee or an entity designated by the Master Servicer/Trustee. The CDFI Fund shall evaluate the Master Servicer/Trustee applicant's or its designee's ability to perform the duties of Special Servicer based on the capacity and experience in the following areas:
+(i) Restructuring, recovery, and foreclosure of loans that are similar to Bond Loans;
+(ii) Financial strength and capacity;
+(iii) Managing regional or national intake, processing, or servicing operational systems and infrastructure of loans that are similar to Bond Loans;
+(iv) Managing regional or national originator communication systems and infrastructure;
+(v) Developing and implementing training and other risk management strategies on a regional or national basis;
+(vi) Compliance monitoring and reporting; and
+(vii) Such other criteria that may be required by the CDFI Fund.
+(3)
+Fees and expenses.
+The Bond Trust Indenture will outline the Special Servicer's administrative fees and expenses; these fees shall be paid by the Eligible CDFI in accordance with the Bond Trust Indenture and related documents.
+(e)
+Master Servicer/Trustee—
+(1)
+Duties.
+The duties of the Master Servicer/Trustee shall include, but not be limited to:
+(i) The fiduciary power to enforce the terms of Bonds and the Bond Loans pursuant to the Bond Trust Indenture;
+(ii) Establishing and managing the funds and accounts set forth in this interim rule;
+(iii) Providing such reports as required;
+(iv) Overseeing the activities of Servicers and managing loan administration;
+(v) Servicing and monitoring of Bond Issues with respect to repayment obligations to the Bondholder and the terms of the Agreement to Guarantee;
+(vi) Tracking the movement of funds between the accounts of the Master Servicer/Trustee and all Servicers;
+(vii) Ensuring orderly receipt of the monthly remittance and servicing reports of the Servicers;
+(viii) Monitoring collection and foreclosure actions;
+(ix) Aggregating the reporting and distribution of funds to the Qualified Issuer, CDFI Fund, and the Bondholder, as necessary;
+(x) Removing and replacing Servicers, as necessary;
+(xi) Performing systematic and timely reporting of Bond Loan performance compiled from Servicers' reports, and providing such reports as required in this interim rule;
+(xii) Ensuring proper distribution of funds to Eligible CDFIs, servicing the Bonds, and repayment to the Bondholder; and
+(xiii) All other duties and related services that are customarily expected of a Master Servicer/Trustee, and as may be required by the CDFI Fund.
+(2)
+Selection.
+There shall be one Master Servicer/Trustee for the CDFI Bond Guarantee Program. The CDFI Fund shall solicit applications and make a selection of a Master Servicer/Trustee based on the capacity and experience of the applicant in the areas set forth in paragraph (a)(1) of this section and in the following paragraphs (a)(2)(i) through (vi):
+(i) Administration, servicing, and monitoring of loans that are similar to Bond Loans;
+(ii) Financial strength and capacity;
+(ii) Managing regional or national intake, processing, or servicing operational systems and infrastructure of loans that are similar to Bond Loans;
+(iii) Managing regional or national originator communication systems and infrastructure;
+(iv) Developing and implementing training and other risk management strategies on a regional or national basis;
+(v) Compliance monitoring and reporting; and
+(vi) Such other criteria that may be required by the CDFI Fund.
+(3)
+Fees and expenses.
+The Master Servicer/Trustee's administrative fees and expenses shall be paid by the Eligible CDFI in accordance with the Bond Trust Indenture and related documents.
+(f)
+Funds and accounts.
+The following funds shall be established by the Master Servicer/Trustee at the time of execution of the Bond Trust Indenture, on behalf of the Qualified Issuer and for the benefit of the Bondholder. On the Bond Issue Date, separate accounts shall be established therein for each Bond and, furthermore, within each account there shall be established a subaccount for each Bond Loan on the date of the closing of each Bond Loan:
+(1) The Project Fund, and therein a Project Account for each Bond: All disbursements of Bond Proceeds from the Bondholder pursuant to the requisition processes shall be deposited in the applicable Project Account or Subaccount, and the Master Servicer/Trustee shall disburse advances with respect to the Bond Loan to the Eligible CDFI therefrom;
+(2) The Revenue Fund, and therein a Revenue Account for each Bond: All payments of debt service or prepayments on the Bond Loan pursuant to the Bond Loan documents, other payments by the Eligible CDFI pursuant to the Bond Loan documents, and any investment income derived from the corresponding accounts or subaccounts in the Debt Service Fund shall be deposited in the accounts and subaccounts of the Revenue Fund;
+(3) The Debt Service Fund, and therein an Interest Account, a Principal Account and a Redemption Account for each Bond: Not later than 30 days prior to a Bond payment date, the Master Servicer/Trustee shall make the following transfers from the applicable account or subaccount of the Revenue Fund:
+(i) All scheduled payments (amortization installments or at maturity) of principal received from the Eligible CDFI on the Bond Loan shall be transferred to the Principal Account or Subaccount;
+(ii) All scheduled payments (amortization installments or at maturity) of interest received from the Eligible CDFI on the Bond Loan shall be transferred to the Interest Account or Subaccount; and
+(iii) All prepayments of principal, interest and premium, if any, received from the Eligible CDFI on the Bond Loan shall be transferred to the Redemption Account or Subaccount;
+(4) The Administrative Fees Fund, and therein an Administrative Fees Account for each Bond: All fees necessary for administering and servicing the Bond or the Bond Loan (including the Agency Administrative Fee and Bond Issuance Fees), payable by the Eligible CDFI pursuant to the Bond Loan documents, shall be deposited in the applicable account or subaccount of the Administrative Fees Fund and, thereafter, shall be disbursed by the Master Servicer/Trustee to the subject recipient in accordance with the terms of each such payment;
+(5) The Risk-Share Pool Fund, and therein a Risk-Share Pool Account for each Bond, in accordance with § 1808.303 of this part;
+(6) The Relending Fund, and therein a Relending Account for each Bond, in accordance with § 1808.308 of this part; and
+(7) Such other funds and accounts as may be required by the CDFI Fund and the Qualified Issuer in connection with a Bond Issue, Bond or Bond Loan.
+(g)
+Other funds and accounts.
+The Master Servicer/Trustee shall be permitted to establish such other funds and accounts as deemed necessary to administer the requirements of the Bond Trust Indenture. Each account shall be designated by the name of the applicable Bond and each subaccount shall be designated by the name of the applicable Bond Loan.
+(h)
+No commingling of funds.
+No commingling of monies shall be permitted between accounts or subaccounts.
+(i)
+Permitted investments.
+Monies on deposit in the Revenue Fund, the Debt Service Fund, the Risk-Share Pool Fund, the Relending Fund, if invested, shall be invested in U.S. Treasury securities with maturities that do not exceed the dates on which monies will be required for anticipated purposes and may be sold to the extent funds are needed sooner than anticipated. All interest shall be credited to the relevant account in the relevant fund.
+
+# Editorial Note:
+At 78 FR 8310, Feb. 5, 2013, part 1808 was added with two paragraphs (e)(2)(ii) in § 1808.606.
+§ 1808.607
+Representations and warranties of Qualified Issuer with respect to Guarantee.
+The Qualified Issuer shall represent and warrant to the Guarantor, at the execution of any Agreement to Guarantee to which it is a party and thereafter at the closing of any Bond Loan and the issuance of any Bond, the following:
+(a) The Qualified Issuer is duly organized, validly existing and in good standing in its State of organization with the power and authority to enter into the agreements and consummate the transactions thereby contemplated;
+(b) The information contained in the Qualified Issuer Application is true and correct;
+(c) The Bonds, when executed, are and will be duly authorized, executed, valid, binding and enforceable obligations of the Qualified Issuer;
+(d) Except as disclosed to the Guarantor, no claim or litigation is pending or threatened which would materially adversely affect the Qualified Issuer's ability to consummate the transactions contemplated by the Agreement to Guarantee, the Bond, or the Bond Loan;
+(e) The consummation of the transactions contemplated by the Agreement to Guarantee, the Bond, and the Bond Loan will not conflict with or constitute an event of default under any law or agreement to which the Qualified Issuer is subject;
+(f) No authorization, approval or consent of a governmental authority is necessary on the part of the Qualified Issuer to consummate the transactions contemplated by the Bond or the Bond Loan which has not been obtained;
+(g) No funds from any other CDFI Fund program are being used to pay principal, interest, fees, administrative costs, or issuance costs (including Bond Issuance Fees) related to the CDFI Bond Guarantee Program, or to fund the Risk-Share Pool; and
+(h) Any other representation or warranty deemed appropriate by the Guarantor, the CDFI Fund or the Bond Purchaser.
+§ 1808.608
+Representations and warranties of Eligible CDFI with respect to each Bond Loan.
+The Eligible CDFI shall represent and warrant to the Qualified Issuer, at the execution of each set of Bond Loan documents and, thereafter, until repayment in full of such Bond Loan, the following:
+(a) The performance by the Eligible CDFI under the Bond Loan documents is duly authorized, does not require consent or approval of any governmental authority not already obtained, does not constitute a default of any law or agreement to which the Eligible CDFI is subject, will not result in the
+imposition of any lien (other than pursuant to the Bond Loan), and constitutes a valid, binding and enforceable obligation of the Eligible CDFI;
+(b) The information provided by the Eligible CDFI fairly represents the financial position (in conformity with generally accepted accounting principles), experience and capacity of the Eligible CDFI, and there have been no material adverse changes in the Eligible CDFI's financial condition since the date of such financial information;
+(c) No claim or litigation is pending or threatened which would materially adversely affect the Eligible CDFI's ability to consummate the transactions contemplated by the Bond Loan, or repay the Bond Loan;
+(d) No event of default or other material event which could become an event of default has occurred and is continuing;
+(e) The Eligible CDFI has filed all Federal, State and local tax returns required and paid all liabilities in connection therewith;
+(f) The Eligible CDFI has good and marketable title to the collateral;
+(g) The Bond Loan will be applied to Eligible Purposes;
+(h) The information provided in the Guarantee Application is true and accurate;
+(i) No default, event of default or due and unsatisfied liability has occurred and is continuing with respect to any obligations of the Eligible CDFI to the Guarantor, the CDFI Fund, the Bond Purchaser, the U. S. Internal Revenue Service, or any other agency, authority or instrumentality of the Federal Government;
+(j) No funds from any other CDFI Fund program are being used to pay principal, interest, fees, administrative costs, or issuance costs (including Bond Issuance Fees) related to the CDFI Bond Guarantee Program, or to fund the Risk-Share Pool; and
+(k) Any other representations and warranties set forth in the Bond Loan documents.
+§ 1808.609
+Representations and warranties of Secondary Borrower.
+Each Secondary Borrower shall make identical representations and warranties as the Eligible CDFI and shall make specific representations and warranties with respect to the collateral and the project that is proposed to be financed by the Secondary Loan, upon which the Eligible CDFI, the Qualified Issuer, the Bondholder, the Guarantor, and the CDFI Fund may rely. These representation and warranties shall be to the satisfaction of the Guarantor and the CDFI Fund.
+§ 1808.610
+Covenants of Qualified Issuer with respect to Guarantee.
+The Qualified Issuer shall covenant in the Agreement to Guarantee that it will:
+(a) Furnish to the CDFI Fund, at the Qualified Issuer's expense, all annual and periodic financial reporting as described in § 1808.619 of this part;
+(b) Maintain books and records related to each Bond Loan, the collateral and the project that is to be financed by Bond Proceeds, and allow inspection thereof;
+(c) Preserve its corporate existence and Certified CDFI status, if applicable;
+(d) Comply with all laws to which it is subject;
+(e) Maintain its solvency;
+(f) To the extent it assigns any of its obligations under the agreement to an Affiliate, guarantee performance of such obligations;
+(g) Allow audits and investigations by the CDFI Fund, the Treasury Inspector General, the Comptroller General, or such other Federal Government offices as may be designated by the Guarantor or the CDFI Fund;
+(h) Provide such reports as required in § 1808.619 of this part;
+(i) Make, execute and deliver such instruments as the Guarantor or the CDFI Fund may reasonably request;
+(j) Sign and certify as true and correct all Bond Documents and Bond Loan documents;
+(k) Not amend or modify any agreement related to the Bond without the consent of the Bondholder, the Guarantor, or the CDFI Fund, as applicable;
+(l) Comply with the terms and conditions of the Agreement to Guarantee, the Bond Trust Indenture, and the Bond and Bond Loan documents;
+(m) Immediately notify the Guarantor and the CDFI Fund of any material change or event that affects any representation, warranty or covenant of the Guarantee, Bond or Bond Loan documents;
+(n) Pay and discharge all Federal, State and local taxes; andand
+(o) Comply with all other covenants set forth in the Bond Documents and Bond Loan documents.
+§ 1808.611
+Covenants of Eligible CDFI with respect to Bond and each Bond Loan.
+The Eligible CDFI shall covenant in the Bond Loan agreement that it will:
+(a) Furnish to the Qualified Issuer, at the Eligible CDFI's expense, certain annual and periodic financial and performance reporting;
+(b) Maintain books and records related to the Bond Loan and Secondary Loans, the collateral and the project that is to be financed by Bond Loan proceeds, and allow inspection thereof;
+(c) Preserve its corporate existence and Certified CDFI status;
+(d) Comply with all laws to which it is subject;
+(e) Maintain insurance, as required by the Qualified Issuer, against such risks as would customarily be maintained by commercially reasonable companies in a similar line of business;
+(f) Pay and discharge all Federal, State and local taxes;
+(g) Ensure proper use of proceeds of the Bond Loan;
+(h) Pay all required administrative expenses;
+(i) Indemnify the Guarantor, the CDFI Fund, the Qualified Issuer and the Master Servicer/Trustee and their Affiliates;
+(j) Collaterally assign all rights, title, and interest in and to Secondary Loan collateral to the Master Servicer/Trustee;
+(k) Maintain the collateral;
+(l) Enforce the covenants against the Secondary Borrowers;
+(m) Be bound, to the extent applicable, to provisions of the Bond Trust Indenture;
+(n) Periodically, as directed by the CDFI Fund, furnish certain information designed to measure the impacts of the Bond Loan and the CDFI Bond Guarantee Program;
+(o) Periodically, as directed by the CDFI Fund, furnish to the Qualified Issuer and/or the CDFI Fund updates to the Capital Distribution Plan; and
+(p) Comply with all other representations and warranties set forth in the Bond Loan documents.
+§ 1808.612
+Specific financial covenants of Eligible CDFI.
+The Eligible CDFI shall covenant in Bond Loan documents that it will comply with specific financial requirements as required by the Guarantor and the CDFI Fund. Such financial requirements will be determined based upon the quantity and the character of the existing loan facilities of the Eligible CDFI, among other factors. The specific financial covenants may include, but are not limited to, one or more of the following measures: consolidated net asset ratio; consolidated unrestricted net asset ratio; and minimum available liquidity (or, in the case of Eligible CDFIs that are regulated financial institutions, such ratios and information as may be required by the applicable Appropriate Federal Banking Agency or Appropriate State Agency). The specific financial requirements shall be measured based upon such Eligible CDFI's financial statements prepared in accordance with generally accepted accounting principles and consistent with historically applied accounting policies and practices.
+§ 1808.613
+Negative covenants of Eligible CDFI.
+The Eligible CDFI will covenant in Bond Loan documents that it will comply with certain negative covenants, as required by the CDFI Fund including, but not limited to, that it will:
+(a) Not incur or issue additional long-term or short-term debt to the extent that the incurrence of such additional debt would violate the specific financial covenants of such Eligible CDFI under the Bond Loan; and
+(b) Not permit liens on all or any part of the Bond Loan collateral, except as permitted pursuant to the Bond Loan documents, and only then to the extent consistent with the applicable
+laws and regulations governing the Bond Loan and as approved by the CDFI Fund.
+§ 1808.614
+Covenants of Secondary Borrower with respect to Secondary Loan.
+In addition to making specific representations and warranties with respect to the collateral and the project being financed by the Secondary Loan proceeds, each Secondary Borrower shall covenant in the Secondary Loan agreement that it will:
+(a) Periodically, as directed by the Eligible CDFI, furnish to the Eligible CDFI certain annual and periodic financial and performance reporting;
+(b) Maintain books and records related to the Secondary Loan, the collateral and the project that is to be financed by Bond Loan proceeds, and allow inspection thereof;
+(c) Preserve its corporate existence, as applicable;
+(d) Comply with all laws to which it is subject;
+(e) Maintain insurance, as directed by the Eligible CDFI, against such risks as would customarily be maintained by commercially reasonable companies in a similar line of business;
+(f) Pay and discharge all Federal, State and local taxes;
+(g) Ensure proper use of proceeds of the Secondary Loan;
+(h) Maintain the collateral;
+(i) Periodically, as directed by the Eligible CDFI, furnish to the Eligible CDFI certain information designed to measure the impacts of the Bond Loan and the CDFI Bond Guarantee Program; and
+(j) Comply with all other representations and warranties set forth in the Secondary Loan documents.
+§ 1808.615
+Negative covenants of Secondary Borrower.
+Any additional debt of the Secondary Borrower shall be in accordance with the requirements set forth in the applicable Secondary Loan Requirements and the Secondary Loan agreement, and may include, but shall not be limited to, that:
+(a) The Secondary Borrower will not incur or issue additional long-term or short-term debt payable from and having a lien on all or a portion of the Secondary Loan collateral that is
+(1) Equally and ratably secured; or
+(2) Superior or senior to the lien thereon of the Secondary Loan as more specifically set forth in the Secondary Loan agreement; and
+(b) So long as no event of default has occurred and is continuing, the Secondary Borrower may, subject to the approval of the Eligible CDFI, incur or issue at any time additional debt payable from and having a lien on all or a portion of the Secondary Loan collateral that is subordinate or junior to the lien thereon of the Secondary Loan and enter into subordinate credit facility agreements, provided that no events of default have occurred and are continuing under the Secondary Loan documents or any parity senior loan documents and that such debt meets the requirements set forth in paragraph (a) of this section.
+§ 1808.616
+Events of default and remedies with respect to Bonds.
+(a)
+Events of default.
+An event of default with respect to any Bond shall include, but not be limited to:
+(1) Nonpayment of interest or the Agency Administrative Fee when due and payable;
+(2) Nonpayment of principal or prepayment price when due and payable;
+(3) The use of Bond Proceeds for any purpose other than an Eligible Purpose; and
+(4) Any other events of default set forth in the Bond or the Bond Trust Indenture.
+(b)
+Default of other Bonds.
+An event of default under one Bond shall not constitute an event of default under another Bond.
+(c)
+Remedies.
+Pursuant to the Agreement to Guarantee and the Bond Trust Indenture, remedies upon an event of default shall include, but not be limited to, the following:
+(1) Declaring the entire amount of unpaid principal and interest on the applicable Bond immediately due and payable; and
+(2) Exercising all remedies available under the applicable Agreement to Guarantee and the Bond Trust Indenture.
+(d) Notice and comment. Prior to imposing any remedies pursuant to this section or the Agreement to Guarantee, the Guarantor shall, to the maximum extent practicable, provide the Qualified Issuer with written notice of the proposed sanction and an opportunity to comment. Nothing in this section, however, shall provide a Qualified Issuer the right to any formal or informal hearing or comparable proceeding not otherwise required by law.
+§ 1808.617
+Events of default and remedies with respect to Bond Loans.
+(a)
+Events of default.
+The following shall constitute an event of default with respect to each Bond Loan:
+(1) Nonpayment of interest when due and payable;
+(2) Nonpayment of principal or prepayment price when due and payable;
+(3) Failure of the Eligible CDFI to perform any condition or covenant under any Bond Loan document;
+(4) Any representation or warranty of the Eligible CDFI made in connection with the Guarantee Application or the Bond Loan is false or incorrect in any material respect;
+(5) Principal or interest on any indebtedness of the Eligible CDFI or any subsidiary of the Eligible CDFI in excess of $100,000 is not paid when due (subject to a cure period);
+(6) The holder of any junior or parity lien on collateral institutes a proceeding to enforce a lien on the collateral;
+(7) The Eligible CDFI files bankruptcy or consents to the appointment of a receiver or trustee for itself or the collateral;
+(8) Any money judgment is filed against the Eligible CDFI and remains unvacated for a period of 60 days from filing;
+(9) The use of Bond Loan proceeds for any purpose other than an Eligible Purpose; or
+(10) Any other events of default set forth in the Bond Loan documents.
+(b)
+Remedies.
+Remedies of the Qualified Issuer upon an event of default include, but are not limited to, the following:
+(1) Declaring the entire amount of unpaid principal and interest on the applicable Bond Loan immediately due and payable;
+(2) Applying for appointment of a receiver or trustee for the collateral;
+(3) At the direction of the Guarantor, terminating the Bond Loan agreement, declaring the entire amount of unpaid principal and interest on the applicable Bond Loan immediately due and payable; and
+(4) Exercising all remedies available under the applicable Bond Loan agreement, including declaring the Bond Loan Payment Default Rate in effect.
+(c)
+Enforcement rights.
+The Guarantor reserves all rights to enforce remedies upon an event of default.
+§ 1808.618
+Events of default and remedies with respect to Secondary Loans.
+(a)
+Events of default.
+The following shall constitute an event of default with respect to each Secondary Loan:
+(1) Nonpayment of interest when due and payable;
+(2) Nonpayment of principal when due and payable;
+(3) Failure of the Secondary Borrower to perform any condition or covenant under any Secondary Loan document;
+(4) Any representation or warranty of the Secondary Borrower made in connection with the Secondary Loan application or the Secondary Loan documents is false or incorrect in any material respect;
+(5) Principal or interest on any indebtedness of the Secondary Borrower or any subsidiary of the Secondary Borrower in excess of $100,000 is not paid when due (subject to a cure period);
+(6) The holder of any junior or parity lien on collateral institutes a proceeding to enforce a lien on the collateral;
+(7) The Secondary Borrower files bankruptcy or consents to the appointment of a receiver or trustee for itself or the collateral;
+(8) Any money judgment is filed against the Secondary Borrower and remains unvacated for a period of 60 days from filing; or
+(9) Any other events of default set forth in the Secondary Loan documents.
+(b)
+Remedies.
+The Qualified Issuer and the Guarantor will reserve certain rights to enforce (or direct enforcement of) remedies upon an event of default under the Secondary Loan documents.
+§ 1808.619
+Reporting requirements.
+The Bond Documents and Bond Loan documents shall specify such monitoring and financial reporting requirements as deemed appropriate by the CDFI Fund including, but not limited to the following:
+(a)
+Data—General.
+As long as the Bonds remain outstanding, a Qualified Issuer shall provide such reports and shall maintain such records as may be prescribed by the CDFI Fund that are necessary to:
+(1) Disclose the manner in which Bond Proceeds are used, including providing documentation to demonstrate proceeds of the Bond Loans were used for Eligible Purposes;
+(2) Demonstrate compliance with the requirements of this part and the Bond Documents;
+(3) Evaluate the impact of the CDFI Bond Guarantee Program;
+(4) Ensure the Qualified Issuer meets the performance standards over the life of the facilities; and
+(5) Accomplish such other purposes that the CDFI Fund may deem appropriate.
+(b)
+Customer profiles.
+The Qualified Issuer shall require each Eligible CDFI to compile such data on the gender, race, ethnicity, national origin, or other information on individuals and entities that utilize its products and services as the CDFI Fund shall prescribe and as is permissible under applicable law. In general, such data will be used to determine whether residents of Investment Area(s) or members of Targeted Population(s) are adequately served and to evaluate the impact of the CDFI Bond Guarantee Program.
+(c)
+Audits; Access to records.
+(1) The CDFI Fund may, if it deems appropriate, audit Qualified Issuers, Eligible CDFIs, Program Administrators, Servicers, and/or the Master Servicer/Trustee, or provide for or require an audit, at least annually. Portfolio management and loan monitoring will also employ risk-based, on-site verification of the Eligible CDFI's lending activities to Secondary Borrowers and compliance with the terms in Secondary Lending Requirements.
+(2) Qualified Issuers, Eligible CDFIs, Program Administrators, Servicers, the Master Servicer/Trustee, as applicable, must submit such financial and activity reports, records, statements, and documents at such times, in such forms, and accompanied by such reporting data, as required by the CDFI Fund to ensure compliance with the requirements of this interim rule and to evaluate the impact of the CDFI Bond Guarantee Program.
+(3) The Federal Government, including the U.S. Department of the Treasury, the Comptroller General, and their duly authorized representatives, shall have full and free access to such entities' offices and facilities and all books, documents, records, and financial statements relating to the Guarantee and may copy such documents as they deem appropriate
+(4) The CDFI Fund, if it deems appropriate, may prescribe audit and access to record requirements for Eligible CDFIs and Secondary Borrowers.
+(d)
+Retention of records.
+Qualified Issuers, Eligible CDFIs, Program Administrators, the Master Servicer/Trustee, and Servicers shall comply with all record retention requirements as set forth in OMB Circular A-110 (as applicable).
+(e)
+Data collection and reporting.
+Qualified Issuers, Eligible CDFIs, the Program Administrator, the Master Servicer/Trustee, and Servicers, as applicable, shall submit to the CDFI Fund, monthly, quarterly, and annually, as specified in the Bond Documents, and as long as the Bond shall remain outstanding, such information and documentation that will permit the CDFI Fund to review compliance with the Capital Distribution Plan and the terms and conditions of the Bond Documents, and to perform adequate portfolio management and loan monitoring. The information and documentation may include, but not be limited to, the following:
+(1) Financial statements, including but not limited to:
+(i) Annual financial statements for the Qualified Issuer and each Eligible
+CDFI that have been audited in conformity with generally accepted auditing principles; and
+(ii) With respect to any nonprofit Qualified Issuer and any Eligible CDFI that is required to have its financial statements audited pursuant to OMB Circular A-133 Audits of States, Local Governments and Non-Profit Organizations, annual A-133 audited financial statements. Non-profit Qualified Issuers and Eligible CDFIs that are not required to have financial statements audited pursuant to OMB Circular A-133 must submit to the CDFI Fund a statement signed by the Qualified Issuer or Eligible CDFI's authorized representative or certified public accountant, asserting that a single audit pursuant OMB Circular A-133 is not required;
+(2) Pro forma projection of the Qualified Issuer's and Eligible CDFI's respective balance sheet, income statement, and statement of cash flows over the ensuing five years, or such other time period as specified by the CDFI Fund;
+(3) Such institution-level and transaction-level reports as may be required by the CDFI Fund;
+(4) Information necessary to measure the financial condition of the Eligible CDFI. This includes, but is not limited to, measuring solvency by collecting data on fixed charge coverage, capital adequacy, debt coverage, and measuring liquidity by collecting data on core financial ratios, including current ratios, quick ratios, working capital, and operating liquidity ratio. This will also include credit reporting, financial statement analysis, trend analysis of financial conditions, market valuation, loan performance (30/60/90 payment history) of Bond Loans and Secondary Loans, valuation and eligibility of Secondary Loan collateral, and management and organization changes;
+(5) Information necessary to assess Program impact performance and outcome measures, including information necessary to evaluate the credit-worthiness of loan applicants; and
+(6) Other such information and reports as may be requested by the CDFI Fund.
+(f)
+Qualified Issuer reports.
+Qualified Issuers are responsible for the timely and complete submission of all required information and reports, even if all or a portion of the documents actually are completed by the Eligible CDFI. The CDFI Fund reserves the right to contact the Qualified Issuer or Eligible CDFI and require that additional information and documentation be provided.
+(g)
+Regulator information.
+The CDFI Fund's review of a regulated Qualified Issuer's or regulated Eligible CDFI's performance or compliance with the Bond Documents may also include information provided by the Appropriate Federal Banking Agency or Appropriate State Agency, as the case may be.
+(h)
+Public inspection.
+The CDFI Fund shall make reports described in this section available for public inspection after deleting any materials necessary to protect privacy or proprietary interests pursuant to all applicable laws and regulations.
+(i)
+Availability of referenced publications.
+The publications referenced in this section are available as follows:
+(1) OMB Circulars may be obtained from the Office of Administration, Publications Office, 725 17th Street NW., Room 2200, New Executive Office Building, Washington, DC 20503 or on the Internet (
+http://www.whitehouse.gov/omb/grants_circulars/
+); and
+(2) Government Accountability Office materials may be obtained from GAO Distribution, 700 4th Street NW., Suite 1100, Washington, DC 20548.
+§ 1808.620
+Investments in Guaranteed Bonds ineligible for Community Reinvestment Act Purposes.
+Notwithstanding any other provision of law, any investment by a financial institution in Bonds shall not be taken into account in assessing the record of such institution for purposes of the Community Reinvestment Act of 1977 (12 U.S.C. 2901). Other forms of participation by financial institutions in CDFI Bond Guarantee Program transactions may be eligible for inclusion in Community Reinvestment Act records to the extent permitted by the Appropriate Federal Banking Agency.
+§ 1808.621
+Conflict of interest requirements.
+(a)
+Provision of Bond Loans or Secondary Loans to Affiliates.
+(1) A Qualified Issuer or Eligible CDFI that is not regulated by an Appropriate Federal Banking Agency or Appropriate State Agency may not use any Bond Proceeds or Bond Loan proceeds to make any Bond Loans or Secondary Loans available to an Affiliate unless it meets the following restrictions:
+(i) The loan must be provided pursuant to standard underwriting procedures, terms and conditions;
+(ii) The Affiliate receiving the loan shall not participate in any way in the decision-making regarding such loan;
+(iii) The board of directors or other governing body of the lender shall approve the extension of the loan; and
+(iv) The loan must be provided in accordance with a policy regarding credit to Affiliates that has been approved in advance by the CDFI Fund.
+(2) A Qualified Issuer or Eligible CDFI that is an Insured CDFI, a Depository Institution Holding Company or a State-Insured Credit Union (as such terms are defined in 12 CFR 1805.104) shall comply with the restrictions on insider activities and any comparable restrictions established by its Appropriate Federal Banking Agency or Appropriate State Agency, as applicable.
+(b)
+Standards of conduct.
+Qualified Issuers, Eligible CDFIs, Program Administrators, the Master Servicer, and Servicers shall maintain a code or standards of conduct acceptable to the CDFI Fund that govern the performance of employees engaged in the awarding and administration of any loan. No employee of a Qualified Issuer, Eligible CDFI, Program Administrators, the Master Servicer, and Servicer shall solicit or accept gratuities, favors or anything of monetary value from any actual or potential borrowers for such loans. Such policies shall provide for disciplinary actions to be applied for violation of the standards by employees.
+§ 1808.622
+Compliance with government requirements.
+In carrying out its responsibilities pursuant to any agreements associated with the CDFI Bond Guarantee Program, all Qualified Issuers, Eligible CDFIs, Program Administrators, Servicers, and the Master Servicer/Trustee shall comply with all applicable Federal, State, and local laws, regulations, and ordinances, OMB Circulars, and Executive Orders, including restrictions on lending to entities with delinquent Federal debt.
+§ 1808.623
+Lobbying restrictions.
+No fees or funds made available under this part may be expended by a party to pay any person to influence or attempt to influence any agency, elected official, officer or employee of a State or local government in connection with the making, award, extension, continuation, renewal, amendment, or modification of any State or local government contract, grant, loan or cooperative agreement as such terms are defined in 31 U.S.C. 1352.
+§ 1808.624
+Criminal provisions.
+The criminal provisions of 18 U.S.C. 657 regarding embezzlement or misappropriation of funds are applicable to all CDFI Bond Guarantee Program participants and insiders.
+§ 1808.625
+CDFI Fund deemed not to control.
+The CDFI Fund shall not be deemed to control a CDFI Bond Guarantee Program participant by reason of any Guarantee provided under the Act for the purpose of any applicable law.
+§ 1808.626
+Limitation on liability.
+The liability of the Federal Government arising out of any fees or funds obtained by a CDFI Bond Guarantee Program participant in accordance with this interim rule shall be limited to the amount of the fees or funds obtained by the CDFI Bond Guarantee Program participant. The Federal Government shall be exempt from any assessments and other liabilities that may be imposed on controlling or principal shareholders by any Federal law or the law of any State. Nothing in this section shall affect the application of any Federal tax law.
+§ 1808.627
+Fraud, waste and abuse.
+Any person who becomes aware of the existence or apparent existence of
+fraud, waste or abuse of any Guarantee, Bond, Bond Loan or Secondary Loan provided under this interim rule must report such incidents to the Office of Inspector General of the U.S. Department of the Treasury.
+Pt. 1815
+
+# PART 1815—ENVIRONMENTAL QUALITY
+Sec.
+1815.100
+Policy.
+1815.101
+Purpose.
+1815.102
+Definitions.
+1815.103
+Designation of responsible Fund official.
+1815.104
+Specific responsibilities of the designated Fund official.
+1815.105
+Major decision points.
+1815.106
+Supplemental environmental review.
+1815.107
+Determination of review requirement.
+1815.108
+Actions that normally require an EIS.
+1815.109
+Preparation of an EIS.
+1815.110
+Categorical exclusion.
+1815.111
+Actions that require an environmental assessment.
+1815.112
+Preparation of an environmental assessment.
+1815.113
+Public involvement.
+1815.114
+Fund decisionmaking procedures.
+1815.115
+OMB control number.
+
+# Authority:
+12 U.S.C. 4703, 4717; 42 U.S.C. 4332; Chapter X, Pub L. 104-19, 109 Stat. 237 (12 U.S.C. 4703 note).
+
+# Source:
+60 FR 54130, Oct. 19, 1995, unless otherwise noted.
+§ 1815.100
+Policy.
+The Community Development Financial Institution Fund's policy is to ensure that environmental factors and concerns are given appropriate consideration in decisions and actions by the Fund and to reduce any possible adverse effects of Fund decisions and actions upon the quality of the human environment.
+§ 1815.101
+Purpose.
+This part supplements Council on Environmental Quality regulations for implementing the procedural provisions of the National Environmental Policy Act of 1969, as amended, and describe how the Community Development Financial Institutions Fund intends to consider environmental factors and concerns in the Fund's decisionmaking process. This part applies only to the Fund and not to any other bureau, office or organization within the Department of the Treasury.
+§ 1815.102
+Definitions.
+(a) For the purpose of this part:
+(1)
+Act
+means the Community Development Banking and Financial Institutions Act (12 U.S.C. 4701
+et seq.
+);
+(2)
+Application
+means a request for assistance from the Fund submitted pursuant to parts 1805 or 1806 of this chapter;
+(3)
+CEQ regulations
+means the regulations for implementing the procedural provisions of the National Environmental Policy Act of 1969 as promulgated by the Council on Environmental Quality, Executive Office of the President, appearing at 40 CFR parts 1500-1508 and to which this part is a supplement;
+(4)
+Comprehensive Business Plan
+means a document submitted as part of an Application pursuant to part 1805 of this chapter which describes an organization's proposed process for offering products or services to a particular market, including organizational requirements needed to serve that market effectively;
+(5)
+Consumer Loans
+means loans to one or more individuals for household, family or other personal expenditures;
+(6)
+Decisionmaker
+means the Director of the Fund, unless an appropriate delegation of authority has been made;
+(7)
+EIS
+means an environmental impact statement as defined in 40 CFR 1508.11 of the CEQ regulations;
+(8)
+Fund
+means the Community Development Financial Institutions Fund, established under section 104(a) of the Act (12 U.S.C. 4703(a));
+(9)
+NEPA
+means the National Environmental Policy Act, as amended, 42 U.S.C. 4321-4335; and
+(10)
+Project
+means all closely related actions relating to a specific site.
+(b) Other terms used in this part are defined in 40 CFR part 1508 of the CEQ regulations.
+§ 1815.103
+Designation of responsible Fund official.
+The Director of the Fund is the designated Fund official responsible for implementation and operation of the
+Fund's policies and procedures on environmental quality and control.
+§ 1815.104
+Specific responsibilities of the designated Fund official.
+The designated Fund official shall:
+(a) Coordinate the formulation and revision of Fund policies and procedures on matters pertaining to environmental quality and control;
+(b) Establish and maintain working relationships with relevant government agencies (including Federal, state and local) concerned with environmental matters;
+(c) Develop procedures within the Fund's planning and decisionmaking processes to ensure that environmental factors are properly considered in all proposals and decisions in accordance with this part;
+(d) Develop, monitor, and review the Fund's implementation of standards, procedures, and working relationships for protection and enhancement of environmental quality and compliance with applicable laws and regulations;
+(e) Monitor processes to ensure that the Fund's procedures regarding consideration of environmental quality are achieving their intended purposes;
+(f) Advise the officers and employees of the Fund of technical and management requirements of environmental analysis, of appropriate expertise available, and, with the assistance of the Department of the Treasury's Office of the General Counsel, of relevant legal developments;
+(g) Monitor the consideration and documentation of the environmental aspects of Fund planning and decisionmaking processes by appropriate officers and employees of the Fund;
+(h) Ensure that all environmental assessments and, where required, all EISs are prepared in accordance with the appropriate regulations adopted by the Council on Environmental Quality and the Fund;
+(i) Ensure that, as required, a legislative EIS is submitted with all proposed legislation;
+(j) Consolidate and transmit to appropriate parties the Fund's comments on EISs and other environmental reports prepared by other agencies;
+(k) Acquire information and prepare appropriate reports on environmental matters required of the Fund; and
+(l) Coordinate the Fund's efforts to make available to other parties information and advice on the Fund's policies for protecting and enhancing the quality of the environment.
+§ 1815.105
+Major decision points.
+(a) The possible environmental effects of an Application, including any Comprehensive Business Plan, must be considered along with technical, economic, and other factors throughout the decisionmaking process. For most Fund actions there are two distinct stages in the decisionmaking process:
+(1) Preliminary approval stage, at which point applications are selected for funding; and
+(2) Final approval and funding stage.
+(b) Environmental review shall be integrated into the decisionmaking process of the Fund as follows:
+(1) During the preliminary approval stage, the designated Fund official shall determine whether the Application proposes actions which are categorically excluded, or normally require an environmental assessment or an EIS;
+(2) If the designated Fund official determines that the Application proposes actions which normally require an environmental assessment or an EIS, the applicant shall be informed that the final approval and funding, in addition to any other conditions, is contingent upon:
+(i) The applicant supplying to the Fund all information necessary for the Fund to perform or have performed any environmental review required by this part;
+(ii) The applicant not using any Fund financial assistance to perform any of such proposed actions in the Application that affect the physical environment until Fund approval is received; and
+(iii) The outcome of the environmental review required by this part;
+(3) The Fund will perform or have performed the environmental reviews required by this part;
+(4) A preliminary approval of an Application may be withdrawn or further conditions may be imposed based upon
+the outcome of an environmental review required by this part; and
+(5) If the designated Fund official determines that the Application proposes actions that require an environmental assessment or an EIS, the environmental assessment and/or EIS must be completed and circulated prior to the use of Federal funds for any activity that triggers the need for an environmental assessment and/or EIS.
+§ 1815.106
+Supplemental environmental review.
+(a) The designated Fund official shall determine whether the proposed actions in the Application are sufficiently definite to perform a meaningful environmental review during the preliminary approval stage.
+(b) If the designated Fund official determines that the Application is sufficiently definite to perform a meaningful environmental review during the preliminary approval stage, no conditions for supplemental environmental review shall be imposed.
+(c) If the designated Fund official determines that the Application, or any part of the Application, is not sufficiently definite to complete a meaningful environmental review during the preliminary approval stage, the Fund shall require a supplemental environmental review prior to the taking of any action directly using Fund financial assistance that is not categorically excluded from environmental review or for which an environmental assessment or EIS has not been approved by the Fund. The applicant shall notify the designated Fund official when proposing any action requiring a supplemental environmental review and shall supply to the Fund all information necessary for the Fund to perform the supplemental environmental review. The Fund shall perform or have performed such a supplemental environmental review. The applicant shall not use any Fund financial assistance to perform any of the proposed actions requiring a supplemental environmental review that affect the physical environment until Fund approval for such action is received.
+§ 1815.107
+Determination of review requirement.
+In deciding whether to prepare an EIS, the designated Fund official shall determine whether the proposal is one that normally:
+(a) Requires an EIS;
+(b) Requires an environmental assessment, but not necessarily an EIS; or
+(c) Does not require either an EIS or an environmental assessment (categorical exclusion).
+§ 1815.108
+Actions that normally require an EIS.
+(a) If necessary, the Fund shall perform or have performed an environmental assessment to determine if an Application, or any portion of an Application, requires an EIS. However, it may be readily apparent that a proposed action in an Application will have a significant impact on the environment; in such cases, an environmental assessment is not required and the Fund shall immediately begin to prepare, or have prepared, an EIS.
+(b) An EIS normally is required where an Application proposes to directly use financial assistance from the Fund for any Project that would:
+(1) Remove, demolish, convert, or substantially rehabilitate 2,500 or more existing housing units, or would result in the construction or installation of 2,500 or more new housing units, or which would provide sites for 2,500 or more new housing units; or
+(2) Remove, demolish, convert, or substantially rehabilitate 1,500,000 square feet or more of commercial space, or would result in the construction or installation of 1,500,000 square feet or more of new commercial space, or which would provide sites for 1,500,000 square feet or more of new commercial space.
+§ 1815.109
+Preparation of an EIS.
+(a) If the Fund determines that an EIS should be prepared, it shall publish a notice of intent in the
+Federal Register
+in accordance with 40 CFR 1501.7 and 1508.22 of the CEQ regulations. After publishing the notice of intent, the Fund shall begin to prepare or have prepared the EIS. Procedures for preparing the EIS are set forth in 40 CFR part 1502 of the CEQ regulations.
+(b) The Fund may supplement a draft or final EIS at any time. The Fund shall prepare or have prepared a supplement to either the draft or final EIS when:
+(1) Substantial changes are proposed to an action contained in the draft or final EIS that are relevant to environmental concerns or there are significant new circumstances or information relevant to environmental concerns and bearing on the proposed action or its impacts; or
+(2) Actions are proposed which relate or are similar to other action(s) taken or proposed and that together have a cumulatively significant impact on the environment.
+§ 1815.110
+Categorical exclusion.
+The CEQ regulations provide for the categorical exclusion of actions that do not individually or cumulatively have a significant effect on the human environment (40 CFR 1508.4). Therefore, neither an environmental assessment nor an EIS is required for such actions. An action which falls into one of the categories below may still require the preparation of an EIS or environmental assessment if the designated Fund official determines it meets the criteria stated in § 1815.109 or involves extraordinary circumstances that may have a significant environmental effect. The Fund has determined the following categorical exclusions:
+(a) Actions directly related to the administration or operation of the Fund (e.g. personnel actions, including, but not limited to, staff recruitment and training; purchase of goods and services for the Fund, including, but not limited to, furnishings, equipment, supplies and services; space acquisition; property management; and security);
+(b) Actions directly related to and implementing proposals for which an environmental assessment or an environmental assessment and EIS have been prepared;
+(c) Actions directly related to the granting or receipt of Bank Enterprise Act awards pursuant to part 1806 of this chapter;
+(d) Actions directly related to training and/or technical assistance;
+(e) Projects for the acquisition, disposition, rehabilitation and/or modernization of 500 existing housing units or less when all the following conditions are met:
+(1) Unit density is not increased more than 20 percent;
+(2) The Project does not involve changes in land use from nonresidential to residential;
+(3) The estimated cost of rehabilitation is less than 75 percent of the total estimated cost of replacement after rehabilitation; and
+(4) The Project does not involve the demolition of one or more buildings containing the primary use served by the project that, together, have more than 20 percent of the square footage of the Project;
+(f) Projects for the construction of 200 housing units or less when all the following conditions are met:
+(1) The Project does not involve changes in existing land use from nonresidential to residential; and
+(2) The Project does not involve the demolition of one or more buildings containing the primary use served by the project that, together, have more than 20 percent of the square footage of the Project;
+(g) Projects for the acquisition, disposition, rehabilitation and/or modernization of 200,000 square feet or less of existing commercial space when all the following conditions are met:
+(1) The Project does not involve changes in existing land use from residential to nonresidential;
+(2) The estimated cost of rehabilitation is less than 75 percent of the total estimated cost of replacement after rehabilitation; and
+(3) The Project does not involve the demolition of more than 10,000 square feet of commercial space containing the primary use served by the Project;
+(h) Projects for the construction of 100,000 square feet or less of commercial space when all the following conditions are met:
+(1) The Project does not involve changes in existing land use from residential to nonresidential: and
+(2) The Project does not involve the demolition of more than 10,000 square feet of commercial space containing the primary use served by the Project;
+(i) Projects for the acquisition of an existing structure, provided that the property to be acquired is in place and will be retained in the same use;
+(j) Projects involving Fund financial assistance of $1,000,000 or less;
+(k) Actions directly related to the provision of residential tenant-based rental assistance, Consumer Loans, health care, child care, educational, cultural and/or social services;
+(l) Actions involving Fund financial assistance that is used to increase the permanent capital and/or liquidity of an applicant;
+(m) Actions where no use of Federal funds is involved in the activity or Project; and
+(n) Actions directly related to the provision of working capital, the acquisition of machinery and equipment or the purchase of inventory, raw materials or supplies.
+§ 1815.111
+Actions that require an environmental assessment.
+If a Project or action is not one that normally requires an EIS and does not qualify for categorical exclusion, the Fund shall prepare, or have prepared, an environmental assessment.
+§ 1815.112
+Preparation of an environmental assessment.
+(a) The Fund shall begin the preparation of an environmental assessment as early as possible after the designated Fund official has determined that it is required. The Fund may prepare an environmental assessment at any time to assist planning and decisionmaking.
+(b) An environmental assessment is a concise public document used to determine whether to prepare an EIS. An environmental assessment aids in complying with the NEPA when no EIS is necessary, and it facilitates the preparation of an EIS, if one is necessary. The environmental assessment shall contain brief discussions of the following topics:
+(1) Purpose and need for the proposed action;
+(2) Description of the proposed action;
+(3) Alternatives considered, including the no action alternative;
+(4) Environmental effects of the proposed action and alternative actions; and
+(5) Listing of agencies, organizations or persons consulted.
+(c) The most important or significant environmental consequences and effects on the areas listed below should be addressed in the environmental assessment. Only those areas which are specifically relevant to the particular proposal should be addressed. Those areas should be addressed in as much detail as is necessary to allow an analysis of the alternatives and the proposal. The areas to be considered are the following:
+(1) Natural/ecological features (such as floodplain, wetlands, coastal zones, wildlife refuges, and endangered species);
+(2) Air quality;
+(3) Sound levels;
+(4) Water supply, wastewater treatment and water runoff;
+(5) Energy requirements and conservation;
+(6) Solid waste;
+(7) Transportation;
+(8) Community facilities and services;
+(9) Social and economic;
+(10) Historic and aesthetic; and
+(11) Other relevant factors.
+(d) If the Fund completes an environmental assessment and determines that an EIS is not required, then the Fund shall prepare a finding of no significant impact. The finding of no significant impact shall be made available to the public by the Fund as specified in 40 CFR 1506.6 of the CEQ regulations.
+§ 1815.113
+Public involvement.
+All information collected by the Fund pursuant to this part shall be available to the public consistent with the CEQ regulations. Interested persons may obtain information concerning any pending EIS or any other element of the environmental review process of the Fund by contacting the Community Development Financial Institutions Fund, Department of the Treasury, 1500 Pennsylvania Avenue NW., room 5116, Washington, DC 20220, or such other contact entity designated by the Fund.
+§ 1815.114
+Fund decisionmaking procedures.
+To ensure that at major decisionmaking points all relevant environmental concerns are considered by the Decisionmaker, the following procedures are established:
+(a) An environmental document, i.e., the EIS, environmental assessment, finding of no significant impact, or notice of intent, in addition to being prepared at the earliest point in the decisionmaking process, shall accompany the relevant proposal or action through the Fund's decisionmaking process to ensure adequate consideration of environmental factors;
+(b) The Decisionmaker shall consider in its decisionmaking process only those alternatives discussed in the relevant environmental documents. Also, where an EIS has been prepared, the decisionmaker shall consider all comments received during any comment process and all alternatives described in the EIS. A written record of the consideration of alternatives during the decisionmaking process shall be maintained; and
+(c) Any environmental document prepared for a proposal or action shall be made part of the record of any formal rulemaking by the Fund.
+§ 1815.115
+OMB control number.
+The collection of information requirements in this part have been approved by the Office of Management and Budget and assigned OMB control number 1505-0153 (expires September 30, 1998).
+PARTS 1816-1899 [RESERVED]
+
+# FINDING AIDS
+A list of CFR titles, subtitles, chapters, subchapters and parts and an alphabetical list of agencies publishing in the CFR are included in the CFR Index and Finding Aids volume to the Code of Federal Regulations which is published separately and revised annually.
+Table of CFR Titles and Chapters
+Alphabetical List of Agencies Appearing in the CFR
+List of CFR Sections Affected
+Chap.
+
+# Table of CFR Titles and Chapters
+(Revised as of January 1, 2025)
+
+# Title 1—General Provisions
+I
+Administrative Committee of the Federal Register (Parts 1—49)
+II
+Office of the Federal Register (Parts 50—299)
+III
+Administrative Conference of the United States (Parts 300—399)
+IV
+Miscellaneous Agencies (Parts 400—599)
+VI
+National Capital Planning Commission (Parts 600—699)
+
+# Title 2—Federal Financial Assistance
+Subtitle A—Office of Management and Budget Guidance for Federal Financial Assistance
+I
+Office of Management and Budget Governmentwide Guidance for Grants and Agreements (Parts 2—199)
+II
+Office of Management and Budget Guidance (Parts 200—299)
+Subtitle B—Federal Agency Regulations for Grants and Agreements
+III
+Department of Health and Human Services (Parts 300—399)
+IV
+Department of Agriculture (Parts 400—499)
+VI
+Department of State (Parts 600—699)
+VII
+Agency for International Development (Parts 700—799)
+VIII
+Department of Veterans Affairs (Parts 800—899)
+IX
+Department of Energy (Parts 900—999)
+X
+Department of the Treasury (Parts 1000—1099)
+XI
+Department of Defense (Parts 1100—1199)
+XII
+Department of Transportation (Parts 1200—1299)
+XIII
+Department of Commerce (Parts 1300—1399)
+XIV
+Department of the Interior (Parts 1400—1499)
+XV
+Environmental Protection Agency (Parts 1500—1599)
+XVI
+U.S. International Development Finance Corporation (Parts 1600—1699)
+XVIII
+National Aeronautics and Space Administration (Parts 1800—1899)
+XIX
+U.S. Agency for Global Media (Parts 1900—1999)
+XX
+United States Nuclear Regulatory Commission (Parts 2000—2099)
+XXII
+Corporation for National and Community Service (Parts 2200—2299)
+XXIII
+Social Security Administration (Parts 2300—2399)
+XXIV
+Department of Housing and Urban Development (Parts 2400—2499)
+XXV
+National Science Foundation (Parts 2500—2599)
+XXVI
+National Archives and Records Administration (Parts 2600—2699)
+XXVII
+Small Business Administration (Parts 2700—2799)
+XXVIII
+Department of Justice (Parts 2800—2899)
+XXIX
+Department of Labor (Parts 2900—2999)
+XXX
+Department of Homeland Security (Parts 3000—3099)
+XXXI
+Institute of Museum and Library Services (Parts 3100—3199)
+XXXII
+National Endowment for the Arts (Parts 3200—3299)
+XXXIII
+National Endowment for the Humanities (Parts 3300—3399)
+XXXIV
+Department of Education (Parts 3400—3499)
+XXXV
+Export-Import Bank of the United States (Parts 3500—3599)
+XXXVI
+Office of National Drug Control Policy, Executive Office of the President (Parts 3600—3699)
+XXXVII
+Peace Corps (Parts 3700—3799)
+LVIII
+Election Assistance Commission (Parts 5800—5899)
+LIX
+Gulf Coast Ecosystem Restoration Council (Parts 5900—5999)
+LX
+Federal Communications Commission (Parts 6000—6099)
+
+# Title 3—The President
+I
+Executive Office of the President (Parts 100—199)
+
+# Title 4—Accounts
+I
+Government Accountability Office (Parts 1—199)
+
+# Title 5—Administrative Personnel
+I
+Office of Personnel Management (Parts 1—1199)
+II
+Merit Systems Protection Board (Parts 1200—1299)
+III
+Office of Management and Budget (Parts 1300—1399)
+IV
+Office of Personnel Management and Office of the Director of National Intelligence (Parts 1400—1499)
+V
+The International Organizations Employees Loyalty Board (Parts 1500—1599)
+VI
+Federal Retirement Thrift Investment Board (Parts 1600—1699)
+VIII
+Office of Special Counsel (Parts 1800—1899)
+IX
+Appalachian Regional Commission (Parts 1900—1999)
+XI
+Armed Forces Retirement Home (Parts 2100—2199)
+XIV
+Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel (Parts 2400—2499)
+XVI
+Office of Government Ethics (Parts 2600—2699)
+XXI
+Department of the Treasury (Parts 3100—3199)
+XXII
+Federal Deposit Insurance Corporation (Parts 3200—3299)
+XXIII
+Department of Energy (Parts 3300—3399)
+XXIV
+Federal Energy Regulatory Commission (Parts 3400—3499)
+XXV
+Department of the Interior (Parts 3500—3599)
+XXVI
+Department of Defense (Parts 3600—3699)
+XXVIII
+Department of Justice (Parts 3800—3899)
+XXIX
+Federal Communications Commission (Parts 3900—3999)
+XXX
+Farm Credit System Insurance Corporation (Parts 4000—4099)
+XXXI
+Farm Credit Administration (Parts 4100—4199)
+XXXIII
+U.S. International Development Finance Corporation (Parts 4300—4399)
+XXXIV
+Securities and Exchange Commission (Parts 4400—4499)
+XXXV
+Office of Personnel Management (Parts 4500—4599)
+XXXVI
+Department of Homeland Security (Parts 4600—4699)
+XXXVII
+Federal Election Commission (Parts 4700—4799)
+XL
+Interstate Commerce Commission (Parts 5000—5099)
+XLI
+Commodity Futures Trading Commission (Parts 5100—5199)
+XLII
+Department of Labor (Parts 5200—5299)
+XLIII
+National Science Foundation (Parts 5300—5399)
+XLV
+Department of Health and Human Services (Parts 5500—5599)
+XLVI
+Postal Rate Commission (Parts 5600—5699)
+XLVII
+Federal Trade Commission (Parts 5700—5799)
+XLVIII
+Nuclear Regulatory Commission (Parts 5800—5899)
+XLIX
+Federal Labor Relations Authority (Parts 5900—5999)
+L
+Department of Transportation (Parts 6000—6099)
+LII
+Export-Import Bank of the United States (Parts 6200—6299)
+LIII
+Department of Education (Parts 6300—6399)
+LIV
+Environmental Protection Agency (Parts 6400—6499)
+LV
+National Endowment for the Arts (Parts 6500—6599)
+LVI
+National Endowment for the Humanities (Parts 6600—6699)
+LVII
+General Services Administration (Parts 6700—6799)
+LVIII
+Board of Governors of the Federal Reserve System (Parts 6800—6899)
+LIX
+National Aeronautics and Space Administration (Parts 6900—6999)
+LX
+United States Postal Service (Parts 7000—7099)
+LXI
+National Labor Relations Board (Parts 7100—7199)
+LXII
+Equal Employment Opportunity Commission (Parts 7200—7299)
+LXIII
+Inter-American Foundation (Parts 7300—7399)
+LXIV
+Merit Systems Protection Board (Parts 7400—7499)
+LXV
+Department of Housing and Urban Development (Parts 7500—7599)
+LXVI
+National Archives and Records Administration (Parts 7600—7699)
+LXVII
+Institute of Museum and Library Services (Parts 7700—7799)
+LXVIII
+Commission on Civil Rights (Parts 7800—7899)
+LXIX
+Tennessee Valley Authority (Parts 7900—7999)
+LXX
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 8000—8099)
+LXXI
+Consumer Product Safety Commission (Parts 8100—8199)
+LXXIII
+Department of Agriculture (Parts 8300—8399)
+LXXIV
+Federal Mine Safety and Health Review Commission (Parts 8400—8499)
+LXXVI
+Federal Retirement Thrift Investment Board (Parts 8600—8699)
+LXXVII
+Office of Management and Budget (Parts 8700—8799)
+LXXX
+Federal Housing Finance Agency (Parts 9000—9099)
+LXXXIII
+Special Inspector General for Afghanistan Reconstruction (Parts 9300—9399)
+LXXXIV
+Bureau of Consumer Financial Protection (Parts 9400—9499)
+LXXXVI
+National Credit Union Administration (Parts 9600—9699)
+XCVII
+Department of Homeland Security Human Resources Management System (Department of Homeland Security—Office of Personnel Management) (Parts 9700—9799)
+XCVIII
+Council of the Inspectors General on Integrity and Efficiency (Parts 9800—9899)
+XCIX
+Military Compensation and Retirement Modernization Commission (Parts 9900—9999)
+C
+National Council on Disability (Parts 10000—10049)
+CI
+National Mediation Board (Parts 10100—10199)
+CII
+U.S. Office of Special Counsel (Parts 10200—10299)
+CIII
+U.S. Office of Federal Mediation and Conciliation Service (Parts 10300—10399)
+CIV
+Office of the Intellectual Property Enforcement Coordinator (Part 10400—10499)
+
+# Title 6—Domestic Security
+I
+Department of Homeland Security, Office of the Secretary (Parts 1—199)
+X
+Privacy and Civil Liberties Oversight Board (Parts 1000—1099)
+
+# Title 7—Agriculture
+Subtitle A—Office of the Secretary of Agriculture (Parts 0—26)
+Subtitle B—Regulations of the Department of Agriculture
+I
+Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture (Parts 27—209)
+II
+Food and Nutrition Service, Department of Agriculture (Parts 210—299)
+III
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 300—399)
+IV
+Federal Crop Insurance Corporation, Department of Agriculture (Parts 400—499)
+V
+Agricultural Research Service, Department of Agriculture (Parts 500—599)
+VI
+Natural Resources Conservation Service, Department of Agriculture (Parts 600—699)
+VII
+Farm Service Agency, Department of Agriculture (Parts 700—799)
+VIII
+Agricultural Marketing Service (Federal Grain Inspection Service, Fair Trade Practices Program), Department of Agriculture (Parts 800—899)
+IX
+Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture (Parts 900—999)
+X
+Agricultural Marketing Service (Marketing Agreements and Orders; Milk), Department of Agriculture (Parts 1000—1199)
+XI
+Agricultural Marketing Service (Marketing Agreements and Orders; Miscellaneous Commodities), Department of Agriculture (Parts 1200—1299)
+XIV
+Commodity Credit Corporation, Department of Agriculture (Parts 1400—1499)
+XV
+Foreign Agricultural Service, Department of Agriculture (Parts 1500—1599)
+XVI
+[Reserved]
+XVII
+Rural Utilities Service, Department of Agriculture (Parts 1700—1799)
+XVIII
+Rural Housing Service, Rural Business-Cooperative Service, Rural Utilities Service, and Farm Service Agency, Department of Agriculture (Parts 1800—2099)
+XX
+[Reserved]
+XXV
+Office of Advocacy and Outreach, Department of Agriculture (Parts 2500—2599)
+XXVI
+Office of Inspector General, Department of Agriculture (Parts 2600—2699)
+XXVII
+Office of Information Resources Management, Department of Agriculture (Parts 2700—2799)
+XXVIII
+Office of Operations, Department of Agriculture (Parts 2800—2899)
+XXIX
+Office of Energy Policy and New Uses, Department of Agriculture (Parts 2900—2999)
+XXX
+Office of the Chief Financial Officer, Department of Agriculture (Parts 3000—3099)
+XXXI
+Office of Environmental Quality, Department of Agriculture (Parts 3100—3199)
+XXXII
+Office of Procurement and Property Management, Department of Agriculture (Parts 3200—3299)
+XXXIII
+Office of Transportation, Department of Agriculture (Parts 3300—3399)
+XXXIV
+National Institute of Food and Agriculture (Parts 3400—3499)
+XXXV
+Rural Housing Service, Department of Agriculture (Parts 3500—3599)
+XXXVI
+National Agricultural Statistics Service, Department of Agriculture (Parts 3600—3699)
+XXXVII
+Economic Research Service, Department of Agriculture (Parts 3700—3799)
+XXXVIII
+World Agricultural Outlook Board, Department of Agriculture (Parts 3800—3899)
+XLI
+[Reserved]
+XLII
+Rural Business-Cooperative Service, Department of Agriculture (Parts 4200—4299)
+L
+Rural Business-Cooperative Service, Rural Housing Service, and Rural Utilities Service, Department of Agriculture (Parts 5000—5099)
+
+# Title 8—Aliens and Nationality
+I
+Department of Homeland Security (Parts 1—499)
+V
+Executive Office for Immigration Review, Department of Justice (Parts 1000—1399)
+
+# Title 9—Animals and Animal Products
+I
+Animal and Plant Health Inspection Service, Department of Agriculture (Parts 1—199)
+II
+Agricultural Marketing Service (Fair Trade Practices Program), Department of Agriculture (Parts 200—299)
+III
+Food Safety and Inspection Service, Department of Agriculture (Parts 300—599)
+
+# Title 10—Energy
+I
+Nuclear Regulatory Commission (Parts 0—199)
+II
+Department of Energy (Parts 200—699)
+III
+Department of Energy (Parts 700—999)
+X
+Department of Energy (General Provisions) (Parts 1000—1099)
+XIII
+Nuclear Waste Technical Review Board (Parts 1300—1399)
+XVII
+Defense Nuclear Facilities Safety Board (Parts 1700—1799)
+XVIII
+Northeast Interstate Low-Level Radioactive Waste Commission (Parts 1800—1899)
+
+# Title 11—Federal Elections
+I
+Federal Election Commission (Parts 1—9099)
+II
+Election Assistance Commission (Parts 9400—9499)
+
+# Title 12—Banks and Banking
+I
+Comptroller of the Currency, Department of the Treasury (Parts 1—199)
+II
+Federal Reserve System (Parts 200—299)
+III
+Federal Deposit Insurance Corporation (Parts 300—399)
+IV
+Export-Import Bank of the United States (Parts 400—499)
+V
+(Parts 500—599) [Reserved]
+VI
+Farm Credit Administration (Parts 600—699)
+VII
+National Credit Union Administration (Parts 700—799)
+VIII
+Federal Financing Bank (Parts 800—899)
+IX
+(Parts 900—999)[Reserved]
+X
+Consumer Financial Protection Bureau (Parts 1000—1099)
+XI
+Federal Financial Institutions Examination Council (Parts 1100—1199)
+XII
+Federal Housing Finance Agency (Parts 1200—1299)
+XIII
+Financial Stability Oversight Council (Parts 1300—1399)
+XIV
+Farm Credit System Insurance Corporation (Parts 1400—1499)
+XV
+Department of the Treasury (Parts 1500—1599)
+XVI
+Office of Financial Research, Department of the Treasury (Parts 1600—1699)
+XVII
+Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development (Parts 1700—1799)
+XVIII
+Community Development Financial Institutions Fund, Department of the Treasury (Parts 1800—1899)
+
+# Title 13—Business Credit and Assistance
+I
+Small Business Administration (Parts 1—199)
+III
+Economic Development Administration, Department of Commerce (Parts 300—399)
+IV
+Emergency Steel Guarantee Loan Board (Parts 400—499)
+V
+Emergency Oil and Gas Guaranteed Loan Board (Parts 500—599)
+
+# Title 14—Aeronautics and Space
+I
+Federal Aviation Administration, Department of Transportation (Parts 1—199)
+II
+Office of the Secretary, Department of Transportation (Aviation Proceedings) (Parts 200—399)
+III
+Commercial Space Transportation, Federal Aviation Administration, Department of Transportation (Parts 400—1199)
+V
+National Aeronautics and Space Administration (Parts 1200—1299)
+VI
+Air Transportation System Stabilization (Parts 1300—1399)
+
+# Title 15—Commerce and Foreign Trade
+Subtitle A—Office of the Secretary of Commerce (Parts 0—29)
+Subtitle B—Regulations Relating to Commerce and Foreign Trade
+I
+Bureau of the Census, Department of Commerce (Parts 30—199)
+II
+National Institute of Standards and Technology, Department of Commerce (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+Foreign-Trade Zones Board, Department of Commerce (Parts 400—499)
+VII
+Bureau of Industry and Security, Department of Commerce (Parts 700—799)
+VIII
+Bureau of Economic Analysis, Department of Commerce (Parts 800—899)
+IX
+National Oceanic and Atmospheric Administration, Department of Commerce (Parts 900—999)
+XI
+National Technical Information Service, Department of Commerce (Parts 1100—1199)
+XIII
+East-West Foreign Trade Board (Parts 1300—1399)
+XIV
+Minority Business Development Agency (Parts 1400—1499)
+XV
+Office of the Under-Secretary for Economic Affairs, Department of Commerce (Parts 1500—1599)
+Subtitle C—Regulations Relating to Foreign Trade Agreements
+XX
+Office of the United States Trade Representative (Parts 2000—2099)
+Subtitle D—Regulations Relating to Telecommunications and Information
+XXIII
+National Telecommunications and Information Administration, Department of Commerce (Parts 2300—2399) [Reserved]
+
+# Title 16—Commercial Practices
+I
+Federal Trade Commission (Parts 0—999)
+II
+Consumer Product Safety Commission (Parts 1000—1799)
+
+# Title 17—Commodity and Securities Exchanges
+I
+Commodity Futures Trading Commission (Parts 1—199)
+II
+Securities and Exchange Commission (Parts 200—399)
+IV
+Department of the Treasury (Parts 400—499)
+
+# Title 18—Conservation of Power and Water Resources
+I
+Federal Energy Regulatory Commission, Department of Energy (Parts 1—399)
+III
+Delaware River Basin Commission (Parts 400—499)
+VI
+Water Resources Council (Parts 700—799)
+VIII
+Susquehanna River Basin Commission (Parts 800—899)
+XIII
+Tennessee Valley Authority (Parts 1300—1399)
+
+# Title 19—Customs Duties
+I
+U.S. Customs and Border Protection, Department of Homeland Security; Department of the Treasury (Parts 0—199)
+II
+United States International Trade Commission (Parts 200—299)
+III
+International Trade Administration, Department of Commerce (Parts 300—399)
+IV
+U.S. Immigration and Customs Enforcement, Department of Homeland Security (Parts 400—599) [Reserved]
+
+# Title 20—Employees' Benefits
+I
+Office of Workers' Compensation Programs, Department of Labor (Parts 1—199)
+II
+Railroad Retirement Board (Parts 200—399)
+III
+Social Security Administration (Parts 400—499)
+IV
+Employees' Compensation Appeals Board, Department of Labor (Parts 500—599)
+V
+Employment and Training Administration, Department of Labor (Parts 600—699)
+VI
+Office of Workers' Compensation Programs, Department of Labor (Parts 700—799)
+VII
+Benefits Review Board, Department of Labor (Parts 800—899)
+VIII
+Joint Board for the Enrollment of Actuaries (Parts 900—999)
+IX
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 1000—1099)
+
+# Title 21—Food and Drugs
+I
+Food and Drug Administration, Department of Health and Human Services (Parts 1—1299)
+II
+Drug Enforcement Administration, Department of Justice (Parts 1300—1399)
+III
+Office of National Drug Control Policy (Parts 1400—1499)
+
+# Title 22—Foreign Relations
+I
+Department of State (Parts 1—199)
+II
+Agency for International Development (Parts 200—299)
+III
+Peace Corps (Parts 300—399)
+IV
+International Joint Commission, United States and Canada (Parts 400—499)
+V
+United States Agency for Global Media (Parts 500—599)
+VII
+U.S. International Development Finance Corporation (Parts 700—799)
+IX
+Foreign Service Grievance Board (Parts 900—999)
+X
+Inter-American Foundation (Parts 1000—1099)
+XI
+International Boundary and Water Commission, United States and Mexico, United States Section (Parts 1100—1199)
+XII
+United States International Development Cooperation Agency (Parts 1200—1299)
+XIII
+Millennium Challenge Corporation (Parts 1300—1399)
+XIV
+Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel (Parts 1400—1499)
+XV
+African Development Foundation (Parts 1500—1599)
+XVI
+Japan-United States Friendship Commission (Parts 1600—1699)
+XVII
+United States Institute of Peace (Parts 1700—1799)
+
+# Title 23—Highways
+I
+Federal Highway Administration, Department of Transportation (Parts 1—999)
+II
+National Highway Traffic Safety Administration and Federal Highway Administration, Department of Transportation (Parts 1200—1299)
+III
+National Highway Traffic Safety Administration, Department of Transportation (Parts 1300—1399)
+
+# Title 24—Housing and Urban Development
+Subtitle A—Office of the Secretary, Department of Housing and Urban Development (Parts 0—99)
+Subtitle B—Regulations Relating to Housing and Urban Development
+I
+Office of Assistant Secretary for Equal Opportunity, Department of Housing and Urban Development (Parts 100—199)
+II
+Office of Assistant Secretary for Housing-Federal Housing Commissioner, Department of Housing and Urban Development (Parts 200—299)
+III
+Government National Mortgage Association, Department of Housing and Urban Development (Parts 300—399)
+IV
+Office of Housing and Office of Multifamily Housing Assistance Restructuring, Department of Housing and Urban Development (Parts 400—499)
+V
+Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development (Parts 500—599)
+VI
+Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development (Parts 600—699) [Reserved]
+VII
+Office of the Secretary, Department of Housing and Urban Development (Housing Assistance Programs and Public and Indian Housing Programs) (Parts 700—799)
+VIII
+Office of the Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Section 8 Housing Assistance Programs, Section 202 Direct Loan Program, Section 202 Supportive Housing for the Elderly Program and Section 811 Supportive Housing for Persons With Disabilities Program) (Parts 800—899)
+IX
+Office of Assistant Secretary for Public and Indian Housing, Department of Housing and Urban Development (Parts 900—1699)
+X
+Office of Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Interstate Land Sales Registration Program) (Parts 1700—1799) [Reserved]
+XII
+Office of Inspector General, Department of Housing and Urban Development (Parts 2000—2099)
+XV
+Emergency Mortgage Insurance and Loan Programs, Department of Housing and Urban Development (Parts 2700—2799) [Reserved]
+XX
+Office of Assistant Secretary for Housing—Federal Housing Commissioner, Department of Housing and Urban Development (Parts 3200—3899)
+XXIV
+Board of Directors of the HOPE for Homeowners Program (Parts 4000—4099) [Reserved]
+XXV
+Neighborhood Reinvestment Corporation (Parts 4100—4199)
+
+# Title 25—Indians
+I
+Bureau of Indian Affairs, Department of the Interior (Parts 1—299)
+II
+Indian Arts and Crafts Board, Department of the Interior (Parts 300—399)
+III
+National Indian Gaming Commission, Department of the Interior (Parts 500—599)
+IV
+Office of Navajo and Hopi Indian Relocation (Parts 700—899)
+V
+Bureau of Indian Affairs, Department of the Interior, and Indian Health Service, Department of Health and Human Services (Part 900—999)
+VI
+Office of the Assistant Secretary, Indian Affairs, Department of the Interior (Parts 1000—1199)
+VII
+Office of the Special Trustee for American Indians, Department of the Interior (Parts 1200—1299)
+
+# Title 26—Internal Revenue
+I
+Internal Revenue Service, Department of the Treasury (Parts 1—End)
+
+# Title 27—Alcohol, Tobacco Products and Firearms
+I
+Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury (Parts 1—399)
+II
+Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice (Parts 400—799)
+
+# Title 28—Judicial Administration
+I
+Department of Justice (Parts 0—299)
+III
+Federal Prison Industries, Inc., Department of Justice (Parts 300—399)
+V
+Bureau of Prisons, Department of Justice (Parts 500—599)
+VI
+Offices of Independent Counsel, Department of Justice (Parts 600—699)
+VII
+Office of Independent Counsel (Parts 700—799)
+VIII
+Court Services and Offender Supervision Agency for the District of Columbia (Parts 800—899)
+IX
+National Crime Prevention and Privacy Compact Council (Parts 900—999)
+XI
+Department of Justice and Department of State (Parts 1100—1199)
+
+# Title 29—Labor
+Subtitle A—Office of the Secretary of Labor (Parts 0—99)
+Subtitle B—Regulations Relating to Labor
+I
+National Labor Relations Board (Parts 100—199)
+II
+Office of Labor-Management Standards, Department of Labor (Parts 200—299)
+III
+National Railroad Adjustment Board (Parts 300—399)
+IV
+Office of Labor-Management Standards, Department of Labor (Parts 400—499)
+V
+Wage and Hour Division, Department of Labor (Parts 500—899)
+IX
+Construction Industry Collective Bargaining Commission (Parts 900—999)
+X
+National Mediation Board (Parts 1200—1299)
+XII
+Federal Mediation and Conciliation Service (Parts 1400—1499)
+XIV
+Equal Employment Opportunity Commission (Parts 1600—1699)
+XVII
+Occupational Safety and Health Administration, Department of Labor (Parts 1900—1999)
+XX
+Occupational Safety and Health Review Commission (Parts 2200—2499)
+XXV
+Employee Benefits Security Administration, Department of Labor (Parts 2500—2599)
+XXVII
+Federal Mine Safety and Health Review Commission (Parts 2700—2799)
+XL
+Pension Benefit Guaranty Corporation (Parts 4000—4999)
+
+# Title 30—Mineral Resources
+I
+Mine Safety and Health Administration, Department of Labor (Parts 1—199)
+II
+Bureau of Safety and Environmental Enforcement, Department of the Interior (Parts 200—299)
+IV
+Geological Survey, Department of the Interior (Parts 400—499)
+V
+Bureau of Ocean Energy Management, Department of the Interior (Parts 500—599)
+VII
+Office of Surface Mining Reclamation and Enforcement, Department of the Interior (Parts 700—999)
+XII
+Office of Natural Resources Revenue, Department of the Interior (Parts 1200—1299)
+
+# Title 31—Money and Finance: Treasury
+Subtitle A—Office of the Secretary of the Treasury (Parts 0—50)
+Subtitle B—Regulations Relating to Money and Finance
+I
+Monetary Offices, Department of the Treasury (Parts 51—199)
+II
+Fiscal Service, Department of the Treasury (Parts 200—399)
+IV
+Secret Service, Department of the Treasury (Parts 400—499)
+V
+Office of Foreign Assets Control, Department of the Treasury (Parts 500—599)
+VI
+Bureau of Engraving and Printing, Department of the Treasury (Parts 600—699)
+VII
+Federal Law Enforcement Training Center, Department of the Treasury (Parts 700—799)
+VIII
+Office of Investment Security, Department of the Treasury (Parts 800—899)
+IX
+Federal Claims Collection Standards (Department of the Treasury—Department of Justice) (Parts 900—999)
+X
+Financial Crimes Enforcement Network, Department of the Treasury (Parts 1000—1099)
+
+# Title 32—National Defense
+Subtitle A—Department of Defense
+I
+Office of the Secretary of Defense (Parts 1—399)
+V
+Department of the Army (Parts 400—699)
+VI
+Department of the Navy (Parts 700—799)
+VII
+Department of the Air Force (Parts 800—1099)
+Subtitle B—Other Regulations Relating to National Defense
+XII
+Department of Defense, Defense Logistics Agency (Parts 1200—1299)
+XVI
+Selective Service System (Parts 1600—1699)
+XVII
+Office of the Director of National Intelligence (Parts 1700—1799)
+XVIII
+National Counterintelligence Center (Parts 1800—1899)
+XIX
+Central Intelligence Agency (Parts 1900—1999)
+XX
+Information Security Oversight Office, National Archives and Records Administration (Parts 2000—2099)
+XXI
+National Security Council (Parts 2100—2199)
+XXIV
+Office of Science and Technology Policy (Parts 2400—2499)
+XXVII
+Office for Micronesian Status Negotiations (Parts 2700—2799)
+XXVIII
+Office of the Vice President of the United States (Parts 2800—2899)
+
+# Title 33—Navigation and Navigable Waters
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Corps of Engineers, Department of the Army, Department of Defense (Parts 200—399)
+IV
+Great Lakes St. Lawrence Seaway Development Corporation, Department of Transportation (Parts 400—499)
+
+# Title 34—Education
+Subtitle A—Office of the Secretary, Department of Education (Parts 1—99)
+Subtitle B—Regulations of the Offices of the Department of Education
+I
+Office for Civil Rights, Department of Education (Parts 100—199)
+II
+Office of Elementary and Secondary Education, Department of Education (Parts 200—299)
+III
+Office of Special Education and Rehabilitative Services, Department of Education (Parts 300—399)
+IV
+Office of Career, Technical, and Adult Education, Department of Education (Parts 400—499)
+V
+Office of Bilingual Education and Minority [Reserved]
+VI
+Office of Postsecondary Education, Department of Education (Parts 600—699)
+VII
+Office of Educational Research and Improvement, Department of Education (Parts 700—799) [Reserved]
+Subtitle C—Regulations Relating to Education
+XI
+[Reserved]
+XII
+National Council on Disability (Parts 1200—1299)
+Title 35 [Reserved]
+
+# Title 36—Parks, Forests, and Public Property
+I
+National Park Service, Department of the Interior (Parts 1—199)
+II
+Forest Service, Department of Agriculture (Parts 200—299)
+III
+Corps of Engineers, Department of the Army (Parts 300—399)
+IV
+American Battle Monuments Commission (Parts 400—499)
+V
+Smithsonian Institution (Parts 500—599)
+VI
+[Reserved]
+VII
+Library of Congress (Parts 700—799)
+VIII
+Advisory Council on Historic Preservation (Parts 800—899)
+IX
+Pennsylvania Avenue Development Corporation (Parts 900—999)
+X
+Presidio Trust (Parts 1000—1099)
+XI
+Architectural and Transportation Barriers Compliance Board (Parts 1100—1199)
+XII
+National Archives and Records Administration (Parts 1200—1299)
+XV
+Oklahoma City National Memorial Trust (Parts 1500—1599)
+XVI
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation (Parts 1600—1699)
+
+# Title 37—Patents, Trademarks, and Copyrights
+I
+United States Patent and Trademark Office, Department of Commerce (Parts 1—199)
+II
+U.S. Copyright Office, Library of Congress (Parts 200—299)
+III
+Copyright Royalty Board, Library of Congress (Parts 300—399)
+IV
+National Institute of Standards and Technology, Department of Commerce (Parts 400—599)
+
+# Title 38—Pensions, Bonuses, and Veterans' Relief
+I
+Department of Veterans Affairs (Parts 0—199)
+II
+Armed Forces Retirement Home (Parts 200—299)
+
+# Title 39—Postal Service
+I
+United States Postal Service (Parts 1—999)
+III
+Postal Regulatory Commission (Parts 3000—3099)
+
+# Title 40—Protection of Environment
+I
+Environmental Protection Agency (Parts 1—1099)
+IV
+Environmental Protection Agency and Department of Justice (Parts 1400—1499)
+V
+Council on Environmental Quality (Parts 1500—1599)
+VI
+Chemical Safety and Hazard Investigation Board (Parts 1600—1699)
+VII
+Environmental Protection Agency and Department of Defense; Uniform National Discharge Standards for Vessels of the Armed Forces (Parts 1700—1799)
+VIII
+Gulf Coast Ecosystem Restoration Council (Parts 1800—1899)
+IX
+Federal Permitting Improvement Steering Council (Part 1900)
+
+# Title 41—Public Contracts and Property Management
+Subtitle A—Federal Procurement Regulations System [Note]
+Subtitle B—Other Provisions Relating to Public Contracts
+50
+Public Contracts, Department of Labor (Parts 50-1—50-999)
+51
+Committee for Purchase From People Who Are Blind or Severely Disabled (Parts 51-1—51-99)
+60
+Office of Federal Contract Compliance Programs, Equal Employment Opportunity, Department of Labor (Parts 60-1—60-999)
+61
+Office of the Assistant Secretary for Veterans' Employment and Training Service, Department of Labor (Parts 61-1—61-999)
+62—100
+[Reserved]
+Subtitle C—Federal Property Management Regulations System
+101
+Federal Property Management Regulations (Parts 101-1—101-99)
+102
+Federal Management Regulation (Parts 102-1—102-299)
+103—104
+(Parts 103-001—104-099) [Reserved]
+105
+General Services Administration (Parts 105-1—105-999)
+109
+Department of Energy Property Management Regulations (Parts 109-1—109-99)
+114
+Department of the Interior (Parts 114-1—114-99)
+115
+Environmental Protection Agency (Parts 115-1—115-99)
+128
+Department of Justice (Parts 128-1—128-99)
+129—200
+[Reserved]
+Subtitle D—Federal Acquisition Supply Chain Security
+201
+Federal Acquisition Security Council (Parts 201-1—201-99)
+Subtitle E [Reserved]
+Subtitle F—Federal Travel Regulation System
+300
+General (Parts 300-1—300-99)
+301
+Temporary Duty (TDY) Travel Allowances (Parts 301-1—301-99)
+302
+Relocation Allowances (Parts 302-1—302-99)
+303
+Payment of Expenses Connected with the Death of Certain Employees (Part 303-1—303-99)
+304
+Payment of Travel Expenses from a Non-Federal Source (Parts 304-1—304-99)
+
+# Title 42—Public Health
+I
+Public Health Service, Department of Health and Human Services (Parts 1—199)
+II—III
+[Reserved]
+IV
+Centers for Medicare
+Medicaid Services, Department of Health and Human Services (Parts 400—699)
+V
+Office of Inspector General-Health Care, Department of Health and Human Services (Parts 1000—1099)
+
+# Title 43—Public Lands: Interior
+Subtitle A—Office of the Secretary of the Interior (Parts 1—199)
+Subtitle B—Regulations Relating to Public Lands
+I
+Bureau of Reclamation, Department of the Interior (Parts 400—999)
+II
+Bureau of Land Management, Department of the Interior (Parts 1000—9999)
+III
+Utah Reclamation Mitigation and Conservation Commission (Parts 10000—10099)
+
+# Title 44—Emergency Management and Assistance
+I
+Federal Emergency Management Agency, Department of Homeland Security (Parts 0—399)
+IV
+Department of Commerce and Department of Transportation (Parts 400—499)
+
+# Title 45—Public Welfare
+Subtitle A—Department of Health and Human Services (Parts 1—199)
+Subtitle B—Regulations Relating to Public Welfare
+II
+Office of Family Assistance (Assistance Programs), Administration for Children and Families, Department of Health and Human Services (Parts 200—299)
+III
+Office of Child Support Services, Administration of Families and Services, Department of Health and Human Services (Parts 300—399)
+IV
+Office of Refugee Resettlement, Administration for Children and Families, Department of Health and Human Services (Parts 400—499)
+V
+Foreign Claims Settlement Commission of the United States, Department of Justice (Parts 500—599)
+VI
+National Science Foundation (Parts 600—699)
+VII
+Commission on Civil Rights (Parts 700—799)
+VIII
+Office of Personnel Management (Parts 800—899)
+IX
+Denali Commission (Parts 900—999)
+X
+Office of Community Services, Administration for Children and Families, Department of Health and Human Services (Parts 1000—1099)
+XI
+National Foundation on the Arts and the Humanities (Parts 1100—1199)
+XII
+Corporation for National and Community Service (Parts 1200—1299)
+XIII
+Administration for Children and Families, Department of Health and Human Services (Parts 1300—1399)
+XVI
+Legal Services Corporation (Parts 1600—1699)
+XVII
+National Commission on Libraries and Information Science (Parts 1700—1799)
+XVIII
+Harry S. Truman Scholarship Foundation (Parts 1800—1899)
+XXI
+Commission of Fine Arts (Parts 2100—2199)
+XXIII
+Arctic Research Commission (Parts 2300—2399)
+XXIV
+James Madison Memorial Fellowship Foundation (Parts 2400—2499)
+XXV
+Corporation for National and Community Service (Parts 2500—2599)
+
+# Title 46—Shipping
+I
+Coast Guard, Department of Homeland Security (Parts 1—199)
+II
+Maritime Administration, Department of Transportation (Parts 200—399)
+III
+Coast Guard (Great Lakes Pilotage), Department of Homeland Security (Parts 400—499)
+IV
+Federal Maritime Commission (Parts 500—599)
+
+# Title 47—Telecommunication
+I
+Federal Communications Commission (Parts 0—199)
+II
+Office of Science and Technology Policy and National Security Council (Parts 200—299)
+III
+National Telecommunications and Information Administration, Department of Commerce (Parts 300—399)
+IV
+National Telecommunications and Information Administration, Department of Commerce, and National Highway Traffic Safety Administration, Department of Transportation (Parts 400—499)
+V
+The First Responder Network Authority (Parts 500—599)
+
+# Title 48—Federal Acquisition Regulations System
+1
+Federal Acquisition Regulation (Parts 1—99)
+2
+Defense Acquisition Regulations System, Department of Defense (Parts 200—299)
+3
+Health and Human Services (Parts 300—399)
+4
+Department of Agriculture (Parts 400—499)
+5
+General Services Administration (Parts 500—599)
+6
+Department of State (Parts 600—699)
+7
+Agency for International Development (Parts 700—799)
+8
+Department of Veterans Affairs (Parts 800—899)
+9
+Department of Energy (Parts 900—999)
+10
+Department of the Treasury (Parts 1000—1099)
+12
+Department of Transportation (Parts 1200—1299)
+13
+Department of Commerce (Parts 1300—1399)
+14
+Department of the Interior (Parts 1400—1499)
+15
+Environmental Protection Agency (Parts 1500—1599)
+16
+Office of Personnel Management, Federal Employees Health Benefits Acquisition Regulation (Parts 1600—1699)
+17
+Office of Personnel Management (Parts 1700—1799)
+18
+National Aeronautics and Space Administration (Parts 1800—1899)
+19
+Broadcasting Board of Governors (Parts 1900—1999)
+20
+Nuclear Regulatory Commission (Parts 2000—2099)
+21
+Office of Personnel Management, Federal Employees Group Life Insurance Federal Acquisition Regulation (Parts 2100—2199)
+23
+Social Security Administration (Parts 2300—2399)
+24
+Department of Housing and Urban Development (Parts 2400—2499)
+25
+National Science Foundation (Parts 2500—2599)
+28
+Department of Justice (Parts 2800—2899)
+29
+Department of Labor (Parts 2900—2999)
+30
+Department of Homeland Security, Homeland Security Acquisition Regulation (HSAR) (Parts 3000—3099)
+34
+Department of Education Acquisition Regulation (Parts 3400—3499)
+51
+Department of the Army Acquisition Regulations (Parts 5100—5199) [Reserved]
+52
+Department of the Navy Acquisition Regulations (Parts 5200—5299)
+53
+Department of the Air Force Federal Acquisition Regulation Supplement (Parts 5300—5399) [Reserved]
+54
+Defense Logistics Agency, Department of Defense (Parts 5400—5499)
+57
+African Development Foundation (Parts 5700—5799)
+61
+Civilian Board of Contract Appeals, General Services Administration (Parts 6100—6199)
+99
+Cost Accounting Standards Board, Office of Federal Procurement Policy, Office of Management and Budget (Parts 9900—9999)
+
+# Title 49—Transportation
+Subtitle A—Office of the Secretary of Transportation (Parts 1—99)
+Subtitle B—Other Regulations Relating to Transportation
+I
+Pipeline and Hazardous Materials Safety Administration, Department of Transportation (Parts 100—199)
+II
+Federal Railroad Administration, Department of Transportation (Parts 200—299)
+III
+Federal Motor Carrier Safety Administration, Department of Transportation (Parts 300—399)
+IV
+Coast Guard, Department of Homeland Security (Parts 400—499)
+V
+National Highway Traffic Safety Administration, Department of Transportation (Parts 500—599)
+VI
+Federal Transit Administration, Department of Transportation (Parts 600—699)
+VII
+National Railroad Passenger Corporation (AMTRAK) (Parts 700—799)
+VIII
+National Transportation Safety Board (Parts 800—999)
+X
+Surface Transportation Board (Parts 1000—1399)
+XI
+Research and Innovative Technology Administration, Department of Transportation (Parts 1400—1499) [Reserved]
+XII
+Transportation Security Administration, Department of Homeland Security (Parts 1500—1699)
+
+# Title 50—Wildlife and Fisheries
+I
+United States Fish and Wildlife Service, Department of the Interior (Parts 1—199)
+II
+National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 200—299)
+III
+International Fishing and Related Activities (Parts 300—399)
+IV
+Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations (Parts 400—499)
+V
+Marine Mammal Commission (Parts 500—599)
+VI
+Fishery Conservation and Management, National Oceanic and Atmospheric Administration, Department of Commerce (Parts 600—699)
+
+# Alphabetical List of Agencies Appearing in the CFR
+(Revised as of January 1, 2025)
+Agency
+CFR Title, Subtitle or Chapter
+Administrative Conference of the United States
+1, III
+Advisory Council on Historic Preservation
+36, VIII
+Advocacy and Outreach, Office of
+7, XXV
+Afghanistan Reconstruction, Special Inspector General for
+5, LXXXIII
+African Development Foundation
+22, XV
+Federal Acquisition Regulation
+48, 57
+Agency for International Development
+2, VII; 22, II
+Federal Acquisition Regulation
+48, 7
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Agriculture, Department of
+2, IV; 5, LXXIII
+Advocacy and Outreach, Office of
+7, XXV
+Agricultural Marketing Service
+7, I, VIII, IX, X, XI; 9, II
+Agricultural Research Service
+7, V
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Chief Financial Officer, Office of
+7, XXX
+Commodity Credit Corporation
+7, XIV
+Economic Research Service
+7, XXXVII
+Energy Policy and New Uses, Office of
+2, IX; 7, XXIX
+Environmental Quality, Office of
+7, XXXI
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 4
+Federal Crop Insurance Corporation
+7, IV
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Forest Service
+36, II
+Information Resources Management, Office of
+7, XXVII
+Inspector General, Office of
+7, XXVI
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National Institute of Food and Agriculture
+7, XXXIV
+Natural Resources Conservation Service
+7, VI
+Operations, Office of
+7, XXVIII
+Procurement and Property Management, Office of
+7, XXXII
+Rural Business-Cooperative Service
+7, XVIII, XLII
+Rural Development Administration
+7, XLII
+Rural Housing Service
+7, XVIII, XXXV
+Rural Utilities Service
+7, XVII, XVIII, XLII
+Secretary of Agriculture, Office of
+7, Subtitle A
+Transportation, Office of
+7, XXXIII
+World Agricultural Outlook Board
+7, XXXVIII
+Air Force, Department of
+32, VII
+Federal Acquisition Regulation Supplement
+48, 53
+Air Transportation Stabilization Board
+14, VI
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+AMTRAK
+49, VII
+American Battle Monuments Commission
+36, IV
+American Indians, Office of the Special Trustee
+25, VII
+Animal and Plant Health Inspection Service
+7, III; 9, I
+Appalachian Regional Commission
+5, IX
+Architectural and Transportation Barriers Compliance Board
+36, XI
+Arctic Research Commission
+45, XXIII
+Armed Forces Retirement Home
+5, XI; 38, II
+Army, Department of
+32, V
+Engineers, Corps of
+33, II; 36, III
+Federal Acquisition Regulation
+48, 51
+Benefits Review Board
+20, VII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Blind or Severely Disabled, Committee for Purchase from People Who Are
+41, 51
+Broadcasting Board of Governors
+Federal Acquisition Regulation
+48, 19
+Career, Technical, and Adult Education, Office of
+34, IV
+Census Bureau
+15, I
+Centers for Medicare
+Medicaid Services
+42, IV
+Central Intelligence Agency
+32, XIX
+Chemical Safety and Hazard Investigation Board
+40, VI
+Chief Financial Officer, Office of
+7, XXX
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Civil Rights, Commission on
+5, LXVIII; 45, VII
+Civil Rights, Office for
+34, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Commerce, Department of
+2, XIII; 44, IV; 50, VI
+Census Bureau
+15, I
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 13
+Foreign-Trade Zones Board
+15, IV
+Industry and Security, Bureau of
+15, VII
+International Trade Administration
+15, III; 19, III
+National Institute of Standards and Technology
+15, II; 37, IV
+National Marine Fisheries Service
+50, II, IV
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV
+National Weather Service
+15, IX
+Patent and Trademark Office, United States
+37, I
+Secretary of Commerce, Office of
+15, Subtitle A
+Commercial Space Transportation
+14, III
+Commodity Credit Corporation
+7, XIV
+Commodity Futures Trading Commission
+5, XLI; 17, I
+Community Planning and Development, Office of Assistant Secretary for
+24, V, VI
+Community Services, Office of
+45, X
+Comptroller of the Currency
+12, I
+Construction Industry Collective Bargaining Commission
+29, IX
+Consumer Financial Protection Bureau
+5, LXXXIV; 12, X
+Consumer Product Safety Commission
+5, LXXI; 16, II
+Copyright Royalty Board
+37, III
+Corporation for National and Community Service
+2, XXII; 45, XII, XXV
+Cost Accounting Standards Board
+48, 99
+Council on Environmental Quality
+40, V
+Council of the Inspectors General on Integrity and Efficiency
+5, XCVIII
+Court Services and Offender Supervision Agency for the District of Columbia
+5, LXX; 28, VIII
+Customs and Border Protection
+19, I
+Defense, Department of
+2, XI; 5, XXVI; 32, Subtitle A; 40, VII
+Advanced Research Projects Agency
+32, I
+Air Force Department
+32, VII
+Army Department
+32, V; 33, II; 36, III; 48, 51
+Defense Acquisition Regulations System
+48, 2
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, I, XII; 48, 54
+Engineers, Corps of
+33, II; 36, III
+National Imagery and Mapping Agency
+32, I
+Navy, Department of
+32, VI; 48, 52
+Secretary of Defense, Office of
+2, XI; 32, I
+Defense Contract Audit Agency
+32, I
+Defense Intelligence Agency
+32, I
+Defense Logistics Agency
+32, XII; 48, 54
+Defense Nuclear Facilities Safety Board
+10, XVII
+Delaware River Basin Commission
+18, III
+Denali Commission
+45, IX
+Disability, National Council on
+5, C; 34, XII
+District of Columbia, Court Services and Offender Supervision Agency for the
+5, LXX; 28, VIII
+Drug Enforcement Administration
+21, II
+East-West Foreign Trade Board
+15, XIII
+Economic Affairs, Office of the Under-Secretary for
+15, XV
+Economic Analysis, Bureau of
+15, VIII
+Economic Development Administration
+13, III
+Economic Research Service
+7, XXXVII
+Education, Department of
+2, XXXIV; 5, LIII
+Bilingual Education and Minority Languages Affairs, Office of
+34, V
+Career, Technical, and Adult Education, Office of
+34, IV
+Civil Rights, Office for
+34, I
+Educational Research and Improvement, Office of
+34, VII
+Elementary and Secondary Education, Office of
+34, II
+Federal Acquisition Regulation
+48, 34
+Postsecondary Education, Office of
+34, VI
+Secretary of Education, Office of
+34, Subtitle A
+Special Education and Rehabilitative Services, Office of
+34, III
+Educational Research and Improvement, Office of
+34, VII
+Election Assistance Commission
+2, LVIII; 11, II
+Elementary and Secondary Education, Office of
+34, II
+Emergency Oil and Gas Guaranteed Loan Board
+13, V
+Emergency Steel Guarantee Loan Board
+13, IV
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employees Loyalty Board
+5, V
+Employment and Training Administration
+20, V
+Employment Policy, National Commission for
+1, IV
+Employment Standards Administration
+20, VI
+Endangered Species Committee
+50, IV
+Energy, Department of
+2, IX; 5, XXIII; 10, II, III, X
+Federal Acquisition Regulation
+48, 9
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Property Management Regulations
+41, 109
+Energy, Office of
+7, XXIX
+Engineers, Corps of
+33, II; 36, III
+Engraving and Printing, Bureau of
+31, VI
+Environmental Protection Agency
+2, XV; 5, LIV; 40, I, IV, VII
+Federal Acquisition Regulation
+48, 15
+Property Management Regulations
+41, 115
+Environmental Quality, Office of
+7, XXXI
+Equal Employment Opportunity Commission
+5, LXII; 29, XIV
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Executive Office of the President
+3, I
+Environmental Quality, Council on
+40, V
+Management and Budget, Office of
+2, Subtitle A; 5, III, LXXVII; 14, VI; 48, 99
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Security Council
+32, XXI; 47, II
+Presidential Documents
+3
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Trade Representative, Office of the United States
+15, XX
+Export-Import Bank of the United States
+2, XXXV; 5, LII; 12, IV
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Farm Credit Administration
+5, XXXI; 12, VI
+Farm Credit System Insurance Corporation
+5, XXX; 12, XIV
+Farm Service Agency
+7, VII, XVIII
+Federal Acquisition Regulation
+48, 1
+Federal Acquisition Security Council
+41, 201
+Federal Aviation Administration
+14, I
+Commercial Space Transportation
+14, III
+Federal Claims Collection Standards
+31, IX
+Federal Communications Commission
+2, LX; 5, XXIX; 47, I
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Crop Insurance Corporation
+7, IV
+Federal Deposit Insurance Corporation
+5, XXII; 12, III
+Federal Election Commission
+5, XXXVII; 11, I
+Federal Emergency Management Agency
+44, I
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Federal Energy Regulatory Commission
+5, XXIV; 18, I
+Federal Financial Institutions Examination Council
+12, XI
+Federal Financing Bank
+12, VIII
+Federal Highway Administration
+23, I, II
+Federal Home Loan Mortgage Corporation
+1, IV
+Federal Housing Enterprise Oversight Office
+12, XVII
+Federal Housing Finance Agency
+5, LXXX; 12, XII
+Federal Labor Relations Authority
+5, XIV, XLIX; 22, XIV
+Federal Law Enforcement Training Center
+31, VII
+Federal Management Regulation
+41, 102
+Federal Maritime Commission
+46, IV
+Federal Mediation and Conciliation Service
+5, CIII; 29, XII
+Federal Mine Safety and Health Review Commission
+5, LXXIV; 29, XXVII
+Federal Motor Carrier Safety Administration
+49, III
+Federal Permitting Improvement Steering Council
+40, IX
+Federal Prison Industries, Inc.
+28, III
+Federal Procurement Policy Office
+48, 99
+Federal Property Management Regulations
+41, 101
+Federal Railroad Administration
+49, II
+Federal Register, Administrative Committee of
+1, I
+Federal Register, Office of
+1, II
+Federal Reserve System
+12, II
+Board of Governors
+5, LVIII
+Federal Retirement Thrift Investment Board
+5, VI, LXXVI
+Federal Service Impasses Panel
+5, XIV
+Federal Trade Commission
+5, XLVII; 16, I
+Federal Transit Administration
+49, VI
+Federal Travel Regulation System
+41, Subtitle F
+Financial Crimes Enforcement Network
+31, X
+Financial Research Office
+12, XVI
+Financial Stability Oversight Council
+12, XIII
+Fine Arts, Commission of
+45, XXI
+Fiscal Service
+31, II
+Fish and Wildlife Service, United States
+50, I, IV
+Food and Drug Administration
+21, I
+Food and Nutrition Service
+7, II
+Food Safety and Inspection Service
+9, III
+Foreign Agricultural Service
+7, XV
+Foreign Assets Control, Office of
+31, V
+Foreign Claims Settlement Commission of the United States
+45, V
+Foreign Service Grievance Board
+22, IX
+Foreign Service Impasse Disputes Panel
+22, XIV
+Foreign Service Labor Relations Board
+22, XIV
+Foreign-Trade Zones Board
+15, IV
+Forest Service
+36, II
+General Services Administration
+5, LVII; 41, 105
+Contract Appeals, Board of
+48, 61
+Federal Acquisition Regulation
+48, 5
+Federal Management Regulation
+41, 102
+Federal Property Management Regulations
+41, 101
+Federal Travel Regulation System
+41, Subtitle F
+General
+41, 300
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Relocation Allowances
+41, 302
+Temporary Duty (TDY) Travel Allowances
+41, 301
+Geological Survey
+30, IV
+Government Accountability Office
+4, I
+Government Ethics, Office of
+5, XVI
+Government National Mortgage Association
+24, III
+Grain Inspection, Packers and Stockyards Administration
+7, VIII; 9, II
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Gulf Coast Ecosystem Restoration Council
+2, LIX; 40, VIII
+Harry S. Truman Scholarship Foundation
+45, XVIII
+Health and Human Services, Department of
+2, III; 5, XLV; 45, Subtitle A
+Centers for Medicare
+Medicaid Services
+42, IV
+Child Support Services, Office of
+45, III
+Children and Families, Administration for
+45, II, IV, X, XIII
+Community Services, Office of
+45, X
+Families and Services, Administration of
+45, III
+Family Assistance, Office of
+45, II
+Federal Acquisition Regulation
+48, 3
+Food and Drug Administration
+21, I
+Indian Health Service
+25, V
+Inspector General (Health Care), Office of
+42, V
+Public Health Service
+42, I
+Refugee Resettlement, Office of
+45, IV
+Homeland Security, Department of
+2, XXX; 5, XXXVI; 6, I; 8, I
+Coast Guard
+33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)
+46, III
+Customs and Border Protection
+19, I
+Federal Emergency Management Agency
+44, I
+Human Resources Management and Labor Relations Systems
+5, XCVII
+Immigration and Customs Enforcement Bureau
+19, IV
+Transportation Security Administration
+49, XII
+HOPE for Homeowners Program, Board of Directors of
+24, XXIV
+Housing and Urban Development, Department of
+2, XXIV; 5, LXV; 24, Subtitle B
+Community Planning and Development, Office of Assistant Secretary for
+24, V, VI
+Equal Opportunity, Office of Assistant Secretary for
+24, I
+Federal Acquisition Regulation
+48, 24
+Federal Housing Enterprise Oversight, Office of
+12, XVII
+Government National Mortgage Association
+24, III
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, X, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Inspector General, Office of
+24, XII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Secretary, Office of
+24, Subtitle A, VII
+Housing—Federal Housing Commissioner, Office of Assistant Secretary for
+24, II, VIII, X, XX
+Housing, Office of, and Multifamily Housing Assistance Restructuring, Office of
+24, IV
+Immigration and Customs Enforcement Bureau
+19, IV
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Office of
+28, VII
+Independent Counsel, Offices of
+28, VI
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Indian Health Service
+25, V
+Industry and Security, Bureau of
+15, VII
+Information Resources Management, Office of
+7, XXVII
+Information Security Oversight Office, National Archives and Records Administration
+32, XX
+Inspector General
+Agriculture Department
+7, XXVI
+Health and Human Services Department
+42, V
+Housing and Urban Development Department
+24, XII, XV
+Institute of Peace, United States
+22, XVII
+Intellectual Property Enforcement Coordinator, Office of
+5, CIV
+Inter-American Foundation
+5, LXIII; 22, X
+Interior, Department of
+2, XIV
+American Indians, Office of the Special Trustee
+25, VII
+Endangered Species Committee
+50, IV
+Federal Acquisition Regulation
+48, 14
+Federal Property Management Regulations System
+41, 114
+Fish and Wildlife Service, United States
+50, I, IV
+Geological Survey
+30, IV
+Indian Affairs, Bureau of
+25, I, V
+Indian Affairs, Office of the Assistant Secretary
+25, VI
+Indian Arts and Crafts Board
+25, II
+Land Management, Bureau of
+43, II
+National Indian Gaming Commission
+25, III
+National Park Service
+36, I
+Natural Resource Revenue, Office of
+30, XII
+Ocean Energy Management, Bureau of
+30, V
+Reclamation, Bureau of
+43, I
+Safety and Environmental Enforcement, Bureau of
+30, II
+Secretary of the Interior, Office of
+2, XIV; 43, Subtitle A
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Internal Revenue Service
+26, I
+International Boundary and Water Commission, United States and Mexico, United States Section
+22, XI
+International Development, United States Agency for
+22, II
+Federal Acquisition Regulation
+48, 7
+International Development Cooperation Agency, United States
+22, XII
+International Development Finance Corporation, U.S.
+2, XVI; 5, XXXIII; 22, VII
+International Joint Commission, United States and Canada
+22, IV
+International Organizations Employees Loyalty Board
+5, V
+International Trade Administration
+15, III; 19, III
+International Trade Commission, United States
+19, II
+Interstate Commerce Commission
+5, XL
+Investment Security, Office of
+31, VIII
+James Madison Memorial Fellowship Foundation
+45, XXIV
+Japan-United States Friendship Commission
+22, XVI
+Joint Board for the Enrollment of Actuaries
+20, VIII
+Justice, Department of
+2, XXVIII; 5, XXVIII; 28, I, XI; 40, IV
+Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+27, II
+Drug Enforcement Administration
+21, II
+Federal Acquisition Regulation
+48, 28
+Federal Claims Collection Standards
+31, IX
+Federal Prison Industries, Inc.
+28, III
+Foreign Claims Settlement Commission of the United States
+45, V
+Immigration Review, Executive Office for
+8, V
+Independent Counsel, Offices of
+28, VI
+Prisons, Bureau of
+28, V
+Property Management Regulations
+41, 128
+Labor, Department of
+2, XXIX; 5, XLII
+Benefits Review Board
+20, VII
+Employee Benefits Security Administration
+29, XXV
+Employees' Compensation Appeals Board
+20, IV
+Employment and Training Administration
+20, V
+Federal Acquisition Regulation
+48, 29
+Federal Contract Compliance Programs, Office of
+41, 60
+Federal Procurement Regulations System
+41, 50
+Labor-Management Standards, Office of
+29, II, IV
+Mine Safety and Health Administration
+30, I
+Occupational Safety and Health Administration
+29, XVII
+Public Contracts
+41, 50
+Secretary of Labor, Office of
+29, Subtitle A
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Wage and Hour Division
+29, V
+Workers' Compensation Programs, Office of
+20, I, VI
+Labor-Management Standards, Office of
+29, II, IV
+Land Management, Bureau of
+43, II
+Legal Services Corporation
+45, XVI
+Libraries and Information Science, National Commission on
+45, XVII
+Library of Congress
+36, VII
+Copyright Royalty Board
+37, III
+U.S. Copyright Office
+37, II
+Management and Budget, Office of
+2, Subpart A; 5, III, LXXVII; 14, VI; 48, 99
+Marine Mammal Commission
+50, V
+Maritime Administration
+46, II
+Merit Systems Protection Board
+5, II, LXIV
+Micronesian Status Negotiations, Office for
+32, XXVII
+Military Compensation and Retirement Modernization Commission
+5, XCIX
+Millennium Challenge Corporation
+22, XIII
+Mine Safety and Health Administration
+30, I
+Minority Business Development Agency
+15, XIV
+Miscellaneous Agencies
+1, IV
+Monetary Offices
+31, I
+Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation
+36, XVI
+Museum and Library Services, Institute of
+2, XXXI
+National Aeronautics and Space Administration
+2, XVIII; 5, LIX; 14, V
+Federal Acquisition Regulation
+48, 18
+National Agricultural Library
+7, XLI
+National Agricultural Statistics Service
+7, XXXVI
+National and Community Service, Corporation for
+2, XXII; 45, XII, XXV
+National Archives and Records Administration
+2, XXVI; 5, LXVI; 36, XII
+Information Security Oversight Office
+32, XX
+National Capital Planning Commission
+1, IV, VI
+National Counterintelligence Center
+32, XVIII
+National Credit Union Administration
+5, LXXXVI; 12, VII
+National Crime Prevention and Privacy Compact Council
+28, IX
+National Drug Control Policy, Office of
+2, XXXVI; 21, III
+National Endowment for the Arts
+2, XXXII
+National Endowment for the Humanities
+2, XXXIII
+National Foundation on the Arts and the Humanities
+45, XI
+National Geospatial-Intelligence Agency
+32, I
+National Highway Traffic Safety Administration
+23, II, III; 47, VI; 49, V
+National Imagery and Mapping Agency
+32, I
+National Indian Gaming Commission
+25, III
+National Institute of Food and Agriculture
+7, XXXIV
+National Institute of Standards and Technology
+15, II; 37, IV
+National Intelligence, Office of Director of
+5, IV; 32, XVII
+National Labor Relations Board
+5, LXI; 29, I
+National Marine Fisheries Service
+50, II, IV
+National Mediation Board
+5, CI; 29, X
+National Oceanic and Atmospheric Administration
+15, IX; 50, II, III, IV, VI
+National Park Service
+36, I
+National Railroad Adjustment Board
+29, III
+National Railroad Passenger Corporation (AMTRAK)
+49, VII
+National Science Foundation
+2, XXV; 5, XLIII; 45, VI
+Federal Acquisition Regulation
+48, 25
+National Security Council
+32, XXI; 47, II
+National Technical Information Service
+15, XI
+National Telecommunications and Information Administration
+15, XXIII; 47, III, IV, V
+National Transportation Safety Board
+49, VIII
+Natural Resource Revenue, Office of
+30, XII
+Natural Resources Conservation Service
+7, VI
+Navajo and Hopi Indian Relocation, Office of
+25, IV
+Navy, Department of
+32, VI
+Federal Acquisition Regulation
+48, 52
+Neighborhood Reinvestment Corporation
+24, XXV
+Northeast Interstate Low-Level Radioactive Waste Commission
+10, XVIII
+Nuclear Regulatory Commission
+2, XX; 5, XLVIII; 10, I
+Federal Acquisition Regulation
+48, 20
+Occupational Safety and Health Administration
+29, XVII
+Occupational Safety and Health Review Commission
+29, XX
+Ocean Energy Management, Bureau of
+30, V
+Oklahoma City National Memorial Trust
+36, XV
+Operations Office
+7, XXVIII
+Patent and Trademark Office, United States
+37, I
+Payment From a Non-Federal Source for Travel Expenses
+41, 304
+Payment of Expenses Connected With the Death of Certain Employees
+41, 303
+Peace Corps
+2, XXXVII; 22, III
+Pennsylvania Avenue Development Corporation
+36, IX
+Pension Benefit Guaranty Corporation
+29, XL
+Personnel Management, Office of
+5, I, IV, XXXV; 45, VIII
+Federal Acquisition Regulation
+48, 17
+Federal Employees Group Life Insurance Federal Acquisition Regulation
+48, 21
+Federal Employees Health Benefits Acquisition Regulation
+48, 16
+Human Resources Management and Labor Relations Systems, Department of Homeland Security
+5, XCVII
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Postal Regulatory Commission
+5, XLVI; 39, III
+Postal Service, United States
+5, LX; 39, I
+Postsecondary Education, Office of
+34, VI
+President's Commission on White House Fellowships
+1, IV
+Presidential Documents
+3
+Presidio Trust
+36, X
+Prisons, Bureau of
+28, V
+Privacy and Civil Liberties Oversight Board
+6, X
+Procurement and Property Management, Office of
+7, XXXII
+Public and Indian Housing, Office of Assistant Secretary for
+24, IX
+Public Contracts, Department of Labor
+41, 50
+Public Health Service
+42, I
+Railroad Retirement Board
+20, II
+Reclamation, Bureau of
+43, I
+Refugee Resettlement, Office of
+45, IV
+Relocation Allowances
+41, 302
+Research and Innovative Technology Administration
+49, XI
+Rural Business-Cooperative Service
+7, XVIII, XLII, L
+Rural Housing Service
+7, XVIII, XXXV, L
+Rural Utilities Service
+7, XVII, XVIII, XLII, L
+Safety and Environmental Enforcement, Bureau of
+30, II
+Science and Technology Policy, Office of
+32, XXIV; 47, II
+Secret Service
+31, IV
+Securities and Exchange Commission
+5, XXXIV; 17, II
+Selective Service System
+32, XVI
+Small Business Administration
+2, XXVII; 13, I
+Smithsonian Institution
+36, V
+Social Security Administration
+2, XXIII; 20, III; 48, 23
+Soldiers' and Airmen's Home, United States
+5, XI
+Special Counsel, Office of
+5, VIII
+Special Education and Rehabilitative Services, Office of
+34, III
+State, Department of
+2, VI; 22, I; 28, XI
+Federal Acquisition Regulation
+48, 6
+Surface Mining Reclamation and Enforcement, Office of
+30, VII
+Surface Transportation Board
+49, X
+Susquehanna River Basin Commission
+18, VIII
+Tennessee Valley Authority
+5, LXIX; 18, XIII
+Trade Representative, United States, Office of
+15, XX
+Transportation, Department of
+2, XII; 5, L
+Commercial Space Transportation
+14, III
+Emergency Management and Assistance
+44, IV
+Federal Acquisition Regulation
+48, 12
+Federal Aviation Administration
+14, I
+Federal Highway Administration
+23, I, II
+Federal Motor Carrier Safety Administration
+49, III
+Federal Railroad Administration
+49, II
+Federal Transit Administration
+49, VI
+Great Lakes St. Lawrence Seaway Development Corporation
+33, IV
+Maritime Administration
+46, II
+National Highway Traffic Safety Administration
+23, II, III; 47, IV; 49, V
+Pipeline and Hazardous Materials Safety Administration
+49, I
+Secretary of Transportation, Office of
+14, II; 49, Subtitle A
+Transportation Statistics Bureau
+49, XI
+Transportation, Office of
+7, XXXIII
+Transportation Security Administration
+49, XII
+Transportation Statistics Bureau
+49, XI
+Travel Allowances, Temporary Duty (TDY)
+41, 301
+Treasury, Department of the
+2, X; 5, XXI; 12, XV; 17, IV; 31, IX
+Alcohol and Tobacco Tax and Trade Bureau
+27, I
+Community Development Financial Institutions Fund
+12, XVIII
+Comptroller of the Currency
+12, I
+Customs and Border Protection
+19, I
+Engraving and Printing, Bureau of
+31, VI
+Federal Acquisition Regulation
+48, 10
+Federal Claims Collection Standards
+31, IX
+Federal Law Enforcement Training Center
+31, VII
+Financial Crimes Enforcement Network
+31, X
+Fiscal Service
+31, II
+Foreign Assets Control, Office of
+31, V
+Internal Revenue Service
+26, I
+Investment Security, Office of
+31, VIII
+Monetary Offices
+31, I
+Secret Service
+31, IV
+Secretary of the Treasury, Office of
+31, Subtitle A
+Truman, Harry S. Scholarship Foundation
+45, XVIII
+United States Agency for Global Media
+2, XIX; 22, V
+United States and Canada, International Joint Commission
+22, IV
+United States and Mexico, International Boundary and Water Commission, United States Section
+22, XI
+U.S. Copyright Office
+37, II
+U.S. Office of Special Counsel
+5, CII
+Utah Reclamation Mitigation and Conservation Commission
+43, III
+Veterans Affairs, Department of
+2, VIII; 38, I
+Federal Acquisition Regulation
+48, 8
+Veterans' Employment and Training Service, Office of the Assistant Secretary for
+41, 61; 20, IX
+Vice President of the United States, Office of
+32, XXVIII
+Wage and Hour Division
+29, V
+Water Resources Council
+18, VI
+Workers' Compensation Programs, Office of
+20, I, VI
+World Agricultural Outlook Board
+7, XXXVIII
+12 CFR (1-1-25 Edition)
+List of CFR Sections Affected
+
+# List of CFR Sections Affected
+All changes in this volume of the Code of Federal Regulations (CFR) that were made by documents published in the
+Federal Register
+since January 1, 2020 are enumerated in the following list. Entries indicate the nature of the changes effected. Page numbers refer to
+Federal Register
+pages. The user should consult the entries for chapters, parts and subparts as well as sections for revisions.
+For changes to this volume of the CFR prior to this listing, consult the annual edition of the monthly List of CFR Sections Affected (LSA). The LSA is available at
+www.govinfo.gov.
+For changes to this volume of the CFR prior to 2001, see the “List of CFR Sections Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000” published in 11 separate volumes. The “List of CFR Sections Affected 1986-2000” is available at
+www.govinfo.gov.
+2020
+12 CFR
+85 FR
+Page
+Chapter XII
+1206.2 Amended; eff. 2-16-21
+82198
+1209.80 Revised
+4905
+1209.81 Revised
+4905
+1217.3 (a)(1) introductory text and (b)(1) introductory text revised
+4905
+1221.1 (e)(6) and (7) revised; interim
+39470
+1221.1 (e)(6), (7), and (h) introductory text revised; (h)(1), (3), and (5) added
+39778
+1221.9 (h) added
+39779
+1221.10 (a) revised
+39779
+1221.11 Revised
+39779
+1225 Authority citation revised
+82198
+1225.2 Amended; eff. 2-16-21
+82198
+1238 Order
+23219
+1238.1 Revised
+16529
+1238.2 Revised
+16530
+1238.3 Revised
+16530
+1238.4 Revised
+16530
+1238.5 Revised
+16530
+1238.6 Revised
+16530
+1238.7 Revised
+16530
+1240 Added; eff. 2-16-21
+82198
+1250.3 (c) revised
+4905
+1281 Authority citation revised
+38050
+1281.1 Amended
+38050
+1281.10 (a) and (b) revised
+38051
+1281.11 Revised
+38051
+1281.12 Revised
+38051
+1281.13 (b) introductory text, (1), and (8) revised; (d) removed; (e) redesignated as new (d); (c)(4) and new (e) added
+38052
+1281.13 Correction: (b) introductory text, (1), and (8) revised; (d) removed; (e) redesignated as new (d); (c)(4) and new (e) added
+44158
+1281.14 (a) revised
+38052
+1281.15 (a) and (b) revised
+38052
+1281.20—1281.23 (Subpart C) Revised
+38052
+1282.12 (c)(2), (d)(2), (f)(2), and (g)(2) revised; eff. 2-19-21
+82895
+1282.13 (b) through (d) revised; eff. 2-19-21
+82896
+Chapter XIV
+1411.1 Revised
+2284
+Chapter XVII
+1750 Removed; eff. 2-16-21
+82258
+2021
+12 CFR
+86 FR
+Page
+Chapter XII
+Chapter XII Policy statement
+36199
+1209.80 Revised
+7495
+1209.81 Revised
+7496
+1217.3 (a)(1) introductory text and (b)(1) introductory text revised
+7496
+1234 Determination
+71810
+1238 Orders
+18431
+1242 Added
+23587
+1250.3 (c) revised
+7496
+1282.1 Amended; eff. 2-28-22
+73657
+1282.12 (g) redesignated as (h); new (g) added; (c)(2), (d)(2), (e)(2), (f), and new (h)(2) revised; eff. 2-28-22
+73658
+1282.13 (b) through (d) revised; eff. 2-28-22
+73658
+1282.15 (i) removed; eff. 2-28-22
+73658
+1282.16 (c)(10) removed; eff. 2-28-22
+73658
+Chapter XIV
+1411.1 Revised
+8854
+2022
+12 CFR
+87 FR
+Page
+Chapter XII
+1102.1—1102.9 (Subpart A) Revised
+60875
+Chapter XII
+1209 Technical correction
+19786
+1209.80 Revised
+1661, 80025
+1209.81 Revised
+1661, 80025
+1217 Technical correction
+19786
+1217.3 (a)(1) introductory text and (b)(1) introductory text revised
+1661
+1217.3 (a)(1) introductory text and (b)(1) introductory text revised
+80025
+1238 Order
+14763
+1240 Authority citation revised
+14770, 33429
+1240.2 Amended
+14770
+1240.4 (b) revised
+33429
+1240.11 (a)(6) revised
+14770
+1240.11 (a)(7) revised
+33617
+1240.33 (a) amended
+14770
+1240.37 Second (d)(3)(iii) redesignated as (d)(3)(iv)
+14770
+1240.43 (b)(1), (9)(i)(D), (ii) introductory text, (B), (C), (E)(
+2
+)(
+i
+), (c) introductory text, (1), (2), (3)(ii), (d), (e), (g), and (h) amended; (f)(2)(i) revised; (i) removed
+14770
+1240.44 (b)(9)(i)(C) and (D), (b)(9)(ii) introductory text, (b)(9)(ii)(B) and (C) amended, equation in paragraph (b)(9)(ii)(E)
+(2)
+(
+(i)
+revised, (b)(9)(ii)(E)
+(2)
+(iii)
+, (c) introductory text, (c)(1),(c)(2), (c)(3)(ii) amended, the first equation in paragraph (d) revised, (e) amended, (f)(2)(i) revised, (g) amended, revising the first equation in paragraph (h), (i) removed
+14770
+1240.61 Added
+33429
+1240.62 Added
+33429
+1240.63 Added
+33429
+1240.63 (e) table amended
+37979
+1240.63 (c) Table 7 amended
+37979
+1240.205 Added
+33434
+1240.500—1240.502 (Subpart H) Added
+33617
+1250 Technical correction
+19786
+1250.3 (c) revised
+1662, 80025
+1253 Revised; eff. 2-27-23
+79229
+1282.13 (b) through (d) revised; eff. 2-21-23
+78846
+1282.15 (c) and (e)(3) revised; eff. 2-21-23
+78846
+1290.6 (c) revised
+32969
+1291.1 Amended
+32969
+1291.13 (a)(2) revised
+32969
+1291.15 (a)(7) introductory text amended
+32969
+1291.23 (d)(1) amended
+32969
+1291.24 (c)(1) amended
+32969
+1291.25 (c)(3) amended
+32969
+1291.50 (c)(1)(i) amended
+32969
+1291.64 (b)(1) heading and (2) removed; (b)(1) introductory text and (i) through (iii) redesignated as (b) introductory text and (1) through (3)
+32969
+Chapter XIV
+1411.1 Revised
+2032
+2023
+12 CFR
+88 FR
+Page
+Chapter XII
+1238 Order
+14871
+1240.2 Amended; eff. 4-1-24
+83474
+1240.4 (c) amended; eff. 4-1-24
+83476
+1240.31 (a)(1)(iv) and (v) amended; (a)(1)(vi) added; eff. 4-1-24
+83476
+1240.32 (c)(2) and (i)(5) redesignated as (c)(3) and (i)(6); new (c)(2) and new (i)(5) added; new (c)(3) revised; eff. 4-1-24
+83476
+1240.33 (a) amended; (a) Table 1 revised; eff. 4-1-24
+83476
+1240.34 (a) amended; (a) Table 1 and (d) Table 4 revised; eff. 4-1-24
+83478
+1240.35 (b)(3) and (b)(4)(i) revised; eff. 4-1-24
+83480
+1240.36 Revised; eff. 1-1-26
+83481
+1240.37 Revised; eff. 1-1-26
+83487
+1240.39 Revised; eff. 1-1-26
+83489
+1240.41 (c)(5) revised; (c)(6) redesignated as (c)(7); new (c)(6) added; eff. 4-1-24
+83491
+1240.42 (f) revised; eff. 4-1-24
+83491
+1240.400 (c)(1) revised; (d) removed; eff. 4-1-24
+83492
+1253 Regulation at 87 FR 79229 eff. date 4-28-23
+11779
+1282.1 (b) amended
+23563
+Chapter XIII
+1310 Appendix A revised; eff. 1-16-24
+80127
+Chapter XIV
+1411.1 Revised
+2813
+2024
+12 CFR
+89 FR
+Page
+Chapter XII
+1209.80 Revised
+3333
+1209.81 Revised
+3333
+1217.3 (a)(1) introductory text and (b)(1) introductory text revised
+3333
+1222 Authority citation revised
+64579
+1222.27—1222.29 (Subpart C) Added
+64579
+1228 Authority citation revised
+17716
+1228.1 Amended
+17716
+1228.3 Revised
+17716
+1236.1 Revised
+3539
+1236.2 Introductory text revised; section amended
+3539
+1236.3 Revised
+3539
+1236.4 Revised
+3539
+1236.5 (a) introductory text, (6), (c)(1) introductory text, (i), (2) through (4), (d), and (e) introductory text revised
+3540
+1236 Appendix amended
+3540
+1238 Order
+19730
+1250.3 (c) revised
+3333
+1282.1 Amended; eff. 2-28-25
+106275
+1282.11 (a)(1) revised; eff. 2-28-25
+106275
+1282.12 (c)(2), (d)(2), (f)(2)(ii), (g)(2), and (h)(2) revised; eff. 2-28-25
+106275
+1282.13 Revised; eff. 2-28-25
+106275
+1282.15 (b)(2), (c), (d)(1), (3), (4), (e)(2), and (3) amended; (c) heading and (e) heading revised; eff. 2-28-25
+106275
+1282.20 Revised; eff. 2-28-25
+106276
+1282.21 Redesignated as 1282.22; new section added; eff. 2-28-25
+106276
+1282.22 Redesignated from 1282.21 and revised; eff. 2-28-25
+106276
+1293 Added
+42784
+1293.31—1293.40 (Subpart D) Added; eff. 2-15-26
+42787
+Chapter XIV
+1411 Technical correction
+2481
+1411.1 Revised
+1445
+Chapter XVI
+1610.11 Added
+37107
+Chapter XVIII
+1807 Revised
+53015
+○
