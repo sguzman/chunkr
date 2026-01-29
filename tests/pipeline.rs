@@ -1,9 +1,10 @@
 use anyhow::{anyhow, Context, Result};
+use chunkr::{chunk, config, insert, logging};
 use reqwest::Client;
 use serde_json::json;
 use std::fs;
 use std::path::{Path, PathBuf};
-use std::process::{Command, Stdio};
+use std::sync::Once;
 use std::time::{Duration, Instant};
 use uuid::Uuid;
 
@@ -57,13 +58,15 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     );
     fs::write(&config_path, config_contents)?;
 
+    init_logging_once(&config_path)?;
+
     eprintln!("[test] resetting qdrant collection {}", test_collection);
     reset_qdrant(&client, &base.qdrant_url, test_collection, embed_dim).await?;
     eprintln!("[test] resetting quickwit index {}", test_index);
     reset_quickwit(&client, &base.quickwit_url, test_index).await?;
 
     eprintln!("[test] starting chunk (config={})", config_path.display());
-    run_chunkr(&config_path, "chunk")?;
+    run_in_process(&config_path, CommandKind::Chunk).await?;
     eprintln!(
         "[test] chunk finished in {:?}, building sample query",
         started.elapsed()
@@ -75,7 +78,7 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
         sample_query.term
     );
     eprintln!("[test] starting insert");
-    run_chunkr(&config_path, "insert")?;
+    run_in_process(&config_path, CommandKind::Insert).await?;
     eprintln!(
         "[test] insert finished in {:?}, verifying qdrant/quickwit",
         started.elapsed()
@@ -101,35 +104,30 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     Ok(())
 }
 
-fn run_chunkr(config: &Path, command: &str) -> Result<()> {
-    let mut child = Command::new(env!("CARGO_BIN_EXE_chunkr"))
-        .arg("--config")
-        .arg(config)
-        .arg(command)
-        .stdout(Stdio::inherit())
-        .stderr(Stdio::inherit())
-        .spawn()
-        .with_context(|| format!("run chunkr {}", command))?;
+enum CommandKind {
+    Chunk,
+    Insert,
+}
 
-    let started = Instant::now();
-    let mut last_log = Instant::now();
-    loop {
-        if let Some(status) = child.try_wait()? {
-            if !status.success() {
-                return Err(anyhow!("chunkr {} failed: {}", command, status));
-            }
-            break;
+async fn run_in_process(config_path: &Path, command: CommandKind) -> Result<()> {
+    let config = config::load(&config_path.to_path_buf())?;
+    match command {
+        CommandKind::Chunk => {
+            chunk::run(&config)?;
         }
-        if last_log.elapsed() >= Duration::from_secs(30) {
-            eprintln!(
-                "[test] chunkr {} still running after {:?}",
-                command,
-                started.elapsed()
-            );
-            last_log = Instant::now();
+        CommandKind::Insert => {
+            insert::run(&config).await?;
         }
-        std::thread::sleep(Duration::from_secs(5));
     }
+    Ok(())
+}
+
+fn init_logging_once(config_path: &Path) -> Result<()> {
+    static INIT: Once = Once::new();
+    let config = config::load(&config_path.to_path_buf())?;
+    INIT.call_once(|| {
+        logging::init(&config.logging);
+    });
     Ok(())
 }
 

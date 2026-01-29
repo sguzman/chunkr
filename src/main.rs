@@ -1,11 +1,5 @@
-mod chunk;
-mod config;
-mod extract;
-mod insert;
-mod logging;
-mod util;
-
 use clap::{Parser, Subcommand};
+use chunkr::{chunk, config, extract, insert, logging};
 use std::path::PathBuf;
 
 #[derive(Debug, Parser)]
