@@ -68,7 +68,7 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
         tasks.push(tokio::spawn(async move {
             let _permit = permit;
             let prefix = color_prefix(&path.display().to_string(), None, None);
-            info!(path = %path.display(), "{}insert file start", prefix);
+            info!(color_prefix = %prefix, path = %path.display(), "insert file start");
             let count = ingest_file(
                 &path,
                 &client,
@@ -86,7 +86,7 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
     for task in tasks {
         let (count, path) = task.await??;
         let prefix = color_prefix(&path, None, None);
-        info!(path, count, "{}insert file complete", prefix);
+        info!(color_prefix = %prefix, path, count, "insert file complete");
         total_chunks += count;
     }
 
@@ -230,8 +230,8 @@ async fn process_batch(
         min_len,
         max_len,
         avg_len,
-        "{}embedding batch start",
-        color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Ollama))
+        color_prefix = %color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Ollama)),
+        "embedding batch start"
     );
     for record in batch {
         let permit = semaphore.clone().acquire_owned().await?;
@@ -261,24 +261,24 @@ async fn process_batch(
         batch_len,
         vector_dim,
         elapsed = ?batch_start.elapsed(),
-        "{}embedding batch complete",
-        color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Ollama))
+        color_prefix = %color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Ollama)),
+        "embedding batch complete"
     );
     upsert_qdrant(client, qdrant_cfg, batch, &vectors).await?;
     info!(
         path = %ctx.path,
         batch_idx = ctx.batch_idx,
         batch_len,
-        "{}qdrant upsert complete",
-        color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Qdrant))
+        color_prefix = %color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Qdrant)),
+        "qdrant upsert complete"
     );
     ingest_quickwit(client, quickwit_cfg, batch).await?;
     info!(
         path = %ctx.path,
         batch_idx = ctx.batch_idx,
         batch_len,
-        "{}quickwit ingest complete",
-        color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Quickwit))
+        color_prefix = %color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Quickwit)),
+        "quickwit ingest complete"
     );
     Ok(batch.len())
 }
