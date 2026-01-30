@@ -506,7 +506,7 @@ async fn quickwit_commit(client: &Client, cfg: &InsertQuickwitConfig) -> anyhow:
     let resp = client
         .post(&url)
         .header("content-type", "application/json")
-        .body("")
+        .body(" ")
         .send()
         .await?;
     if !resp.status().is_success() {
