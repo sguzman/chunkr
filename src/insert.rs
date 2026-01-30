@@ -1,7 +1,7 @@
 use crate::config::{Config, InsertEmbeddingsConfig, InsertQdrantConfig, InsertQuickwitConfig};
 use crate::logging::{color_prefix, LogOp};
 use anyhow::{anyhow, Context};
-use reqwest::{Client, StatusCode};
+use reqwest::Client;
 use serde::Deserialize;
 use serde_json::{json, Value};
 use std::collections::{HashMap, VecDeque};
@@ -109,9 +109,7 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
     }
 
     if config.insert.quickwit.commit_at_end {
-        if let Err(err) = quickwit_commit(&client, &config.insert.quickwit).await {
-            warn!(error = %err, "quickwit commit failed (ignored)");
-        }
+        quickwit_commit(&client, &config.insert.quickwit).await?;
     }
     info!(
         total_files,
@@ -493,27 +491,30 @@ async fn ingest_quickwit(
 }
 
 async fn quickwit_commit(client: &Client, cfg: &InsertQuickwitConfig) -> anyhow::Result<()> {
-    let base = cfg.url.trim_end_matches('/');
-    let candidates = [
-        format!("{}/api/v1/indexes/{}/commit", base, cfg.index_id),
-        format!("{}/api/v1/{}/commit", base, cfg.index_id),
-    ];
-    for url in candidates {
-        let resp = client.post(&url).send().await?;
-        if resp.status().is_success() {
-            return Ok(());
-        }
-        if resp.status() == StatusCode::NOT_FOUND {
-            continue;
-        }
+    let commit_mode = if cfg.commit_mode.is_empty() {
+        "force"
+    } else {
+        cfg.commit_mode.as_str()
+    };
+    let url = format!(
+        "{}/api/v1/{}/ingest?commit={}&commit_timeout_seconds={}",
+        cfg.url.trim_end_matches('/'),
+        cfg.index_id,
+        commit_mode,
+        cfg.commit_timeout_seconds
+    );
+    let resp = client
+        .post(&url)
+        .header("content-type", "application/json")
+        .body("")
+        .send()
+        .await?;
+    if !resp.status().is_success() {
         let status = resp.status();
         let text = resp.text().await.unwrap_or_default();
         return Err(anyhow!("quickwit commit failed: {} {}", status, text));
     }
-    Err(anyhow!(
-        "quickwit commit failed: commit route not found for index {}",
-        cfg.index_id
-    ))
+    Ok(())
 }
 
 struct EmbeddingCache {
