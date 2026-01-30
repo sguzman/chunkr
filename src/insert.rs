@@ -1,12 +1,12 @@
 use crate::config::{Config, InsertEmbeddingsConfig, InsertQdrantConfig, InsertQuickwitConfig};
 use crate::logging::{color_prefix, LogOp};
 use anyhow::{anyhow, Context};
-use reqwest::Client;
+use reqwest::{Client, StatusCode};
 use serde::Deserialize;
 use serde_json::{json, Value};
+use std::collections::{HashMap, VecDeque};
 use std::fs;
 use std::path::Path;
-use std::collections::{HashMap, VecDeque};
 use std::sync::{Arc, Mutex};
 use std::time::Duration;
 use tokio::sync::Semaphore;
@@ -491,18 +491,27 @@ async fn ingest_quickwit(
 }
 
 async fn quickwit_commit(client: &Client, cfg: &InsertQuickwitConfig) -> anyhow::Result<()> {
-    let url = format!(
-        "{}/api/v1/{}/commit",
-        cfg.url.trim_end_matches('/'),
-        cfg.index_id
-    );
-    let resp = client.post(url).send().await?;
-    if !resp.status().is_success() {
+    let base = cfg.url.trim_end_matches('/');
+    let candidates = [
+        format!("{}/api/v1/indexes/{}/commit", base, cfg.index_id),
+        format!("{}/api/v1/{}/commit", base, cfg.index_id),
+    ];
+    for url in candidates {
+        let resp = client.post(&url).send().await?;
+        if resp.status().is_success() {
+            return Ok(());
+        }
+        if resp.status() == StatusCode::NOT_FOUND {
+            continue;
+        }
         let status = resp.status();
         let text = resp.text().await.unwrap_or_default();
         return Err(anyhow!("quickwit commit failed: {} {}", status, text));
     }
-    Ok(())
+    Err(anyhow!(
+        "quickwit commit failed: commit route not found for index {}",
+        cfg.index_id
+    ))
 }
 
 struct EmbeddingCache {
