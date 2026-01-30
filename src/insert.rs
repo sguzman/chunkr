@@ -109,7 +109,9 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
     }
 
     if config.insert.quickwit.commit_at_end {
-        quickwit_commit(&client, &config.insert.quickwit).await?;
+        if let Err(err) = quickwit_commit(&client, &config.insert.quickwit).await {
+            warn!(error = %err, "quickwit commit failed (ignored)");
+        }
     }
     info!(
         total_files,
