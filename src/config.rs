@@ -110,6 +110,7 @@ pub struct InsertQdrantConfig {
     pub vector_size: usize,
     pub create_collection: bool,
     pub api_key: Option<String>,
+    pub wait: bool,
 }
 
 #[derive(Debug, Clone, Deserialize)]
@@ -117,6 +118,8 @@ pub struct InsertQuickwitConfig {
     pub url: String,
     pub index_id: String,
     pub commit_timeout_seconds: u64,
+    pub commit_mode: String,
+    pub commit_at_end: bool,
 }
 
 #[derive(Debug, Clone, Deserialize)]
@@ -127,6 +130,9 @@ pub struct InsertEmbeddingsConfig {
     pub request_timeout_seconds: u64,
     pub max_concurrency: usize,
     pub max_input_chars: usize,
+    pub global_max_concurrency: usize,
+    pub request_batch_size: usize,
+    pub cache_max_entries: usize,
 }
 
 pub fn load(path: &PathBuf) -> anyhow::Result<Config> {

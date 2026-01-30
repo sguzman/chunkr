@@ -6,7 +6,8 @@ use serde::Deserialize;
 use serde_json::{json, Value};
 use std::fs;
 use std::path::Path;
-use std::sync::Arc;
+use std::collections::{HashMap, VecDeque};
+use std::sync::{Arc, Mutex};
 use std::time::Duration;
 use tokio::sync::Semaphore;
 use tracing::{debug, info, warn};
@@ -57,6 +58,19 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
     let file_semaphore = Arc::new(Semaphore::new(
         config.insert.max_parallel_files.max(1),
     ));
+    let global_embed_limit = if config.insert.embeddings.global_max_concurrency > 0 {
+        config.insert.embeddings.global_max_concurrency
+    } else {
+        config.insert.embeddings.max_concurrency
+    };
+    let embed_semaphore = Arc::new(Semaphore::new(global_embed_limit.max(1)));
+    let cache = if config.insert.embeddings.cache_max_entries > 0 {
+        Some(Arc::new(Mutex::new(EmbeddingCache::new(
+            config.insert.embeddings.cache_max_entries,
+        ))))
+    } else {
+        None
+    };
     let mut tasks = Vec::new();
     for path in files {
         let permit = file_semaphore.clone().acquire_owned().await?;
@@ -65,6 +79,8 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
         let qdrant = config.insert.qdrant.clone();
         let quickwit = config.insert.quickwit.clone();
         let batch_size = config.insert.batch_size;
+        let embed_semaphore = embed_semaphore.clone();
+        let cache = cache.clone();
         tasks.push(tokio::spawn(async move {
             let _permit = permit;
             let prefix = color_prefix(&path.display().to_string(), None, None);
@@ -76,6 +92,8 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
                 &qdrant,
                 &quickwit,
                 batch_size,
+                &embed_semaphore,
+                cache.as_ref(),
             )
             .await?;
             Ok::<(usize, String), anyhow::Error>((count, path.display().to_string()))
@@ -90,7 +108,15 @@ pub async fn run(config: &Config) -> anyhow::Result<()> {
         total_chunks += count;
     }
 
-    info!(total_files, total_chunks, "insert complete");
+    if config.insert.quickwit.commit_at_end {
+        quickwit_commit(&client, &config.insert.quickwit).await?;
+    }
+    info!(
+        total_files,
+        total_chunks,
+        global_embed_limit,
+        "insert complete"
+    );
     Ok(())
 }
 
@@ -101,6 +127,8 @@ async fn ingest_file(
     qdrant_cfg: &InsertQdrantConfig,
     quickwit_cfg: &InsertQuickwitConfig,
     batch_size: usize,
+    embed_semaphore: &Arc<Semaphore>,
+    cache: Option<&Arc<Mutex<EmbeddingCache>>>,
 ) -> anyhow::Result<usize> {
     let raw = fs::read_to_string(path).with_context(|| format!("read {}", path.display()))?;
     let mut total = 0usize;
@@ -130,6 +158,8 @@ async fn ingest_file(
                 qdrant_cfg,
                 quickwit_cfg,
                 &BatchContext::new(path, batch_idx, lines_seen, &buffer),
+                embed_semaphore,
+                cache,
             )
             .await?;
             debug!(
@@ -157,6 +187,8 @@ async fn ingest_file(
             qdrant_cfg,
             quickwit_cfg,
             &BatchContext::new(path, batch_idx, lines_seen, &buffer),
+            embed_semaphore,
+            cache,
         )
         .await?;
         debug!(
@@ -206,10 +238,9 @@ async fn process_batch(
     qdrant_cfg: &InsertQdrantConfig,
     quickwit_cfg: &InsertQuickwitConfig,
     ctx: &BatchContext,
+    embed_semaphore: &Arc<Semaphore>,
+    cache: Option<&Arc<Mutex<EmbeddingCache>>>,
 ) -> anyhow::Result<usize> {
-    let semaphore = Arc::new(Semaphore::new(embed_cfg.max_concurrency));
-    let mut tasks = Vec::new();
-
     let batch_len = batch.len();
     let batch_start = std::time::Instant::now();
     let (mut min_len, mut max_len, mut sum_len) = (usize::MAX, 0usize, 0usize);
@@ -233,26 +264,57 @@ async fn process_batch(
         color_prefix = %color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Ollama)),
         "embedding batch start"
     );
-    for record in batch {
-        let permit = semaphore.clone().acquire_owned().await?;
+    let mut vectors: Vec<Option<Vec<f32>>> = vec![None; batch_len];
+    let mut misses = Vec::new();
+    let cache = cache.cloned();
+    for (idx, record) in batch.iter().enumerate() {
+        if let Some(cache) = cache.as_ref() {
+            if let Some(vec) = cache.lock().unwrap().get(&record.text) {
+                vectors[idx] = Some(vec);
+                continue;
+            }
+        }
+        misses.push((idx, record.text.clone()));
+    }
+
+    let request_batch_size = embed_cfg.request_batch_size.max(1);
+    let mut tasks = Vec::new();
+    for chunk in misses.chunks(request_batch_size) {
         let client = client.clone();
         let model = embed_cfg.model.clone();
         let base_url = embed_cfg.base_url.clone();
-        let mut text = record.text.clone();
-        if embed_cfg.max_input_chars > 0 && text.len() > embed_cfg.max_input_chars {
-            text = text.chars().take(embed_cfg.max_input_chars).collect();
-        }
+        let embed_semaphore = embed_semaphore.clone();
+        let cache = cache.clone();
+        let chunk = chunk.to_vec();
+        let max_input_chars = embed_cfg.max_input_chars;
         tasks.push(tokio::spawn(async move {
-            let _permit = permit;
-            embed_text(&client, &base_url, &model, &text).await
+            let mut results = Vec::new();
+            for (idx, mut text) in chunk {
+                if max_input_chars > 0 && text.len() > max_input_chars {
+                    text = text.chars().take(max_input_chars).collect();
+                }
+                let permit = embed_semaphore.clone().acquire_owned().await?;
+                let vec = embed_text(&client, &base_url, &model, &text).await?;
+                drop(permit);
+                if let Some(cache) = cache.as_ref() {
+                    cache.lock().unwrap().insert(text.clone(), vec.clone());
+                }
+                results.push((idx, vec));
+            }
+            Ok::<Vec<(usize, Vec<f32>)>, anyhow::Error>(results)
         }));
     }
 
-    let mut vectors = Vec::new();
     for task in tasks {
-        let vec = task.await??;
-        vectors.push(vec);
+        for (idx, vec) in task.await?? {
+            vectors[idx] = Some(vec);
+        }
     }
+
+    let vectors = vectors
+        .into_iter()
+        .map(|v| v.ok_or_else(|| anyhow!("missing embedding result")))
+        .collect::<Result<Vec<_>, _>>()?;
 
     let vector_dim = vectors.first().map(|v| v.len()).unwrap_or(0);
     info!(
@@ -264,7 +326,10 @@ async fn process_batch(
         color_prefix = %color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Ollama)),
         "embedding batch complete"
     );
-    upsert_qdrant(client, qdrant_cfg, batch, &vectors).await?;
+    let qdrant = upsert_qdrant(client, qdrant_cfg, batch, &vectors);
+    let quickwit = ingest_quickwit(client, quickwit_cfg, batch);
+    let (qdrant_res, quickwit_res) = tokio::join!(qdrant, quickwit);
+    qdrant_res?;
     info!(
         path = %ctx.path,
         batch_idx = ctx.batch_idx,
@@ -272,7 +337,7 @@ async fn process_batch(
         color_prefix = %color_prefix(&ctx.path, Some(&ctx.first_id), Some(LogOp::Qdrant)),
         "qdrant upsert complete"
     );
-    ingest_quickwit(client, quickwit_cfg, batch).await?;
+    quickwit_res?;
     info!(
         path = %ctx.path,
         batch_idx = ctx.batch_idx,
@@ -364,10 +429,12 @@ async fn upsert_qdrant(
             })
         })
         .collect::<Vec<_>>();
+    let wait = if cfg.wait { "true" } else { "false" };
     let url = format!(
-        "{}/collections/{}/points?wait=true",
+        "{}/collections/{}/points?wait={}",
         cfg.url.trim_end_matches('/'),
-        cfg.collection
+        cfg.collection,
+        wait
     );
     let mut req = client.put(url).json(&json!({ "points": points }));
     if let Some(key) = cfg.api_key.as_ref().filter(|k| !k.is_empty()) {
@@ -387,10 +454,16 @@ async fn ingest_quickwit(
     cfg: &InsertQuickwitConfig,
     batch: &[ChunkRecord],
 ) -> anyhow::Result<()> {
+    let commit_mode = if cfg.commit_mode.is_empty() {
+        "auto"
+    } else {
+        cfg.commit_mode.as_str()
+    };
     let url = format!(
-        "{}/api/v1/{}/ingest?commit=force&commit_timeout_seconds={}",
+        "{}/api/v1/{}/ingest?commit={}&commit_timeout_seconds={}",
         cfg.url.trim_end_matches('/'),
         cfg.index_id,
+        commit_mode,
         cfg.commit_timeout_seconds
     );
     let mut body = String::new();
@@ -415,4 +488,62 @@ async fn ingest_quickwit(
         return Err(anyhow!("quickwit ingest failed: {} {}", status, text));
     }
     Ok(())
+}
+
+async fn quickwit_commit(client: &Client, cfg: &InsertQuickwitConfig) -> anyhow::Result<()> {
+    let url = format!(
+        "{}/api/v1/{}/commit",
+        cfg.url.trim_end_matches('/'),
+        cfg.index_id
+    );
+    let resp = client.post(url).send().await?;
+    if !resp.status().is_success() {
+        let status = resp.status();
+        let text = resp.text().await.unwrap_or_default();
+        return Err(anyhow!("quickwit commit failed: {} {}", status, text));
+    }
+    Ok(())
+}
+
+struct EmbeddingCache {
+    max_entries: usize,
+    order: VecDeque<u64>,
+    values: HashMap<u64, Vec<f32>>,
+}
+
+impl EmbeddingCache {
+    fn new(max_entries: usize) -> Self {
+        Self {
+            max_entries,
+            order: VecDeque::new(),
+            values: HashMap::new(),
+        }
+    }
+
+    fn get(&self, text: &str) -> Option<Vec<f32>> {
+        let key = hash_text(text);
+        self.values.get(&key).cloned()
+    }
+
+    fn insert(&mut self, text: String, vec: Vec<f32>) {
+        let key = hash_text(&text);
+        if !self.values.contains_key(&key) {
+            self.order.push_back(key);
+        }
+        self.values.insert(key, vec);
+        while self.values.len() > self.max_entries {
+            if let Some(old) = self.order.pop_front() {
+                self.values.remove(&old);
+            } else {
+                break;
+            }
+        }
+    }
+}
+
+fn hash_text(text: &str) -> u64 {
+    use std::hash::{Hash, Hasher};
+    let mut hasher = std::collections::hash_map::DefaultHasher::new();
+    text.hash(&mut hasher);
+    hasher.finish()
 }

@@ -47,10 +47,10 @@ skip_oversize = false
 normalize_unicode = true
 collapse_whitespace = true
 strip_headers = true
-min_paragraph_chars = 120
-max_paragraph_chars = 2400
-target_chunk_chars = 1800
-max_chunk_chars = 2600
+min_paragraph_chars = 200
+max_paragraph_chars = 6000
+target_chunk_chars = 4000
+max_chunk_chars = 4800
 chunk_overlap_chars = 200
 emit_jsonl = true
 
@@ -63,7 +63,7 @@ include_published = true
 include_language = true
 
 [insert]
-batch_size = 128
+batch_size = 256
 retry_max = 5
 retry_backoff_ms = 500
 max_parallel_files = 16
@@ -75,11 +75,14 @@ distance = "Cosine"
 vector_size = 384
 create_collection = true
 api_key = ""
+wait = false
 
 [insert.quickwit]
 url = "http://127.0.0.1:7280"
 index_id = "chunkr"
 commit_timeout_seconds = 30
+commit_mode = "auto"
+commit_at_end = true
 
 [insert.embeddings]
 provider = "ollama"
@@ -88,3 +91,6 @@ model = "qllama/bge-small-en-v1.5:latest"
 request_timeout_seconds = 120
 max_concurrency = 4
 max_input_chars = 512
+global_max_concurrency = 16
+request_batch_size = 8
+cache_max_entries = 50000

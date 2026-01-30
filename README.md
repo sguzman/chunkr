@@ -129,11 +129,14 @@ distance = "Cosine"
 vector_size = 384
 create_collection = true
 api_key = ""
+wait = false
 
 [insert.quickwit]
 url = "http://127.0.0.1:7280"
 index_id = "books"
 commit_timeout_seconds = 30
+commit_mode = "auto"
+commit_at_end = true
 
 [insert.embeddings]
 provider = "ollama"
@@ -142,6 +145,9 @@ model = "qllama/bge-small-en-v1.5:latest"
 request_timeout_seconds = 120
 max_concurrency = 4
 max_input_chars = 512
+global_max_concurrency = 16
+request_batch_size = 8
+cache_max_entries = 50000
 ```
 
 Notes:
