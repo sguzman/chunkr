@@ -134,6 +134,15 @@ fn extract_epub(
     if cfg.chapter_split && meta.len() > cfg.max_file_bytes {
         info!(bytes = meta.len(), "split epub output");
         let parts = split_markdown_file(output, cfg.max_chapter_bytes)?;
+        if cfg.join_parts {
+            join_parts_into(output, &parts)?;
+            if !cfg.keep_parts {
+                for part in &parts {
+                    let _ = fs::remove_file(part);
+                }
+            }
+            return Ok(vec![output.to_path_buf()]);
+        }
         fs::remove_file(output).ok();
         return Ok(parts);
     }
@@ -166,6 +175,12 @@ fn extract_pdf(
         force_ocr = !pdf_is_text_based(input, cfg)?;
     }
 
+    if !force_ocr && cfg.split_text_extraction {
+        info!(path = %input.display(), "extract pdf (paged text)");
+        extract_pdf_text_paged(input, output, cfg)?;
+        return Ok(vec![output.to_path_buf()]);
+    }
+
     info!(path = %input.display(), force_ocr, "extract pdf");
 
     let mut cmd = Command::new(&cfg.docling_bin);
@@ -182,6 +197,14 @@ fn extract_pdf(
         .arg(&cfg.docling_pdf_backend)
         .arg("--num-threads")
         .arg(cfg.docling_threads.to_string());
+    if cfg.page_batch_size > 0 {
+        cmd.arg("--page-batch-size")
+            .arg(cfg.page_batch_size.to_string());
+    }
+    if cfg.document_timeout_seconds > 0 {
+        cmd.arg("--document-timeout")
+            .arg(cfg.document_timeout_seconds.to_string());
+    }
 
     if cfg.docling_tables {
         cmd.arg("--tables")
@@ -224,6 +247,61 @@ fn extract_pdf(
         ));
     }
     Ok(vec![output.to_path_buf()])
+}
+
+fn join_parts_into(output: &Path, parts: &[PathBuf]) -> anyhow::Result<()> {
+    let mut out = fs::File::create(output)?;
+    for part in parts {
+        let bytes = fs::read(part)?;
+        out.write_all(&bytes)?;
+        out.write_all(b"\n")?;
+    }
+    Ok(())
+}
+
+fn extract_pdf_text_paged(
+    input: &Path,
+    output: &Path,
+    cfg: &ExtractPdfConfig,
+) -> anyhow::Result<()> {
+    let total_pages = pdf_page_count(input, cfg)?;
+    if total_pages == 0 {
+        return Err(anyhow!("pdf page count is zero: {}", input.display()));
+    }
+    let pages_per_pass = cfg.max_pages_per_pass.max(1);
+    let mut out = fs::File::create(output)?;
+    let mut page = 1usize;
+    while page <= total_pages {
+        let end = (page + pages_per_pass - 1).min(total_pages);
+        let output = Command::new(&cfg.pdftotext_bin)
+            .arg("-f")
+            .arg(page.to_string())
+            .arg("-l")
+            .arg(end.to_string())
+            .arg(input)
+            .arg("-")
+            .output()
+            .with_context(|| format!("pdftotext failed for {}", input.display()))?;
+        out.write_all(&output.stdout)?;
+        out.write_all(b"\n")?;
+        page = end + 1;
+    }
+    Ok(())
+}
+
+fn pdf_page_count(input: &Path, cfg: &ExtractPdfConfig) -> anyhow::Result<usize> {
+    let output = Command::new(&cfg.pdfinfo_bin)
+        .arg(input)
+        .output()
+        .with_context(|| format!("pdfinfo failed for {}", input.display()))?;
+    let stdout = String::from_utf8_lossy(&output.stdout);
+    for line in stdout.lines() {
+        if let Some(rest) = line.strip_prefix("Pages:") {
+            let pages = rest.trim().parse::<usize>().unwrap_or(0);
+            return Ok(pages);
+        }
+    }
+    Ok(0)
 }
 
 fn pdf_is_text_based(input: &Path, cfg: &ExtractPdfConfig) -> anyhow::Result<bool> {

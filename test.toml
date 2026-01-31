@@ -24,11 +24,14 @@ toc_depth = 3
 chapter_split = true
 max_chapter_bytes = 2000000
 max_file_bytes = 20000000
+join_parts = true
+keep_parts = false
 
 [extract.pdf]
 backend = "docling"
 pdffonts_bin = "pdffonts"
 pdftotext_bin = "pdftotext"
+pdfinfo_bin = "pdfinfo"
 docling_bin = "/home/admin/Code/AI/docling/.venv/bin/python"
 docling_script = "/home/admin/Code/AI/docling/docling/cli/main.py"
 text_first = true
@@ -43,6 +46,10 @@ docling_pdf_backend = "dlparse_v4"
 docling_threads = 16
 docling_tables = true
 docling_table_mode = "accurate"
+page_batch_size = 1
+document_timeout_seconds = 600
+max_pages_per_pass = 50
+split_text_extraction = true
 max_file_bytes = 20000000
 skip_oversize = false
 

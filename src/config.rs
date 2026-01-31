@@ -42,6 +42,8 @@ pub struct ExtractEpubConfig {
     pub chapter_split: bool,
     pub max_chapter_bytes: u64,
     pub max_file_bytes: u64,
+    pub join_parts: bool,
+    pub keep_parts: bool,
 }
 
 #[derive(Debug, Clone, Deserialize)]
@@ -49,6 +51,7 @@ pub struct ExtractPdfConfig {
     pub backend: String,
     pub pdffonts_bin: String,
     pub pdftotext_bin: String,
+    pub pdfinfo_bin: String,
     pub docling_bin: String,
     pub docling_script: String,
     pub text_first: bool,
@@ -63,6 +66,10 @@ pub struct ExtractPdfConfig {
     pub docling_threads: usize,
     pub docling_tables: bool,
     pub docling_table_mode: String,
+    pub page_batch_size: usize,
+    pub document_timeout_seconds: u64,
+    pub max_pages_per_pass: usize,
+    pub split_text_extraction: bool,
     pub max_file_bytes: u64,
     pub skip_oversize: bool,
 }
