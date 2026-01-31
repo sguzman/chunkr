@@ -170,61 +170,31 @@ fn extract_pdf(
         .ok_or_else(|| anyhow!("missing output parent"))?;
     fs::create_dir_all(&output_dir)?;
 
-    let mut force_ocr = false;
-    if cfg.text_first {
-        force_ocr = !pdf_is_text_based(input, cfg)?;
-    }
+    let quality = if cfg.text_first {
+        classify_pdf_quality(input, cfg)?
+    } else {
+        PdfQuality::Scan
+    };
 
-    if !force_ocr && cfg.split_text_extraction {
-        info!(path = %input.display(), "extract pdf (paged text)");
-        extract_pdf_text_paged(input, output, cfg)?;
-        return Ok(vec![output.to_path_buf()]);
-    }
-
-    info!(path = %input.display(), force_ocr, "extract pdf");
-
-    let mut cmd = Command::new(&cfg.docling_bin);
-    cmd.arg(&cfg.docling_script)
-        .arg("--from")
-        .arg("pdf")
-        .arg("--to")
-        .arg("text")
-        .arg("--device")
-        .arg(&cfg.docling_device)
-        .arg("--pipeline")
-        .arg(&cfg.docling_pipeline)
-        .arg("--pdf-backend")
-        .arg(&cfg.docling_pdf_backend)
-        .arg("--num-threads")
-        .arg(cfg.docling_threads.to_string());
-    if cfg.page_batch_size > 0 {
-        cmd.arg("--page-batch-size")
-            .arg(cfg.page_batch_size.to_string());
-    }
-    if cfg.document_timeout_seconds > 0 {
-        cmd.arg("--document-timeout")
-            .arg(cfg.document_timeout_seconds.to_string());
-    }
-
-    if cfg.docling_tables {
-        cmd.arg("--tables")
-            .arg("--table-mode")
-            .arg(&cfg.docling_table_mode);
-    }
-    if force_ocr && cfg.ocr_fallback {
-        cmd.arg("--force-ocr")
-            .arg("--ocr-lang")
-            .arg(&cfg.ocr_lang)
-            .arg("--ocr-engine")
-            .arg(&cfg.ocr_engine);
-    }
-    cmd.arg("--output").arg(&output_dir).arg("--").arg(input);
-
-    let status = cmd
-        .status()
-        .with_context(|| format!("docling failed for {}", input.display()))?;
-    if !status.success() {
-        return Err(anyhow!("docling exit status: {}", status));
+    match quality {
+        PdfQuality::Text => {
+            if cfg.split_text_extraction {
+                info!(path = %input.display(), "extract pdf (paged text)");
+                extract_pdf_text_paged(input, output, cfg)?;
+            } else {
+                info!(path = %input.display(), "extract pdf (text)");
+                extract_pdf_text_single(input, output, cfg)?;
+            }
+            return Ok(vec![output.to_path_buf()]);
+        }
+        PdfQuality::LowQuality => {
+            info!(path = %input.display(), "extract pdf (low quality)");
+            run_docling(input, &output_dir, cfg, DoclingMode::LowQuality)?;
+        }
+        PdfQuality::Scan => {
+            info!(path = %input.display(), "extract pdf (scan)");
+            run_docling(input, &output_dir, cfg, DoclingMode::Scan)?;
+        }
     }
 
     let default_out = output_dir.join(
@@ -289,6 +259,20 @@ fn extract_pdf_text_paged(
     Ok(())
 }
 
+fn extract_pdf_text_single(
+    input: &Path,
+    output: &Path,
+    cfg: &ExtractPdfConfig,
+) -> anyhow::Result<()> {
+    let output_text = Command::new(&cfg.pdftotext_bin)
+        .arg(input)
+        .arg("-")
+        .output()
+        .with_context(|| format!("pdftotext failed for {}", input.display()))?;
+    fs::write(output, output_text.stdout)?;
+    Ok(())
+}
+
 fn pdf_page_count(input: &Path, cfg: &ExtractPdfConfig) -> anyhow::Result<usize> {
     let output = Command::new(&cfg.pdfinfo_bin)
         .arg(input)
@@ -304,7 +288,20 @@ fn pdf_page_count(input: &Path, cfg: &ExtractPdfConfig) -> anyhow::Result<usize>
     Ok(0)
 }
 
-fn pdf_is_text_based(input: &Path, cfg: &ExtractPdfConfig) -> anyhow::Result<bool> {
+#[derive(Debug, Clone, Copy)]
+enum PdfQuality {
+    Text,
+    LowQuality,
+    Scan,
+}
+
+#[derive(Debug, Clone, Copy)]
+enum DoclingMode {
+    LowQuality,
+    Scan,
+}
+
+fn classify_pdf_quality(input: &Path, cfg: &ExtractPdfConfig) -> anyhow::Result<PdfQuality> {
     let output = Command::new(&cfg.pdffonts_bin)
         .arg(input)
         .output()
@@ -314,9 +311,12 @@ fn pdf_is_text_based(input: &Path, cfg: &ExtractPdfConfig) -> anyhow::Result<boo
         .lines()
         .any(|line| line.contains("TrueType") || line.contains("Type") || line.contains("CID"));
     if !has_fonts {
-        return Ok(false);
+        return Ok(PdfQuality::Scan);
     }
 
+    let mut total_chars = 0usize;
+    let mut alpha_chars = 0usize;
+    let mut pages_sampled = 0usize;
     for page in 1..=cfg.text_sample_pages {
         let output = Command::new(&cfg.pdftotext_bin)
             .arg("-f")
@@ -328,11 +328,113 @@ fn pdf_is_text_based(input: &Path, cfg: &ExtractPdfConfig) -> anyhow::Result<boo
             .output()
             .with_context(|| format!("pdftotext failed for {}", input.display()))?;
         let text = String::from_utf8_lossy(&output.stdout);
-        if text.trim().chars().count() >= cfg.text_min_chars {
-            return Ok(true);
+        let trimmed = text.trim();
+        if trimmed.is_empty() {
+            continue;
+        }
+        pages_sampled += 1;
+        for ch in trimmed.chars() {
+            if ch.is_ascii_alphabetic() {
+                alpha_chars += 1;
+            }
+            if !ch.is_control() {
+                total_chars += 1;
+            }
         }
     }
-    Ok(false)
+    if pages_sampled == 0 {
+        return Ok(PdfQuality::Scan);
+    }
+    let avg_chars = total_chars / pages_sampled;
+    let alpha_ratio = if total_chars == 0 {
+        0.0
+    } else {
+        alpha_chars as f32 / total_chars as f32
+    };
+    if avg_chars >= cfg.text_good_min_chars && alpha_ratio >= cfg.text_alpha_ratio_min {
+        return Ok(PdfQuality::Text);
+    }
+    if avg_chars >= cfg.text_low_min_chars {
+        return Ok(PdfQuality::LowQuality);
+    }
+    Ok(PdfQuality::Scan)
+}
+
+fn run_docling(
+    input: &Path,
+    output_dir: &Path,
+    cfg: &ExtractPdfConfig,
+    mode: DoclingMode,
+) -> anyhow::Result<()> {
+    let mut cmd = Command::new(&cfg.docling_bin);
+    cmd.arg(&cfg.docling_script)
+        .arg("--from")
+        .arg("pdf")
+        .arg("--to")
+        .arg("text")
+        .arg("--device")
+        .arg(&cfg.docling_device)
+        .arg("--pipeline")
+        .arg(&cfg.docling_pipeline)
+        .arg("--pdf-backend")
+        .arg(&cfg.docling_pdf_backend)
+        .arg("--num-threads")
+        .arg(cfg.docling_threads.to_string());
+    if cfg.page_batch_size > 0 {
+        cmd.arg("--page-batch-size")
+            .arg(cfg.page_batch_size.to_string());
+    }
+    if cfg.document_timeout_seconds > 0 {
+        cmd.arg("--document-timeout")
+            .arg(cfg.document_timeout_seconds.to_string());
+    }
+    match mode {
+        DoclingMode::LowQuality => {
+            if cfg.low_quality_use_ocr {
+                cmd.arg("--ocr");
+                if cfg.low_quality_force_ocr {
+                    cmd.arg("--force-ocr");
+                }
+            } else {
+                cmd.arg("--no-ocr");
+            }
+            if cfg.low_quality_tables {
+                cmd.arg("--tables")
+                    .arg("--table-mode")
+                    .arg(&cfg.low_quality_table_mode);
+            } else {
+                cmd.arg("--no-tables");
+            }
+        }
+        DoclingMode::Scan => {
+            cmd.arg("--ocr");
+            if cfg.scan_force_ocr {
+                cmd.arg("--force-ocr");
+            }
+            if cfg.scan_tables {
+                cmd.arg("--tables")
+                    .arg("--table-mode")
+                    .arg(&cfg.scan_table_mode);
+            } else {
+                cmd.arg("--no-tables");
+            }
+        }
+    }
+    if cfg.ocr_fallback {
+        cmd.arg("--ocr-lang")
+            .arg(&cfg.ocr_lang)
+            .arg("--ocr-engine")
+            .arg(&cfg.ocr_engine);
+    }
+    cmd.arg("--output").arg(output_dir).arg("--").arg(input);
+
+    let status = cmd
+        .status()
+        .with_context(|| format!("docling failed for {}", input.display()))?;
+    if !status.success() {
+        return Err(anyhow!("docling exit status: {}", status));
+    }
+    Ok(())
 }
 
 fn split_markdown_file(path: &Path, max_chapter_bytes: u64) -> anyhow::Result<Vec<PathBuf>> {
