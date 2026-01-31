@@ -6,6 +6,7 @@ calibre_root = "/drive/calibre/en_nonfiction"
 extract_root = "/drive/books/plaintext/books"
 chunk_root = "/drive/books/plaintext/chunked"
 state_dir = "/drive/books/.chunkr-state"
+examples_cfr_dir = "examples/cfr"
 
 [extract]
 extensions = ["epub", "pdf"]

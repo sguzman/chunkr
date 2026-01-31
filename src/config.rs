@@ -21,6 +21,7 @@ pub struct PathsConfig {
     pub extract_root: PathBuf,
     pub chunk_root: PathBuf,
     pub state_dir: PathBuf,
+    pub examples_cfr_dir: Option<PathBuf>,
 }
 
 #[derive(Debug, Clone, Deserialize)]

@@ -27,13 +27,22 @@ async fn chunk_and_insert_pipeline() -> Result<()> {
     fs::create_dir_all(&chunk_root)?;
     fs::create_dir_all(&state_dir)?;
 
-    let sample_files = list_example_files("examples")?;
+    let example_root = config
+        .paths
+        .examples_cfr_dir
+        .clone()
+        .unwrap_or_else(|| PathBuf::from("examples/cfr"));
+    let sample_files = list_example_files(&example_root)?;
     if sample_files.is_empty() {
-        return Err(anyhow!("no example .txt files found"));
+        return Err(anyhow!(
+            "no example .txt files found under {}",
+            example_root.display()
+        ));
     }
     info!(
-        "[test] using {} example files -> {}",
+        "[test] using {} example files from {} -> {}",
         sample_files.len(),
+        example_root.display(),
         extract_root.display()
     );
     for src in sample_files {
@@ -368,7 +377,7 @@ fn copy_truncated(src: &Path, dst: &Path, max_bytes: usize) -> Result<()> {
     Ok(())
 }
 
-fn list_example_files(root: &str) -> Result<Vec<PathBuf>> {
+fn list_example_files(root: &Path) -> Result<Vec<PathBuf>> {
     let mut files = Vec::new();
     for entry in walkdir::WalkDir::new(root)
         .into_iter()
