@@ -47,6 +47,16 @@ Key behaviors:
 - Connection details and collection/index policies are configured in TOML.
 - Defaults are aligned with `tmp/docker-compose-quickwit.yaml` and `tmp/docker-compose-ollama.yaml`.
 
+### `dups`
+
+Runs a duplicate detection scan against a Calibre library.
+
+Key behaviors:
+- Hashes files inside the Calibre root (configurable via `paths.calibre_root` or CLI overrides).
+- Supports filtering by extension, minimum size, and optional Calibre sidecars.
+- Writes a JSON or plain-text report, either to stdout or a file path.
+- Threading and file selection policies are configured through `[dups]`.
+
 ## Configuration
 
 All properties, policies, and paths are set in a single TOML config file. Example:
@@ -164,6 +174,14 @@ max_input_chars = 512
 global_max_concurrency = 16
 request_batch_size = 8
 cache_max_entries = 50000
+
+[dups]
+output = "json"
+threads = 8
+min_size = 1024
+include_sidecars = false
+follow_symlinks = false
+ext = ["epub", "mobi", "azw3", "pdf", "djvu"]
 ```
 
 Notes:
@@ -182,6 +200,9 @@ chunkr chunk --config /path/to/config.toml
 
 # Insert into Qdrant + Quickwit
 chunkr insert --config /path/to/config.toml
+
+# Scan for duplicates (writes JSON report)
+chunkr dups --config /path/to/config.toml
 ```
 
 ## Dependencies and external tools
