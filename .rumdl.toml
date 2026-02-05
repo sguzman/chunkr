@@ -1,0 +1,458 @@
+# rumdl configuration file
+
+# Global configuration options
+[global]
+# List of rules to disable (uncomment and modify as needed)
+# disable = ["MD013", "MD033"]
+disable = [
+  "MD052",
+  "MD053",
+  "MD057",
+  "MD059",
+  "MD061",
+]
+
+# List of rules to enable exclusively (if provided, only these rules will run)
+enable = [
+  "MD001",
+  "MD003",
+  "MD004",
+  "MD005",
+  "MD007",
+  "MD009",
+  "MD010",
+  "MD011",
+  "MD012",
+  "MD013",
+  "MD014",
+  "MD018",
+  "MD019",
+  "MD020",
+  "MD021",
+  "MD022",
+  "MD023",
+  "MD024",
+  "MD025",
+  "MD026",
+  "MD027",
+  "MD028",
+  "MD029",
+  "MD030",
+  "MD031",
+  "MD032",
+  "MD033",
+  "MD034",
+  "MD035",
+  "MD036",
+  "MD037",
+  "MD038",
+  "MD039",
+  "MD040",
+  "MD041",
+  "MD042",
+  "MD043",
+  "MD044",
+  "MD045",
+  "MD046",
+  "MD047",
+  "MD048",
+  "MD049",
+  "MD050",
+  "MD051",
+  "MD054",
+  "MD055",
+  "MD056",
+  "MD058",
+  "MD060",
+  "MD062",
+  "MD063",
+  "MD064",
+  "MD065",
+  "MD066",
+  "MD067",
+  "MD068",
+  "MD069",
+  "MD070",
+  "MD071",
+  "MD072",
+]
+
+# List of file/directory patterns to include for linting (if provided, only these will be linted)
+# include = [
+#    "docs/*.md",
+#    "src/**/*.md",
+#    "README.md"
+# ]
+
+# List of file/directory patterns to exclude from linting
+exclude = [
+  # Common directories to exclude
+  ".git",
+  ".github",
+  "build",
+  "dist",
+  "docs/migration/**",
+  "node_modules",
+  "target",
+  "vendor",
+
+  # Specific files or patterns
+  "CHANGELOG.md",
+  "LICENSE.md",
+]
+
+# Respect .gitignore files when scanning directories (default: true)
+respect_gitignore = true
+
+# Set global line length (used by MD013 and other line-length rules)
+line_length = 80
+
+# Markdown flavor/dialect (uncomment to enable)
+# Options: standard (default), gfm, commonmark, mkdocs, mdx, quarto
+flavor = "gfm"
+
+# Rule-specific configurations (uncomment and modify as needed)
+
+# [MD001]
+# MD001 - Heading levels should only increment by one
+
+# MD003 - Heading style should be consistent
+# style = "consistent"  # Options: "consistent", "atx", "atx_closed", "setext", "setext_with_atx", "setext_with_atx_closed"
+[MD003]
+style = "atx"
+
+# MD004 - Unordered list style should be consistent¶
+# style = "asterisk"  # Unordered list style (asterisk, plus, dash, consistent)
+[MD004]
+style = "dash"
+
+# [MD005]
+# MD005 - List indentation should be consistent
+
+# [MD007]
+# MD007 - Keep list indentation consistent
+[MD007]
+indent         = 2       # Number of spaces per indentation level (default: 2)
+start-indent   = 2       # Number of spaces for first level when start_indented is true (default: 2)
+start-indented = false   # Allow first level lists to start indented (default: false)
+style          = "fixed" # Indentation style: "text-aligned" (default) or "fixed" (default: "text-aligned")
+
+# [MD009]
+# MD009 - Remove trailing spaces
+# trailing_spaces = 2  # Number of allowed trailing spaces (default: 0)
+[MD009]
+br-spaces             = 2    # Number of spaces for hard line breaks (default: 2)
+list-item-empty-lines = true # Allow trailing spaces in empty list item lines (default: false)
+strict                = true # Remove all trailing spaces, even line breaks (default: false)
+
+# [MD010]
+# MD010 - Use spaces instead of tabs
+[MD010]
+spaces-per-tab = 2 # Number of spaces to replace each tab with (default: 4)
+
+# [MD011]
+# MD011 - Fix reversed link syntax
+
+# [MD012]
+# MD012 - Remove multiple blank lines
+[MD012]
+maximum = 1 # Maximum number of consecutive blank lines allowed (default: 1)
+
+# [MD013]
+# MD013 - Keep lines short for better readability
+[MD013]
+code-blocks = true        # Don't check code blocks (default: true)
+headings    = true        # Check headings (default: true)
+length-mode = "visual"    # How to count line length: "visual", "chars", or "bytes" (default: "visual")
+line-length = 80          # Maximum characters per line (default: 80)
+paragraphs  = true        # Check paragraph/regular text (default: true)
+reflow      = true        # Enable automatic text reflow/wrapping (default: false)
+reflow-mode = "normalize" # Reflow mode: "default", "normalize", or "sentence-per-line" (default: "default")
+strict      = false       # Disables exceptions for URLs, etc. (default: false)
+tables      = false       # Don't check tables (default: false)
+
+# [MD014]
+# MD014 - Show command output in documentation
+[MD014]
+show-output = false # Whether commands should show output (default: true)
+
+# [MD018]
+# MD018 - No missing space after hash in headings
+
+# [MD019]
+# MD019 - No multiple spaces after hash in heading
+
+# [MD020]
+# MD020 - No missing space in closed heading
+
+# [MD021]
+# MD021 - No multiple spaces in closed heading
+
+# [MD022]
+# MD022 - Add blank lines around headings
+[MD022]
+allowed-at-start = true # Allow headings at document start without blank line above (default: true)
+lines-above      = 1
+lines-below      = 0
+
+# [MD023]
+# MD023 - Start headings at the beginning of lines
+
+# [MD024]
+# MD024 - Avoid duplicate heading text
+[MD024]
+allow-different-nesting = false # Allow duplicates at different levels (default: false)
+siblings-only           = true  # Only check siblings at same level (default: true)
+
+# [MD025]
+# MD025 - Keep your document organized with one main title
+[MD025]
+allow-document-sections = false   # Allow multiple H1s separated by --- thematic breaks (default: false)
+allow-with-separators   = false   # Allow multiple H1s as document section titles (default: false)
+front-matter-title      = "title" # Regex pattern to match title in YAML front matter (default: "title")
+level                   = 1       # The heading level that should be unique (default: 1)
+
+# [MD026]
+# MD026 - Keep headings clean and professional
+[MD026]
+punctuation = ".,;:!" # Characters to remove from heading endings (default: ".,;:!")
+
+# [MD027]
+# MD027 - No multiple spaces after quote marker
+
+# [MD028]
+# MD028 - No blank lines inside blockquote
+
+# [MD029]
+# MD029 - Use consistent numbers for ordered lists
+[MD029]
+# Style options:
+# - "one" or "one-one": All items numbered "1." (easiest maintenance)
+# - "ordered": Sequential numbering (1, 2, 3...)
+# - "ordered0": Zero-based sequential (0, 1, 2...)
+# - "one-or-ordered": Auto-detect per list (either all-ones OR sequential)
+# - "consistent": Document-wide consistency - uses most common style across all lists
+style = "ordered" # Default - matches markdownlint behavior
+
+# [MD030]
+# MD030 - Add consistent spacing after list markers
+[MD030]
+ol-multi  = 1 # Spaces after number for multi-line items (default: 1)
+ol-single = 1 # Spaces after number for single-line items (default: 1)
+ul-multi  = 1 # Spaces after bullet for multi-line items (default: 1)
+ul-single = 1 # Spaces after bullet for single-line items (default: 1)
+
+# [MD031]
+# MD031 - Code blocks need blank lines around them
+[MD031]
+list-items = true # Also require blank lines in lists (default: true)
+
+# [MD032]
+# MD032 - Separate lists with blank lines
+# allow-lazy-continuation 	boolean 	true 	Whether to allow lazy continuation (unindented text after list items)
+[MD032]
+allow-lazy-continuation = false # Don't allow lazy continuation (default: true)
+
+# [MD033]
+# MD033 - No HTML tags
+#allowed-elements = []     # List of allowed HTML tags (default: none)
+#disallowed-elements = []  # List of disallowed HTML tags (enables disallowed-only mode)
+[MD033]
+allowed-elements = [
+  "a",
+  "br",
+  "details",
+  "div",
+  "hr",
+  "img",
+  "span",
+  "summary",
+] # Allow common formatting tags
+
+# [MD034]
+# MD034 - URLs should be formatted as links
+
+# [MD035]
+# MD035 - Keep line breaks consistent
+[MD035]
+style = "---" # Choose your preferred style
+
+# [MD036]
+# MD036 - Use real headings, not just bold text
+[MD036]
+punctuation = ".,;:!?" # Configure punctuation checking
+
+# [MD037]
+# MD037 - Remove extra spaces in emphasis
+
+# [MD038]
+# MD038 - Remove extra spaces in code
+
+# [MD039]
+# MD039 - Remove extra spaces in links
+
+# [MD040]
+# MD040 - Code blocks should have a language specified
+
+# [MD041]
+# MD041 - Start Your Document with a Clear Title
+
+# [MD042]
+# MD042 - Avoid Empty Links
+
+# [MD043]
+# MD043 - Enforce Required Document Structure
+[MD043]
+headings = [
+] # Required heading patterns (empty disables the rule)
+match-case = true # Case-sensitive matching (default: false)
+
+# [MD044]
+# MD044 - Use Proper Capitalization for Names
+# names = ["rumdl", "Markdown", "GitHub"]  # Proper names that should be capitalized correctly
+# code-blocks = false  # Check code blocks for proper names (default: false, skips code blocks)
+[MD044]
+code-blocks = false # Check inside code blocks (default: false, skips code blocks)
+html-comments = true # Check inside HTML comments (default: true)
+html-elements = false # Check inside HTML elements (default: true)
+names = [
+  "CSS",
+  "GitHub",
+  "HTML",
+  "JavaScript",
+  "Markdown",
+  "Node.js",
+  "Python",
+  "TypeScript",
+] # List of properly capitalized names
+
+# [MD045]
+# MD045 - Add Descriptive Text to Images
+[MD045]
+placeholder-text = "FIXME: Add alt text"
+
+# [MD046]
+# MD046 - Use Consistent Code Block Style
+[MD046]
+style = "fenced" # Options: "consistent", "fenced", "indented"
+
+# [MD047]
+# MD047 - End Files with a Single Newline
+
+# [MD048]
+# MD048 - Code fence style should be consistent
+[MD048]
+style = "backtick" # Options: "consistent", "backtick", "tilde"
+
+# [MD049]
+# MD049 - Keep italic text formatting consistent
+[MD049]
+style = "underscore" # Options: "consistent", "asterisk", "underscore"
+
+# [MD050]
+# MD050 - Keep bold text formatting consistent
+[MD050]
+style = "asterisk" # Options: "consistent", "asterisk", "underscore"
+
+# [MD051]
+# MD051 - Link anchors should exist
+[MD051]
+# Anchor generation style (default: "github")
+# - "github": Preserves Unicode, underscores, and consecutive hyphens
+# - "kramdown": ASCII-only with normalization, removes underscores
+# - "bitbucket": Adds 'markdown-header-' prefix
+anchor-style = "github"
+
+# [MD052]
+# MD052 - Fix broken reference links and images
+
+# [MD053]
+# MD053 - Remove unused link definitions
+
+# [MD054]
+# MD054 - Use consistent link and image style
+[MD054]
+autolink   = true # Allow <https://example.com>
+collapsed  = true # Allow [text][] with separate [text]: url definition
+full       = true # Allow [text][ref] with separate [ref]: url definition
+inline     = true # Allow [text](url) and ![alt](url)
+shortcut   = true # Allow [text] with separate [text]: url definition
+url-inline = true # Allow [https://example.com](https://example.com)
+
+# [MD055]
+# MD055 - Keep table formatting consistent
+# Style options:
+#    consistent (default): Use the most prevalent style in the table (in case of a tie, leading-and-trailing is preferred as it's most widely used)
+#    leading-and-trailing: Require pipes at start and end: | cell |
+#    leading-only: Require pipes only at start: | cell
+#    trailing-only: Require pipes only at end: cell |
+#    no-leading-or-trailing: No pipes at start or end: cell
+[MD055]
+style = "leading-and-trailing" # Options: see below
+
+# [MD056]
+# MD056 - Keep table column count consistent
+
+# [MD057]
+# MD057 - Check that file links work
+
+# [MD058]
+# MD058 - Add blank lines around tables
+[MD058]
+minimum-after  = 1 # Blank lines after table
+minimum-before = 1 # Blank lines before table
+
+# [MD059]
+# MD059 - Link Text Should Be Descriptive
+
+# [MD060]
+# MD060 - Table Format
+[MD060]
+column-align = "left"    # Options: "auto", "left", "center", "right"
+enabled      = true      # Default: opt-in for conservative adoption
+max-width    = 0         # Default: inherit from MD013's line-length
+style        = "aligned" # Options: "aligned", "aligned-no-space", "compact", "tight", "any"
+
+# [MD061]
+# MD061 - Forbidden terms
+
+# [MD062]
+# MD062 - No whitespace in link destinations
+
+# [MD063]
+# MD063 - Heading Capitalization
+[MD063]
+enabled = true
+style   = "title_case" # Options: "sentence_case", "title_case", "all_upper", "all_lower"
+
+# [MD064]
+# MD064 - No Multiple Consecutive Spaces
+[MD064]
+allow-sentence-double-space = false # Allow double spaces after periods for sentence breaks (default: true)
+
+# [MD065]
+# MD065 - Blank lines around horizontal rules
+[MD065]
+# minimum-before = 1  # Minimum blank lines before horizontal rule (default: 1)
+# minimum-after = 1   # Minimum blank lines after horizontal rule (default: 1)
+
+# [MD066]
+# MD066 - Footnote validation
+
+# [MD067]
+# MD067 - Footnote definition order
+
+# [MD068]
+# MD068 - Empty footnote definitions
+
+# [MD069]
+# MD069 - No duplicate list markers
+
+# [MD070]
+# MD070 - Nested Code Fence Collision
+
+# [MD071]
+# MD071 - Blank line after frontmatter
+
+# [MD072]
+# MD072 - Frontmatter key sort

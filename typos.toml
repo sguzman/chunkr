@@ -1,0 +1,28 @@
+# typos configuration
+
+[default]
+# Use built-in dictionaries and check common text files.
+
+[files]
+# Ignore noisy feed IDs in YouTube feed definitions.
+extend-exclude = [
+  "**/*.lock",
+  "**/*.map",
+  "**/*.min.js",
+  ".git/**",
+  "CHANGELOG.md",
+  "dist/**",
+  "docs/THIRD_PARTY_LICENSES.md",
+  "docs/migration/*-DeepWiki.md",
+  "node_modules/**",
+  "target/**",
+  "tests/fixtures/**",
+  "vendor/**",
+]
+
+[default.extend-words]
+# domain-specific tokens, names, abbreviations, etc.
+"quickwit" = "quickwit"
+"ratatui"  = "ratatui"
+"serde"    = "serde"
+"wikidata" = "wikidata"

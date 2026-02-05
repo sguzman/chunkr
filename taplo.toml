@@ -1,0 +1,81 @@
+exclude = [
+  "cliff.toml",
+  "release.toml",
+  "target/**",
+  "tmp/**",
+]
+
+[formatting]
+array_auto_collapse  = false
+array_auto_expand    = true
+array_trailing_comma = true
+
+align_comments = true
+align_entries  = true
+
+compact_arrays        = false
+compact_entries       = false
+compact_inline_tables = false
+
+inline_table_expand = true
+
+column_width = 40
+
+indent_entries = false
+indent_tables  = false
+
+trailing_newline = true
+
+reorder_arrays        = true
+reorder_inline_tables = true
+reorder_keys          = true
+
+allowed_blank_lines = 1
+
+crlf = false
+
+[[rule]]
+include = [
+  "crates/fetcher/res/config.toml",
+  "crates/fetcher/res/docker.toml",
+]
+schema = { path = "crates/fetcher/res/schemas/config.schema.json" }
+
+[[rule]]
+include = [
+  "crates/fetcher/res/domains.toml",
+]
+schema = { path = "crates/fetcher/res/schemas/domains.schema.json" }
+
+[[rule]]
+include = [
+  "crates/fetcher/res/categories.toml",
+]
+schema = { path = "crates/fetcher/res/schemas/categories.schema.json" }
+
+[[rule]]
+include = [
+  "crates/fetcher/res/feeds/**/global.toml",
+]
+schema = { path = "crates/fetcher/res/schemas/global.schema.json" }
+
+[[rule]]
+exclude = [
+  "crates/fetcher/res/feeds/**/global.toml",
+  "crates/fetcher/res/feeds/youtube.com/**/*.toml",
+]
+include = [
+  "crates/fetcher/res/feeds/**/*.toml",
+]
+schema = { path = "crates/fetcher/res/schemas/feeds.schema.json" }
+
+[[rule]]
+include = [
+  "crates/server/res/config.toml",
+]
+schema = { path = "crates/server/res/schemas/server.schema.json" }
+[[rule]]
+include = [
+  "crates/tui/res/config.toml",
+]
+schema = { path = "crates/tui/res/schemas/tui.schema.json" }

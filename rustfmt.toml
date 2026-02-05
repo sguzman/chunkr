@@ -1,0 +1,98 @@
+blank_lines_lower_bound = 0
+blank_lines_upper_bound = 1
+edition                 = "2024"
+max_width               = 40
+
+brace_style = "SameLineWhere"
+
+chain_width          = 40
+color                = "Always"
+combine_control_expr = false
+
+comment_width              = 80
+condense_wildcard_suffixes = false
+control_brace_style        = "AlwaysSameLine"
+
+empty_item_single_line       = true
+enum_discrim_align_threshold = 20
+
+error_on_line_overflow = false
+error_on_unformatted   = false
+
+fn_call_width    = 40
+fn_params_layout = "Vertical"
+fn_single_line   = false
+
+force_explicit_abi     = true
+force_multiline_blocks = true
+
+doc_comment_code_block_width = 80
+format_code_in_doc_comments  = true
+
+format_generated_files             = false
+format_macro_matchers              = true
+generated_marker_line_search_limit = 5
+
+skip_macro_invocations = [
+]
+
+format_strings   = true
+hard_tabs        = false
+hex_literal_case = "Lower"
+
+show_parse_errors = true
+
+ignore = [  ]
+
+imports_indent = "Block"
+imports_layout = "Vertical"
+indent_style   = "Block"
+
+inline_attribute_width     = 0
+match_arm_blocks           = true
+match_arm_leading_pipes    = "Always"
+match_block_trailing_comma = false
+
+imports_granularity = "Module"
+merge_derives       = true
+
+newline_style = "Unix"
+
+normalize_comments       = true
+normalize_doc_attributes = true
+
+group_imports           = "StdExternalCrate"
+overflow_delimited_expr = true
+remove_nested_parens    = true
+reorder_impl_items      = true
+reorder_imports         = true
+reorder_modules         = true
+
+short_array_element_width_threshold = 10
+single_line_if_else_max_width       = 0
+single_line_let_else_max_width      = 0
+
+skip_children        = false
+space_after_colon    = true
+space_before_colon   = false
+spaces_around_ranges = false
+
+struct_field_align_threshold = 20
+struct_lit_single_line       = false
+struct_lit_width             = 18
+struct_variant_width         = 35
+
+style_edition      = "2024"
+tab_spaces         = 2
+trailing_comma     = "Never"
+trailing_semicolon = false
+
+type_punctuation_density = "Wide"
+use_field_init_shorthand = false
+use_small_heuristics     = "Off"
+use_try_shorthand        = true
+
+unstable_features = true
+
+where_single_line = false
+wrap_comments     = true
