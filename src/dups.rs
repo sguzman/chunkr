@@ -282,12 +282,11 @@ fn want_entry(
 
   let path = entry.path();
 
-  if min_size > 0 {
-    if let Ok(md) = path.metadata() {
-      if md.len() < min_size {
-        return false;
-      }
-    }
+  if min_size > 0
+    && let Ok(md) = path.metadata()
+    && md.len() < min_size
+  {
+    return false;
   }
 
   let file_name = match path

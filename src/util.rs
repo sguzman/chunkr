@@ -9,13 +9,12 @@ pub fn slugify(input: &str) -> String {
   for ch in input.chars() {
     if ch.is_ascii_alphanumeric() {
       out.push(ch.to_ascii_lowercase());
-    } else if ch.is_whitespace()
+    } else if (ch.is_whitespace()
       || ch == '-'
-      || ch == '_'
+      || ch == '_')
+      && !out.ends_with('_')
     {
-      if !out.ends_with('_') {
-        out.push('_');
-      }
+      out.push('_');
     }
   }
   out.trim_matches('_').to_string()

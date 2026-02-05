@@ -9,7 +9,7 @@ capture Rust-only performance baselines.
 - Ensure `tmp/book.txt` is present (used as the shared benchmark input).
 - For parity runs, keep the Ruby repo in `tmp/anystyle`.
 
-## Parity Benchmarks (Ruby vs Rust)
+## Parity Benchmarks (Ruby Vs Rust)
 
 Run the parity suite with:
 

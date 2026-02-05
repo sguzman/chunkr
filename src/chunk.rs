@@ -384,15 +384,13 @@ fn split_large_paragraph(
     paragraph.chars().peekable();
   while let Some(ch) = chars.next() {
     buf.push(ch);
-    if matches!(ch, '.' | '!' | '?') {
-      if let Some(next) = chars.peek() {
-        if next.is_whitespace() {
-          sentences.push(
-            buf.trim().to_string()
-          );
-          buf.clear();
-        }
-      }
+    if matches!(ch, '.' | '!' | '?')
+      && let Some(next) = chars.peek()
+      && next.is_whitespace()
+    {
+      sentences
+        .push(buf.trim().to_string());
+      buf.clear();
     }
   }
   if !buf.trim().is_empty() {

@@ -210,10 +210,10 @@ async fn run_in_process(
 ) -> Result<()> {
   match command {
     | CommandKind::Chunk => {
-      chunk::run(&config)?;
+      chunk::run(config)?;
     }
     | CommandKind::Insert => {
-      insert::run(&config).await?;
+      insert::run(config).await?;
     }
   }
   Ok(())

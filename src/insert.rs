@@ -39,6 +39,17 @@ use crate::logging::{
   color_prefix
 };
 
+#[derive(Clone)]
+struct InsertDeps {
+  client:          Client,
+  embed_cfg: InsertEmbeddingsConfig,
+  qdrant_cfg:      InsertQdrantConfig,
+  quickwit_cfg:    InsertQuickwitConfig,
+  embed_semaphore: Arc<Semaphore>,
+  cache:
+    Option<Arc<Mutex<EmbeddingCache>>>
+}
+
 #[derive(Debug, Deserialize)]
 struct ChunkRecord {
   id:       String,
@@ -153,31 +164,34 @@ pub async fn run(
       .clone()
       .acquire_owned()
       .await?;
-    let client = client.clone();
-    let embeddings =
-      config.insert.embeddings.clone();
-    let qdrant =
-      config.insert.qdrant.clone();
-    let quickwit =
-      config.insert.quickwit.clone();
+    let deps = InsertDeps {
+      client:          client.clone(),
+      embed_cfg:       config
+        .insert
+        .embeddings
+        .clone(),
+      qdrant_cfg:      config
+        .insert
+        .qdrant
+        .clone(),
+      quickwit_cfg:    config
+        .insert
+        .quickwit
+        .clone(),
+      embed_semaphore: embed_semaphore
+        .clone(),
+      cache:           cache.clone()
+    };
     let batch_size =
       config.insert.batch_size;
-    let embed_semaphore =
-      embed_semaphore.clone();
-    let cache = cache.clone();
     tasks.push(tokio::spawn(async move {
             let _permit = permit;
             let prefix = color_prefix(&path.display().to_string(), None, None);
             info!(color_prefix = %prefix, path = %path.display(), "insert file start");
             let count = ingest_file(
                 &path,
-                &client,
-                &embeddings,
-                &qdrant,
-                &quickwit,
                 batch_size,
-                &embed_semaphore,
-                cache.as_ref(),
+                &deps
             )
             .await?;
             Ok::<(usize, String), anyhow::Error>((count, path.display().to_string()))
@@ -215,15 +229,8 @@ pub async fn run(
 
 async fn ingest_file(
   path: &Path,
-  client: &Client,
-  embed_cfg: &InsertEmbeddingsConfig,
-  qdrant_cfg: &InsertQdrantConfig,
-  quickwit_cfg: &InsertQuickwitConfig,
   batch_size: usize,
-  embed_semaphore: &Arc<Semaphore>,
-  cache: Option<
-    &Arc<Mutex<EmbeddingCache>>
-  >
+  deps: &InsertDeps
 ) -> anyhow::Result<usize> {
   let raw = fs::read_to_string(path)
     .with_context(|| {
@@ -252,16 +259,11 @@ async fn ingest_file(
       );
       total += process_batch(
         &buffer,
-        client,
-        embed_cfg,
-        qdrant_cfg,
-        quickwit_cfg,
         &BatchContext::new(
           path, batch_idx, lines_seen,
           &buffer
         ),
-        embed_semaphore,
-        cache
+        deps
       )
       .await?;
       debug!(
@@ -284,16 +286,11 @@ async fn ingest_file(
     );
     total += process_batch(
       &buffer,
-      client,
-      embed_cfg,
-      qdrant_cfg,
-      quickwit_cfg,
       &BatchContext::new(
         path, batch_idx, lines_seen,
         &buffer
       ),
-      embed_semaphore,
-      cache
+      deps
     )
     .await?;
     debug!(
@@ -347,15 +344,8 @@ impl BatchContext {
 
 async fn process_batch(
   batch: &[ChunkRecord],
-  client: &Client,
-  embed_cfg: &InsertEmbeddingsConfig,
-  qdrant_cfg: &InsertQdrantConfig,
-  quickwit_cfg: &InsertQuickwitConfig,
   ctx: &BatchContext,
-  embed_semaphore: &Arc<Semaphore>,
-  cache: Option<
-    &Arc<Mutex<EmbeddingCache>>
-  >
+  deps: &InsertDeps
 ) -> anyhow::Result<usize> {
   let batch_len = batch.len();
   let batch_start =
@@ -393,41 +383,42 @@ async fn process_batch(
     Option<Vec<f32>>
   > = vec![None; batch_len];
   let mut misses = Vec::new();
-  let cache = cache.cloned();
+  let cache = deps.cache.clone();
   for (idx, record) in
     batch.iter().enumerate()
   {
     if let Some(cache) = cache.as_ref()
-    {
-      if let Some(vec) = cache
+      && let Some(vec) = cache
         .lock()
         .unwrap()
         .get(&record.text)
-      {
-        vectors[idx] = Some(vec);
-        continue;
-      }
+    {
+      vectors[idx] = Some(vec);
+      continue;
     }
     misses
       .push((idx, record.text.clone()));
   }
 
-  let request_batch_size =
-    embed_cfg.request_batch_size.max(1);
+  let request_batch_size = deps
+    .embed_cfg
+    .request_batch_size
+    .max(1);
   let mut tasks = Vec::new();
   for chunk in
     misses.chunks(request_batch_size)
   {
-    let client = client.clone();
-    let model = embed_cfg.model.clone();
+    let client = deps.client.clone();
+    let model =
+      deps.embed_cfg.model.clone();
     let base_url =
-      embed_cfg.base_url.clone();
+      deps.embed_cfg.base_url.clone();
     let embed_semaphore =
-      embed_semaphore.clone();
+      deps.embed_semaphore.clone();
     let cache = cache.clone();
     let chunk = chunk.to_vec();
     let max_input_chars =
-      embed_cfg.max_input_chars;
+      deps.embed_cfg.max_input_chars;
     tasks.push(tokio::spawn(
       async move {
         let mut results = Vec::new();
@@ -503,11 +494,14 @@ async fn process_batch(
       "embedding batch complete"
   );
   let qdrant = upsert_qdrant(
-    client, qdrant_cfg, batch, &vectors
+    &deps.client,
+    &deps.qdrant_cfg,
+    batch,
+    &vectors
   );
   let quickwit = ingest_quickwit(
-    client,
-    quickwit_cfg,
+    &deps.client,
+    &deps.quickwit_cfg,
     batch
   );
   let (qdrant_res, quickwit_res) =

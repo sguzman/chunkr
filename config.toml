@@ -2,120 +2,126 @@
 level = "info"
 
 [paths]
-calibre_root = "/drive/calibre/en_nonfiction"
-extract_root = "/drive/books/plaintext/books"
-chunk_root = "/drive/books/plaintext/chunked"
-state_dir = "/drive/books/.chunkr-state"
+calibre_root     = "/drive/calibre/en_nonfiction"
+chunk_root       = "/drive/books/plaintext/chunked"
 examples_cfr_dir = "examples/cfr"
+extract_root     = "/drive/books/plaintext/books"
+state_dir        = "/drive/books/.chunkr-state"
 
 [extract]
-extensions = ["epub", "pdf"]
-skip_existing = true
-write_metadata = true
-output_layout = "{format}/{title_slug}.txt"
+extensions      = [ "epub", "pdf" ]
 metadata_layout = "{format}/{title_slug}.json"
+output_layout   = "{format}/{title_slug}.txt"
+skip_existing   = true
+write_metadata  = true
 
 [extract.epub]
-backend = "pandoc"
-pandoc_bin = "pandoc"
-toc_depth = 3
-chapter_split = true
+backend           = "pandoc"
+chapter_split     = true
+join_parts        = true
+keep_parts        = false
 max_chapter_bytes = 2000000
-max_file_bytes = 20000000
-join_parts = true
-keep_parts = false
+max_file_bytes    = 20000000
+pandoc_bin        = "pandoc"
+toc_depth         = 3
 
 [extract.pdf]
-backend = "docling"
-pdffonts_bin = "pdffonts"
-pdftotext_bin = "pdftotext"
-pdfinfo_bin = "pdfinfo"
-docling_bin = "/home/admin/Code/AI/docling/.venv/bin/python"
-docling_script = "/home/admin/Code/AI/docling/docling/cli/main.py"
-text_first = true
-text_good_min_chars = 120
-text_low_min_chars = 40
-text_alpha_ratio_min = 0.65
-text_sample_pages = 3
-ocr_fallback = true
-ocr_lang = "eng"
-ocr_engine = "tesseract"
-docling_device = "cuda"
-docling_pipeline = "standard"
-docling_pdf_backend = "dlparse_v4"
-docling_threads = 16
-docling_tables = true
-docling_table_mode = "accurate"
-low_quality_use_ocr = false
-low_quality_force_ocr = false
-low_quality_tables = false
-low_quality_table_mode = "fast"
-scan_force_ocr = true
-scan_tables = false
-scan_table_mode = "fast"
-page_batch_size = 1
+backend                  = "docling"
+docling_bin              = "/home/admin/Code/AI/docling/.venv/bin/python"
+docling_device           = "cuda"
+docling_pdf_backend      = "dlparse_v4"
+docling_pipeline         = "standard"
+docling_script           = "/home/admin/Code/AI/docling/docling/cli/main.py"
+docling_table_mode       = "accurate"
+docling_tables           = true
+docling_threads          = 16
 document_timeout_seconds = 600
-max_pages_per_pass = 50
-split_text_extraction = true
-max_file_bytes = 20000000
-skip_oversize = false
+low_quality_force_ocr    = false
+low_quality_table_mode   = "fast"
+low_quality_tables       = false
+low_quality_use_ocr      = false
+max_file_bytes           = 20000000
+max_pages_per_pass       = 50
+ocr_engine               = "tesseract"
+ocr_fallback             = true
+ocr_lang                 = "eng"
+page_batch_size          = 1
+pdffonts_bin             = "pdffonts"
+pdfinfo_bin              = "pdfinfo"
+pdftotext_bin            = "pdftotext"
+scan_force_ocr           = true
+scan_table_mode          = "fast"
+scan_tables              = false
+skip_oversize            = false
+split_text_extraction    = true
+text_alpha_ratio_min     = 0.65
+text_first               = true
+text_good_min_chars      = 120
+text_low_min_chars       = 40
+text_sample_pages        = 3
 
 [chunk]
-normalize_unicode = true
-collapse_whitespace = true
-strip_headers = true
-min_paragraph_chars = 200
-max_paragraph_chars = 6000
-target_chunk_chars = 4000
-max_chunk_chars = 4800
 chunk_overlap_chars = 200
-emit_jsonl = true
+collapse_whitespace = true
+emit_jsonl          = true
+max_chunk_chars     = 4800
+max_paragraph_chars = 6000
+min_paragraph_chars = 200
+normalize_unicode   = true
+strip_headers       = true
+target_chunk_chars  = 4000
 
 [chunk.metadata]
+include_authors     = true
+include_calibre_id  = true
+include_language    = true
+include_published   = true
 include_source_path = true
-include_calibre_id = true
-include_title = true
-include_authors = true
-include_published = true
-include_language = true
+include_title       = true
 
 [insert]
-batch_size = 256
-retry_max = 5
-retry_backoff_ms = 500
+batch_size         = 256
 max_parallel_files = 16
+retry_backoff_ms   = 500
+retry_max          = 5
 
 [insert.qdrant]
-url = "http://127.0.0.1:6333"
-collection = "chunkr"
-distance = "Cosine"
-vector_size = 384
+api_key           = ""
+collection        = "chunkr"
 create_collection = true
-api_key = ""
-wait = false
+distance          = "Cosine"
+url               = "http://127.0.0.1:6333"
+vector_size       = 384
+wait              = false
 
 [insert.quickwit]
-url = "http://127.0.0.1:7280"
-index_id = "chunkr"
+commit_at_end          = true
+commit_mode            = "auto"
 commit_timeout_seconds = 30
-commit_mode = "auto"
-commit_at_end = true
+index_id               = "chunkr"
+url                    = "http://127.0.0.1:7280"
 
 [insert.embeddings]
-provider = "ollama"
-base_url = "http://127.0.0.1:11434"
-model = "qllama/bge-small-en-v1.5:latest"
+base_url                = "http://127.0.0.1:11434"
+cache_max_entries       = 50000
+global_max_concurrency  = 16
+max_concurrency         = 4
+max_input_chars         = 512
+model                   = "qllama/bge-small-en-v1.5:latest"
+provider                = "ollama"
+request_batch_size      = 8
 request_timeout_seconds = 120
-max_concurrency = 4
-max_input_chars = 512
-global_max_concurrency = 16
-request_batch_size = 8
-cache_max_entries = 50000
 
 [dups]
+ext = [
+  "azw3",
+  "djvu",
+  "epub",
+  "mobi",
+  "pdf",
+]
+follow_symlinks = false
+include_sidecars = false
+min_size = 1024
 output = "json"
 threads = 8
-min_size = 1024
-include_sidecars = false
-follow_symlinks = false
-ext = ["epub", "mobi", "azw3", "pdf", "djvu"]

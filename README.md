@@ -6,9 +6,12 @@ This README formalizes the intended interface and configuration for the project.
 
 ## Goals
 
-- Deterministic, idempotent extraction from Calibre (skip already-processed files).
-- Robust handling for large EPUB/PDF files (chunk during extraction to avoid memory spikes).
-- Clean, normalized text and metadata-enriched chunks for downstream search and embeddings.
+- Deterministic, idempotent extraction from Calibre (skip already-processed
+  files).
+- Robust handling for large EPUB/PDF files (chunk during extraction to avoid
+  memory spikes).
+- Clean, normalized text and metadata-enriched chunks for downstream search and
+  embeddings.
 - Straightforward insertion into Qdrant + Quickwit with sensible defaults.
 - Extensive logging for long-running pipelines.
 
@@ -19,12 +22,15 @@ This README formalizes the intended interface and configuration for the project.
 Extracts plaintext and metadata from a Calibre library into a target folder.
 
 Key behaviors:
+
 - Points at a Calibre library root (e.g. `/drive/calibre/en_nonfiction`).
 - Supports EPUB and PDF (for now).
 - Idempotent: skips items already extracted unless configured otherwise.
 - EPUB extraction should follow the approach in `tmp/epub.fish`.
-- PDF extraction should attempt text-first, and fall back to OCR via Docling (see `tmp/pdf.fish`).
-- Large files are segmented during extraction using chapter boundaries when available.
+- PDF extraction should attempt text-first, and fall back to OCR via Docling
+  (see `tmp/pdf.fish`).
+- Large files are segmented during extraction using chapter boundaries when
+  available.
 - All extraction and segmentation policy is configured in TOML.
 
 ### `chunk`
@@ -32,9 +38,11 @@ Key behaviors:
 Cleans, normalizes, and chunks a large corpus of text files into chunked JSONL (or similar) with metadata.
 
 Key behaviors:
+
 - Uses the chunking strategies and policies defined in config.
 - Mirrors the “oxbed” ingestion/chunking approach (see `tmp/oxbed`).
-- Paragraph-aware segmentation: pack small paragraphs together, split oversized paragraphs.
+- Paragraph-aware segmentation: pack small paragraphs together, split oversized
+  paragraphs.
 - Emits normalized text + metadata for downstream insertion.
 
 ### `insert`
@@ -42,17 +50,21 @@ Key behaviors:
 Inserts chunked text into Qdrant and Quickwit.
 
 Key behaviors:
+
 - Qdrant: vector store for embeddings, uses Ollama for embeddings.
 - Quickwit: text search index for fast keyword queries.
 - Connection details and collection/index policies are configured in TOML.
-- Defaults are aligned with `tmp/docker-compose-quickwit.yaml` and `tmp/docker-compose-ollama.yaml`.
+- Defaults are aligned with `tmp/docker-compose-quickwit.yaml` and
+  `tmp/docker-compose-ollama.yaml`.
 
 ### `dups`
 
 Runs a duplicate detection scan against a Calibre library.
 
 Key behaviors:
-- Hashes files inside the Calibre root (configurable via `paths.calibre_root` or CLI overrides).
+
+- Hashes files inside the Calibre root (configurable via `paths.calibre_root` or
+  CLI overrides).
 - Supports filtering by extension, minimum size, and optional Calibre sidecars.
 - Writes a JSON or plain-text report, either to stdout or a file path.
 - Threading and file selection policies are configured through `[dups]`.
@@ -185,11 +197,15 @@ ext = ["epub", "mobi", "azw3", "pdf", "djvu"]
 ```
 
 Notes:
-- The example values align with `tmp/docker-compose-quickwit.yaml` and `tmp/docker-compose-ollama.yaml`.
-- All extraction and chunking policy must be driven from this file (no hard-coded defaults).
-- Use the config file to set max sizes/limits to prevent large EPUB/PDF files from exhausting memory or GPU.
 
-## Example usage
+- The example values align with `tmp/docker-compose-quickwit.yaml` and
+  `tmp/docker-compose-ollama.yaml`.
+- All extraction and chunking policy must be driven from this file (no
+  hard-coded defaults).
+- Use the config file to set max sizes/limits to prevent large EPUB/PDF files
+  from exhausting memory or GPU.
+
+## Example Usage
 
 ```bash
 # Extract from Calibre into /drive/books/plaintext/books
@@ -205,11 +221,12 @@ chunkr insert --config /path/to/config.toml
 chunkr dups --config /path/to/config.toml
 ```
 
-## Dependencies and external tools
+## Dependencies and External Tools
 
 - EPUB extraction uses Pandoc.
 - PDF extraction uses Docling; OCR falls back to Tesseract via Docling.
-- Qdrant and Quickwit are expected to be running (Docker Compose configs in `tmp/`).
+- Qdrant and Quickwit are expected to be running (Docker Compose configs in
+  `tmp/`).
 - Ollama serves embeddings at the configured host/port.
 
 ## Logging
@@ -218,5 +235,7 @@ All commands should emit extensive structured logs (start/end, counts, skips, ti
 
 ## Testing
 
-- The pipeline test (`cargo test --test pipeline -- --ignored --nocapture`) loads `test.toml` if present, otherwise `config.toml`.
-- It overrides only the `paths.*` values to use a temp directory, and uses the collection/index from the config file. Set those to test-safe values.
+- The pipeline test (`cargo test --test pipeline -- --ignored --nocapture`)
+  loads `test.toml` if present, otherwise `config.toml`.
+- It overrides only the `paths.*` values to use a temp directory, and uses the
+  collection/index from the config file. Set those to test-safe values.

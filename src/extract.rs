@@ -737,15 +737,15 @@ fn read_metadata(
   format: &str
 ) -> ExtractedMetadata {
   let mut metadata =
-    ExtractedMetadata::default();
-  metadata.format = format.to_string();
+    ExtractedMetadata {
+      format: format.to_string(),
+      ..Default::default()
+    };
   if let Some(opf_path) = find_opf(path)
-  {
-    if let Ok(opf) =
+    && let Ok(opf) =
       fs::read_to_string(&opf_path)
-    {
-      parse_opf(&opf, &mut metadata);
-    }
+  {
+    parse_opf(&opf, &mut metadata);
   }
   metadata
 }
