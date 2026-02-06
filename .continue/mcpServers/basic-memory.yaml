@@ -1,0 +1,22 @@
+name: Basic Memory (repo-local)
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: Basic Memory (repo)
+    command: uvx
+    args:
+      - basic-memory
+      - mcp
+    cwd: .
+    env:
+      # Store the project's Markdown memory in THIS repo
+      BASIC_MEMORY_HOME: .memory
+
+      # Never prompt; always use the default project
+      BASIC_MEMORY_DEFAULT_PROJECT_MODE: "true"
+
+      # Hard-lock MCP to a single project name so tools don't ask
+      BASIC_MEMORY_MCP_PROJECT: main
+
+      # Optional: makes debugging less painful
+      BASIC_MEMORY_CONSOLE_LOGGING: "true"
