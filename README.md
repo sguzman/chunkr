@@ -69,6 +69,17 @@ Key behaviors:
 - Writes a JSON or plain-text report, either to stdout or a file path.
 - Threading and file selection policies are configured through `[dups]`.
 
+### `dup-stats`
+
+Consumes a `chunkr dups` JSON report (for example `dups.json`) and sums
+the redundant bytes so you can see how much space duplicates occupy.
+
+Key behaviors:
+
+- Keeps one canonical copy per group and treats the rest as extra bytes.
+- Prints a pretty human report by default or JSON when `--mode machine`.
+- Observes the `[dup_stats]` config section for default mode and verbosity.
+
 ## Configuration
 
 All properties, policies, and paths are set in a single TOML config file. Example:
@@ -187,6 +198,9 @@ global_max_concurrency = 16
 request_batch_size = 8
 cache_max_entries = 50000
 
+[dup_stats]
+mode = "human"
+
 [dups]
 output = "json"
 threads = 8
@@ -219,6 +233,9 @@ chunkr insert --config /path/to/config.toml
 
 # Scan for duplicates (writes JSON report)
 chunkr dups --config /path/to/config.toml
+
+# Estimate duplicate waste from a report
+chunkr dup-stats --input dups.json
 ```
 
 ## Dependencies and External Tools

@@ -17,7 +17,10 @@ use anyhow::{
 use blake3::Hasher;
 use clap::Args;
 use rayon::prelude::*;
-use serde::Serialize;
+use serde::{
+  Deserialize,
+  Serialize
+};
 use tracing::{
   debug,
   info,
@@ -89,11 +92,16 @@ struct FileInfo {
   blake3: String
 }
 
-#[derive(Debug, Serialize)]
-struct DuplicateGroup {
-  bytes:  u64,
-  blake3: String,
-  files:  Vec<PathBuf>
+#[derive(
+  Debug,
+  Clone,
+  Serialize,
+  Deserialize,
+)]
+pub struct DuplicateGroup {
+  pub bytes:  u64,
+  pub blake3: String,
+  pub files:  Vec<PathBuf>
 }
 
 pub fn run(

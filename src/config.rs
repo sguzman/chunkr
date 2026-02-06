@@ -5,13 +5,15 @@ use serde::Deserialize;
 
 #[derive(Debug, Clone, Deserialize)]
 pub struct Config {
-  pub logging: LoggingConfig,
-  pub paths:   PathsConfig,
-  pub extract: ExtractConfig,
-  pub chunk:   ChunkConfig,
-  pub insert:  InsertConfig,
+  pub logging:   LoggingConfig,
+  pub paths:     PathsConfig,
+  pub extract:   ExtractConfig,
+  pub chunk:     ChunkConfig,
+  pub insert:    InsertConfig,
   #[serde(default)]
-  pub dups:    DupsConfig
+  pub dups:      DupsConfig,
+  #[serde(default)]
+  pub dup_stats: DupsStatsConfig
 }
 
 #[derive(Debug, Clone, Deserialize)]
@@ -202,6 +204,33 @@ impl Default for DupsConfig {
 pub enum DupsOutputFormat {
   Text,
   Json
+}
+
+#[derive(Debug, Clone, Deserialize)]
+pub struct DupsStatsConfig {
+  pub mode: DupsStatsMode
+}
+
+impl Default for DupsStatsConfig {
+  fn default() -> Self {
+    Self {
+      mode: DupsStatsMode::Human
+    }
+  }
+}
+
+#[derive(
+  Copy,
+  Clone,
+  Debug,
+  Deserialize,
+  PartialEq,
+  Eq,
+  ValueEnum,
+)]
+pub enum DupsStatsMode {
+  Human,
+  Machine
 }
 
 pub fn load(
