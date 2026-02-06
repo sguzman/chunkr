@@ -127,4 +127,4 @@ output = "json"
 threads = 8
 
 [dup_stats]
-mode = "human"
+mode = "Human"
