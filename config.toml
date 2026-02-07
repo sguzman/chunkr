@@ -152,4 +152,4 @@ mode = "human"
 
 [dedup]
 min_size = 1024
-dry_run = false
+dry_run = true
