@@ -151,7 +151,7 @@ threads = 8
 hash_algorithm = "xxhash64"
 
 [dup_stats]
-mode = "Human"
+mode = "human"
 
 [dedup]
 min_size = 1024
