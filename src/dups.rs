@@ -30,8 +30,12 @@ use walkdir::{
   DirEntry,
   WalkDir
 };
+use xxhash_rust::xxh3::Xxh3;
 
-use crate::config::DupsOutputFormat;
+use crate::config::{
+  DupsOutputFormat,
+  HashAlgorithm
+};
 
 #[derive(Debug, Args)]
 pub struct DupsArgs {
@@ -64,6 +68,11 @@ pub struct DupsArgs {
   #[arg(long, default_value_t = 0)]
   pub threads: usize,
 
+  /// Hash algorithm for duplicate
+  /// fingerprints
+  #[arg(long, value_enum)]
+  pub hash: Option<HashAlgorithm>,
+
   /// Minimum file size in bytes
   #[arg(long, default_value_t = 0)]
   pub min_size: u64,
@@ -71,7 +80,8 @@ pub struct DupsArgs {
   /// Include Calibre sidecar files
   /// like metadata.opf/cover.jpg
   #[arg(long, default_value_t = false)]
-  pub include_sidecars: bool
+  pub include_sidecars: bool,
+  pub hash_algorithm:   HashAlgorithm
 }
 
 #[derive(Debug, Clone)]
@@ -82,23 +92,24 @@ pub struct DupsSettings {
   pub follow_symlinks:  bool,
   pub threads:          usize,
   pub min_size:         u64,
-  pub include_sidecars: bool
+  pub include_sidecars: bool,
+  pub hash_algorithm:   HashAlgorithm
 }
 
 #[derive(Debug, Clone, Serialize)]
 struct FileInfo {
-  path:   PathBuf,
-  bytes:  u64,
-  blake3: String
+  path:  PathBuf,
+  bytes: u64,
+  hash:  String
 }
 
 #[derive(
   Debug, Clone, Serialize, Deserialize,
 )]
 pub struct DuplicateGroup {
-  pub bytes:  u64,
-  pub blake3: String,
-  pub files:  Vec<PathBuf>
+  pub bytes: u64,
+  pub hash:  String,
+  pub files: Vec<PathBuf>
 }
 
 pub fn run(
@@ -141,7 +152,12 @@ pub fn run(
     },
     include_sidecars: args
       .include_sidecars
-      || config.dups.include_sidecars
+      || config.dups.include_sidecars,
+    hash_algorithm: args
+      .hash
+      .unwrap_or(
+        config.dups.hash_algorithm
+      )
   };
 
   run_dups(&library_root, &settings)
@@ -212,7 +228,7 @@ pub fn run_dups(
 
   let hashed: Vec<FileInfo> = candidates
         .par_iter()
-        .map(|path| hash_one(path))
+        .map(|path| hash_one(path, settings.hash_algorithm))
         .filter_map(|r| match r {
             Ok(v) => Some(v),
             Err(e) => {
@@ -359,7 +375,8 @@ fn collect_candidates(
 }
 
 fn hash_one(
-  path: &Path
+  path: &Path,
+  algo: HashAlgorithm
 ) -> Result<FileInfo> {
   let md = path
     .metadata()
@@ -371,45 +388,83 @@ fn hash_one(
     })?;
   let bytes = md.len();
 
-  let file = File::open(path)
-    .with_context(|| {
-      format!(
-        "Failed to open {}",
-        path.display()
-      )
-    })?;
-  let mut reader =
-    BufReader::with_capacity(
-      1024 * 1024,
-      file
-    );
-
-  let mut hasher = Hasher::new();
-  let mut buf = vec![0u8; 1024 * 1024];
-
-  loop {
-    let n = reader
-      .read(&mut buf)
-      .with_context(|| {
-        format!(
-          "Failed to read {}",
-          path.display()
-        )
-      })?;
-    if n == 0 {
-      break;
+  let hash = match algo {
+    | HashAlgorithm::Blake3 => {
+      let file = File::open(path)
+        .with_context(|| {
+          format!(
+            "Failed to open {}",
+            path.display()
+          )
+        })?;
+      let mut reader =
+        BufReader::with_capacity(
+          1024 * 1024,
+          file
+        );
+      let mut hasher = Hasher::new();
+      let mut buf =
+        vec![0u8; 1024 * 1024];
+      loop {
+        let n = reader
+          .read(&mut buf)
+          .with_context(|| {
+          format!(
+            "Failed to read {}",
+            path.display()
+          )
+        })?;
+        if n == 0 {
+          break;
+        }
+        hasher.update(&buf[..n]);
+      }
+      hasher
+        .finalize()
+        .to_hex()
+        .to_string()
     }
-    hasher.update(&buf[..n]);
-  }
-
-  let digest = hasher.finalize();
-  let blake3_hex =
-    digest.to_hex().to_string();
+    | HashAlgorithm::XxHash64 => {
+      let file = File::open(path)
+        .with_context(|| {
+          format!(
+            "Failed to open {}",
+            path.display()
+          )
+        })?;
+      let mut reader =
+        BufReader::with_capacity(
+          1024 * 1024,
+          file
+        );
+      let mut hasher = Xxh3::new();
+      let mut buf =
+        vec![0u8; 1024 * 1024];
+      loop {
+        let n = reader
+          .read(&mut buf)
+          .with_context(|| {
+          format!(
+            "Failed to read {}",
+            path.display()
+          )
+        })?;
+        if n == 0 {
+          break;
+        }
+        hasher.update(&buf[..n]);
+      }
+      format!(
+        "{:016x}",
+        hasher.digest()
+      )
+    }
+  };
 
   Ok(FileInfo {
     path: path.to_path_buf(),
     bytes,
-    blake3: blake3_hex
+    hash
   })
 }
 
@@ -423,10 +478,7 @@ fn find_duplicates(
 
   for f in files {
     map
-      .entry((
-        f.bytes,
-        f.blake3.clone()
-      ))
+      .entry((f.bytes, f.hash.clone()))
       .or_default()
       .push(f.path);
   }
@@ -435,15 +487,12 @@ fn find_duplicates(
     map
       .into_iter()
       .filter_map(
-        |(
-          (bytes, blake3),
-          mut paths
-        )| {
+        |((bytes, hash), mut paths)| {
           if paths.len() >= 2 {
             paths.sort();
             Some(DuplicateGroup {
               bytes,
-              blake3,
+              hash,
               files: paths
             })
           } else {
@@ -460,9 +509,7 @@ fn find_duplicates(
       .then_with(|| {
         b.bytes.cmp(&a.bytes)
       })
-      .then_with(|| {
-        a.blake3.cmp(&b.blake3)
-      })
+      .then_with(|| a.hash.cmp(&b.hash))
   });
 
   groups
@@ -476,7 +523,7 @@ fn print_text(
   if groups.is_empty() {
     buf.push_str(
       "No duplicates found (by \
-       full-file BLAKE3 hash).\n"
+       full-file hash).\n"
     );
   } else {
     buf.push_str(&format!(
@@ -488,11 +535,11 @@ fn print_text(
     {
       buf.push_str(&format!(
         "== Group {}: {} files | {} \
-         bytes | blake3 {} ==\n",
+         bytes | hash {} ==\n",
         i + 1,
         g.files.len(),
         g.bytes,
-        g.blake3
+        g.hash
       ));
       for p in &g.files {
         buf.push_str(&format!(

@@ -145,6 +145,7 @@ include_sidecars = false
 min_size = 1024
 output = "json"
 threads = 8
+hash_algorithm = "xxhash64"
 
 [dup_stats]
 mode = "Human"

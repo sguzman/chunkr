@@ -171,7 +171,8 @@ pub struct DupsConfig {
   pub follow_symlinks:  bool,
   pub threads:          usize,
   pub min_size:         u64,
-  pub include_sidecars: bool
+  pub include_sidecars: bool,
+  pub hash_algorithm:   HashAlgorithm
 }
 
 impl Default for DupsConfig {
@@ -190,7 +191,9 @@ impl Default for DupsConfig {
       follow_symlinks:  false,
       threads:          8,
       min_size:         1024,
-      include_sidecars: false
+      include_sidecars: false,
+      hash_algorithm:
+        HashAlgorithm::XxHash64
     }
   }
 }
@@ -236,6 +239,21 @@ impl Default for DupsStatsConfig {
 pub enum DupsStatsMode {
   Human,
   Machine
+}
+
+#[derive(
+  Copy,
+  Clone,
+  Debug,
+  Deserialize,
+  PartialEq,
+  Eq,
+  ValueEnum,
+)]
+#[serde(rename_all = "lowercase")]
+pub enum HashAlgorithm {
+  Blake3,
+  XxHash64
 }
 
 #[derive(
