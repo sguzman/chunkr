@@ -19,6 +19,6 @@ exclude = [
 exclude_path = [
   "docs/migration/.*-DeepWiki.md",
   "examples/",
-  "tests/",
   "new-project/",
+  "tests/",
 ]

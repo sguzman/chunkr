@@ -1,6 +1,9 @@
 # Chunkr
 
-Chunkr is a CLI for extracting text + metadata from Calibre libraries, cleaning and chunking that text, and inserting the resulting chunks into Qdrant and Quickwit. Configuration is centralized in a single TOML file so that all properties, policies, and paths are controlled in one place.
+Chunkr is a CLI for extracting text + metadata from Calibre libraries, cleaning
+and chunking that text, and inserting the resulting chunks into Qdrant and
+Quickwit. Configuration is centralized in a single TOML file so that all
+properties, policies, and paths are controlled in one place.
 
 This README formalizes the intended interface and configuration for the project.
 
@@ -35,7 +38,8 @@ Key behaviors:
 
 ### `chunk`
 
-Cleans, normalizes, and chunks a large corpus of text files into chunked JSONL (or similar) with metadata.
+Cleans, normalizes, and chunks a large corpus of text files into chunked JSONL
+(or similar) with metadata.
 
 Key behaviors:
 
@@ -71,8 +75,8 @@ Key behaviors:
 
 ### `dup-stats`
 
-Consumes a `chunkr dups` JSON report (for example `dups.json`) and sums
-the redundant bytes so you can see how much space duplicates occupy.
+Consumes a `chunkr dups` JSON report (for example `dups.json`) and sums the
+redundant bytes so you can see how much space duplicates occupy.
 
 Key behaviors:
 
@@ -82,7 +86,8 @@ Key behaviors:
 
 ## Configuration
 
-All properties, policies, and paths are set in a single TOML config file. Example:
+All properties, policies, and paths are set in a single TOML config file.
+Example:
 
 ```toml
 [logging]
@@ -248,7 +253,8 @@ chunkr dup-stats --input dups.json
 
 ## Logging
 
-All commands should emit extensive structured logs (start/end, counts, skips, timing, errors). Configure log level via `[logging]`.
+All commands should emit extensive structured logs (start/end, counts, skips,
+timing, errors). Configure log level via `[logging]`.
 
 ## Testing
 

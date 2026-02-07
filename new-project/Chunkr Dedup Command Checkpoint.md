@@ -4,7 +4,8 @@ type: note
 permalink: chunkr-dedup-command-checkpoint
 ---
 
-- **Goal**: Add `dedup` command to manage duplicate files by keeping one representative per group and removing small entries.
+- **Goal**: Add `dedup` command to manage duplicate files by keeping one
+  representative per group and removing small entries.
 - **Established facts**:
   - Chunkr processes CFR docs into structured chunks
   - Existing `dups` command outputs JSON with duplicate groups
@@ -13,11 +14,8 @@ permalink: chunkr-dedup-command-checkpoint
 - **Decisions made**:
   - Use CLI args instead of config for `min-size`
   - Select smallest file in each group to minimize size
-- **Current status**:
-  ✅ All src files summarized as notes
-  ✅ Dedup command design documented
-  ❌ Dedup implementation not written
-  ❌ Dedup tests not created
+- **Current status**: ✅ All src files summarized as notes ✅ Dedup command design
+  documented ❌ Dedup implementation not written ❌ Dedup tests not created
 - **Next 5 actions**:
   1. Implement `dedup.rs` with filtering and selection logic
   2. Write unit tests for dedup's size handling

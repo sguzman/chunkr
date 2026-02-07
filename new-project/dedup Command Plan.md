@@ -4,9 +4,11 @@ type: note
 permalink: dedup-command-plan
 ---
 
-**Purpose**: Reduce duplicate files by keeping one representative per group and filtering small files
-**Key Changes**:
+**Purpose**: Reduce duplicate files by keeping one representative per group and
+filtering small files **Key Changes**:
+
 1. Add new CLI subcommand `dedup` to main.rs:
+
 ```rust
 #[derive(Debug, Subcommand)]
 enum Commands {
@@ -14,19 +16,21 @@ enum Commands {
   Dedup(DedupArgs),
 }
 ```
+
 2. Create `src/dedup.rs` with:
+
 ```rust
 pub struct DedupArgs {
   #[arg(long)]
   pub input: PathBuf,
-  
+
   #[arg(long, default_value_t = 0)]
   pub min_size: u64,
 }
 
 pub fn run(config: &Config, args: &DedupArgs) -> anyhow::Result<()> {
   let groups = read_dups_json(&args.input)?;
-  
+
   let mut cleaned_groups = Vec::new();
   for group in groups {
     // Filter files by min_size
@@ -51,15 +55,19 @@ pub fn run(config: &Config, args: &DedupArgs) -> anyhow::Result<()> {
   write_dups_json(&cleaned_groups, &args.input)
 }
 ```
+
 **Documentation Changes**: Add to `docs/reference/ai/README.md`:
+
 ```markdown
-## dedup
+## Dedup
 Remove duplicate entries by keeping one per group and filtering small files.
 
 ### Usage
 ```
+
 dedup [OPTIONS] DUPS_JSON_FILE
-```
+
+```text
 
 ### Options
 - `--min-size SIZE` Minimum file size in bytes (default: 0)
@@ -68,4 +76,5 @@ Example:
 ```bash
 chunkr dedup dups.json --min-size 1024
 ```
+
 **Config**: No config changes needed - uses CLI arguments for min_size.

@@ -93,10 +93,7 @@ struct FileInfo {
 }
 
 #[derive(
-  Debug,
-  Clone,
-  Serialize,
-  Deserialize,
+  Debug, Clone, Serialize, Deserialize,
 )]
 pub struct DuplicateGroup {
   pub bytes:  u64,
