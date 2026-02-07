@@ -114,23 +114,23 @@ request_timeout_seconds = 120
 
 [calibre]
 library_path = "/drive/calibre/en_nonfiction"
-library_url = "http://127.0.0.1:8081/#en_nonfiction"
-state_path = ""
+library_url  = "http://127.0.0.1:8081/#en_nonfiction"
+state_path   = ""
 
 [calibre.content_server]
-username = "admin"
 password = "admin"
+username = "admin"
 
 [calibre.scoring]
-title_weight = 1
-authors_weight = 1
-publisher_weight = 1
-pubdate_weight = 1
-isbn_weight = 2
+authors_weight     = 1
+comments_weight    = 1
+cover_weight       = 1
 identifiers_weight = 2
-tags_weight = 1
-comments_weight = 1
-cover_weight = 1
+isbn_weight        = 2
+pubdate_weight     = 1
+publisher_weight   = 1
+tags_weight        = 1
+title_weight       = 1
 
 [dups]
 ext = [
@@ -141,15 +141,15 @@ ext = [
   "pdf",
 ]
 follow_symlinks = false
+hash_algorithm = "xxhash64"
 include_sidecars = false
 min_size = 1024
 output = "json"
 threads = 8
-hash_algorithm = "xxhash64"
 
 [dup_stats]
 mode = "human"
 
 [dedup]
+dry_run  = true
 min_size = 1024
-dry_run = true

@@ -72,7 +72,8 @@ Key behaviors:
 - Supports filtering by extension, minimum size, and optional Calibre sidecars.
 - Writes a JSON or plain-text report, either to stdout or a file path.
 - Threading and file selection policies are configured through `[dups]`.
-- Hash algorithm is driven by the `hash_algorithm` config key (`blake3` or `xxhash64`).
+- Hash algorithm is driven by the `hash_algorithm` config key (`blake3` or
+  `xxhash64`).
 
 ### `dup-stats`
 
@@ -91,7 +92,8 @@ Consumes a `chunkr dups` JSON report and deletes redundant copies bucket-wise.
 
 Key behaviors:
 
-- Keeps a single canonical file per group (alphabetically first) and removes the rest.
+- Keeps a single canonical file per group (alphabetically first) and removes the
+  rest.
 - Scores metadata via `[calibre.scoring]` so the richest entry survives.
 - Skips groups whose byte size is below `[dedup].min_size`.
 - Honors `[dedup].dry_run` by default but can be overridden with `--dry-run`.
