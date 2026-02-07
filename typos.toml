@@ -19,6 +19,7 @@ extend-exclude = [
   "target/**",
   "tests/fixtures/**",
   "vendor/**",
+  "new-project/**",
 ]
 
 [default.extend-words]
