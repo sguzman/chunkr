@@ -13,7 +13,11 @@ pub struct Config {
   #[serde(default)]
   pub dups:      DupsConfig,
   #[serde(default)]
-  pub dup_stats: DupsStatsConfig
+  pub dup_stats: DupsStatsConfig,
+  #[serde(default)]
+  pub calibre:   CalibreConfig,
+  #[serde(default)]
+  pub dedup:     DupsDedupConfig
 }
 
 #[derive(Debug, Clone, Deserialize)]
@@ -228,9 +232,76 @@ impl Default for DupsStatsConfig {
   Eq,
   ValueEnum,
 )]
+#[serde(rename_all = "lowercase")]
 pub enum DupsStatsMode {
   Human,
   Machine
+}
+
+#[derive(
+  Default, Debug, Clone, Deserialize,
+)]
+pub struct CalibreConfig {
+  pub library_path:   Option<PathBuf>,
+  pub library_url:    Option<String>,
+  pub state_path:     Option<PathBuf>,
+  #[serde(default)]
+  pub content_server:
+    ContentServerConfig,
+  #[serde(default)]
+  pub scoring:        ScoringConfig
+}
+
+#[derive(
+  Default, Debug, Clone, Deserialize,
+)]
+pub struct ContentServerConfig {
+  pub username: Option<String>,
+  pub password: Option<String>
+}
+
+#[derive(Debug, Clone, Deserialize)]
+pub struct ScoringConfig {
+  pub title_weight:       i32,
+  pub authors_weight:     i32,
+  pub publisher_weight:   i32,
+  pub pubdate_weight:     i32,
+  pub isbn_weight:        i32,
+  pub identifiers_weight: i32,
+  pub tags_weight:        i32,
+  pub comments_weight:    i32,
+  pub cover_weight:       i32
+}
+
+impl Default for ScoringConfig {
+  fn default() -> Self {
+    Self {
+      title_weight:       1,
+      authors_weight:     1,
+      publisher_weight:   1,
+      pubdate_weight:     1,
+      isbn_weight:        2,
+      identifiers_weight: 2,
+      tags_weight:        1,
+      comments_weight:    1,
+      cover_weight:       1
+    }
+  }
+}
+
+#[derive(Debug, Clone, Deserialize)]
+pub struct DupsDedupConfig {
+  pub min_size: u64,
+  pub dry_run:  bool
+}
+
+impl Default for DupsDedupConfig {
+  fn default() -> Self {
+    Self {
+      min_size: 1024,
+      dry_run:  false
+    }
+  }
 }
 
 pub fn load(

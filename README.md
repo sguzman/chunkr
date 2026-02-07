@@ -84,6 +84,17 @@ Key behaviors:
 - Prints a pretty human report by default or JSON when `--mode machine`.
 - Observes the `[dup_stats]` config section for default mode and verbosity.
 
+### `dedup`
+
+Consumes a `chunkr dups` JSON report and deletes redundant copies bucket-wise.
+
+Key behaviors:
+
+- Keeps a single canonical file per group (alphabetically first) and removes the rest.
+- Scores metadata via `[calibre.scoring]` so the richest entry survives.
+- Skips groups whose byte size is below `[dedup].min_size`.
+- Honors `[dedup].dry_run` by default but can be overridden with `--dry-run`.
+
 ## Configuration
 
 All properties, policies, and paths are set in a single TOML config file.
@@ -203,8 +214,32 @@ global_max_concurrency = 16
 request_batch_size = 8
 cache_max_entries = 50000
 
+[calibre]
+library_path = "/drive/calibre/en_nonfiction"
+library_url = "http://127.0.0.1:8081/#en_nonfiction"
+state_path = ""
+
+[calibre.content_server]
+username = "admin"
+password = "admin"
+
+[calibre.scoring]
+title_weight = 1
+authors_weight = 1
+publisher_weight = 1
+pubdate_weight = 1
+isbn_weight = 2
+identifiers_weight = 2
+tags_weight = 1
+comments_weight = 1
+cover_weight = 1
+
 [dup_stats]
 mode = "human"
+
+[dedup]
+min_size = 1024
+dry_run = true
 
 [dups]
 output = "json"
@@ -238,6 +273,9 @@ chunkr insert --config /path/to/config.toml
 
 # Scan for duplicates (writes JSON report)
 chunkr dups --config /path/to/config.toml
+
+# Delete redundant copies (dry-run first)
+chunkr dedup --input dups.json
 
 # Estimate duplicate waste from a report
 chunkr dup-stats --input dups.json

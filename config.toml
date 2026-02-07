@@ -112,6 +112,26 @@ provider                = "ollama"
 request_batch_size      = 8
 request_timeout_seconds = 120
 
+[calibre]
+library_path = "/drive/calibre/en_nonfiction"
+library_url = "http://127.0.0.1:8081/#en_nonfiction"
+state_path = ""
+
+[calibre.content_server]
+username = "admin"
+password = "admin"
+
+[calibre.scoring]
+title_weight = 1
+authors_weight = 1
+publisher_weight = 1
+pubdate_weight = 1
+isbn_weight = 2
+identifiers_weight = 2
+tags_weight = 1
+comments_weight = 1
+cover_weight = 1
+
 [dups]
 ext = [
   "azw3",
@@ -128,3 +148,7 @@ threads = 8
 
 [dup_stats]
 mode = "Human"
+
+[dedup]
+min_size = 1024
+dry_run = false

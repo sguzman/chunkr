@@ -3,6 +3,7 @@ use std::path::PathBuf;
 use chunkr::{
   chunk,
   config,
+  dedup,
   dup_stats,
   dups,
   extract,
@@ -38,7 +39,8 @@ enum Commands {
   Chunk,
   Insert,
   Dups(dups::DupsArgs),
-  DupStats(dup_stats::DupStatsArgs)
+  DupStats(dup_stats::DupStatsArgs),
+  Dedup(dedup::DedupArgs)
 }
 
 #[tokio::main]
@@ -63,6 +65,9 @@ async fn main() -> anyhow::Result<()> {
     }
     | Commands::DupStats(args) => {
       dup_stats::run(&config, &args)?
+    }
+    | Commands::Dedup(args) => {
+      dedup::run(&config, &args)?
     }
   }
 

@@ -1,5 +1,7 @@
+pub mod calibre_metadata;
 pub mod chunk;
 pub mod config;
+pub mod dedup;
 pub mod dup_stats;
 pub mod dups;
 pub mod extract;
