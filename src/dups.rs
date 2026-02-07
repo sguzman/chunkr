@@ -68,11 +68,6 @@ pub struct DupsArgs {
   #[arg(long, default_value_t = 0)]
   pub threads: usize,
 
-  /// Hash algorithm for duplicate
-  /// fingerprints
-  #[arg(long, value_enum)]
-  pub hash: Option<HashAlgorithm>,
-
   /// Minimum file size in bytes
   #[arg(long, default_value_t = 0)]
   pub min_size: u64,
@@ -153,11 +148,9 @@ pub fn run(
     include_sidecars: args
       .include_sidecars
       || config.dups.include_sidecars,
-    hash_algorithm: args
-      .hash
-      .unwrap_or(
-        config.dups.hash_algorithm
-      )
+    hash_algorithm: config
+      .dups
+      .hash_algorithm
   };
 
   run_dups(&library_root, &settings)

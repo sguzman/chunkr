@@ -72,7 +72,7 @@ Key behaviors:
 - Supports filtering by extension, minimum size, and optional Calibre sidecars.
 - Writes a JSON or plain-text report, either to stdout or a file path.
 - Threading and file selection policies are configured through `[dups]`.
-- Supports `--hash` to choose the fingerprint algorithm (`blake3` or `xxhash64`) and the config key `hash_algorithm`.
+- Hash algorithm is driven by the `hash_algorithm` config key (`blake3` or `xxhash64`).
 
 ### `dup-stats`
 
