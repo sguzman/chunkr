@@ -75,8 +75,7 @@ pub struct DupsArgs {
   /// Include Calibre sidecar files
   /// like metadata.opf/cover.jpg
   #[arg(long, default_value_t = false)]
-  pub include_sidecars: bool,
-  pub hash_algorithm:   HashAlgorithm
+  pub include_sidecars: bool
 }
 
 #[derive(Debug, Clone)]
