@@ -139,6 +139,7 @@ ext = [
   "epub",
   "mobi",
   "pdf",
+  "txt"
 ]
 follow_symlinks = false
 hash_algorithm = "xxhash64"
