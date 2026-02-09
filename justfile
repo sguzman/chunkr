@@ -58,6 +58,7 @@ build:
 fmt:
 	cargo fmt
 	taplo fmt
+	stylua .
 	biome check --write .
 	rumdl fmt .
 
@@ -134,6 +135,7 @@ coverage-html:
 fmt-check:
 	cargo fmt --check
 	taplo fmt --check
+	stylua --check .
 	biome check .
 	rumdl check .
 

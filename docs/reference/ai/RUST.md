@@ -14,7 +14,7 @@ If the build fails, fix the issues until it compiles.
 
 ### 2. SemVer Discipline (required)
 
-Changes must respect the release policy in `docs/RELEASE.md`.
+Changes must respect the release policy in `docs/reference/RELEASE.md`.
 
 - Use Conventional Commits (`feat:`, `fix:`, `docs:`, `refactor:`, `perf:`,
   `test:`, `chore:`, `build:`, `ci:`).
@@ -34,7 +34,7 @@ After completing a coherent, working change:
 
 ### 4. Post-Change Checks Are Manual (required)
 
-See `docs/ai/POST-CHANGES.md` for the manual checklist and script.
+See `docs/reference/ai/POST-CHANGES.md` for the manual checklist and script.
 
 ### 5. Refactor Oversized Rust Files into Modules (required)
 

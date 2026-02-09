@@ -3,7 +3,7 @@
 Run these commands after a change is completed and confirmed to compile. Run
 from the repo root.
 
-Prereqs: `taplo` and `biome` must be installed.
+Prereqs: `taplo`, `stylua`, and `biome` must be installed.
 
 ## Script
 
@@ -16,6 +16,10 @@ Prereqs: `taplo` and `biome` must be installed.
 ## Format TOML
 
 - `taplo fmt`
+
+## Format Lua (StyLua)
+
+- `stylua .`
 
 ## Validate TOML
 

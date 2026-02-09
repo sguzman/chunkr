@@ -304,3 +304,11 @@ timing, errors). Configure log level via `[logging]`.
   loads `test.toml` if present, otherwise `config.toml`.
 - It overrides only the `paths.*` values to use a temp directory, and uses the
   collection/index from the config file. Set those to test-safe values.
+
+## Development Formatting Pipeline
+
+- `just fmt` runs all write-mode formatters: `cargo fmt`, `taplo fmt`,
+  `stylua .`, `biome check --write .`, and `rumdl fmt .`.
+- `just fmt-check` runs all check-mode formatters: `cargo fmt --check`,
+  `taplo fmt --check`, `stylua --check .`, `biome check .`, and `rumdl check .`.
+- StyLua behavior is configured in `stylua.toml`.

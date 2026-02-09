@@ -6,11 +6,11 @@ When adding a new tool to this repo:
 
 - Add the tool to `scripts/post-change.sh` if it is part of
   validation/formatting.
-- Add the tool to `docs/ai/POST-CHANGES.md`.
+- Add the tool to `docs/reference/ai/POST-CHANGES.md`.
 
 2. Update the tooling lists
 
-- Add the tool to the tooling lists in `README.md` and `docs/ai/README.md`.
+- Add the tool to the tooling lists in `README.md` and `docs/reference/ai/README.md`.
 
 3. Add any required config files
 
@@ -19,7 +19,8 @@ When adding a new tool to this repo:
 
 4. Wire into Justfile
 
-- Add a `just` target for the tool if it is part of routine checks.
+- Add the tool to `fmt`/`fmt-check` if it is part of the formatting pipeline.
+- Add a dedicated `just` target if it is part of routine checks outside the pipeline.
 
 5. Verify build only
 
